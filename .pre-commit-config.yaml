@@ -47,3 +47,4 @@ repos:
         additional_dependencies:
           - types-requests
           - types-retry
+          - types-pytz
