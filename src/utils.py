@@ -5,6 +5,7 @@ from datetime import datetime
 
 import pytz
 import requests
+from retry import retry
 from rich import print
 
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
@@ -20,6 +21,7 @@ def now() -> datetime:
     return now.astimezone(tz)
 
 
+@retry()
 def request_json(url: str) -> typing.Dict:
     """Request the provided URL and return the JSON response as a Python dictionary."""
     print(f"🌐 Requesting JSON from {url}")
