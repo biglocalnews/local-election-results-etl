@@ -20,6 +20,21 @@ Install [pre-commit](https://pre-commit.com/) hooks.
 pipenv run pre-commit install
 ```
 
+Create a `.env` file and fill it with the following Amazon Web Services services, which will authorize you to upload your files to an S3 bucket.
+
+```
+AWS_ACCESS_KEY_ID=
+AWS_ACCESS_KEY_SECRET=
+AWS_REGION=
+AWS_BUCKET=
+```
+
+If you want a common prefix on all objects uploaded to your bucket, add this optional variable.
+
+```
+AWS_PATH_PREFIX=your-prefix/
+```
+
 ## Command pipeline
 
 Download the raw data from the county website.
