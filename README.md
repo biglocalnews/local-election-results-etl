@@ -4,7 +4,7 @@ Extract, transform and load election results posted online by the Los Angeles Co
 
 File | URL
 :--- | :--
-Latest raw | [latest.json](https://raw.githubusercontent.com/biglocalnews/los-angeles-county-election-results-etl/main/data/raw/4269/latest.json)
+Raw | [raw/4269/latest.json](https://raw.githubusercontent.com/biglocalnews/los-angeles-county-election-results-etl/main/data/raw/4269/latest.json)
 
 ## Getting started
 
