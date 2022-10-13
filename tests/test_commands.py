@@ -8,8 +8,10 @@ def test_download():
 
 
 def test_now():
+    """Test the localized timestamp."""
     utils.now()
 
 
 def test_write_json(tmp_path):
+    """Test writing out a JSON dict."""
     utils.write_json({}, tmp_path / "test.json")
