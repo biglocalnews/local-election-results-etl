@@ -52,9 +52,16 @@ def get_s3_client():
 
 def upload_to_s3(path: pathlib.Path, object_name: str):
     """Upload the provided file path as the provided object_name."""
+    # Create client
     client = get_s3_client()
+
+    # Get bucket
     bucket = os.getenv("AWS_BUCKET")
+
+    # Log out
     print(f"Uploading {path} to {bucket}")
+
+    # Upload it with our favored options
     extra_args = {"ACL": "public-read", "ContentType": "application/json"}
     client.upload_file(
         str(path), bucket, object_name=object_name, extra_args=extra_args
