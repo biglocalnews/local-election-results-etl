@@ -25,5 +25,5 @@ pipenv run pre-commit install
 Download the raw data from the county website.
 
 ```bash
-pipenv run python -m src.download
+pipenv run python src/download.py
 ```
