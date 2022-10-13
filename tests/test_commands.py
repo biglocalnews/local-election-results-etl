@@ -1,7 +1,7 @@
-from src import download
+from src import utils
 
 
 def test_download(tmpdir):
     """Test downloading."""
     url = "https://results.lavote.gov/electionresults/json?electionid=4269"
-    download._request_json(url)
+    utils.request_json(url)
