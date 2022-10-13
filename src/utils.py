@@ -1,10 +1,13 @@
 import json
+import os
 import pathlib
 import typing
 from datetime import datetime
 
+import boto3
 import pytz
 import requests
+from boto3.s3.transfer import S3Transfer
 from retry import retry
 from rich import print
 
@@ -35,3 +38,24 @@ def write_json(data: typing.Dict, path: pathlib.Path, indent: int = 2):
     print(f"✏️ Writing JSON to {path}")
     path.parent.mkdir(parents=True, exist_ok=True)
     json.dump(data, open(path, "w"), indent=indent)
+
+
+def get_s3_client():
+    """Return a transfer client ready to upload files to an s3 bucket."""
+    credentials = {
+        "aws_access_key_id": os.getenv("AWS_ACCESS_KEY_ID"),
+        "aws_secret_access_key": os.getenv("AWS_ACCESS_KEY_SECRET"),
+    }
+    client = boto3.client("s3", os.getenv("AWS_REGION"), **credentials)
+    return S3Transfer(client)
+
+
+def upload_to_s3(path: pathlib.Path, object_name: str):
+    """Upload the provided file path as the provided object_name."""
+    client = get_s3_client()
+    bucket = os.getenv("AWS_BUCKET")
+    print(f"Uploading {path} to {bucket}")
+    extra_args = {"ACL": "public-read", "ContentType": "application/json"}
+    client.upload_file(
+        str(path), bucket, object_name=object_name, extra_args=extra_args
+    )
