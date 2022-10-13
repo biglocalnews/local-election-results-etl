@@ -7,3 +7,9 @@ Clone the repository and move into your code directory. Install the Python depen
 ```bash
 pipenv install --dev
 ```
+
+Install [pre-commit](https://pre-commit.com/) hooks.
+
+```bash
+pipenv run pre-commit install
+```
