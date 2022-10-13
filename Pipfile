@@ -16,6 +16,9 @@ pytest = "*"
 twine = "*"
 
 [packages]
+click = "*"
+boto3 = "*"
+rich = "*"
 
 [requires]
 python_version = "3.9"
