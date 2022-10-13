@@ -56,10 +56,9 @@ def upload_to_s3(path: pathlib.Path, object_name: str):
     print(f"Uploading {path} to {bucket} as {object_name}")
 
     # Upload it with our favored options
-    extra_args = {"ACL": "public-read", "ContentType": "application/json"}
     client.upload_file(
         str(path),
         bucket,
-        "vgp-general-election-results-2022/data/test.json",
-        ExtraArgs=extra_args,
+        object_name,
+        ExtraArgs={"ContentType": "application/json"},
     )
