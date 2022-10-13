@@ -58,11 +58,14 @@ def upload_to_s3(path: pathlib.Path, object_name: str):
     # Get bucket
     bucket = os.getenv("AWS_BUCKET")
 
+    # If there's a path prefix, tack it on
+    path_prefix = os.getenv("AWS_PATH_PREFIX")
+    if path_prefix:
+        object_name = path_prefix + object_name
+
     # Log out
-    print(f"Uploading {path} to {bucket}")
+    print(f"Uploading {path} to {bucket} as {object_name}")
 
     # Upload it with our favored options
     extra_args = {"ACL": "public-read", "ContentType": "application/json"}
-    client.upload_file(
-        str(path), bucket, object_name=object_name, extra_args=extra_args
-    )
+    client.upload_file(str(path), bucket, object_name, extra_args=extra_args)

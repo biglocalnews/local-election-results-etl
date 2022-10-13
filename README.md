@@ -27,3 +27,9 @@ Download the raw data from the county website.
 ```bash
 pipenv run python src/download.py
 ```
+
+Upload data to the Amazon S3 bucket.
+
+```bash
+pipenv run python src/upload.py
+```
