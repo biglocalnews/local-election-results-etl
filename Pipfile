@@ -19,6 +19,7 @@ twine = "*"
 click = "*"
 boto3 = "*"
 rich = "*"
+retry = "*"
 
 [requires]
 python_version = "3.9"
