@@ -32,4 +32,5 @@ def request_json(url: str) -> typing.Dict:
 
 def write_json(data: typing.Dict, path: pathlib.Path, indent: int = 2):
     print(f"✏️ Writing JSON to {path}")
+    path.parent.mkdir(parents=True, exist_ok=True)
     json.dump(data, open(path, "w"), indent=indent)
