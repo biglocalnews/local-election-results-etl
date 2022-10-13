@@ -7,7 +7,6 @@ from datetime import datetime
 import boto3
 import pytz
 import requests
-from boto3.s3.transfer import S3Transfer
 from retry import retry
 from rich import print
 
@@ -40,20 +39,10 @@ def write_json(data: typing.Dict, path: pathlib.Path, indent: int = 2):
     json.dump(data, open(path, "w"), indent=indent)
 
 
-def get_s3_client():
-    """Return a transfer client ready to upload files to an s3 bucket."""
-    credentials = {
-        "aws_access_key_id": os.getenv("AWS_ACCESS_KEY_ID"),
-        "aws_secret_access_key": os.getenv("AWS_ACCESS_KEY_SECRET"),
-    }
-    client = boto3.client("s3", os.getenv("AWS_REGION"), **credentials)
-    return S3Transfer(client)
-
-
 def upload_to_s3(path: pathlib.Path, object_name: str):
     """Upload the provided file path as the provided object_name."""
     # Create client
-    client = get_s3_client()
+    client = boto3.client("s3")
 
     # Get bucket
     bucket = os.getenv("AWS_BUCKET")
@@ -68,4 +57,9 @@ def upload_to_s3(path: pathlib.Path, object_name: str):
 
     # Upload it with our favored options
     extra_args = {"ACL": "public-read", "ContentType": "application/json"}
-    client.upload_file(str(path), bucket, object_name, extra_args=extra_args)
+    client.upload_file(
+        str(path),
+        bucket,
+        "vgp-general-election-results-2022/data/test.json",
+        ExtraArgs=extra_args,
+    )
