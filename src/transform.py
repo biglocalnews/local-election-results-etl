@@ -1,8 +1,12 @@
+import csv
 import json
+import pathlib
 
 import click
 
 import utils
+
+THIS_DIR = pathlib.Path(__file__).parent.absolute()
 
 
 @click.command()
@@ -11,6 +15,10 @@ def cli(electionid=4269):
     # Read in the raw file
     raw_path = utils.RAW_DATA_DIR / str(electionid) / "latest.json"
     raw_data = json.load(open(raw_path))
+
+    # Read in the contest corrections
+    correx_list = list(csv.DictReader(open(THIS_DIR / "data/contests.csv")))
+    correx_lookup = {d["raw_name"]: d for d in correx_list}
 
     # Flatten the list
     transformed_list = {
@@ -21,6 +29,23 @@ def cli(electionid=4269):
     for contestgroup in raw_data["Election"]["ContestGroups"]:
         contest_list = contestgroup["Contests"]
         for contest in contest_list:
+            # Pull any corrections
+            try:
+                correx = correx_lookup[contest["Title"]]
+            except KeyError:
+                # For now we will let it run when there are errors.
+                # We should consider removing this once we have a real feed
+                continue
+
+            # If we're excluding this record, skip out now
+            if correx["include"].lower() == "no":
+                continue
+
+            # Apply corrections
+            contest["Title"] = correx["clean_name"]
+            contest["geography"] = correx["clean_geography"]
+
+            # Add to our master list
             transformed_list["races"].append(contest)
 
     # Write out a timestamped file

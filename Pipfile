@@ -16,6 +16,9 @@ flake8-docstrings = "*"
 setuptools-scm = "*"
 pytest = "*"
 twine = "*"
+jupyterlab = "*"
+pdfplumber = "*"
+pandas = "*"
 
 [packages]
 click = "*"
