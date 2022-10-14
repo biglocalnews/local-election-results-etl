@@ -14,6 +14,7 @@ THIS_DIR = pathlib.Path(__file__).parent.absolute()
 ROOT_DIR = THIS_DIR.parent
 DATA_DIR = ROOT_DIR / "data"
 RAW_DATA_DIR = DATA_DIR / "raw"
+TRANSFORMED_DATA_DIR = DATA_DIR / "transformed"
 
 
 def now() -> datetime:
