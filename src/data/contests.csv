@@ -1,0 +1,473 @@
+raw_id,raw_name,include,clean_geography,clean_name
+8712,UNITED STATES SENATOR - Full Term,No,United States,U.S. Senator
+8780,"UNITED STATES SENATOR - Short Term (Unexpired term ending January 3, 2023)",No,United States,U.S. Senator
+8780,"UNITED STATES SENATOR - Short Term (Unexpired term ending January 3, 2023)",No,United States,U.S. Senator
+8745,"UNITED STATES REPRESENTATIVE, 23rd District",No,United States,"U.S. Representative, 23rd District"
+8746,"UNITED STATES REPRESENTATIVE, 26th District",No,United States,"U.S. Representative, 26th District"
+8747,"UNITED STATES REPRESENTATIVE, 27th District",No,United States,"U.S. Representative, 27th District"
+8748,"UNITED STATES REPRESENTATIVE, 28th District",No,United States,"U.S. Representative, 28th District"
+8749,"UNITED STATES REPRESENTATIVE, 29th District",No,United States,"U.S. Representative, 29th District"
+8750,"UNITED STATES REPRESENTATIVE, 30th District",No,United States,"U.S. Representative, 30th District"
+8750,"UNITED STATES REPRESENTATIVE, 30th District",No,United States,"U.S. Representative, 30th District"
+8751,"UNITED STATES REPRESENTATIVE, 31st District",No,United States,"U.S. Representative, 31st District"
+8752,"UNITED STATES REPRESENTATIVE, 32nd District",No,United States,"U.S. Representative, 32nd District"
+8752,"UNITED STATES REPRESENTATIVE, 32nd District",No,United States,"U.S. Representative, 32nd District"
+8753,"UNITED STATES REPRESENTATIVE, 34th District",No,United States,"U.S. Representative, 34th District"
+8754,"UNITED STATES REPRESENTATIVE, 35th District",No,United States,"U.S. Representative, 35th District"
+8754,"UNITED STATES REPRESENTATIVE, 35th District",No,United States,"U.S. Representative, 35th District"
+8755,"UNITED STATES REPRESENTATIVE, 36th District",No,United States,"U.S. Representative, 36th District"
+8756,"UNITED STATES REPRESENTATIVE, 37th District",No,United States,"U.S. Representative, 37th District"
+8757,"UNITED STATES REPRESENTATIVE, 38th District",No,United States,"U.S. Representative, 38th District"
+8758,"UNITED STATES REPRESENTATIVE, 42nd District",No,United States,"U.S. Representative, 42nd District"
+8758,"UNITED STATES REPRESENTATIVE, 42nd District",No,United States,"U.S. Representative, 42nd District"
+8759,"UNITED STATES REPRESENTATIVE, 43rd District",No,United States,"U.S. Representative, 43rd District"
+8760,"UNITED STATES REPRESENTATIVE, 44th District",No,United States,"U.S. Representative, 44th District"
+8761,"UNITED STATES REPRESENTATIVE, 45th District",No,United States,"U.S. Representative, 45th District"
+8713,"STATE SENATOR, 20th District",No,California,"State Senator, 20th District"
+8714,"STATE SENATOR, 22nd District",No,California,"State Senator, 22nd District"
+8715,"STATE SENATOR, 24th District",No,California,"State Senator, 24th District"
+8715,"STATE SENATOR, 24th District",No,California,"State Senator, 24th District"
+8716,"STATE SENATOR, 26th District",No,California,"State Senator, 26th District"
+8717,"STATE SENATOR, 28th District",No,California,"State Senator, 28th District"
+8718,"STATE SENATOR, 30th District",No,California,"State Senator, 30th District"
+8719,"STATE SENATOR, 34th District",No,California,"State Senator, 34th District"
+8719,"STATE SENATOR, 34th District",No,California,"State Senator, 34th District"
+8720,"STATE SENATOR, 36th District",No,California,"State Senator, 36th District"
+8721,"MEMBER OF THE STATE ASSEMBLY, 34th District",No,California,"State Assembly, 34th District"
+8722,"MEMBER OF THE STATE ASSEMBLY, 39th District",No,California,"State Assembly, 39th District"
+8723,"MEMBER OF THE STATE ASSEMBLY, 40th District",No,California,"State Assembly, 40th District"
+8723,"MEMBER OF THE STATE ASSEMBLY, 40th District",No,California,"State Assembly, 40th District"
+8724,"MEMBER OF THE STATE ASSEMBLY, 41st District",No,California,"State Assembly, 41st District"
+8725,"MEMBER OF THE STATE ASSEMBLY, 42nd District",No,California,"State Assembly, 42nd District"
+8726,"MEMBER OF THE STATE ASSEMBLY, 43rd District",No,California,"State Assembly, 43rd District"
+8727,"MEMBER OF THE STATE ASSEMBLY, 44th District",No,California,"State Assembly, 44th District"
+8728,"MEMBER OF THE STATE ASSEMBLY, 46th District",No,California,"State Assembly, 46th District"
+8729,"MEMBER OF THE STATE ASSEMBLY, 48th District",No,California,"State Assembly,  48th District"
+8730,"MEMBER OF THE STATE ASSEMBLY, 49th District",No,California,"State Assembly, 49th District"
+8731,"MEMBER OF THE STATE ASSEMBLY, 51st District",No,California,"State Assembly, 51st District"
+8732,"MEMBER OF THE STATE ASSEMBLY, 52nd District",No,California,"State Assembly, 52nd District"
+8733,"MEMBER OF THE STATE ASSEMBLY, 53rd District",No,California,"State Assembly, 53rd District"
+8733,"MEMBER OF THE STATE ASSEMBLY, 53rd District",No,California,"State Assembly, 53rd District"
+8734,"MEMBER OF THE STATE ASSEMBLY, 54th District",No,California,"State Assembly, 54th District"
+8735,"MEMBER OF THE STATE ASSEMBLY, 55th District",No,California,"State Assembly, 55th District"
+8736,"MEMBER OF THE STATE ASSEMBLY, 56th District",No,California,"State Assembly, 56th District"
+8737,"MEMBER OF THE STATE ASSEMBLY, 57th District",No,California,"State Assembly, 57th District"
+8738,"MEMBER OF THE STATE ASSEMBLY, 61st District",No,California,"State Assembly, 61st District"
+8739,"MEMBER OF THE STATE ASSEMBLY, 62nd District",No,California,"State Assembly, 62nd District"
+8739,"MEMBER OF THE STATE ASSEMBLY, 62nd District",No,California,"State Assembly, 62nd District"
+8740,"MEMBER OF THE STATE ASSEMBLY, 64th District",No,California,"State Assembly, 64th District"
+8741,"MEMBER OF THE STATE ASSEMBLY, 65th District",No,California,"State Assembly, 65th District"
+8741,"MEMBER OF THE STATE ASSEMBLY, 65th District",No,California,"State Assembly, 65th District"
+8742,"MEMBER OF THE STATE ASSEMBLY, 66th District",No,California,"State Assembly, 66th District"
+8743,"MEMBER OF THE STATE ASSEMBLY, 67th District",No,California,"State Assembly, 67th District"
+8744,"MEMBER OF THE STATE ASSEMBLY, 69th District",No,California,"State Assembly, 69th District"
+8559,AGOURA HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Agoura Hills,City Council
+8559,AGOURA HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Agoura Hills,City Council
+8650,"ALHAMBRA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, First District",Yes,Alhambra,"City Council, 1st District"
+8692,"ALHAMBRA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, Second District",Yes,Alhambra,"City Council, 2nd District"
+8693,"ALHAMBRA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, Fifth District",Yes,Alhambra,"City Council, 5th District"
+8629,"ARCADIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Arcadia,"City Council, 2nd District"
+8629,"ARCADIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Arcadia,"City Council, 2nd District"
+8630,"ARCADIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Arcadia,"City Council, 3rd District"
+8631,"ARCADIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Arcadia,"City Council, 5th District"
+8631,"ARCADIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Arcadia,"City Council, 5th District"
+8560,ARTESIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Artesia,City Council
+8560,ARTESIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Artesia,City Council
+8671,AZUSA CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Azusa,City Clerk
+8672,AZUSA CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Azusa,City Treasurer
+8562,AZUSA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Azusa,City Council
+8562,AZUSA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Azusa,City Council
+8561,AZUSA CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Azusa,Mayor
+8694,"AZUSA CITY GENERAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending November 12, 2024)",Yes,Azusa,"City Council (Unexpired term ending November 12, 2024)"
+8694,"AZUSA CITY GENERAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending November 12, 2024)",Yes,Azusa,"City Council (Unexpired term ending November 12, 2024)"
+8564,BALDWIN PARK CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Baldwin Park,City Clerk
+8566,BALDWIN PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Baldwin Park,the City Council
+8566,BALDWIN PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Baldwin Park,the City Council
+8563,BALDWIN PARK CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Baldwin Park,Mayor
+8565,BALDWIN PARK CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Baldwin Park,City Treasurer
+8874,BELL GARDENS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Bell Gardens,City Council
+8874,BELL GARDENS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Bell Gardens,City Council
+8633,"BELLFLOWER CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Bellflower,"City Council, 1st District"
+8633,"BELLFLOWER CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Bellflower,"City Council, 1st District"
+8635,"BELLFLOWER CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Bellflower,"City Council, 5th District"
+8636,BURBANK CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Burbank,City Clerk
+8636,BURBANK CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Burbank,City Clerk
+8637,BURBANK CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Burbank,City Treasurer
+8638,BURBANK CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Burbank,City Council
+8638,BURBANK CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Burbank,City Council
+8567,CALABASAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Calabasas,City Council
+8567,CALABASAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Calabasas,City Council
+8639,CARSON CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Carson,City Clerk
+8639,CARSON CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Carson,City Clerk
+8640,CARSON CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Carson,City Treasurer
+8641,"CARSON CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Carson,"City Council, 2nd District"
+8641,"CARSON CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Carson,"City Council, 2nd District"
+8642,"CARSON CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Carson,"City Council, 4th District"
+8643,"CLAREMONT CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Claremont,"City Council, 2nd District"
+8643,"CLAREMONT CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Claremont,"City Council, 2nd District"
+8644,"CLAREMONT CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Claremont,"City Council, 3rd District"
+8645,"CLAREMONT CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Claremont,"City Council, 4th District"
+8568,CUDAHY CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Cudahy,City Council
+8569,CULVER CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Culver City,City Council
+8569,CULVER CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Culver City,City Council
+8646,"DIAMOND BAR CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Diamond Bar,"City Council, 1st District"
+8646,"DIAMOND BAR CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Diamond Bar,"City Council, 1st District"
+8647,"DIAMOND BAR CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Diamond Bar,"City Council, 3rd District"
+8648,"DIAMOND BAR CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Diamond Bar,"City Council, 4th District"
+8648,"DIAMOND BAR CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Diamond Bar,"City Council, 4th District"
+8572,"DOWNEY CITY GENERAL MUNICIPAL ELECTION Council Member, District 002",Yes,Downey,"City Council, District 2"
+8574,"DOWNEY CITY GENERAL MUNICIPAL ELECTION Council Member, District 004",Yes,Downey,"City Council, District 4"
+8574,"DOWNEY CITY GENERAL MUNICIPAL ELECTION Council Member, District 004",Yes,Downey,"City Council, District 4"
+8575,"DUARTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Duarte,"City Council, 1st District"
+8573,"DUARTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Duarte,"City Council, 4th District"
+8573,"DUARTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Duarte,"City Council, 4th District"
+8576,"DUARTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Duarte,"City Council, 5th District"
+8577,"DUARTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 6th District",Yes,Duarte,"City Council, 6th District"
+8673,"EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,El Monte,"City Council, 2nd District"
+8674,"EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,El Monte,"City Council, 3rd District"
+8675,"EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,El Monte,"City Council, 5th District"
+8675,"EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,El Monte,"City Council, 5th District"
+8676,"EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 6th District",Yes,El Monte,"City Council, 6th District"
+8579,EL MONTE CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,El Monte,City Clerk
+8579,EL MONTE CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,El Monte,City Clerk
+8578,EL MONTE CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,El Monte,Mayor
+8580,EL MONTE CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,El Monte,City Treasurer
+8580,EL MONTE CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,El Monte,City Treasurer
+8570,EL SEGUNDO CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,El Segundo,City Council
+8677,"HAWAIIAN GARDENS CITY GENERAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending November 5, 2024)",Yes,Hawaiian Gardens,"City Council (Unexpired term ending November 5, 2024)"
+8677,"HAWAIIAN GARDENS CITY GENERAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending November 5, 2024)",Yes,Hawaiian Gardens,"City Council (Unexpired term ending November 5, 2024)"
+8678,HAWAIIAN GARDENS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hawaiian Gardens,City Council
+8678,HAWAIIAN GARDENS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hawaiian Gardens,City Council
+8581,HAWTHORNE CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Hawthorne,City Clerk
+8582,HAWTHORNE CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Hawthorne,City Treasurer
+8582,HAWTHORNE CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Hawthorne,City Treasurer
+8583,HAWTHORNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hawthorne,City Council
+8583,HAWTHORNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hawthorne,City Council
+8833,HERMOSA BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hermosa Beach,City Council
+8833,HERMOSA BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hermosa Beach,City Council
+8571,HIDDEN HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hidden Hills,City Council
+8571,HIDDEN HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Hidden Hills,City Council
+8859,"INGLEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Inglewood,"City Council, 1st District"
+8859,"INGLEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Inglewood,"City Council, 1st District"
+8860,"INGLEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Inglewood,"City Council, 2nd District"
+8845,INGLEWOOD CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Inglewood,Mayor
+8584,IRWINDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Irwindale,City Council
+8680,LA PUENTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,La Puente,City Council
+8680,LA PUENTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,La Puente,City Council
+8699,"LA PUENTE CITY SPECIAL MUNICIPAL ELECTION Member of the City Council (Unexpired term ending December 10, 2024)",Yes,La Puente,City Council
+8796,LAWNDALE CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Lawndale,City Clerk
+8796,LAWNDALE CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Lawndale,City Clerk
+8797,LAWNDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Lawndale,City Council
+8795,LAWNDALE CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Lawndale,Mayor
+8795,LAWNDALE CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Lawndale,Mayor
+8708,"LONG BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Long Beach,"City Council, 3rd District"
+8709,"LONG BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Long Beach,"City Council, 5th District"
+8709,"LONG BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Long Beach,"City Council, 5th District"
+8711,"LONG BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 9th District",Yes,Long Beach,"City Council, 9th District"
+8701,LONG BEACH CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Long Beach,Mayor
+8701,LONG BEACH CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Long Beach,Mayor
+8848,LOS ANGELES CITY GENERAL MUNICIPAL ELECTION City Attorney,Yes,Los Angeles,City Attorney
+8849,LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Controller,Yes,Los Angeles,Controller
+8849,LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Controller,Yes,Los Angeles,Controller
+8868,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 11th District",Yes,Los Angeles,"City Council, 11th District"
+8871,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 13th District",Yes,Los Angeles,"City Council, 13th District"
+8871,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 13th District",Yes,Los Angeles,"City Council, 13th District"
+8872,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 15th District",Yes,Los Angeles,"City Council, 15th District"
+8867,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Los Angeles,"City Council, 5th District"
+8867,"LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Los Angeles,"City Council, 5th District"
+8847,LOS ANGELES CITY GENERAL MUNICIPAL ELECTION Mayor,Yes,Los Angeles,Mayor
+8586,LYNWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Lynwood,City Council
+8586,LYNWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Lynwood,City Council
+8587,MALIBU CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Malibu,City Council
+8587,MALIBU CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Malibu,City Council
+8588,MANHATTAN BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Manhattan Beach,City Council
+8588,MANHATTAN BEACH CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Manhattan Beach,City Council
+8700,"MAYWOOD CITY GENERAL MUNICIPAL ELECTION City Clerk (Unexpired term ending December 1, 2024)",Yes,Maywood,"City Clerk (Unexpired term ending December 1, 2024)"
+8589,MAYWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Maywood,City Council
+8840,MONTEBELLO CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Montebello,City Treasurer
+8801,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District (Unexpired term ending November 5, 2024)",Yes,Montebello,"City Council, 2nd District (Unexpired term ending November 5, 2024)"
+8802,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District (Unexpired term ending November 5, 2024)",Yes,Montebello,"City Council, 4th District (Unexpired term ending November 5, 2024)"
+8802,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District (Unexpired term ending November 5, 2024)",Yes,Montebello,"City Council, 4th District (Unexpired term ending November 5, 2024)"
+8798,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Montebello,"City Council, 1st District"
+8799,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Montebello,"City Council, 3rd District"
+8800,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Montebello,"City Council, 5th District"
+8800,"MONTEBELLO CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Montebello,"City Council, 5th District"
+8695,MONTEREY PARK CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Monterey Park,City Clerk
+8696,MONTEREY PARK CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Monterey Park,City Treasurer
+8696,MONTEREY PARK CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Monterey Park,City Treasurer
+8689,"MONTEREY PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",Yes,Monterey Park,"City Council, 1st District"
+8690,"MONTEREY PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Monterey Park,"City Council, 5th District"
+8690,"MONTEREY PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Monterey Park,"City Council, 5th District"
+8697,"MONTEREY PARK CITY SPECIAL MUNICIPAL ELECTION Member of the City Council, 3rd District (Unexpired term ending November 5, 2024)",Yes,Monterey Park,"City Council, 3rd District (Unexpired term ending November 5, 2024)"
+8590,NORWALK CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Norwalk,City Council
+8590,NORWALK CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Norwalk,City Council
+8591,"PALMDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Palmdale,"City Council, 3rd District"
+8591,"PALMDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Palmdale,"City Council, 3rd District"
+8592,"PALMDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,Palmdale,"City Council, 4th District"
+8593,"PALMDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Palmdale,"City Council, 5th District"
+8593,"PALMDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Palmdale,"City Council, 5th District"
+8594,PALOS VERDES ESTATES CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Palos Verdes,City Council
+8594,PALOS VERDES ESTATES CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Palos Verdes,City Council
+8595,PICO RIVERA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Pico Rivera,City Council
+8596,"POMONA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Pomona,"City Council, 2nd District"
+8596,"POMONA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,Pomona,"City Council, 2nd District"
+8597,"POMONA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",Yes,Pomona,"City Council, 3rd District"
+8598,"POMONA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Pomona,"City Council, 5th District"
+8598,"POMONA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,Pomona,"City Council, 5th District"
+8599,RANCHO PALOS VERDES CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Rancho Palos Verdes,City Council
+8599,RANCHO PALOS VERDES CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Rancho Palos Verdes,City Council
+8600,ROLLING HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Rolling Hills,City Council
+8603,SAN FERNANDO CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,San Fernando,City Council
+8688,SAN GABRIEL CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,San Gabriel,City Clerk
+8688,SAN GABRIEL CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,San Gabriel,City Clerk
+8687,SAN GABRIEL CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,San Gabriel,City Council
+8602,SAN GABRIEL CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,San Gabriel,City Council
+8602,SAN GABRIEL CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,San Gabriel,City Council
+8973,SAN MARINO CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,San Marino,City Council
+8973,SAN MARINO CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,San Marino,City Council
+8604,SANTA CLARITA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Santa Clarita,City Council
+8604,SANTA CLARITA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Santa Clarita,City Council
+8605,SANTA FE SPRINGS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Sante Fe Springs,City Council
+8605,SANTA FE SPRINGS CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Sante Fe Springs,City Council
+8684,SANTA MONICA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Santa Monica,City Council
+8684,SANTA MONICA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Santa Monica,City Council
+8684,SANTA MONICA CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Santa Monica,City Council
+8683,SANTA MONICA CITY GENERAL MUNICIPAL ELECTION Member of the Rent Control Board,Yes,Santa Monica,Rent Control Board
+8842,SIERRA MADRE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Sierra Madre,City Council
+8842,SIERRA MADRE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Sierra Madre,City Council
+8606,SIGNAL HILL CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,Signal Hill,City Clerk
+8607,SIGNAL HILL CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Signal Hill,City Treasurer
+8607,SIGNAL HILL CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,Signal Hill,City Treasurer
+8608,SIGNAL HILL CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Signal Hill,City Council
+8609,SOUTH EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,South El Monte,City Council
+8609,SOUTH EL MONTE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,South El Monte,City Council
+8611,SOUTH PASADENA CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,South Pasadena,City Treasurer
+8612,"SOUTH PASADENA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,South Pasadena,"City Council, 4th District"
+8612,"SOUTH PASADENA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,South Pasadena,"City Council, 4th District"
+8613,"SOUTH PASADENA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,South Pasadena,"City Council, 5th District"
+8685,SOUTH GATE CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,South Gate,City Clerk
+8686,SOUTH GATE CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,South Gate,City Treasurer
+8686,SOUTH GATE CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,South Gate,City Treasurer
+8610,SOUTH GATE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,South Gate,City Council
+8610,SOUTH GATE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,South Gate,City Council
+8616,WEST HOLLYWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,West Hollywood,City Council
+8616,WEST HOLLYWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,West Hollywood,City Council
+8617,WEST COVINA CITY GENERAL MUNICIPAL ELECTION City Clerk,Yes,West Covina,City Clerk
+8618,WEST COVINA CITY GENERAL MUNICIPAL ELECTION City Treasurer,Yes,West Covina,City Treasurer
+8619,"WEST COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,West Covina,"City Council, 2nd District"
+8619,"WEST COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",Yes,West Covina,"City Council, 2nd District"
+8620,"WEST COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",Yes,West Covina,"City Council, 4th District"
+8621,"WEST COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,West Covina,"City Council, 5th District"
+8621,"WEST COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",Yes,West Covina,"City Council, 5th District"
+8615,WESTLAKE VILLAGE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Westlake Village,City Council
+8615,WESTLAKE VILLAGE CITY GENERAL MUNICIPAL ELECTION Member of the City Council,Yes,Westlake Village,City Council
+8430,"ANTELOPE VALLEY COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Antelope Valley Community College District,"Governing Board Member, Trustee Area No. 002"
+8544,"CERRITOS COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 007",Yes,Cerritos Community College District,"Governing Board Member, Trustee Area No. 007"
+8442,"CITRUS COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 003",Yes,Citrus Community College District,"Governing Board Member, Trustee Area No. 003"
+8443,"COMPTON COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Compton Community College District,"Governing Board Member, Trustee Area No. 001"
+8444,"COMPTON COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Compton Community College District,"Governing Board Member, Trustee Area No. 004"
+8445,"COMPTON COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Compton Community College District,"Governing Board Member, Trustee Area No. 005"
+8550,"LONG BEACH COMMUNITY COLLEGE DISTRICT Member, Board of Trustees, Trustee Area No. 003",Yes,Long Beach Community College District,"Board of Trustees, Trustee Area No. 003"
+8551,"LONG BEACH COMMUNITY COLLEGE DISTRICT Member, Board of Trustees, Trustee Area No. 005",Yes,Long Beach Community College District,"Board of Trustees, Trustee Area No. 005"
+8528,"LOS ANGELES COMMUNITY COLLEGE DISTRICT SPECIAL ELECTION Member of the Board of Trustees, Seat 007 (Unexpired term ending December 13, 2024)",Yes,Los Angeles Community College District,"Member of the Board of Trustees, Seat 007 (Unexpired term ending December 13, 2024)"
+8515,"LOS ANGELES COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees, Seat 002",Yes,Los Angeles Community College District,"Member of the Board of Trustees, Seat 002"
+8516,"LOS ANGELES COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees, Seat 004",Yes,Los Angeles Community College District,"Member of the Board of Trustees, Seat 004"
+8516,"LOS ANGELES COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees, Seat 004",Yes,Los Angeles Community College District,"Member of the Board of Trustees, Seat 004"
+8517,"LOS ANGELES COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees, Seat 006",Yes,Los Angeles Community College District,"Member of the Board of Trustees, Seat 006"
+8811,"RIO HONDO COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Rio Hondo Community College District,"Governing Board Member, Trustee Area No. 001"
+8813,"RIO HONDO COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Rio Hondo Community College District,"Governing Board Member, Trustee Area No. 005"
+8681,SANTA MONICA COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees,Yes,Santa Monica Community College District,Member of the Board of Trustees
+8681,SANTA MONICA COMMUNITY COLLEGE DISTRICT Member of the Board of Trustees,Yes,Santa Monica Community College District,Member of the Board of Trustees
+8426,"ABC UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,ABC Unified School District,"Governing Board Member, Trustee Area No. 002"
+8427,"ABC UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,ABC Unified School District,"Governing Board Member, Trustee Area No. 003"
+8427,"ABC UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,ABC Unified School District,"Governing Board Member, Trustee Area No. 003"
+8428,"ABC UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 006",Yes,ABC Unified School District,"Governing Board Member, Trustee Area No. 006"
+8806,"ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 004",Yes,Alhambra Unified School District,"Board of Education, Trustee Area No. 004"
+8806,"ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 004",Yes,Alhambra Unified School District,"Board of Education, Trustee Area No. 004"
+8807,"ALHAMBRA UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area No. 005",Yes,Alhambra Unified School District,"Member, Board of Education, Trustee Area No. 005"
+8654,"AZUSA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,Azusa Unified School District,"Governing Board Member, Trustee Area No. 003"
+8436,BALDWIN PARK UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Baldwin Park Unified School District,Governing Board Member
+8437,BASSETT UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Bassett Unified School District,Governing Board Member
+8437,BASSETT UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Bassett Unified School District,Governing Board Member
+8438,BELLFLOWER UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Bellflower Unified School District,Governing Board Member
+8541,BEVERLY HILLS UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Beverly Hills Unified School District,Governing Board Member
+8858,"BONITA UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",Yes,Bonita Unified School District,"Governing Board Member (Unexpired term ending December 13, 2024)"
+8858,"BONITA UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",Yes,Bonita Unified School District,"Governing Board Member (Unexpired term ending December 13, 2024)"
+8857,"BONITA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Bonita Unified School District,"Governing Board Member, Trustee Area No. 002"
+8856,"BONITA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,Bonita Unified School District,"Governing Board Member, Trustee Area No. 003"
+8856,"BONITA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,Bonita Unified School District,"Governing Board Member, Trustee Area No. 003"
+8439,BURBANK UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Burbank Unified School District,Governing Board Member
+8439,BURBANK UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Burbank Unified School District,Governing Board Member
+8658,"CLAREMONT UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Claremont Unified School District,"Governing Board Member, Trustee Area No. 004"
+8546,"COVINA-VALLEY UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Covina-Valley Unified School District,"Governing Board Member, Trustee Area No. 004"
+8546,"COVINA-VALLEY UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Covina-Valley Unified School District,"Governing Board Member, Trustee Area No. 004"
+8446,CULVER CITY UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Culver City Unified School District,Governing Board Member
+8446,CULVER CITY UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Culver City Unified School District,Governing Board Member
+8855,"DUARTE UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",Yes,Duarte Unified School District,"Governing Board Member (Unexpired term ending December 13, 2024)"
+8659,"DUARTE UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Duarte Unified School District,"Governing Board Member, Trustee Area No. 004"
+8659,"DUARTE UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Duarte Unified School District,"Governing Board Member, Trustee Area No. 004"
+8660,"DUARTE UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Duarte Unified School District,"Governing Board Member, Trustee Area No. 005"
+8454,EL RANCHO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,El Rancho Unified School District,Governing Board Member
+8454,EL RANCHO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,El Rancho Unified School District,Governing Board Member
+8455,EL SEGUNDO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,El Segundo Unified School District,Governing Board Member
+8455,EL SEGUNDO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,El Segundo Unified School District,Governing Board Member
+8504,"GLENDORA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Glendora Unified School District,"Governing Board Member, Trustee Area No. 001"
+8505,"GLENDORA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Glendora Unified School District,"Governing Board Member, Trustee Area No. 002"
+8505,"GLENDORA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Glendora Unified School District,"Governing Board Member, Trustee Area No. 002"
+8501,"HACIENDA LA PUENTE UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Hacienda La Puente Unified School District,"Governing Board Member, Trustee Area No. 002"
+8502,"HACIENDA LA PUENTE UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Hacienda La Puente Unified School District,"Governing Board Member, Trustee Area No. 004"
+8503,"HACIENDA LA PUENTE UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Hacienda La Puente Unified School District,"Governing Board Member, Trustee Area No. 005"
+8862,"INGLEWOOD UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 001",Yes,Inglewood Unified School District,"Board of Education, District 001"
+8864,"INGLEWOOD UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 002",Yes,Inglewood Unified School District,"Board of Education, District 002"
+8865,"INGLEWOOD UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 003",Yes,Inglewood Unified School District,"Board of Education, District 003"
+8865,"INGLEWOOD UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 003",Yes,Inglewood Unified School District,"Board of Education, District 003"
+8861,"INGLEWOOD UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Member of the Board of Education, District 005 (Unexpired term ending December 16, 2024)",Yes,Inglewood Unified School District,"Board of Education, District 005 (Unexpired term ending December 16, 2024)"
+8460,LA CAÑADA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,La Cañada Unified School District,Governing Board Member
+8460,LA CAÑADA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,La Cañada Unified School District,Governing Board Member
+8547,LAS VIRGENES UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Las Virgenes Unified School District,Governing Board Member
+8866,"LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 001",Yes,Long Beach Unified School District,"Governing Board Member, District 001"
+8866,"LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 001",Yes,Long Beach Unified School District,"Governing Board Member, District 001"
+8851,"LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 002",Yes,Los Angeles Unified School District,"Board of Education, District 002"
+8852,"LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 006",Yes,Los Angeles Unified School District,"Board of Education, District 006"
+8852,"LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 006",Yes,Los Angeles Unified School District,"Board of Education, District 006"
+8469,MANHATTAN BEACH UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Manhattan Beach Unified School District,Governing Board Member
+8469,MANHATTAN BEACH UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Manhattan Beach Unified School District,Governing Board Member
+8471,MONTEBELLO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Montebello Unified School District,Governing Board Member
+8471,MONTEBELLO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Montebello Unified School District,Governing Board Member
+8479,NORWALK-LA MIRADA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Norwalk-La Mirada Unified School District,Governing Board Member
+8479,NORWALK-LA MIRADA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Norwalk-La Mirada Unified School District,Governing Board Member
+8788,"PALOS VERDES PENINSULA UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",Yes,Palos Verdes Peninsula Unified School District,"Governing Board Member (Unexpired term ending December 13, 2024)"
+8787,PALOS VERDES PENINSULA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Palos Verdes Peninsula Unified School District,Governing Board Member
+8787,PALOS VERDES PENINSULA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Palos Verdes Peninsula Unified School District,Governing Board Member
+8518,PARAMOUNT UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Paramount Unified School District,Governing Board Member
+8518,PARAMOUNT UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Paramount Unified School District,Governing Board Member
+8703,"PASADENA UNIFIED SCHOOL DISTRICT Board of Education, District No. 001",Yes,Pasadena Unified School District,"Board of Education, District No. 001"
+8704,"PASADENA UNIFIED SCHOOL DISTRICT Board of Education, District No. 003",Yes,Pasadena Unified School District,"Board of Education, District No. 003"
+8704,"PASADENA UNIFIED SCHOOL DISTRICT Board of Education, District No. 003",Yes,Pasadena Unified School District,"Board of Education, District No. 003"
+8705,"PASADENA UNIFIED SCHOOL DISTRICT Board of Education, District No. 005",Yes,Pasadena Unified School District,"Board of Education, District No. 005"
+8706,"PASADENA UNIFIED SCHOOL DISTRICT Board of Education, District No. 007",Yes,Pasadena Unified School District,"Board of Education, District No. 007"
+8706,"PASADENA UNIFIED SCHOOL DISTRICT Board of Education, District No. 007",Yes,Pasadena Unified School District,"Board of Education, District No. 007"
+8481,"POMONA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Pomona Unified School District,"Governing Board Member, Trustee Area No. 001"
+8482,"POMONA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Pomona Unified School District,"Governing Board Member, Trustee Area No. 004"
+8482,"POMONA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Pomona Unified School District,"Governing Board Member, Trustee Area No. 004"
+8483,"POMONA UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Pomona Unified School District,"Governing Board Member, Trustee Area No. 005"
+8791,"ROWLAND UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Rowland Unified School District,"Governing Board Member, Trustee Area No. 005"
+8668,"SAN MARINO UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",Yes,San Marino Unified School District,"Governing Board Member (Unexpired term ending December 13, 2024)"
+8557,SAN MARINO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,San Marino Unified School District,Governing Board Member
+8557,SAN MARINO UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,San Marino Unified School District,Governing Board Member
+8682,SANTA MONICA-MALIBU UNIFIED SCHOOL DISTRICT Member of the Board of Education,Yes,Santa Monica-Malibu Unified School District,Board of Education
+8682,SANTA MONICA-MALIBU UNIFIED SCHOOL DISTRICT Member of the Board of Education,Yes,Santa Monica-Malibu Unified School District,Board of Education
+8556,"SNOWLINE JOINT UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area No.1",Yes,Snowline Joint Unified School District,"Governing Board Member, Trustee Area No.1"
+8491,WALNUT VALLEY UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Walnut Valley Unified School District,Governing Board Member
+8491,WALNUT VALLEY UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,Walnut Valley Unified School District,Governing Board Member
+8492,WEST COVINA UNIFIED SCHOOL DISTRICT Governing Board Member,Yes,West Covina Unified School District,Governing Board Member
+8433,"ANTELOPE VALLEY JOINT UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Antelope Valley Joint Union High School District,"Governing Board Member, Trustee Area No. 001"
+8434,"ANTELOPE VALLEY JOINT UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Antelope Valley Joint Union High School District,"Governing Board Member, Trustee Area No. 004"
+8435,"ANTELOPE VALLEY JOINT UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Antelope Valley Joint Union High School District,"Governing Board Member, Trustee Area No. 005"
+8803,"CENTINELA VALLEY UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Centinela Valley Union High School District,"Governing Board Member, Trustee Area No. 001"
+8804,"CENTINELA VALLEY UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Centinela Valley Union High School District,"Governing Board Member, Trustee Area No. 002"
+8804,"CENTINELA VALLEY UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Centinela Valley Union High School District,"Governing Board Member, Trustee Area No. 002"
+8805,"CENTINELA VALLEY UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Centinela Valley Union High School District,"Governing Board Member, Trustee Area No. 005"
+8662,"EL MONTE UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,El Monte Union High School District,"Governing Board Member, Trustee Area No. 004"
+8663,"EL MONTE UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,El Monte Union High School District,"Governing Board Member, Trustee Area No. 005"
+8511,"WHITTIER UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 004",Yes,Whittier Union High School District,"Governing Board Member, Trustee Area No. 004"
+8512,"WHITTIER UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Whittier Union High School District,"Governing Board Member, Trustee Area No. 005"
+8494,"WILLIAM S. HART UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,William S. Hart Union High School District,"Governing Board Member, Trustee Area No. 002"
+8495,"WILLIAM S. HART UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,William S. Hart Union High School District,"Governing Board Member, Trustee Area No. 003"
+8495,"WILLIAM S. HART UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,William S. Hart Union High School District,"Governing Board Member, Trustee Area No. 003"
+8496,"WILLIAM S. HART UNION HIGH SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,William S. Hart Union High School District,"Governing Board Member, Trustee Area No. 005"
+8524,"CASTAIC UNION SCHOOL DISTRICT Governing Board Member, Trustee Area E",Yes,Castaic Union School District,"Governing Board Member, Trustee Area E"
+8524,"CASTAIC UNION SCHOOL DISTRICT Governing Board Member, Trustee Area E",Yes,Castaic Union School District,"Governing Board Member, Trustee Area E"
+8453,EL MONTE CITY SCHOOL DISTRICT Governing Board Member,Yes,El Monte City School District,Governing Board Member
+8821,"HUGHES-ELIZABETH LAKES UNION SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Hughes-Elizabeth Lakes Union School District,"Governing Board Member, Trustee Area No. 005"
+8459,KEPPEL UNION SCHOOL DISTRICT Governing Board Member,Yes,Keppel Union School District,Governing Board Member
+8459,KEPPEL UNION SCHOOL DISTRICT Governing Board Member,Yes,Keppel Union School District,Governing Board Member
+8466,"LAWNDALE SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Lawndale Union School District,"Governing Board Member, Trustee Area No. 002"
+8552,"LOWELL JOINT SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Lowell Joint School District,"Governing Board Member, Trustee Area No. 002"
+8552,"LOWELL JOINT SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Lowell Joint School District,"Governing Board Member, Trustee Area No. 002"
+8810,MOUNTAIN VIEW SCHOOL DISTRICT Governing Board Member,Yes,Mountain View School District,Governing Board Member
+8810,MOUNTAIN VIEW SCHOOL DISTRICT Governing Board Member,Yes,Mountain View School District,Governing Board Member
+8476,"NEWHALL SCHOOL DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Newhall School District,"Governing Board Member, Trustee Area No. 001"
+8477,"NEWHALL SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Newhall School District,"Governing Board Member, Trustee Area No. 002"
+8477,"NEWHALL SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Newhall School District,"Governing Board Member, Trustee Area No. 002"
+8480,PALMDALE SCHOOL DISTRICT Governing Board Member,Yes,Palmdale School District,Governing Board Member
+8484,ROSEMEAD SCHOOL DISTRICT Governing Board Member,Yes,Rosemead School District,Governing Board Member
+8484,ROSEMEAD SCHOOL DISTRICT Governing Board Member,Yes,Rosemead School District,Governing Board Member
+8487,"SAUGUS UNION SCHOOL DISTRICT Governing Board Member, Trustee Area No. 001",Yes,Saugus Union School District,"Governing Board Member, Trustee Area No. 001"
+8488,"SAUGUS UNION SCHOOL DISTRICT Governing Board Member, Trustee Area No. 002",Yes,Saugus Union School District,"Governing Board Member, Trustee Area No. 002"
+8489,"SAUGUS UNION SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Saugus Union School District,"Governing Board Member, Trustee Area No. 005"
+8490,VALLE LINDO SCHOOL DISTRICT Governing Board Member,Yes,Valle Lindo School District,Governing Board Member
+8490,VALLE LINDO SCHOOL DISTRICT Governing Board Member,Yes,Valle Lindo School District,Governing Board Member
+8493,"WHITTIER CITY SCHOOL DISTRICT Governing Board Member, Trustee Area No. 005",Yes,Whittier City School District,"Governing Board Member, Trustee Area No. 005"
+8809,"WILSONA SCHOOL DISTRICT Governing Board Member, Trustee Area No. 003",Yes,Wilsona School District,"Governing Board Member, Trustee Area No. 003"
+8391,"ANTELOPE VALLEY HEALTH CARE DISTRICT Member, Board of Directors",Yes,Antelope Valley Health Care District,Board of Directors
+8391,"ANTELOPE VALLEY HEALTH CARE DISTRICT Member, Board of Directors",Yes,Antelope Valley Health Care District,Board of Directors
+8873,"ANTELOPE VALLEY HEALTH CARE DISTRICT SPECIAL ELECTION Member, Board of Directors (Unexpired term ending December 6, 2024)",Yes,Antelope Valley Health Care District,"Board of Directors (Unexpired term ending December 6, 2024)"
+8873,"ANTELOPE VALLEY HEALTH CARE DISTRICT SPECIAL ELECTION Member, Board of Directors (Unexpired term ending December 6, 2024)",Yes,Antelope Valley Health Care District,"Board of Directors (Unexpired term ending December 6, 2024)"
+8392,"BEACH CITIES HEALTH DISTRICT Member, Board of Directors",Yes,Beach Cities Health District,Board of Directors
+8403,"CENTRAL BASIN MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 003",Yes,Central Basin Municipal Water District,"Board of Directors, Division 003"
+8403,"CENTRAL BASIN MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 003",Yes,Central Basin Municipal Water District,"Board of Directors, Division 003"
+8409,"LAS VIRGENES MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 003",Yes,Las Virgenes Municipal Water District,"Board of Directors, Division 003"
+8415,"THREE VALLEYS MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 001",Yes,Three Valleys Municipal Water District,"Board of Directors, Division 001"
+8415,"THREE VALLEYS MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 001",Yes,Three Valleys Municipal Water District,"Board of Directors, Division 001"
+8416,"THREE VALLEYS MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 003",Yes,Three Valleys Municipal Water District,"Board of Directors, Division 003"
+8418,"UPPER SAN GABRIEL VALLEY MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 001",Yes,Upper San Gabriel Valley Municipal Water District,"Board of Directors, Division 001"
+8418,"UPPER SAN GABRIEL VALLEY MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 001",Yes,Upper San Gabriel Valley Municipal Water District,"Board of Directors, Division 001"
+8419,"UPPER SAN GABRIEL VALLEY MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 005",Yes,Upper San Gabriel Valley Municipal Water District,"Board of Directors, Division 005"
+8420,"WEST BASIN MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 001",Yes,West Basin Municipal Water District,"Board of Directors, Division 001"
+8422,"WEST BASIN MUNICIPAL WATER DISTRICT Member, Board of Directors, Division 004",Yes,West Basin Municipal Water District,"Board of Directors, Division 004"
+8423,"WATER REPLENISHMENT DISTRICT OF SOUTHERN CALIFORNIA Member, Board of Directors, Division 001",Yes,Water Replenishment District of Southern California,"Board of Directors, Division 001"
+8424,"WATER REPLENISHMENT DISTRICT OF SOUTHERN CALIFORNIA Member, Board of Directors, Division 003",Yes,Water Replenishment District of Southern California,"Board of Directors, Division 003"
+8425,"WATER REPLENISHMENT DISTRICT OF SOUTHERN CALIFORNIA Member, Board of Directors, Division 004",Yes,Water Replenishment District of Southern California,"Board of Directors, Division 004"
+8624,"ANTELOPE VALLEY-EAST KERN WATER AGENCY Member, Board of Directors, Division 003",Yes,Antelope Valley-East Kern Water Agency,"Board of Directors, Division 003"
+8782,"SANTA CLARITA VALLEY WATER AGENCY Member, Board of Directors, Division 001",Yes,Santa Clarity Valley Water Agency,"Board of Directors, Division 001"
+8783,"SANTA CLARITA VALLEY WATER AGENCY Member, Board of Directors, Division 002",Yes,Santa Clarity Valley Water Agency,"Board of Directors, Division 002"
+8784,"SANTA CLARITA VALLEY WATER AGENCY Member, Board of Directors, Division 003",Yes,Santa Clarity Valley Water Agency,"Board of Directors, Division 003"
+8381,"CRESCENTA VALLEY WATER DISTRICT Member, Board of Directors",Yes,Crescenta Valley Water District,Board of Directors
+8385,"ORCHARD DALE WATER DISTRICT Member, Board of Directors",Yes,Orchard Dale Water District,Board of Directors
+8385,"ORCHARD DALE WATER DISTRICT Member, Board of Directors",Yes,Orchard Dale Water District,Board of Directors
+8388,"ROWLAND WATER DISTRICT Member, Board of Directors, Division 003",Yes,Rowland Water District,"Board of Directors, Division 003"
+8399,"PALMDALE WATER DISTRICT Member, Board of Directors, Division 002",Yes,Palmdale Water District,"Board of Directors, Division 002"
+8399,"PALMDALE WATER DISTRICT Member, Board of Directors, Division 002",Yes,Palmdale Water District,"Board of Directors, Division 002"
+8379,"WALNUT VALLEY WATER DISTRICT Member, Board of Directors, Division 002",Yes,Walnut Valley Water District,"Board of Directors, Division 002"
+8774,JUDGE OF THE SUPERIOR COURT Office No. 060,Yes,Los Angeles County,Superior Court Judge Office No. 60
+8774,JUDGE OF THE SUPERIOR COURT Office No. 060,Yes,Los Angeles County,Superior Court Judge Office No. 60
+8775,JUDGE OF THE SUPERIOR COURT Office No. 067,Yes,Los Angeles County,Superior Court Judge Office No. 67
+8776,JUDGE OF THE SUPERIOR COURT Office No. 070,Yes,Los Angeles County,Superior Court Judge Office No. 70
+8777,JUDGE OF THE SUPERIOR COURT Office No. 090,Yes,Los Angeles County,Superior Court Judge Office No. 90
+8778,JUDGE OF THE SUPERIOR COURT Office No. 118,Yes,Los Angeles County,Superior Court Judge Office No. 118
+8779,JUDGE OF THE SUPERIOR COURT Office No. 151,Yes,Los Angeles County,Superior Court Judge Office No. 151
+8779,JUDGE OF THE SUPERIOR COURT Office No. 151,Yes,Los Angeles County,Superior Court Judge Office No. 151
+8772,SHERIFF,Yes,Los Angeles County,Sheriff
+8771,SUPERVISOR 3RD DISTRICT,Yes,Los Angeles County,"Supervisor, 3rd District"
+8771,SUPERVISOR 3RD DISTRICT,Yes,Los Angeles County,"Supervisor, 3rd District"
+8767,ATTORNEY GENERAL,No,California,Attorney General
+8765,CONTROLLER,No,California,Controller
+8762,GOVERNOR,No,California,Governor
+8768,INSURANCE COMMISSIONER,No,California,Insurance Commissioner
+8768,INSURANCE COMMISSIONER,No,California,Insurance Commissioner
+8763,LIEUTENANT GOVERNOR,No,California,Lieutenant Governor
+8764,SECRETARY OF STATE,No,California,Secretary of State
+8770,SUPERINTENDENT OF PUBLIC INSTRUCTION,No,California,Superintendent of Public Instruction
+8766,TREASURER,No,California,Treasurer
+8766,TREASURER,No,California,Treasurer
+8769,MEMBER STATE BOARD OF EQUALIZATION 3rd District,No,California,"Board of Equaliization, 3rd District"
+8885,"For Associate Justice, Court of Appeal, Second District, Division Four",No,California,"Associate Justice, Court of Appeal, Second District, Division Four"
+8886,"For Associate Justice, Court of Appeal, Second District, Division Four",No,California,"Associate Justice, Court of Appeal, Second District, Division Four"
+8975,"For Associate Justice, Court of Appeal, Second District, Division Eight",No,California,"Associate Justice, Court of Appeal, Second District, Division Eight"
+8947,"For Associate Justice, Court of Appeal, Second District, Division Six",No,California,"Associate Justice, Court of Appeal, Second District, Division Six"
+8889,"For Associate Justice, Court of Appeal, Second District, Division Seven",No,California,"Associate Justice, Court of Appeal, Second District, Division Seven"
+8976,"For Associate Justice, Court of Appeal, Second District, Division Eight",No,California,"Associate Justice, Court of Appeal, Second District, Division Eight"
+8883,"For Associate Justice, Court of Appeal, Second District, Division Two",No,California,"Associate Justice, Court of Appeal, Second District, Division Two"
+8888,"For Associate Justice, Court of Appeal, Second District, Division Five",No,California,"Associate Justice, Court of Appeal, Second District, Division Five"
+8888,"For Associate Justice, Court of Appeal, Second District, Division Five",No,California,"Associate Justice, Court of Appeal, Second District, Division Five"
+8884,"For Associate Justice, Court of Appeal, Second District, Division Three",No,California,"Associate Justice, Court of Appeal, Second District, Division Three"
+8878,For Associate Justice of the Supreme Court,No,California,Associate Justice of the Supreme Court
+8881,For Associate Justice of the Supreme Court,No,California,Associate Justice of the Supreme Court
+8881,For Associate Justice of the Supreme Court,No,California,Associate Justice of the Supreme Court
+8879,For Associate Justice of the Supreme Court,No,California,Associate Justice of the Supreme Court
+8877,For Chief Justice of California,No,California,Chief Justice of the Supreme Court
+8882,"For Presiding Justice, Court of Appeal, Second District, Division One",No,California,"Presiding Justice, Court of Appeal, Second District, Division One"
+8882,"For Presiding Justice, Court of Appeal, Second District, Division One",No,California,"Presiding Justice, Court of Appeal, Second District, Division One"
+8887,"For Presiding Justice, Court of Appeal, Second District, Division Five",No,California,"Presiding Justice, Court of Appeal, Second District, Division Five"
+8974,"For Presiding Justice, Court of Appeal, Second District, Division Eight",No,California,"Presiding Justice, Court of Appeal, Second District, Division Eight"
