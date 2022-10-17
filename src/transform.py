@@ -39,6 +39,13 @@ def cli(electionid=4269):
                 # Apply corrections
                 contest["Title"] = correx["clean_name"]
                 contest["geography"] = correx["clean_geography"]
+
+                # Mark incumbents
+                for c in contest["Candidates"]:
+                    if c["Name"] in correx["incumbent"]:
+                        c["incumbent"] = True
+                    else:
+                        c["incumbent"] = False
             except KeyError:
                 # For now we will let it run when there are errors.
                 # We should consider removing this once we have a real feed
