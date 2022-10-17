@@ -32,18 +32,17 @@ def cli(electionid=4269):
             # Pull any corrections
             try:
                 correx = correx_lookup[contest["Title"]]
+                # If we're excluding this record, skip out now
+                if correx["include"].lower() == "no":
+                    continue
+
+                # Apply corrections
+                contest["Title"] = correx["clean_name"]
+                contest["geography"] = correx["clean_geography"]
             except KeyError:
                 # For now we will let it run when there are errors.
                 # We should consider removing this once we have a real feed
-                continue
-
-            # If we're excluding this record, skip out now
-            if correx["include"].lower() == "no":
-                continue
-
-            # Apply corrections
-            contest["Title"] = correx["clean_name"]
-            contest["geography"] = correx["clean_geography"]
+                pass
 
             # Add to our master list
             transformed_list["races"].append(contest)
