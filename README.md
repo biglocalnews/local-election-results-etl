@@ -1,4 +1,9 @@
-Extract, transform and load election results posted online by the Los Angeles County Registrar-Recorder/County Clerk
+Extract, transform and load election results posted online by the California election officials.
+
+## Supports
+
+- California Secretary of State
+- Los Angeles County Registrar-Recorder/County Clerk
 
 ## Latest files
 
