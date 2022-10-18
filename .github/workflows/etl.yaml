@@ -51,3 +51,14 @@ jobs:
           AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
           AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
           AWS_PATH_PREFIX: ${{ secrets.AWS_PATH_PREFIX }}
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./data
+          git commit -m "Added latest ETL" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
