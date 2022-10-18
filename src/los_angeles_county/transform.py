@@ -37,7 +37,8 @@ def cli(electionid=4269):
                     continue
 
                 # Apply corrections
-                contest["Title"] = correx["clean_name"]
+                contest["name"] = correx["clean_name"]
+                contest["description"] = correx["clean_description"]
                 contest["geography"] = correx["clean_geography"]
 
                 # Mark incumbents
@@ -49,7 +50,21 @@ def cli(electionid=4269):
             except KeyError:
                 # For now we will let it run when there are errors.
                 # We should consider removing this once we have a real feed
+                contest["name"] = contest["Title"]
+                contest["description"] = ""
                 pass
+
+            # Tidy
+            contest["candidates"] = contest["Candidates"]
+
+            # Kill cruft
+            del contest["Candidates"]
+            del contest["Title"]
+            del contest["Type"]
+            del contest["AdditionalText"]
+            del contest["MeasureText"]
+            del contest["MeasurePassRate"]
+            del contest["VoteFor"]
 
             # Add to our master list
             transformed_list["races"].append(contest)
