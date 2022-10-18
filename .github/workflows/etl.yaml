@@ -31,19 +31,19 @@ jobs:
         run: pipenv install --dev --python=`which python`
         shell: bash
 
-      - id: download
-        name: Download raw data
+      - id: download-la
+        name: Download raw LA County data
         run: pipenv run python -m src.los_angeles_county.download
         shell: bash
 
-      - id: transform
-        name: Transform the data
+      - id: transform-la
+        name: Transform LA County data
         run: pipenv run python -m src.los_angeles_county.transform
         shell: bash
 
       - id: upload
         name: Upload to S3
-        run: pipenv run python -m src.los_angeles_county.upload
+        run: pipenv run python -m src.upload
         shell: bash
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
