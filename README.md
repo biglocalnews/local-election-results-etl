@@ -45,17 +45,17 @@ AWS_PATH_PREFIX=your-prefix/
 Download the raw data from the county website.
 
 ```bash
-pipenv run python src/download.py
+pipenv run python -m src/los_angeles_county/download
 ```
 
 Transform the data into something we want to publish.
 
 ```bash
-pipenv run python src/transform.py
+pipenv run python -m src.los_angeles_county.transform
 ```
 
 Upload data to the Amazon S3 bucket.
 
 ```bash
-pipenv run python src/upload.py
+pipenv run python -m src.upload
 ```
