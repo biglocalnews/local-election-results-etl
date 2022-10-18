@@ -29,7 +29,7 @@ Create a `.env` file and fill it with the following Amazon Web Services services
 
 ```
 AWS_ACCESS_KEY_ID=
-AWS_ACCESS_KEY_SECRET=
+AWS_SECRET_ACCESS_KEY=
 AWS_DEFAULT_REGION=
 AWS_BUCKET=
 ```

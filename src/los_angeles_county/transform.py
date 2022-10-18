@@ -4,7 +4,7 @@ import pathlib
 
 import click
 
-import utils
+from .. import utils
 
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
 
@@ -17,7 +17,7 @@ def cli(electionid=4269):
     raw_data = json.load(open(raw_path))
 
     # Read in the contest corrections
-    correx_list = list(csv.DictReader(open(THIS_DIR / "data/contests.csv")))
+    correx_list = list(csv.DictReader(open(THIS_DIR / f"corrections/{electionid}.csv")))
     correx_lookup = {d["raw_name"]: d for d in correx_list}
 
     # Flatten the list
