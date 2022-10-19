@@ -1,0 +1,3107 @@
+{
+  "scraped_datetime": "2022-10-19T14:19:52.923645-07:00",
+  "races": [
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Alex Padilla",
+          "votes": 1990337
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mark P. Meuser",
+          "votes": 5350606
+        }
+      ],
+      "name": "U.S. Senate (Partial/Unexpired Term)"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Rob Bonta",
+          "votes": 1981848
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Nathan Hochman",
+          "votes": 5359260
+        }
+      ],
+      "name": "Attorney General"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Malia M. Cohen",
+          "votes": 5309973
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Lanhee J. Chen",
+          "votes": 2030890
+        }
+      ],
+      "name": "Controller"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Alex Padilla",
+          "votes": 1984093
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mark P. Meuser",
+          "votes": 5356710
+        }
+      ],
+      "name": "U.S. Senate (Full Term)"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": true,
+          "party": "Dem",
+          "name": "Ricardo Lara",
+          "votes": 5371468
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Robert Howell",
+          "votes": 1969401
+        }
+      ],
+      "name": "Insurance Commissioner"
+    },
+    {
+      "precincts_reporting": "85.2% (484 of 568) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Max Steiner",
+          "votes": 88350
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Doug LaMalfa",
+          "votes": 223639
+        }
+      ],
+      "name": "U.S. House of Representatives District 1"
+    },
+    {
+      "precincts_reporting": "100% (878 of 878) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jared Huffman",
+          "votes": 63975
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Douglas Brower",
+          "votes": 175796
+        }
+      ],
+      "name": "U.S. House of Representatives District 2"
+    },
+    {
+      "precincts_reporting": "98.5% (775 of 787) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Kermit Jones",
+          "votes": 25033
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Kevin Kiley",
+          "votes": 38182
+        }
+      ],
+      "name": "U.S. House of Representatives District 3"
+    },
+    {
+      "precincts_reporting": "93% (662 of 712) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mike Thompson",
+          "votes": 144239
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Matt Brock",
+          "votes": 52588
+        }
+      ],
+      "name": "U.S. House of Representatives District 4"
+    },
+    {
+      "precincts_reporting": "100% (471 of 471) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Michael J. \"Mike\" Barkley",
+          "votes": 163406
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tom McClintock",
+          "votes": 59606
+        }
+      ],
+      "name": "U.S. House of Representatives District 5"
+    },
+    {
+      "precincts_reporting": "100% (309 of 309) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ami Bera",
+          "votes": 38614
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tamika Hamilton",
+          "votes": 23386
+        }
+      ],
+      "name": "U.S. House of Representatives District 6"
+    },
+    {
+      "precincts_reporting": "100% (321 of 321) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Doris Matsui",
+          "votes": 48462
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Max Semenenko",
+          "votes": 39999
+        }
+      ],
+      "name": "U.S. House of Representatives District 7"
+    },
+    {
+      "precincts_reporting": "100% (529 of 529) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "John Garamendi",
+          "votes": 49353
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Rudy Recile",
+          "votes": 132522
+        }
+      ],
+      "name": "U.S. House of Representatives District 8"
+    },
+    {
+      "precincts_reporting": "100% (393 of 393) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Josh Harder",
+          "votes": 78013
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tom Patti",
+          "votes": 214541
+        }
+      ],
+      "name": "U.S. House of Representatives District 9"
+    },
+    {
+      "precincts_reporting": "100% (857 of 857) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mark DeSaulnier",
+          "votes": 257370
+        },
+        {
+          "incumbent": false,
+          "party": "Grn",
+          "name": "Michael Ernest Kerr",
+          "votes": 93655
+        }
+      ],
+      "name": "U.S. House of Representatives District 10"
+    },
+    {
+      "precincts_reporting": "100% (451 of 451) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Nancy Pelosi",
+          "votes": 247439
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "John Dennis",
+          "votes": 89977
+        }
+      ],
+      "name": "U.S. House of Representatives District 11"
+    },
+    {
+      "precincts_reporting": "100% (184 of 184) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Barbara Lee",
+          "votes": 76
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Stephen Slauson",
+          "votes": 77
+        }
+      ],
+      "name": "U.S. House of Representatives District 12"
+    },
+    {
+      "precincts_reporting": "100% (496 of 496) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Adam Gray",
+          "votes": 50054
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "John Duarte",
+          "votes": 136640
+        }
+      ],
+      "name": "U.S. House of Representatives District 13"
+    },
+    {
+      "precincts_reporting": "100% (338 of 338) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Eric Swalwell",
+          "votes": 103
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Alison Hayden",
+          "votes": 102
+        }
+      ],
+      "name": "U.S. House of Representatives District 14"
+    },
+    {
+      "precincts_reporting": "100% (299 of 299) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "David J. Canepa",
+          "votes": 84465
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Kevin Mullin",
+          "votes": 232280
+        }
+      ],
+      "name": "U.S. House of Representatives District 15"
+    },
+    {
+      "precincts_reporting": "100% (349 of 349) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Anna G. Eshoo",
+          "votes": 89914
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Rishi Kumar",
+          "votes": 247269
+        }
+      ],
+      "name": "U.S. House of Representatives District 16"
+    },
+    {
+      "precincts_reporting": "100% (220 of 220) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ro Khanna",
+          "votes": 170842
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Ritesh Tandon",
+          "votes": 62195
+        }
+      ],
+      "name": "U.S. House of Representatives District 17"
+    },
+    {
+      "precincts_reporting": "100% (351 of 351) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Zoe Lofgren",
+          "votes": 44661
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Peter Hernandez",
+          "votes": 117753
+        }
+      ],
+      "name": "U.S. House of Representatives District 18"
+    },
+    {
+      "precincts_reporting": "100% (462 of 462) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jimmy Panetta",
+          "votes": 65416
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Jeff Gorman",
+          "votes": 177150
+        }
+      ],
+      "name": "U.S. House of Representatives District 19"
+    },
+    {
+      "precincts_reporting": "100% (583 of 583) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Marisa Wood",
+          "votes": 60585
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Kevin McCarthy",
+          "votes": 165143
+        }
+      ],
+      "name": "U.S. House of Representatives District 20"
+    },
+    {
+      "precincts_reporting": "100% (501 of 501) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jim Costa",
+          "votes": 41983
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Michael Maher",
+          "votes": 15586
+        }
+      ],
+      "name": "U.S. House of Representatives District 21"
+    },
+    {
+      "precincts_reporting": "100% (550 of 550) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Rudy Salas",
+          "votes": 56014
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "David G. Valadao",
+          "votes": 152771
+        }
+      ],
+      "name": "U.S. House of Representatives District 22"
+    },
+    {
+      "precincts_reporting": "100% (1,566 of 1,566) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Derek Marshall",
+          "votes": 5171
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Jay Obernolte",
+          "votes": 1889
+        }
+      ],
+      "name": "U.S. House of Representatives District 23"
+    },
+    {
+      "precincts_reporting": "100% (771 of 771) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Salud Carbajal",
+          "votes": 185512
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Brad Allen",
+          "votes": 67731
+        }
+      ],
+      "name": "U.S. House of Representatives District 24"
+    },
+    {
+      "precincts_reporting": "51.2% (370 of 723) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Raul Ruiz",
+          "votes": 76046
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Brian E. Hawkins",
+          "votes": 209110
+        }
+      ],
+      "name": "U.S. House of Representatives District 25"
+    },
+    {
+      "precincts_reporting": "100% (1,253 of 1,253) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Julia Brownley",
+          "votes": 85180
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Matt Jacobs",
+          "votes": 234248
+        }
+      ],
+      "name": "U.S. House of Representatives District 26"
+    },
+    {
+      "precincts_reporting": "100% (468 of 468) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Christy Smith",
+          "votes": 98
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mike Garcia",
+          "votes": 201
+        }
+      ],
+      "name": "U.S. House of Representatives District 27"
+    },
+    {
+      "precincts_reporting": "100% (530 of 530) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Judy Chu",
+          "votes": 115
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Wes Hallman",
+          "votes": 231
+        }
+      ],
+      "name": "U.S. House of Representatives District 28"
+    },
+    {
+      "precincts_reporting": "100% (165 of 165) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tony Cardenas",
+          "votes": 159
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ang\u00e9lica Mar\u00eda Due\u00f1as",
+          "votes": 109
+        }
+      ],
+      "name": "U.S. House of Representatives District 29"
+    },
+    {
+      "precincts_reporting": "100% (252 of 252) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "G \"Maebe A. Girl\" Pudlo",
+          "votes": 89
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Adam B. Schiff",
+          "votes": 202
+        }
+      ],
+      "name": "U.S. House of Representatives District 30"
+    },
+    {
+      "precincts_reporting": "100% (426 of 426) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Grace F. Napolitano",
+          "votes": 121
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Daniel Bocic Martinez",
+          "votes": 195
+        }
+      ],
+      "name": "U.S. House of Representatives District 31"
+    },
+    {
+      "precincts_reporting": "100% (239 of 239) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Brad Sherman",
+          "votes": 929
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Lucie Lapointe Volotzky",
+          "votes": 495
+        }
+      ],
+      "name": "U.S. House of Representatives District 32"
+    },
+    {
+      "precincts_reporting": "100% (653 of 653) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Pete Aguilar",
+          "votes": 28
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "John Mark Porter",
+          "votes": 32
+        }
+      ],
+      "name": "U.S. House of Representatives District 33"
+    },
+    {
+      "precincts_reporting": "100% (174 of 174) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jimmy Gomez",
+          "votes": 178
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "David Kim",
+          "votes": 97
+        }
+      ],
+      "name": "U.S. House of Representatives District 34"
+    },
+    {
+      "precincts_reporting": "100% (437 of 437) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Norma J. Torres",
+          "votes": 15034
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mike Cargile",
+          "votes": 5489
+        }
+      ],
+      "name": "U.S. House of Representatives District 35"
+    },
+    {
+      "precincts_reporting": "100% (242 of 242) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ted W. Lieu",
+          "votes": 175
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Joe E. Collins III",
+          "votes": 100
+        }
+      ],
+      "name": "U.S. House of Representatives District 36"
+    },
+    {
+      "precincts_reporting": "100% (203 of 203) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Sydney Kamlager",
+          "votes": 197
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jan C. Perry",
+          "votes": 111
+        }
+      ],
+      "name": "U.S. House of Representatives District 37"
+    },
+    {
+      "precincts_reporting": "100% (317 of 317) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Linda T. S\u00e1nchez",
+          "votes": 7094
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Eric J. Ching",
+          "votes": 19058
+        }
+      ],
+      "name": "U.S. House of Representatives District 38"
+    },
+    {
+      "precincts_reporting": "100% (254 of 254) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mark Takano",
+          "votes": 210056
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Aja Smith",
+          "votes": 76384
+        }
+      ],
+      "name": "U.S. House of Representatives District 39"
+    },
+    {
+      "precincts_reporting": "100% (687 of 687) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Asif Mahmood",
+          "votes": 93203
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Young Kim",
+          "votes": 256240
+        }
+      ],
+      "name": "U.S. House of Representatives District 40"
+    },
+    {
+      "precincts_reporting": "100% (459 of 459) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Will Rollins",
+          "votes": 94786
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Ken Calvert",
+          "votes": 260663
+        }
+      ],
+      "name": "U.S. House of Representatives District 41"
+    },
+    {
+      "precincts_reporting": "100% (218 of 218) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Robert Garcia",
+          "votes": 193
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "John Briscoe",
+          "votes": 85
+        }
+      ],
+      "name": "U.S. House of Representatives District 42"
+    },
+    {
+      "precincts_reporting": "100% (258 of 258) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Maxine Waters",
+          "votes": 184
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Omar Navarro",
+          "votes": 84
+        }
+      ],
+      "name": "U.S. House of Representatives District 43"
+    },
+    {
+      "precincts_reporting": "100% (258 of 258) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Nanette Diaz Barragan",
+          "votes": 79
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Paul Jones",
+          "votes": 171
+        }
+      ],
+      "name": "U.S. House of Representatives District 44"
+    },
+    {
+      "precincts_reporting": "100% (450 of 450) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jay F. Chen",
+          "votes": 79476
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Michelle Steel",
+          "votes": 218471
+        }
+      ],
+      "name": "U.S. House of Representatives District 45"
+    },
+    {
+      "precincts_reporting": "100% (366 of 366) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Lou Correa",
+          "votes": 188943
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Christopher J. Gonzales",
+          "votes": 68706
+        }
+      ],
+      "name": "U.S. House of Representatives District 46"
+    },
+    {
+      "precincts_reporting": "100% (534 of 534) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Katie Porter",
+          "votes": 254570
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Scott Baugh",
+          "votes": 92570
+        }
+      ],
+      "name": "U.S. House of Representatives District 47"
+    },
+    {
+      "precincts_reporting": "100% (824 of 824) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Stephen Houlahan",
+          "votes": 32935
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Darrell Issa",
+          "votes": 88699
+        }
+      ],
+      "name": "U.S. House of Representatives District 48"
+    },
+    {
+      "precincts_reporting": "100% (586 of 586) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mike Levin",
+          "votes": 92500
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Brian Maryott",
+          "votes": 34066
+        }
+      ],
+      "name": "U.S. House of Representatives District 49"
+    },
+    {
+      "precincts_reporting": "100% (701 of 701) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Scott Peters",
+          "votes": 300
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Corey Gustafson",
+          "votes": 360
+        }
+      ],
+      "name": "U.S. House of Representatives District 50"
+    },
+    {
+      "precincts_reporting": "100% (528 of 528) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Sara Jacobs",
+          "votes": 240
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Stan Caplan",
+          "votes": 300
+        }
+      ],
+      "name": "U.S. House of Representatives District 51"
+    },
+    {
+      "precincts_reporting": "100% (434 of 434) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Juan Vargas",
+          "votes": 480
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tyler Geffeney",
+          "votes": 300
+        }
+      ],
+      "name": "U.S. House of Representatives District 52"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Non",
+          "name": "Lance Ray Christensen",
+          "votes": 1998171
+        },
+        {
+          "incumbent": true,
+          "party": "Non",
+          "name": "Tony K. Thurmond",
+          "votes": 5346452
+        }
+      ],
+      "name": "Superintendent of Public Instruction"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": true,
+          "party": "Dem",
+          "name": "Fiona Ma",
+          "votes": 5344725
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Jack M. Guerrero",
+          "votes": 1996451
+        }
+      ],
+      "name": "Treasurer"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": true,
+          "party": "Dem",
+          "name": "Gavin Newsom",
+          "votes": 5363226
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Brian Dahle",
+          "votes": 1994990
+        }
+      ],
+      "name": "Governor"
+    },
+    {
+      "precincts_reporting": "100% (547 of 547) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Belle Starr Sandwith",
+          "votes": 37848
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Megan Dahle",
+          "votes": 103807
+        }
+      ],
+      "name": "State Assembly District 1"
+    },
+    {
+      "precincts_reporting": "100% (759 of 759) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jim Wood",
+          "votes": 175345
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Charlotte Svolos",
+          "votes": 63759
+        }
+      ],
+      "name": "State Assembly District 2"
+    },
+    {
+      "precincts_reporting": "78.8% (312 of 396) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "David Leon Zink",
+          "votes": 57075
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "James Gallagher",
+          "votes": 139132
+        }
+      ],
+      "name": "State Assembly District 3"
+    },
+    {
+      "precincts_reporting": "87.4% (347 of 397) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Cecilia Aguiar-Curry",
+          "votes": 90562
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Bryan Pritchard",
+          "votes": 32974
+        }
+      ],
+      "name": "State Assembly District 4"
+    },
+    {
+      "precincts_reporting": "100% (447 of 447) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Rebecca L Chenoweth",
+          "votes": 164
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Joe Patterson",
+          "votes": 152
+        }
+      ],
+      "name": "State Assembly District 5"
+    },
+    {
+      "precincts_reporting": "100% (210 of 210) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Kevin McCarty",
+          "votes": 14750
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Cathy Cook",
+          "votes": 22450
+        }
+      ],
+      "name": "State Assembly District 6"
+    },
+    {
+      "precincts_reporting": "100% (224 of 224) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ken Cooley",
+          "votes": 19846
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Josh Hoover",
+          "votes": 20454
+        }
+      ],
+      "name": "State Assembly District 7"
+    },
+    {
+      "precincts_reporting": "95.9% (281 of 293) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Jim Patterson",
+          "votes": 49247
+        },
+        {
+          "incumbent": false,
+          "party": "Lib",
+          "name": "Thomas Edward Nichols",
+          "votes": 18210
+        }
+      ],
+      "name": "State Assembly District 8"
+    },
+    {
+      "precincts_reporting": "100% (314 of 314) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mushtaq A Tahirkheli",
+          "votes": 57073
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Heath Flora",
+          "votes": 140659
+        }
+      ],
+      "name": "State Assembly District 9"
+    },
+    {
+      "precincts_reporting": "100% (190 of 190) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Eric Guerra",
+          "votes": 19139
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Stephanie Nguyen",
+          "votes": 16821
+        }
+      ],
+      "name": "State Assembly District 10"
+    },
+    {
+      "precincts_reporting": "100% (346 of 346) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Lori D Wilson",
+          "votes": 25034
+        },
+        {
+          "incumbent": false,
+          "party": "NPP",
+          "name": "Jenny Leilani Callison",
+          "votes": 11767
+        }
+      ],
+      "name": "State Assembly District 11"
+    },
+    {
+      "precincts_reporting": "100% (388 of 388) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Sara Aminzadeh",
+          "votes": 75850
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Damon Connolly",
+          "votes": 27644
+        }
+      ],
+      "name": "State Assembly District 12"
+    },
+    {
+      "precincts_reporting": "100% (211 of 211) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Veronica Vargas",
+          "votes": 47008
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Carlos Villapudua",
+          "votes": 129272
+        }
+      ],
+      "name": "State Assembly District 13"
+    },
+    {
+      "precincts_reporting": "100% (290 of 290) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Buffy Wicks",
+          "votes": 83208
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Richard Kinney",
+          "votes": 30304
+        }
+      ],
+      "name": "State Assembly District 14"
+    },
+    {
+      "precincts_reporting": "100% (574 of 574) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tim Grayson",
+          "votes": 168062
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Janell Elizabeth Proctor",
+          "votes": 61113
+        }
+      ],
+      "name": "State Assembly District 15"
+    },
+    {
+      "precincts_reporting": "100% (399 of 399) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Rebecca Bauer-Kahan",
+          "votes": 121500
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Joseph A. Rubay",
+          "votes": 44248
+        }
+      ],
+      "name": "State Assembly District 16"
+    },
+    {
+      "precincts_reporting": "100% (298 of 298) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "David Campos",
+          "votes": 57934
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Matt Haney",
+          "votes": 159321
+        }
+      ],
+      "name": "State Assembly District 17"
+    },
+    {
+      "precincts_reporting": "100% (108 of 108) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mia Bonta",
+          "votes": 113
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mindy Pechenuk",
+          "votes": 112
+        }
+      ],
+      "name": "State Assembly District 18"
+    },
+    {
+      "precincts_reporting": "100% (258 of 258) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Phil Ting",
+          "votes": 166181
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Karsten Weide",
+          "votes": 60428
+        }
+      ],
+      "name": "State Assembly District 19"
+    },
+    {
+      "precincts_reporting": "100% (257 of 257) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Shawn Kumagai",
+          "votes": 98
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Liz Ortega",
+          "votes": 99
+        }
+      ],
+      "name": "State Assembly District 20"
+    },
+    {
+      "precincts_reporting": "100% (184 of 184) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Giselle Hale",
+          "votes": 55562
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Diane Papan",
+          "votes": 152798
+        }
+      ],
+      "name": "State Assembly District 21"
+    },
+    {
+      "precincts_reporting": "100% (161 of 161) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jessica Self",
+          "votes": 131910
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Juan Alanis",
+          "votes": 47966
+        }
+      ],
+      "name": "State Assembly District 22"
+    },
+    {
+      "precincts_reporting": "100% (236 of 236) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Marc Berman",
+          "votes": 57265
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tim Dec",
+          "votes": 157481
+        }
+      ],
+      "name": "State Assembly District 23"
+    },
+    {
+      "precincts_reporting": "100% (137 of 137) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Alex Lee",
+          "votes": 55179
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Bob Brunton",
+          "votes": 20133
+        }
+      ],
+      "name": "State Assembly District 24"
+    },
+    {
+      "precincts_reporting": "100% (193 of 193) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ash Kalra",
+          "votes": 50972
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Ted Stroll",
+          "votes": 140173
+        }
+      ],
+      "name": "State Assembly District 25"
+    },
+    {
+      "precincts_reporting": "100% (146 of 146) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Evan Low",
+          "votes": 120014
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tim Gorsulowsky",
+          "votes": 43641
+        }
+      ],
+      "name": "State Assembly District 26"
+    },
+    {
+      "precincts_reporting": "100% (399 of 399) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Esmeralda Soria",
+          "votes": 65461
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mark Nicholas Pazin",
+          "votes": 23950
+        }
+      ],
+      "name": "State Assembly District 27"
+    },
+    {
+      "precincts_reporting": "100% (312 of 312) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Gail Pellerin",
+          "votes": 60829
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Liz Lawler",
+          "votes": 167284
+        }
+      ],
+      "name": "State Assembly District 28"
+    },
+    {
+      "precincts_reporting": "100% (234 of 234) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Robert Rivas",
+          "votes": 17430
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Stephanie L. Castro",
+          "votes": 42201
+        }
+      ],
+      "name": "State Assembly District 29"
+    },
+    {
+      "precincts_reporting": "100% (252 of 252) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Dawn Addis",
+          "votes": 13537
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Vicki Nohrden",
+          "votes": 33579
+        }
+      ],
+      "name": "State Assembly District 30"
+    },
+    {
+      "precincts_reporting": "100% (289 of 289) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Joaquin Arambula",
+          "votes": 511
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Dolce Misol Calandra",
+          "votes": 392
+        }
+      ],
+      "name": "State Assembly District 31"
+    },
+    {
+      "precincts_reporting": "100% (522 of 522) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Vince Fong",
+          "votes": 231746
+        }
+      ],
+      "name": "State Assembly District 32"
+    },
+    {
+      "precincts_reporting": "100% (357 of 357) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jose Sigala",
+          "votes": 71695
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Devon J. Mathis",
+          "votes": 26894
+        }
+      ],
+      "name": "State Assembly District 33"
+    },
+    {
+      "precincts_reporting": "100% (1,242 of 1,242) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tom Lackey",
+          "votes": 4669
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Thurston \"Smitty\" Smith",
+          "votes": 12759
+        }
+      ],
+      "name": "State Assembly District 34"
+    },
+    {
+      "precincts_reporting": "100% (338 of 338) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jasmeet Bains",
+          "votes": 109731
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Leticia Perez",
+          "votes": 39902
+        }
+      ],
+      "name": "State Assembly District 35"
+    },
+    {
+      "precincts_reporting": "37.4% (211 of 564) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Eduardo Garcia",
+          "votes": 129096
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Ian M. Weeks",
+          "votes": 46949
+        }
+      ],
+      "name": "State Assembly District 36"
+    },
+    {
+      "precincts_reporting": "100% (288 of 288) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Gregg Hart",
+          "votes": 133918
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mike Stoker",
+          "votes": 48904
+        }
+      ],
+      "name": "State Assembly District 37"
+    },
+    {
+      "precincts_reporting": "100% (1,054 of 1,054) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Steve Bennett",
+          "votes": 54458
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Cole Brocato",
+          "votes": 149761
+        }
+      ],
+      "name": "State Assembly District 38"
+    },
+    {
+      "precincts_reporting": "100% (264 of 264) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Juan Carrillo",
+          "votes": 72
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Paul Andre Marsh",
+          "votes": 131
+        }
+      ],
+      "name": "State Assembly District 39"
+    },
+    {
+      "precincts_reporting": "100% (266 of 266) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Pilar Schiavo",
+          "votes": 95
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Suzette Martinez Valladares",
+          "votes": 42
+        }
+      ],
+      "name": "State Assembly District 40"
+    },
+    {
+      "precincts_reporting": "100% (429 of 429) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Chris Holden",
+          "votes": 149
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Michael McMahon",
+          "votes": 67
+        }
+      ],
+      "name": "State Assembly District 41"
+    },
+    {
+      "precincts_reporting": "100% (664 of 664) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jacqui Irwin",
+          "votes": 134208
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Lori Mills",
+          "votes": 48900
+        }
+      ],
+      "name": "State Assembly District 42"
+    },
+    {
+      "precincts_reporting": "100% (108 of 108) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Luz Maria Rivas",
+          "votes": 51
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Siaka Massaquoi",
+          "votes": 91
+        }
+      ],
+      "name": "State Assembly District 43"
+    },
+    {
+      "precincts_reporting": "100% (136 of 136) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Laura Friedman",
+          "votes": 51
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Barry Curtis Jacobsen",
+          "votes": 100
+        }
+      ],
+      "name": "State Assembly District 44"
+    },
+    {
+      "precincts_reporting": "100% (512 of 512) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "James C. Ramos",
+          "votes": 36
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Joseph (Joe) W. Martinez",
+          "votes": 40
+        }
+      ],
+      "name": "State Assembly District 45"
+    },
+    {
+      "precincts_reporting": "100% (119 of 119) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jesse Gabriel",
+          "votes": 926
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Dana Caruso",
+          "votes": 360
+        }
+      ],
+      "name": "State Assembly District 46"
+    },
+    {
+      "precincts_reporting": "100% (623 of 623) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Christy Holstege",
+          "votes": 48666
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Greg Wallis",
+          "votes": 133744
+        }
+      ],
+      "name": "State Assembly District 47"
+    },
+    {
+      "precincts_reporting": "100% (265 of 265) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Blanca Rubio",
+          "votes": 67
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Ryan Maye",
+          "votes": 90
+        }
+      ],
+      "name": "State Assembly District 48"
+    },
+    {
+      "precincts_reporting": "100% (184 of 184) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mike Fong",
+          "votes": 98
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Burton Brink",
+          "votes": 63
+        }
+      ],
+      "name": "State Assembly District 49"
+    },
+    {
+      "precincts_reporting": "100% (346 of 346) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Eloise Gomez Reyes",
+          "votes": 52
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Sheela Stark",
+          "votes": 56
+        }
+      ],
+      "name": "State Assembly District 50"
+    },
+    {
+      "precincts_reporting": "100% (164 of 164) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Louis Abramson",
+          "votes": 53
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Rick Chavez Zbur",
+          "votes": 79
+        }
+      ],
+      "name": "State Assembly District 51"
+    },
+    {
+      "precincts_reporting": "100% (146 of 146) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Wendy Carrillo",
+          "votes": 57
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mia Livas Porter",
+          "votes": 83
+        }
+      ],
+      "name": "State Assembly District 52"
+    },
+    {
+      "precincts_reporting": "100% (245 of 245) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Freddie Rodriguez",
+          "votes": 97
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Toni Holle",
+          "votes": 161
+        }
+      ],
+      "name": "State Assembly District 53"
+    },
+    {
+      "precincts_reporting": "100% (120 of 120) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Miguel Santiago",
+          "votes": 95
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Elaine Alaniz",
+          "votes": 45
+        }
+      ],
+      "name": "State Assembly District 54"
+    },
+    {
+      "precincts_reporting": "100% (168 of 168) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Isaac G. Bryan",
+          "votes": 37
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Keith Girolamo Cascio",
+          "votes": 92
+        }
+      ],
+      "name": "State Assembly District 55"
+    },
+    {
+      "precincts_reporting": "100% (256 of 256) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Lisa Calderon",
+          "votes": 45
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Jessica Martinez",
+          "votes": 96
+        }
+      ],
+      "name": "State Assembly District 56"
+    },
+    {
+      "precincts_reporting": "100% (110 of 110) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Reggie Jones-Sawyer",
+          "votes": 45
+        }
+      ],
+      "name": "State Assembly District 57"
+    },
+    {
+      "precincts_reporting": "100% (151 of 151) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Sabrina Cervantes",
+          "votes": 135166
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Bernard William Murphy",
+          "votes": 49193
+        }
+      ],
+      "name": "State Assembly District 58"
+    },
+    {
+      "precincts_reporting": "100% (523 of 523) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Phillip Chen",
+          "votes": 141610
+        },
+        {
+          "incumbent": false,
+          "party": "NPP",
+          "name": "Leon Q. Sit",
+          "votes": 51541
+        }
+      ],
+      "name": "State Assembly District 59"
+    },
+    {
+      "precincts_reporting": "100% (180 of 180) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Corey A Jackson",
+          "votes": 125873
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Hector Diaz-Nava",
+          "votes": 45771
+        }
+      ],
+      "name": "State Assembly District 60"
+    },
+    {
+      "precincts_reporting": "100% (182 of 182) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tina Simone McKinnor",
+          "votes": 96
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Robert Pullen-Miles",
+          "votes": 44
+        }
+      ],
+      "name": "State Assembly District 61"
+    },
+    {
+      "precincts_reporting": "100% (131 of 131) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Maria Estrada",
+          "votes": 100
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Anthony Rendon",
+          "votes": 63
+        }
+      ],
+      "name": "State Assembly District 62"
+    },
+    {
+      "precincts_reporting": "100% (213 of 213) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Fauzia Rizvi",
+          "votes": 59524
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Bill Essayli",
+          "votes": 163693
+        }
+      ],
+      "name": "State Assembly District 63"
+    },
+    {
+      "precincts_reporting": "100% (175 of 175) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Blanca Pacheco",
+          "votes": 19000
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Raul Ortiz, Jr.",
+          "votes": 6975
+        }
+      ],
+      "name": "State Assembly District 64"
+    },
+    {
+      "precincts_reporting": "100% (180 of 180) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mike Anthony Gipson",
+          "votes": 93
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Fatima Iqbal-Zubair",
+          "votes": 56
+        }
+      ],
+      "name": "State Assembly District 65"
+    },
+    {
+      "precincts_reporting": "100% (147 of 147) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Al Muratsuchi",
+          "votes": 102
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "George Barks",
+          "votes": 35
+        }
+      ],
+      "name": "State Assembly District 66"
+    },
+    {
+      "precincts_reporting": "100% (262 of 262) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Sharon Quirk-Silva",
+          "votes": 112722
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Soo Yoo",
+          "votes": 41015
+        }
+      ],
+      "name": "State Assembly District 67"
+    },
+    {
+      "precincts_reporting": "100% (206 of 206) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Avelino Valencia",
+          "votes": 42646
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mike Tardif",
+          "votes": 117278
+        }
+      ],
+      "name": "State Assembly District 68"
+    },
+    {
+      "precincts_reporting": "100% (139 of 139) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Al Austin II",
+          "votes": 52
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Josh Lowenthal",
+          "votes": 93
+        }
+      ],
+      "name": "State Assembly District 69"
+    },
+    {
+      "precincts_reporting": "100% (268 of 268) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Diedre Thu-Ha Nguyen",
+          "votes": 52891
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Tri Ta",
+          "votes": 145451
+        }
+      ],
+      "name": "State Assembly District 70"
+    },
+    {
+      "precincts_reporting": "100% (338 of 338) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Matt Rahn",
+          "votes": 176476
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Kate Sanchez",
+          "votes": 64172
+        }
+      ],
+      "name": "State Assembly District 71"
+    },
+    {
+      "precincts_reporting": "100% (361 of 361) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Judie Mancuso",
+          "votes": 190520
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Diane Dixon",
+          "votes": 69279
+        }
+      ],
+      "name": "State Assembly District 72"
+    },
+    {
+      "precincts_reporting": "100% (321 of 321) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Cottie Petrie-Norris",
+          "votes": 144654
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Steven \"Steve\" Choi",
+          "votes": 52601
+        }
+      ],
+      "name": "State Assembly District 73"
+    },
+    {
+      "precincts_reporting": "100% (343 of 343) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Chris Duncan",
+          "votes": 77144
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Laurie Davies",
+          "votes": 28248
+        }
+      ],
+      "name": "State Assembly District 74"
+    },
+    {
+      "precincts_reporting": "100% (595 of 595) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Randy Voepel",
+          "votes": 840
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Marie Waldron",
+          "votes": 420
+        }
+      ],
+      "name": "State Assembly District 75"
+    },
+    {
+      "precincts_reporting": "100% (618 of 618) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Brian Maienschein",
+          "votes": 200
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Kristie Bruce-Lane",
+          "votes": 400
+        }
+      ],
+      "name": "State Assembly District 76"
+    },
+    {
+      "precincts_reporting": "100% (371 of 371) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tasha Boerner Horvath",
+          "votes": 240
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Dan Downey",
+          "votes": 480
+        }
+      ],
+      "name": "State Assembly District 77"
+    },
+    {
+      "precincts_reporting": "100% (331 of 331) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Chris Ward",
+          "votes": 200
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Eric E. Gonzales",
+          "votes": 100
+        }
+      ],
+      "name": "State Assembly District 78"
+    },
+    {
+      "precincts_reporting": "100% (298 of 298) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Akilah Weber",
+          "votes": 140
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Corbin Sabol",
+          "votes": 280
+        }
+      ],
+      "name": "State Assembly District 79"
+    },
+    {
+      "precincts_reporting": "100% (313 of 313) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "David Alvarez",
+          "votes": 440
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Georgette G\u00f3mez",
+          "votes": 220
+        }
+      ],
+      "name": "State Assembly District 80"
+    },
+    {
+      "precincts_reporting": "95.6% (1,089 of 1,139) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mike McGuire",
+          "votes": 237209
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Gene Yoon",
+          "votes": 86317
+        }
+      ],
+      "name": "State Senate District 2"
+    },
+    {
+      "precincts_reporting": "98.2% (673 of 685) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Marie Alvarado-Gil",
+          "votes": 235639
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tim Robertson",
+          "votes": 85865
+        }
+      ],
+      "name": "State Senate District 4"
+    },
+    {
+      "precincts_reporting": "100% (574 of 574) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Paula Villescaz",
+          "votes": 38699
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Roger Niello",
+          "votes": 10960
+        }
+      ],
+      "name": "State Senate District 6"
+    },
+    {
+      "precincts_reporting": "100% (366 of 366) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Angelique Ashby",
+          "votes": 44919
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Dave Jones",
+          "votes": 35681
+        }
+      ],
+      "name": "State Senate District 8"
+    },
+    {
+      "precincts_reporting": "100% (326 of 326) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Lily Mei",
+          "votes": 130709
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Aisha Wahab",
+          "votes": 47595
+        }
+      ],
+      "name": "State Senate District 10"
+    },
+    {
+      "precincts_reporting": "100% (748 of 748) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Susanne Gundy",
+          "votes": 189365
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Shannon Grove",
+          "votes": 69026
+        }
+      ],
+      "name": "State Senate District 12"
+    },
+    {
+      "precincts_reporting": "100% (706 of 706) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Anna Caballero",
+          "votes": 64784
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Amnon Shor",
+          "votes": 24335
+        }
+      ],
+      "name": "State Senate District 14"
+    },
+    {
+      "precincts_reporting": "100% (618 of 618) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Melissa Hurtado",
+          "votes": 64318
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "David Shepard",
+          "votes": 174844
+        }
+      ],
+      "name": "State Senate District 16"
+    },
+    {
+      "precincts_reporting": "58% (487 of 840) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Steve Padilla",
+          "votes": 94534
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Alejandro Galicia",
+          "votes": 34469
+        }
+      ],
+      "name": "State Senate District 18"
+    },
+    {
+      "precincts_reporting": "100% (224 of 224) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Daniel Hertzberg",
+          "votes": 92
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Caroline Menjivar",
+          "votes": 40
+        }
+      ],
+      "name": "State Senate District 20"
+    },
+    {
+      "precincts_reporting": "100% (572 of 572) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Susan Rubio",
+          "votes": 74
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Vincent Tsai",
+          "votes": 135
+        }
+      ],
+      "name": "State Senate District 22"
+    },
+    {
+      "precincts_reporting": "100% (358 of 358) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Ben Allen",
+          "votes": 119
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Kristina Irwin",
+          "votes": 51
+        }
+      ],
+      "name": "State Senate District 24"
+    },
+    {
+      "precincts_reporting": "100% (243 of 243) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Maria Elena Durazo",
+          "votes": 57
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Claudia Agraz",
+          "votes": 83
+        }
+      ],
+      "name": "State Senate District 26"
+    },
+    {
+      "precincts_reporting": "100% (281 of 281) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Lola Smallwood-Cuevas",
+          "votes": 102
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Cheryl C. Turner",
+          "votes": 60
+        }
+      ],
+      "name": "State Senate District 28"
+    },
+    {
+      "precincts_reporting": "100% (428 of 428) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Bob Archuleta",
+          "votes": 17016
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Mitch Clemmons",
+          "votes": 6266
+        }
+      ],
+      "name": "State Senate District 30"
+    },
+    {
+      "precincts_reporting": "100% (643 of 643) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Brian Nash",
+          "votes": 108781
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Kelly Seyarto",
+          "votes": 299075
+        }
+      ],
+      "name": "State Senate District 32"
+    },
+    {
+      "precincts_reporting": "100% (436 of 436) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tom Umberg",
+          "votes": 221810
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Rhonda Shader",
+          "votes": 80748
+        }
+      ],
+      "name": "State Senate District 34"
+    },
+    {
+      "precincts_reporting": "100% (653 of 653) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Kim Carr",
+          "votes": 117896
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Janet Nguyen",
+          "votes": 324146
+        }
+      ],
+      "name": "State Senate District 36"
+    },
+    {
+      "precincts_reporting": "100% (741 of 741) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Catherine Blakespear",
+          "votes": 37081
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Matt Gunderson",
+          "votes": 100265
+        }
+      ],
+      "name": "State Senate District 38"
+    },
+    {
+      "precincts_reporting": "100% (1,068 of 1,068) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Joseph C. Rocha",
+          "votes": 960
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Brian W. Jones",
+          "votes": 480
+        }
+      ],
+      "name": "State Senate District 40"
+    },
+    {
+      "precincts_reporting": "98.7% (7,440 of 7,536) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Jose S. Altamirano",
+          "votes": 504110
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Ted Gaines",
+          "votes": 1251390
+        }
+      ],
+      "name": "Board of Equalization District 1"
+    },
+    {
+      "precincts_reporting": "99.3% (7,349 of 7,399) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Sally J. Lieber",
+          "votes": 2278615
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Peter Coe Verbica",
+          "votes": 831218
+        }
+      ],
+      "name": "Board of Equalization District 2"
+    },
+    {
+      "precincts_reporting": "100% (3,680 of 3,680) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Tony Vazquez",
+          "votes": 158
+        },
+        {
+          "incumbent": false,
+          "party": "NPP",
+          "name": "Y. Marie Manvel",
+          "votes": 258
+        }
+      ],
+      "name": "Board of Equalization District 3"
+    },
+    {
+      "precincts_reporting": "94.9% (6,617 of 6,970) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "David Dodson",
+          "votes": 661136
+        },
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Mike Schaefer",
+          "votes": 1814031
+        }
+      ],
+      "name": "Board of Equalization District 4"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 6131272
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 1201656
+        }
+      ],
+      "name": "Proposition 01: Constitutional Right to Reproductive Freedom"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 5657557
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 1675967
+        }
+      ],
+      "name": "Proposition 26: Sports Wagering on Tribal Lands"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 6687039
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 646846
+        }
+      ],
+      "name": "Proposition 27: Online Sports Wagering Outside of Tribal Lands"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 5783504
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 1547382
+        }
+      ],
+      "name": "Proposition 28: Public School Arts and Music Education Funding"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 6089109
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 1244878
+        }
+      ],
+      "name": "Proposition 29: Regulates Kidney Dialysis Clinics"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 6482999
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 851018
+        }
+      ],
+      "name": "Proposition 30: Tax to Fund ZEV/Wildfire Programs"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "Yes",
+          "votes": 6167395
+        },
+        {
+          "incumbent": null,
+          "party": null,
+          "name": "No",
+          "votes": 1166533
+        }
+      ],
+      "name": "Proposition 31: Prohibition on Sale of Certain Tobacco Products"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": false,
+          "party": "Dem",
+          "name": "Shirley N. Weber",
+          "votes": 5353372
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Rob Bernosky",
+          "votes": 1987534
+        }
+      ],
+      "name": "Secretary of State"
+    },
+    {
+      "precincts_reporting": "99.7% (25,501 of 25,585) precincts reporting",
+      "candidates": [
+        {
+          "incumbent": true,
+          "party": "Dem",
+          "name": "Eleni Kounalakis",
+          "votes": 5322315
+        },
+        {
+          "incumbent": false,
+          "party": "Rep",
+          "name": "Angela E. Underwood Jacobs",
+          "votes": 2018361
+        }
+      ],
+      "name": "Lieutenant Governor"
+    }
+  ]
+}

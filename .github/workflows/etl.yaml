@@ -42,8 +42,13 @@ jobs:
         shell: bash
 
       - id: download-sos
-        name: Transform Secretary of State data
+        name: Download Secretary of State data
         run: pipenv run python -m src.secretary_of_state.download
+        shell: bash
+
+      - id: transform-sos
+        name: Transform Secretary of State data
+        run: pipenv run python -m src.secretary_of_state.transform
         shell: bash
 
       - id: upload

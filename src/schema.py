@@ -7,17 +7,18 @@ class CandidateResult(Schema):
     """A standardized instance of a candidate's vote totals."""
 
     name = fields.Str(required=True)
-    party = fields.Str(required=True)
+    party = fields.Str(required=True, allow_none=True)
     votes = fields.Int(required=True)
-    incumbent = fields.Boolean(required=True)
+    incumbent = fields.Boolean(required=True, allow_none=True)
 
 
 class Contest(Schema):
     """An election contest or race."""
 
     name = fields.Str(required=True)
-    description = fields.Str(required=True, allow_none=True)
-    geography = fields.Str(required=True, allow_none=True)
+    description = fields.Str(required=False, allow_none=True)
+    geography = fields.Str(required=False, allow_none=True)
+    precincts_reporting = fields.Str(required=False, allow_none=True)
     candidates = fields.List(fields.Nested(CandidateResult))
 
 
