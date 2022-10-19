@@ -29,11 +29,13 @@ def cli():
     for slug in slug_list:
         url = f"https://api.sos.ca.gov/returns/{slug}"
         data = utils.request_json(url)
+        now = utils.now().isoformat()
         if isinstance(data, list):
-            data = {"slug": slug, "url": url, "races": data}
+            data = {"slug": slug, "url": url, "scraped_datetime": now, "races": data}
         else:
             data["slug"] = slug
             data["url"] = url
+            data["scraped_datetime"] = now
 
         # Write out a timestamped file
         folder_name = f"{slug.split('/')[0]}"
