@@ -9,7 +9,8 @@ Extract, transform and load election results posted online by the California ele
 
 File | URL
 :--- | :--
-Raw | [raw/4269/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/raw/4269/latest.json)
+Secretary of State | [secretary_of_state/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/secretary_of_state/latest.json)
+Los Angeles County | [los_angeles_county/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/los_angeles_county/latest.json)
 
 ## Getting started
 
