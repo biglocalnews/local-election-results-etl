@@ -1,12 +1,61 @@
 import csv
 import json
 import pathlib
+import typing
 
 import click
 
 from .. import schema, utils
 
-THIS_DIR = pathlib.Path(__file__).parent.absolute()
+
+@click.command()
+def cli():
+    """Transform the raw data into something ready to publish."""
+    # Read in the raw file
+    raw_path = utils.RAW_DATA_DIR / "los_angeles_county" / "latest.json"
+    raw_data = json.load(open(raw_path))
+
+    corrections = get_corrections()
+
+    # Flatten the list
+    contest_list = []
+    for contestgroup in raw_data["Election"]["ContestGroups"]:
+        for contest in contestgroup["Contests"]:
+            contest_list.append(contest)
+
+    # Load it up
+    transformed_list = {
+        "scraped_datetime": utils.now().isoformat(),
+        "updated_datetime": raw_data["Timestamp"],
+        "races": [],
+    }
+    for contest in contest_list:
+        # Tidy
+        obj = ContestTransformer(contest, corrections)
+
+        # Exclude records we don't want
+        if not obj.include():
+            continue
+
+        # Add to our master list
+        transformed_list["races"].append(obj.dump())
+
+    # Write out a timestamped file
+    output_dir = utils.TRANSFORMED_DATA_DIR / "los_angeles_county"
+    timestamp_path = output_dir / f"{transformed_list['scraped_datetime']}.json"
+    utils.write_json(transformed_list, timestamp_path)
+
+    # Overwrite the latest file
+    latest_path = output_dir / "latest.json"
+    utils.write_json(transformed_list, latest_path)
+
+
+def get_corrections() -> typing.Dict:
+    """Open the lookup of corrections to the raw data."""
+    this_dir = pathlib.Path(__file__).parent.absolute()
+    correx_path = this_dir / "corrections.csv"
+    correx_reader = csv.DictReader(open(correx_path))
+    return {d["raw_name"]: d for d in correx_reader}
 
 
 class CandidateResultTransformer(schema.BaseTransformer):
@@ -32,77 +81,47 @@ class ContestTransformer(schema.BaseTransformer):
     def transform_data(self):
         """Create a new object."""
         return dict(
-            name=self.raw["name"],
-            description=self.raw["description"],
-            geography=self.raw["geography"],
+            name=self.correct_name(),
+            description=self.correct_description(),
+            geography=self.correct_geography(),
             candidates=[
                 CandidateResultTransformer(c).dump() for c in self.raw["Candidates"]
             ],
         )
 
+    def _get_correction(self):
+        try:
+            return self.corrections[self.raw["Title"]]
+        except KeyError:
+            return None
 
-@click.command()
-def cli(electionid=4269):
-    """Transform the raw data into something ready to publish."""
-    # Read in the raw file
-    raw_path = (
-        utils.RAW_DATA_DIR / "los_angeles_county" / str(electionid) / "latest.json"
-    )
-    raw_data = json.load(open(raw_path))
+    def include(self):
+        """Determine if we want to keep this record, based on our corrections."""
+        correction = self._get_correction()
+        if not correction:
+            return True
+        return correction["include"].lower() == "yes"
 
-    # Read in the contest corrections
-    correx_list = list(csv.DictReader(open(THIS_DIR / f"corrections/{electionid}.csv")))
-    correx_lookup = {d["raw_name"]: d for d in correx_list}
+    def correct_name(self):
+        """Correct the name field."""
+        correction = self._get_correction()
+        if not correction:
+            return self.raw["Title"]
+        return correction["clean_name"] or self.raw["Title"]
 
-    # Flatten the list
-    transformed_list = {
-        "scraped_datetime": utils.now().isoformat(),
-        "updated_datetime": raw_data["Timestamp"],
-        "races": [],
-    }
-    for contestgroup in raw_data["Election"]["ContestGroups"]:
-        contest_list = contestgroup["Contests"]
-        for contest in contest_list:
-            # Pull any corrections
-            try:
-                correx = correx_lookup[contest["Title"]]
-                # If we're excluding this record, skip out now
-                if correx["include"].lower() == "no":
-                    continue
+    def correct_description(self):
+        """Correct the description field."""
+        correction = self._get_correction()
+        if not correction:
+            return None
+        return correction["clean_description"] or None
 
-                # Apply corrections
-                contest["name"] = correx["clean_name"]
-                contest["description"] = correx["clean_description"]
-                contest["geography"] = correx["clean_geography"]
-
-                # Mark incumbents
-                for c in contest["Candidates"]:
-                    if c["Name"] in correx["incumbent"]:
-                        c["incumbent"] = True
-                    else:
-                        c["incumbent"] = False
-            except KeyError:
-                # For now we will let it run when there are errors.
-                # We should consider removing this once we have a real feed
-                contest["name"] = contest["Title"]
-                contest["description"] = ""
-                contest["geography"] = ""
-                pass
-
-            # Tidy
-            obj = ContestTransformer(contest).dump()
-
-            # Add to our master list
-            transformed_list["races"].append(obj)
-
-    # Write out a timestamped file
-    output_dir = utils.TRANSFORMED_DATA_DIR / "los_angeles_county" / str(electionid)
-    timestamp_path = output_dir / f"{transformed_list['scraped_datetime']}.json"
-    utils.write_json(transformed_list, timestamp_path)
-
-    # Overwrite the latest file
-    latest_path = output_dir / "latest.json"
-    utils.write_json(transformed_list, latest_path)
+    def correct_geography(self):
+        """Correct the geography field."""
+        correction = self._get_correction()
+        if not correction:
+            return None
+        return correction["clean_geography"] or None
 
 
 if __name__ == "__main__":

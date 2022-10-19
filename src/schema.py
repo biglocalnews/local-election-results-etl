@@ -16,8 +16,8 @@ class Contest(Schema):
     """An election contest or race."""
 
     name = fields.Str(required=True)
-    description = fields.Str(required=True)
-    geography = fields.Str(required=True)
+    description = fields.Str(required=True, allow_none=True)
+    geography = fields.Str(required=True, allow_none=True)
     candidates = fields.List(fields.Nested(CandidateResult))
 
 
@@ -26,11 +26,17 @@ class BaseTransformer:
 
     schema: typing.Any = None
 
-    def __init__(self, raw_data: typing.Dict):
+    def __init__(
+        self, raw_data: typing.Dict, corrections: typing.Optional[typing.Dict] = None
+    ):
         """Create a new object."""
-        # Load in the data
+        # Load
         self.raw = raw_data
+        self.corrections = corrections
+
+        # Transform
         self.transformed = self.transform_data()
+
         # Validate
         self.schema().load(self.transformed)
 
