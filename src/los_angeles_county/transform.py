@@ -10,7 +10,7 @@ from .. import schema, utils
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
 
 
-class CandidateTransformer:
+class CandidateResultTransformer:
     """Map our raw candidate results to the schema."""
 
     schema = schema.CandidateResult
@@ -80,7 +80,7 @@ def cli(electionid=4269):
 
             # Tidy
             contest["candidates"] = [
-                CandidateTransformer(c).transform() for c in contest["Candidates"]
+                CandidateResultTransformer(c).transform() for c in contest["Candidates"]
             ]
 
             # Kill cruft
