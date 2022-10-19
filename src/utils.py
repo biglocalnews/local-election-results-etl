@@ -28,7 +28,10 @@ def now() -> datetime:
 def request_json(url: str) -> typing.Dict:
     """Request the provided URL and return the JSON response as a Python dictionary."""
     print(f"🌐 Requesting JSON from {url}")
-    r = requests.get(url)
+    headers = {
+        "User-Agent": "BIG LOCAL NEWS (palewire@stanford.edu)",
+    }
+    r = requests.get(url, headers=headers)
     assert r.ok
     return r.json()
 

@@ -1,0 +1,426 @@
+{
+  "slug": "state-senate/district/all",
+  "url": "https://api.sos.ca.gov/returns/state-senate/district/all",
+  "races": [
+    {
+      "raceTitle": "State Senate District 2 - Districtwide Results",
+      "Reporting": "87.5% (997 of 1,139) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Mike McGuire",
+          "Party": "Dem",
+          "Votes": "209,972",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Gene Yoon",
+          "Party": "Rep",
+          "Votes": "76,413",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 4 - Districtwide Results",
+      "Reporting": "59.4% (407 of 685) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Marie Alvarado-Gil",
+          "Party": "Dem",
+          "Votes": "58,624",
+          "Percent": "73.2",
+          "incumbent": false
+        },
+        {
+          "Name": "Tim Robertson",
+          "Party": "Dem",
+          "Votes": "21,425",
+          "Percent": "26.8",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 6 - Districtwide Results",
+      "Reporting": "100% (574 of 574) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Paula Villescaz",
+          "Party": "Dem",
+          "Votes": "13,118",
+          "Percent": "77.9",
+          "incumbent": false
+        },
+        {
+          "Name": "Roger Niello",
+          "Party": "Rep",
+          "Votes": "3,729",
+          "Percent": "22.1",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 8 - Districtwide Results",
+      "Reporting": "100% (366 of 366) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Angelique Ashby",
+          "Party": "Dem",
+          "Votes": "15,215",
+          "Percent": "55.7",
+          "incumbent": false
+        },
+        {
+          "Name": "Dave Jones",
+          "Party": "Dem",
+          "Votes": "12,085",
+          "Percent": "44.3",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 10 - Districtwide Results",
+      "Reporting": "93.9% (306 of 326) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Lily Mei",
+          "Party": "Dem",
+          "Votes": "114,383",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Aisha Wahab",
+          "Party": "Dem",
+          "Votes": "41,658",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 12 - Districtwide Results",
+      "Reporting": "41.4% (310 of 748) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Susanne Gundy",
+          "Party": "Dem",
+          "Votes": "53,884",
+          "Percent": "73.2",
+          "incumbent": false
+        },
+        {
+          "Name": "Shannon Grove",
+          "Party": "Rep",
+          "Votes": "19,746",
+          "Percent": "26.8",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 14 - Districtwide Results",
+      "Reporting": "62.7% (443 of 706) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Anna Caballero",
+          "Party": "Dem",
+          "Votes": "459",
+          "Percent": "37.2",
+          "incumbent": false
+        },
+        {
+          "Name": "Amnon Shor",
+          "Party": "Rep",
+          "Votes": "775",
+          "Percent": "62.8",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 16 - Districtwide Results",
+      "Reporting": "47.7% (295 of 618) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Melissa Hurtado",
+          "Party": "Dem",
+          "Votes": "24,497",
+          "Percent": "27.3",
+          "incumbent": false
+        },
+        {
+          "Name": "David Shepard",
+          "Party": "Rep",
+          "Votes": "65,342",
+          "Percent": "72.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 18 - Districtwide Results",
+      "Reporting": "56.7% (476 of 840) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Steve Padilla",
+          "Party": "Dem",
+          "Votes": "88,758",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Alejandro Galicia",
+          "Party": "Rep",
+          "Votes": "32,345",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 20 - Districtwide Results",
+      "Reporting": "87.5% (196 of 224) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Daniel Hertzberg",
+          "Party": "Dem",
+          "Votes": "239,443",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Caroline Menjivar",
+          "Party": "Dem",
+          "Votes": "87,069",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 22 - Districtwide Results",
+      "Reporting": "92.1% (527 of 572) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Susan Rubio",
+          "Party": "Dem",
+          "Votes": "179,372",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Vincent Tsai",
+          "Party": "Rep",
+          "Votes": "65,246",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 24 - Districtwide Results",
+      "Reporting": "87.4% (313 of 358) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Ben Allen",
+          "Party": "Dem",
+          "Votes": "338,432",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Kristina Irwin",
+          "Party": "Rep",
+          "Votes": "123,065",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 26 - Districtwide Results",
+      "Reporting": "87.2% (212 of 243) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Maria Elena Durazo",
+          "Party": "Dem",
+          "Votes": "233,840",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Claudia Agraz",
+          "Party": "Rep",
+          "Votes": "85,032",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 28 - Districtwide Results",
+      "Reporting": "87.2% (245 of 281) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Lola Smallwood-Cuevas",
+          "Party": "Dem",
+          "Votes": "95,805",
+          "Percent": "26.7",
+          "incumbent": false
+        },
+        {
+          "Name": "Cheryl C. Turner",
+          "Party": "Dem",
+          "Votes": "263,467",
+          "Percent": "73.3",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 30 - Districtwide Results",
+      "Reporting": "87.1% (373 of 428) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Bob Archuleta",
+          "Party": "Dem",
+          "Votes": "279,890",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Mitch Clemmons",
+          "Party": "Rep",
+          "Votes": "101,777",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 32 - Districtwide Results",
+      "Reporting": "89.1% (573 of 643) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Brian Nash",
+          "Party": "Dem",
+          "Votes": "95,176",
+          "Percent": "26.7",
+          "incumbent": false
+        },
+        {
+          "Name": "Kelly Seyarto",
+          "Party": "Rep",
+          "Votes": "261,683",
+          "Percent": "73.3",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 34 - Districtwide Results",
+      "Reporting": "87.2% (380 of 436) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Tom Umberg",
+          "Party": "Dem",
+          "Votes": "213,163",
+          "Percent": "73.3",
+          "incumbent": false
+        },
+        {
+          "Name": "Rhonda Shader",
+          "Party": "Rep",
+          "Votes": "77,512",
+          "Percent": "26.7",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 36 - Districtwide Results",
+      "Reporting": "87.3% (570 of 653) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Kim Carr",
+          "Party": "Dem",
+          "Votes": "112,108",
+          "Percent": "26.7",
+          "incumbent": false
+        },
+        {
+          "Name": "Janet Nguyen",
+          "Party": "Rep",
+          "Votes": "308,301",
+          "Percent": "73.3",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 38 - Districtwide Results",
+      "Reporting": "96.9% (718 of 741) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Catherine Blakespear",
+          "Party": "Dem",
+          "Votes": "32,351",
+          "Percent": "27.0",
+          "incumbent": false
+        },
+        {
+          "Name": "Matt Gunderson",
+          "Party": "Rep",
+          "Votes": "87,684",
+          "Percent": "73.0",
+          "incumbent": false
+        }
+      ]
+    },
+    {
+      "raceTitle": "State Senate District 40 - Districtwide Results",
+      "Reporting": "100% (1,068 of 1,068) precincts reporting",
+      "ReportingTime": "October 19, 2022, 11:30 a.m.",
+      "candidates": [
+        {
+          "Name": "Joseph C. Rocha",
+          "Party": "Dem",
+          "Votes": "720",
+          "Percent": "66.7",
+          "incumbent": false
+        },
+        {
+          "Name": "Brian W. Jones",
+          "Party": "Rep",
+          "Votes": "360",
+          "Percent": "33.3",
+          "incumbent": false
+        }
+      ]
+    }
+  ]
+}

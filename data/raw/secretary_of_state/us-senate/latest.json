@@ -1,0 +1,23 @@
+{
+  "raceTitle": "U.S. Senate (Full Term) - Statewide Results",
+  "Reporting": "86.8% (22,202 of 25,585) precincts reporting",
+  "ReportingTime": "October 19, 2022, 11:30 a.m.",
+  "candidates": [
+    {
+      "Name": "Alex Padilla",
+      "Party": "Dem",
+      "Votes": "2,513,618",
+      "Percent": "26.8",
+      "incumbent": false
+    },
+    {
+      "Name": "Mark P. Meuser",
+      "Party": "Rep",
+      "Votes": "6,864,961",
+      "Percent": "73.2",
+      "incumbent": false
+    }
+  ],
+  "slug": "us-senate",
+  "url": "https://api.sos.ca.gov/returns/us-senate"
+}

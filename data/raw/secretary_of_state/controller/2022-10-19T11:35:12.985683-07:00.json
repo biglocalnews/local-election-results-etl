@@ -1,0 +1,23 @@
+{
+  "raceTitle": "Controller - Statewide Results",
+  "Reporting": "86.8% (22,202 of 25,585) precincts reporting",
+  "ReportingTime": "October 19, 2022, 11:30 a.m.",
+  "candidates": [
+    {
+      "Name": "Malia M. Cohen",
+      "Party": "Dem",
+      "Votes": "6,846,587",
+      "Percent": "73.0",
+      "incumbent": false
+    },
+    {
+      "Name": "Lanhee J. Chen",
+      "Party": "Rep",
+      "Votes": "2,531,739",
+      "Percent": "27.0",
+      "incumbent": false
+    }
+  ],
+  "slug": "controller",
+  "url": "https://api.sos.ca.gov/returns/controller"
+}

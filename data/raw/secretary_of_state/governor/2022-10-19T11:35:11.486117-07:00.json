@@ -1,0 +1,23 @@
+{
+  "raceTitle": "Governor - Statewide Results",
+  "Reporting": "86.8% (22,202 of 25,585) precincts reporting",
+  "ReportingTime": "October 19, 2022, 11:30 a.m.",
+  "candidates": [
+    {
+      "Name": "Gavin Newsom",
+      "Party": "Dem",
+      "Votes": "6,862,474",
+      "Percent": "73.2",
+      "incumbent": true
+    },
+    {
+      "Name": "Brian Dahle",
+      "Party": "Rep",
+      "Votes": "2,515,563",
+      "Percent": "26.8",
+      "incumbent": false
+    }
+  ],
+  "slug": "governor",
+  "url": "https://api.sos.ca.gov/returns/governor"
+}

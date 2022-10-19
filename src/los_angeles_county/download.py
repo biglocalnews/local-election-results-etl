@@ -12,12 +12,17 @@ def cli(electionid=4269):
 
     # Write out a timestamped file
     timestamp_path = (
-        utils.RAW_DATA_DIR / str(electionid) / f"{utils.now().isoformat()}.json"
+        utils.RAW_DATA_DIR
+        / "los_angeles_county"
+        / str(electionid)
+        / f"{utils.now().isoformat()}.json"
     )
     utils.write_json(data, timestamp_path)
 
     # Overwrite the latest file
-    latest_path = utils.RAW_DATA_DIR / str(electionid) / "latest.json"
+    latest_path = (
+        utils.RAW_DATA_DIR / "los_angeles_county" / str(electionid) / "latest.json"
+    )
     utils.write_json(data, latest_path)
 
 

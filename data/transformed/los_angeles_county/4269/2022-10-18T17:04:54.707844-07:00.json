@@ -1,15 +1,11 @@
 {
-  "scraped_datetime": "2022-10-18T08:02:38.001096-07:00",
+  "scraped_datetime": "2022-10-18T17:04:54.707844-07:00",
   "updated_datetime": "2022-07-01T11:38:48.247",
   "races": [
     {
-      "Title": "ASSESSOR",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "ASSESSOR",
+      "description": "",
+      "candidates": [
         {
           "Name": "ANTHONY LOPEZ",
           "Party": "Non Partisan",
@@ -33,13 +29,9 @@
       ]
     },
     {
-      "Title": "SUPERVISOR 1ST DISTRICT",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "SUPERVISOR 1ST DISTRICT",
+      "description": "",
+      "candidates": [
         {
           "Name": "BRIAN SMITH",
           "Party": "Non Partisan",
@@ -68,13 +60,10 @@
       ]
     },
     {
-      "Title": "Supervisor, 3rd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "Supervisor, 3rd District",
+      "description": "",
+      "geography": "Los Angeles County",
+      "candidates": [
         {
           "Name": "BOB HERTZBERG",
           "Party": "Non Partisan",
@@ -111,17 +100,12 @@
           "Votes": 22352,
           "incumbent": false
         }
-      ],
-      "geography": "Los Angeles County"
+      ]
     },
     {
-      "Title": "BELL CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "BELL CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALICIA ROMERO",
           "Party": "Non Partisan",
@@ -145,13 +129,9 @@
       ]
     },
     {
-      "Title": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION - MEASURE TL",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Term Limit Measure: Shall an ordinance be adopted by the City of Beverly Hills to establish a total three term limit during one's lifetime for the offices of City Councilmember and City Treasurer in the City of Beverly Hills?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION - MEASURE TL",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -165,13 +145,9 @@
       ]
     },
     {
-      "Title": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION City Treasurer",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+      "description": "",
+      "candidates": [
         {
           "Name": "GABRIELLE PANTERA-ROWE",
           "Party": "Non Partisan",
@@ -190,13 +166,9 @@
       ]
     },
     {
-      "Title": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than three",
-      "Candidates": [
+      "name": "BEVERLY HILLS CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "AKSHAT \"AB\" BHATIA",
           "Party": "Non Partisan",
@@ -255,13 +227,9 @@
       ]
     },
     {
-      "Title": "CITY OF AVALON GENERAL MUNICIPAL ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "CITY OF AVALON GENERAL MUNICIPAL ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "ANNI MARSHALL",
           "Party": "Non Partisan",
@@ -275,13 +243,9 @@
       ]
     },
     {
-      "Title": "CITY OF AVALON GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "CITY OF AVALON GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "CARL JOHNSON",
           "Party": "Non Partisan",
@@ -305,13 +269,9 @@
       ]
     },
     {
-      "Title": "CITY OF AVALON SPECIAL MUNICIPAL ELECTION - MEASURE S",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Shall a measure be adopted by the City of Avalon enacting a one-quarter percent (1/4%) transactions and use (sales) tax, generating approximately $250,000.00 annually for general government use, until ended by voters?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "CITY OF AVALON SPECIAL MUNICIPAL ELECTION - MEASURE S",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -325,13 +285,9 @@
       ]
     },
     {
-      "Title": "CITY OF AVALON SPECIAL MUNICIPAL ELECTION - MEASURE TT",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Shall a measure be adopted by the City of Avalon enacting a one percentage point (1%) increase to Transient Occupancy Tax (TOT), increasing the total tax from 12 to 13 percent, and reserving the increase percentage for the general fund, generating approximately $500,000.00 annually for general government use for a period of 10 years?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "CITY OF AVALON SPECIAL MUNICIPAL ELECTION - MEASURE TT",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -345,13 +301,9 @@
       ]
     },
     {
-      "Title": "COMMERCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than three",
-      "Candidates": [
+      "name": "COMMERCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALFONSO GARATE JR.",
           "Party": "Non Partisan",
@@ -385,13 +337,9 @@
       ]
     },
     {
-      "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION City Clerk",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COVINA CITY GENERAL MUNICIPAL ELECTION City Clerk",
+      "description": "",
+      "candidates": [
         {
           "Name": "ANDREW \"DREW\" ALEMAN",
           "Party": "Non Partisan",
@@ -405,13 +353,9 @@
       ]
     },
     {
-      "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION City Treasurer",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COVINA CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+      "description": "",
+      "candidates": [
         {
           "Name": "GEOFFREY COBBETT",
           "Party": "Non Partisan",
@@ -425,13 +369,9 @@
       ]
     },
     {
-      "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
+      "description": "",
+      "candidates": [
         {
           "Name": "HECTOR DELGADO",
           "Party": "Non Partisan",
@@ -450,13 +390,9 @@
       ]
     },
     {
-      "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "DAMIAN CATALAN",
           "Party": "Non Partisan",
@@ -475,13 +411,9 @@
       ]
     },
     {
-      "Title": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COVINA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "JOHN C. KING",
           "Party": "Non Partisan",
@@ -490,13 +422,9 @@
       ]
     },
     {
-      "Title": "GARDENA CITY GENERAL MUNICIPAL ELECTION City Clerk",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GARDENA CITY GENERAL MUNICIPAL ELECTION City Clerk",
+      "description": "",
+      "candidates": [
         {
           "Name": "MINA SEMENZA",
           "Party": "Non Partisan",
@@ -505,13 +433,9 @@
       ]
     },
     {
-      "Title": "GARDENA CITY GENERAL MUNICIPAL ELECTION City Treasurer",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GARDENA CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+      "description": "",
+      "candidates": [
         {
           "Name": "GUY HAJIME MATO",
           "Party": "Non Partisan",
@@ -530,13 +454,9 @@
       ]
     },
     {
-      "Title": "GARDENA CITY GENERAL MUNICIPAL ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GARDENA CITY GENERAL MUNICIPAL ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "TASHA CERDA",
           "Party": "Non Partisan",
@@ -545,13 +465,9 @@
       ]
     },
     {
-      "Title": "GARDENA CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "GARDENA CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "HAROUT (ART) KASKANIAN",
           "Party": "Non Partisan",
@@ -570,13 +486,9 @@
       ]
     },
     {
-      "Title": "GLENDALE CITY GENERAL MUNICIPAL ELECTION City Clerk",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GLENDALE CITY GENERAL MUNICIPAL ELECTION City Clerk",
+      "description": "",
+      "candidates": [
         {
           "Name": "GREG KRIKORIAN",
           "Party": "Non Partisan",
@@ -590,13 +502,9 @@
       ]
     },
     {
-      "Title": "GLENDALE CITY GENERAL MUNICIPAL ELECTION City Treasurer",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GLENDALE CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+      "description": "",
+      "candidates": [
         {
           "Name": "RAFI MANOUKIAN",
           "Party": "Non Partisan",
@@ -605,13 +513,9 @@
       ]
     },
     {
-      "Title": "GLENDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than three",
-      "Candidates": [
+      "name": "GLENDALE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "ANITA QUI\u00d1ONEZ GABRIELIAN",
           "Party": "Non Partisan",
@@ -655,13 +559,9 @@
       ]
     },
     {
-      "Title": "HUNTINGTON PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "HUNTINGTON PARK CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "KARINA MACIAS",
           "Party": "Non Partisan",
@@ -680,13 +580,9 @@
       ]
     },
     {
-      "Title": "LA CA\u00d1ADA FLINTRIDGE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "LA CA\u00d1ADA FLINTRIDGE CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "JOHN \"JACK\" SCHAEDEL",
           "Party": "Non Partisan",
@@ -710,13 +606,9 @@
       ]
     },
     {
-      "Title": "LA MIRADA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LA MIRADA CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ANDREW SAREGA",
           "Party": "Non Partisan",
@@ -735,13 +627,9 @@
       ]
     },
     {
-      "Title": "LA VERNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LA VERNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
+      "description": "",
+      "candidates": [
         {
           "Name": "MUIR DAVIS",
           "Party": "Non Partisan",
@@ -755,13 +643,9 @@
       ]
     },
     {
-      "Title": "LA VERNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LA VERNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "M. JOSEPH GABALDON",
           "Party": "Non Partisan",
@@ -775,13 +659,9 @@
       ]
     },
     {
-      "Title": "LA VERNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LA VERNE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ESTELLA V. MALDONADO",
           "Party": "Non Partisan",
@@ -800,13 +680,9 @@
       ]
     },
     {
-      "Title": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
+      "description": "",
+      "candidates": [
         {
           "Name": "MICHELLE HAMLIN",
           "Party": "Non Partisan",
@@ -820,13 +696,9 @@
       ]
     },
     {
-      "Title": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "GREGORY SLAUGHTER",
           "Party": "Non Partisan",
@@ -845,13 +717,9 @@
       ]
     },
     {
-      "Title": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LAKEWOOD CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "CASSANDRA CHASE",
           "Party": "Non Partisan",
@@ -865,13 +733,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION City Attorney",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION City Attorney",
+      "description": "",
+      "candidates": [
         {
           "Name": "DAWN MCINTOSH",
           "Party": "Non Partisan",
@@ -885,13 +749,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION City Auditor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION City Auditor",
+      "description": "",
+      "candidates": [
         {
           "Name": "DANIEL MILES",
           "Party": "Non Partisan",
@@ -905,13 +765,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION City Prosecutor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION City Prosecutor",
+      "description": "",
+      "candidates": [
         {
           "Name": "DOUG HAUBERT",
           "Party": "Non Partisan",
@@ -930,13 +786,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "DEB MOZER",
           "Party": "Non Partisan",
@@ -970,13 +822,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 1st District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 1st District",
+      "description": "",
+      "candidates": [
         {
           "Name": "LEE R. CHARLEY",
           "Party": "Non Partisan",
@@ -1005,13 +853,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 3rd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 3rd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "DEBORAH CASTRO",
           "Party": "Non Partisan",
@@ -1045,13 +889,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 5th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 5th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "IAN PATTON",
           "Party": "Non Partisan",
@@ -1075,13 +915,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 7th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 7th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALEJANDRO CORTEZ",
           "Party": "Non Partisan",
@@ -1105,13 +941,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 9th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH CITY PRIMARY NOMINATING ELECTION Member of the City Council, 9th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "GINNY GONZALES",
           "Party": "Non Partisan",
@@ -1135,13 +967,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION City Attorney",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION City Attorney",
+      "description": "",
+      "candidates": [
         {
           "Name": "FAISAL M. GILL",
           "Party": "Non Partisan",
@@ -1180,13 +1008,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Controller",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Controller",
+      "description": "",
+      "candidates": [
         {
           "Name": "DAVID T. VAHEDI",
           "Party": "Non Partisan",
@@ -1225,13 +1049,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALEX GRUENENFELDER SMITH",
           "Party": "Non Partisan",
@@ -1295,13 +1115,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 1st District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 1st District",
+      "description": "",
+      "candidates": [
         {
           "Name": "EUNISSES HERNANDEZ",
           "Party": "Non Partisan",
@@ -1315,13 +1131,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 3rd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 3rd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "BOB BLUMENFIELD",
           "Party": "Non Partisan",
@@ -1335,13 +1147,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 5th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 5th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "JIMMY BIBLARZ",
           "Party": "Non Partisan",
@@ -1365,13 +1173,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 7th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 7th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ELISA AVALOS",
           "Party": "Non Partisan",
@@ -1385,13 +1189,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 9th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 9th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "CURREN D. PRICE, JR.",
           "Party": "Non Partisan",
@@ -1405,13 +1205,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 11th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 11th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALLISON HOLDORFF POLHILL",
           "Party": "Non Partisan",
@@ -1455,13 +1251,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 13th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 13th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALBERT CORADO",
           "Party": "Non Partisan",
@@ -1490,13 +1282,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 15th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY PRIMARY NOMINATING ELECTION Member of the City Council, 15th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ANTHONY SANTICH",
           "Party": "Non Partisan",
@@ -1520,13 +1308,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES CITY SPECIAL MUNICIPAL ELECTION - MEASURE BB",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "COMPETITIVE BID PREFERENCE FOR LOCAL CONTRACT BIDDERS. CHARTER AMENDMENT BB. Shall the City Charter be amended to allow the City, on a competitive bid contract, to award a bid preference to a bidder located in the City of Los Angeles?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES CITY SPECIAL MUNICIPAL ELECTION - MEASURE BB",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -1540,13 +1324,9 @@
       ]
     },
     {
-      "Title": "LYNWOOD CITY SPECIAL MUNICIPAL ELECTION - MEASURE R",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Lynwood Governance Stabilization. Shall the ordinance limiting the number of four-year terms that may be served by members of the Lynwood City Council be limited to three consecutive terms prospectively be adopted?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LYNWOOD CITY SPECIAL MUNICIPAL ELECTION - MEASURE R",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -1560,13 +1340,9 @@
       ]
     },
     {
-      "Title": "MANHATTAN BEACH CITY SPECIAL MUNICIPAL ELECTION - MEASURE A",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "INITIATIVE ORDINANCE TO PROVIDE SUPPLEMENTAL FUNDING FOR MANHATTAN BEACH UNIFIED SCHOOL DISTRICT. Shall a measure imposing an annual flat tax of $1,095.00 on each real property parcel within the City of Manhattan Beach, and adjusted annually for inflation, for a period of twelve years, thereby generating an estimated $11,000,000 to $13,000,000 annually for investment in education, with an oversight committee and exemptions for (1) low-income individuals and (2) seniors who use their property as a principal residence, be adopted?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "MANHATTAN BEACH CITY SPECIAL MUNICIPAL ELECTION - MEASURE A",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -1580,13 +1356,9 @@
       ]
     },
     {
-      "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION - MEASURE RM",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Shall an ordinance be adopted to amend the Monrovia Municipal Code to eliminate the directly elected Mayor position, and to establish an annual rotation process among City Councilmembers for the offices of Mayor and Mayor Pro Tempore?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "MONROVIA CITY GENERAL MUNICIPAL ELECTION - MEASURE RM",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -1600,13 +1372,9 @@
       ]
     },
     {
-      "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION City Clerk",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "MONROVIA CITY GENERAL MUNICIPAL ELECTION City Clerk",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALICE D. ATKINS",
           "Party": "Non Partisan",
@@ -1615,13 +1383,9 @@
       ]
     },
     {
-      "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION City Treasurer",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "MONROVIA CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+      "description": "",
+      "candidates": [
         {
           "Name": "STEPHEN R. BAKER",
           "Party": "Non Partisan",
@@ -1630,13 +1394,9 @@
       ]
     },
     {
-      "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "MONROVIA CITY GENERAL MUNICIPAL ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "BECKY A. SHEVLIN",
           "Party": "Non Partisan",
@@ -1650,13 +1410,9 @@
       ]
     },
     {
-      "Title": "MONROVIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "MONROVIA CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "EDWARD BELDEN",
           "Party": "Non Partisan",
@@ -1690,13 +1446,9 @@
       ]
     },
     {
-      "Title": "PARAMOUNT CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "PARAMOUNT CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALLEN ALBERT GOMEZ",
           "Party": "Non Partisan",
@@ -1735,13 +1487,9 @@
       ]
     },
     {
-      "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 3",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 3",
+      "description": "",
+      "candidates": [
         {
           "Name": "BRANDON D. LAMAR",
           "Party": "Non Partisan",
@@ -1755,13 +1503,9 @@
       ]
     },
     {
-      "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 5",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 5",
+      "description": "",
+      "candidates": [
         {
           "Name": "JESS RIVAS",
           "Party": "Non Partisan",
@@ -1770,13 +1514,9 @@
       ]
     },
     {
-      "Title": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 7",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PASADENA CITY PRIMARY ELECTION Member of the City Council, District 7",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALLEN SHAY",
           "Party": "Non Partisan",
@@ -1795,13 +1535,9 @@
       ]
     },
     {
-      "Title": "ROSEMEAD CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than three",
-      "Candidates": [
+      "name": "ROSEMEAD CITY GENERAL MUNICIPAL ELECTION Member of the City Council",
+      "description": "",
+      "candidates": [
         {
           "Name": "JOANNE RUSSELL CHAVEZ",
           "Party": "Non Partisan",
@@ -1825,13 +1561,9 @@
       ]
     },
     {
-      "Title": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "EMMETT G. BADAR",
           "Party": "Non Partisan",
@@ -1845,13 +1577,9 @@
       ]
     },
     {
-      "Title": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 2nd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "BRANDON M. MOON",
           "Party": "Non Partisan",
@@ -1865,13 +1593,9 @@
       ]
     },
     {
-      "Title": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "SAN DIMAS CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 4th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "RYAN A. VIENNA",
           "Party": "Non Partisan",
@@ -1880,13 +1604,9 @@
       ]
     },
     {
-      "Title": "SOUTH GATE CITY SPECIAL MUNICIPAL ELECTION - MEASURE CC",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Shall the office of City Clerk be appointive?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "SOUTH GATE CITY SPECIAL MUNICIPAL ELECTION - MEASURE CC",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -1900,13 +1620,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION City Clerk",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY GENERAL MUNICIPAL ELECTION City Clerk",
+      "description": "",
+      "candidates": [
         {
           "Name": "REBECCA POIRIER",
           "Party": "Non Partisan",
@@ -1915,13 +1631,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION City Treasurer",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY GENERAL MUNICIPAL ELECTION City Treasurer",
+      "description": "",
+      "candidates": [
         {
           "Name": "DANA CORTEZ",
           "Party": "Non Partisan",
@@ -1950,13 +1662,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Mayor",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Mayor",
+      "description": "",
+      "candidates": [
         {
           "Name": "CLIFF NUMARK",
           "Party": "Non Partisan",
@@ -1970,13 +1678,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 1st District",
+      "description": "",
+      "candidates": [
         {
           "Name": "DAVE ZYGIELBAUM",
           "Party": "Non Partisan",
@@ -2000,13 +1704,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 3rd District",
+      "description": "",
+      "candidates": [
         {
           "Name": "ASAM SHEIKH",
           "Party": "Non Partisan",
@@ -2020,13 +1720,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY GENERAL MUNICIPAL ELECTION Member of the City Council, 5th District",
+      "description": "",
+      "candidates": [
         {
           "Name": "AURELIO MATTUCCI",
           "Party": "Non Partisan",
@@ -2040,13 +1736,9 @@
       ]
     },
     {
-      "Title": "TORRANCE CITY SPECIAL MUNICIPAL ELECTION - MEASURE SST",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Torrance Public Safety/Essential Services Measure. To maintain city services such as fire/paramedic/public safety/9-1-1 response, safe schools; protect local drinking water sources/coastal waters from pollution; keep parks/public areas safe/clean; repair streets/potholes; prevent thefts/property crime; maintain senior services; and address homelessness, shall the City of Torrance ordinance be adopted establishing a \u00bd\u00a2 sales tax for general government use, generating approximately $18,000,000 annually until ended by voters, requiring public spending disclosure, independent audits, all funds locally controlled?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "TORRANCE CITY SPECIAL MUNICIPAL ELECTION - MEASURE SST",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -2060,13 +1752,9 @@
       ]
     },
     {
-      "Title": "ANTELOPE VALLEY HEALTH CARE DISTRICT SPECIAL ELECTION - MEASURE H",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Shall the measure authorizing the Antelope Valley Healthcare District to issue 30-Year General Obligation Bonds, not to exceed $400 million at tax rates described in the voter guide, to keep Antelope Valley Hospital and its trauma center from closing by building a new hospital meeting California's Earthquake Standards, improving care by recruiting/retaining trained nurses/ physicians, reducing Emergency Room wait times, protecting privacy, expanding senior services and requiring taxpayer oversight for online transparency and accountability, be authorized?",
-      "MeasurePassRate": "2/3 of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "ANTELOPE VALLEY HEALTH CARE DISTRICT SPECIAL ELECTION - MEASURE H",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -2080,13 +1768,9 @@
       ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 3",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 3",
+      "description": "",
+      "candidates": [
         {
           "Name": "FRANK AMADOR",
           "Party": "Non Partisan",
@@ -2105,13 +1789,9 @@
       ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 60",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 60",
+      "description": "",
+      "candidates": [
         {
           "Name": "ABBY BARON",
           "Party": "Non Partisan",
@@ -2140,13 +1820,9 @@
       ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 67",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 67",
+      "description": "",
+      "candidates": [
         {
           "Name": "ELIZABETH LASHLEY-HAYNES",
           "Party": "Non Partisan",
@@ -2165,13 +1841,9 @@
       ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 70",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 70",
+      "description": "",
+      "candidates": [
         {
           "Name": "ERIC ALFONSO TORICES",
           "Party": "Non Partisan",
@@ -2200,13 +1872,9 @@
       ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 90",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 90",
+      "description": "",
+      "candidates": [
         {
           "Name": "KEVIN THOMAS MCGURK",
           "Party": "Non Partisan",
@@ -2230,13 +1898,9 @@
       ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 116",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 116",
+      "description": "",
+      "candidates": [
         {
           "Name": "DAVID B. GELFOUND",
           "Party": "Non Partisan",
@@ -2250,13 +1914,10 @@
       ]
     },
     {
-      "Title": "Superior Court Judge Office No. 118",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "Superior Court Judge Office No. 118",
+      "description": "",
+      "geography": "Los Angeles County",
+      "candidates": [
         {
           "Name": "CAROLYN \"JIYOUNG\" PARK",
           "Party": "Non Partisan",
@@ -2293,17 +1954,13 @@
           "Votes": 26754,
           "incumbent": false
         }
-      ],
-      "geography": "Los Angeles County"
+      ]
     },
     {
-      "Title": "Superior Court Judge Office No. 151",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "Superior Court Judge Office No. 151",
+      "description": "",
+      "geography": "Los Angeles County",
+      "candidates": [
         {
           "Name": "KAREN A. BRAKO",
           "Party": "Non Partisan",
@@ -2328,17 +1985,12 @@
           "Votes": 240670,
           "incumbent": false
         }
-      ],
-      "geography": "Los Angeles County"
+      ]
     },
     {
-      "Title": "JUDGE OF THE SUPERIOR COURT Office No. 156",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "JUDGE OF THE SUPERIOR COURT Office No. 156",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALBERT ROBLES",
           "Party": "Non Partisan",
@@ -2352,13 +2004,9 @@
       ]
     },
     {
-      "Title": "MEMBER OF THE STATE ASSEMBLY, 62nd District - Short Term (Unexpired term ending December 5, 2022)",
-      "Type": "Manual",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "MEMBER OF THE STATE ASSEMBLY, 62nd District - Short Term (Unexpired term ending December 5, 2022)",
+      "description": "",
+      "candidates": [
         {
           "Name": "ROBERT PULLEN-MILES",
           "Party": "Democratic",
@@ -2372,13 +2020,9 @@
       ]
     },
     {
-      "Title": "ARCADIA UNIFIED SCHOOL DISTRICT Member, Board of Education",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "Vote for no more than two",
-      "Candidates": [
+      "name": "ARCADIA UNIFIED SCHOOL DISTRICT Member, Board of Education",
+      "description": "",
+      "candidates": [
         {
           "Name": "BEN ZHANG",
           "Party": "Non Partisan",
@@ -2397,13 +2041,9 @@
       ]
     },
     {
-      "Title": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area A",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area A",
+      "description": "",
+      "candidates": [
         {
           "Name": "ADRIAN CLEVELAND",
           "Party": "Non Partisan",
@@ -2422,13 +2062,9 @@
       ]
     },
     {
-      "Title": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area E",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area E",
+      "description": "",
+      "candidates": [
         {
           "Name": "ADRIENNE MARIE THOMAS",
           "Party": "Non Partisan",
@@ -2442,13 +2078,9 @@
       ]
     },
     {
-      "Title": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area G",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "COMPTON UNIFIED SCHOOL DISTRICT Governing Board Member, Trustee Area G",
+      "description": "",
+      "candidates": [
         {
           "Name": "MARY L. JACKSON-FREENY",
           "Party": "Non Partisan",
@@ -2462,13 +2094,9 @@
       ]
     },
     {
-      "Title": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area B",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area B",
+      "description": "",
+      "candidates": [
         {
           "Name": "INGRID GUNNELL",
           "Party": "Non Partisan",
@@ -2482,13 +2110,9 @@
       ]
     },
     {
-      "Title": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area C",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area C",
+      "description": "",
+      "candidates": [
         {
           "Name": "ARMINA GHARPETIAN",
           "Party": "Non Partisan",
@@ -2502,13 +2126,9 @@
       ]
     },
     {
-      "Title": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area D",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GLENDALE UNIFIED SCHOOL DISTRICT Member, Board of Education, Trustee Area D",
+      "description": "",
+      "candidates": [
         {
           "Name": "SHANT SAHAKIAN",
           "Party": "Non Partisan",
@@ -2517,13 +2137,9 @@
       ]
     },
     {
-      "Title": "GLENDALE UNIFIED SCHOOL DISTRICT SPECIAL ELECTION - MEASURE T",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "Shall the Members of the Glendale Unified School District Board of Trustees be limited to three (3) elected terms of office?",
-      "MeasurePassRate": "Majority of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "GLENDALE UNIFIED SCHOOL DISTRICT SPECIAL ELECTION - MEASURE T",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -2537,13 +2153,9 @@
       ]
     },
     {
-      "Title": "LITTLE LAKE CITY SCHOOL DISTRICT SPECIAL ELECTION - MEASURE LL",
-      "Type": "Measure",
-      "AdditionalText": "",
-      "MeasureText": "LITTLE LAKE CITY SCHOOL DISTRICT CLASSROOM REPAIR/HEALTH/SAFETY MEASURE. To repair aging classrooms/leaking roofs to ensure student health/safety/achievement, upgrade plumbing, electrical, gas lines, heating/ventilation, security systems, classroom technology, remove asbestos, lead paint, mold, provide safe drinking water, repair, construct/acquire classrooms, sites/equipment, shall Little Lake City School District's measure authorizing $36,000,000 in bonds at legal rates, levying 3\u00a2/$100 assessed value ($2,000,000 annually) while bonds are outstanding, be adopted, with audits/oversight, all funds for local schools?",
-      "MeasurePassRate": "55% of votes cast",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LITTLE LAKE CITY SCHOOL DISTRICT SPECIAL ELECTION - MEASURE LL",
+      "description": "",
+      "candidates": [
         {
           "Name": "YES",
           "Party": "Non Partisan",
@@ -2557,13 +2169,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 1",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 1",
+      "description": "",
+      "candidates": [
         {
           "Name": "MARIA ISABEL LOPEZ",
           "Party": "Non Partisan",
@@ -2582,13 +2190,9 @@
       ]
     },
     {
-      "Title": "LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 5",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LONG BEACH UNIFIED SCHOOL DISTRICT Governing Board Member, District 5",
+      "description": "",
+      "candidates": [
         {
           "Name": "DIANA F. CRAIGHEAD",
           "Party": "Non Partisan",
@@ -2602,13 +2206,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 2",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 2",
+      "description": "",
+      "candidates": [
         {
           "Name": "ERICA VILARDI-ESPINOSA",
           "Party": "Non Partisan",
@@ -2632,13 +2232,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 4",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 4",
+      "description": "",
+      "candidates": [
         {
           "Name": "GENTILLE BARKHORDARIAN",
           "Party": "Non Partisan",
@@ -2657,13 +2253,9 @@
       ]
     },
     {
-      "Title": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 6",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "LOS ANGELES UNIFIED SCHOOL DISTRICT Member of the Board of Education, District 6",
+      "description": "",
+      "candidates": [
         {
           "Name": "JESS ARANA",
           "Party": "Non Partisan",
@@ -2682,13 +2274,9 @@
       ]
     },
     {
-      "Title": "PARAMOUNT UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PARAMOUNT UNIFIED SCHOOL DISTRICT SPECIAL ELECTION Governing Board Member (Unexpired term ending December 13, 2024)",
+      "description": "",
+      "candidates": [
         {
           "Name": "EDDIE CRUZ",
           "Party": "Non Partisan",
@@ -2702,13 +2290,9 @@
       ]
     },
     {
-      "Title": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 3",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 3",
+      "description": "",
+      "candidates": [
         {
           "Name": "BERLINDA BROWN",
           "Party": "Non Partisan",
@@ -2722,13 +2306,9 @@
       ]
     },
     {
-      "Title": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 5",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 5",
+      "description": "",
+      "candidates": [
         {
           "Name": "KRISTINE E. KWONG",
           "Party": "Non Partisan",
@@ -2742,13 +2322,9 @@
       ]
     },
     {
-      "Title": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 7",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "PASADENA AREA COMMUNITY COLLEGE DISTRICT Governing Board Member, Trustee Area No. 7",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALTON WANG",
           "Party": "Non Partisan",
@@ -2762,13 +2338,10 @@
       ]
     },
     {
-      "Title": "Sheriff",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "Sheriff",
+      "description": "",
+      "geography": "Los Angeles County",
+      "candidates": [
         {
           "Name": "ALEX VILLANUEVA",
           "Party": "Non Partisan",
@@ -2823,17 +2396,12 @@
           "Votes": 383181,
           "incumbent": false
         }
-      ],
-      "geography": "Los Angeles County"
+      ]
     },
     {
-      "Title": "UNITED STATES SENATOR - Short Term (Unexpired term ending January 3, 2023)",
-      "Type": "Candidate",
-      "AdditionalText": "",
-      "MeasureText": "",
-      "MeasurePassRate": "",
-      "VoteFor": "",
-      "Candidates": [
+      "name": "UNITED STATES SENATOR - Short Term (Unexpired term ending January 3, 2023)",
+      "description": "",
+      "candidates": [
         {
           "Name": "ALEX PADILLA",
           "Party": "Democratic",

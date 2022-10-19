@@ -7,7 +7,7 @@ from . import utils
 def cli():
     """Upload data directory to Amazon S3."""
     # Get all of the files
-    obj_list = utils.DATA_DIR.glob("**/*")
+    obj_list = utils.TRANSFORMED_DATA_DIR.glob("**/*")
     file_list = [o for o in obj_list if o.is_file() and "latest.json" in str(o)]
     print(f"📨 Uploading {len(file_list)} files")
 

@@ -1,0 +1,23 @@
+{
+  "raceTitle": "Lieutenant Governor - Statewide Results",
+  "Reporting": "86.8% (22,202 of 25,585) precincts reporting",
+  "ReportingTime": "October 19, 2022, 11:30 a.m.",
+  "candidates": [
+    {
+      "Name": "Eleni Kounalakis",
+      "Party": "Dem",
+      "Votes": "6,853,122",
+      "Percent": "73.1",
+      "incumbent": true
+    },
+    {
+      "Name": "Angela E. Underwood Jacobs",
+      "Party": "Rep",
+      "Votes": "2,525,046",
+      "Percent": "26.9",
+      "incumbent": false
+    }
+  ],
+  "slug": "lieutenant-governor",
+  "url": "https://api.sos.ca.gov/returns/lieutenant-governor"
+}

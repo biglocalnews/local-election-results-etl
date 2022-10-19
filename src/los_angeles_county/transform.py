@@ -13,7 +13,9 @@ THIS_DIR = pathlib.Path(__file__).parent.absolute()
 def cli(electionid=4269):
     """Transform the raw data into something ready to publish."""
     # Read in the raw file
-    raw_path = utils.RAW_DATA_DIR / str(electionid) / "latest.json"
+    raw_path = (
+        utils.RAW_DATA_DIR / "los_angeles_county" / str(electionid) / "latest.json"
+    )
     raw_data = json.load(open(raw_path))
 
     # Read in the contest corrections
