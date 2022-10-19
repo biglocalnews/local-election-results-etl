@@ -1,12 +1,34 @@
 import csv
 import json
 import pathlib
+import typing
 
 import click
 
-from .. import utils
+from .. import schema, utils
 
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
+
+
+class CandidateTransformer:
+    """Map our raw candidate results to the schema."""
+
+    schema = schema.CandidateResult
+
+    def __init__(self, raw_data: typing.Dict):
+        """Create a new object."""
+        self.raw = raw_data
+
+    def transform(self):
+        """Transform the object into our schema."""
+        return self.schema().dump(
+            dict(
+                name=self.raw["Name"],
+                party=self.raw["Party"],
+                votes=self.raw["Votes"],
+                incumbent=self.raw.get("incumbent", False),
+            )
+        )
 
 
 @click.command()
@@ -57,7 +79,9 @@ def cli(electionid=4269):
                 pass
 
             # Tidy
-            contest["candidates"] = contest["Candidates"]
+            contest["candidates"] = [
+                CandidateTransformer(c).transform() for c in contest["Candidates"]
+            ]
 
             # Kill cruft
             del contest["Candidates"]
@@ -80,7 +104,12 @@ def cli(electionid=4269):
     utils.write_json(transformed_list, timestamp_path)
 
     # Overwrite the latest file
-    latest_path = utils.TRANSFORMED_DATA_DIR / str(electionid) / "latest.json"
+    latest_path = (
+        utils.TRANSFORMED_DATA_DIR
+        / "los_angeles_county"
+        / str(electionid)
+        / "latest.json"
+    )
     utils.write_json(transformed_list, latest_path)
 
 

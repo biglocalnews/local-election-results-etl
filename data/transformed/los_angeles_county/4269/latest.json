@@ -1,5 +1,5 @@
 {
-  "scraped_datetime": "2022-10-19T05:01:42.157408-07:00",
+  "scraped_datetime": "2022-10-19T12:21:32.911129-07:00",
   "updated_datetime": "2022-07-01T11:38:48.247",
   "races": [
     {
@@ -7,24 +7,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ANTHONY LOPEZ",
-          "Party": "Non Partisan",
-          "Votes": 153101
+          "votes": 153101,
+          "name": "ANTHONY LOPEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JEFFREY PRANG",
-          "Party": "Non Partisan",
-          "Votes": 667160
+          "votes": 667160,
+          "name": "JEFFREY PRANG",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIKE CAMPBELL",
-          "Party": "Non Partisan",
-          "Votes": 210572
+          "votes": 210572,
+          "name": "MIKE CAMPBELL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SANDY SUN",
-          "Party": "Non Partisan",
-          "Votes": 299364
+          "votes": 299364,
+          "name": "SANDY SUN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -33,29 +37,34 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BRIAN SMITH",
-          "Party": "Non Partisan",
-          "Votes": 14375
+          "votes": 14375,
+          "name": "BRIAN SMITH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DAVID E. ARGUDO",
-          "Party": "Non Partisan",
-          "Votes": 15910
+          "votes": 15910,
+          "name": "DAVID E. ARGUDO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "HILDA SOLIS",
-          "Party": "Non Partisan",
-          "Votes": 166858
+          "votes": 166858,
+          "name": "HILDA SOLIS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KEVIN DALTON",
-          "Party": "Non Partisan",
-          "Votes": 15723
+          "votes": 15723,
+          "name": "KEVIN DALTON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TAMMY SOLIS",
-          "Party": "Non Partisan",
-          "Votes": 6935
+          "votes": 6935,
+          "name": "TAMMY SOLIS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -65,39 +74,39 @@
       "geography": "Los Angeles County",
       "candidates": [
         {
-          "Name": "BOB HERTZBERG",
-          "Party": "Non Partisan",
-          "Votes": 105923,
+          "votes": 105923,
+          "name": "BOB HERTZBERG",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "CRAIG A. BRILL",
-          "Party": "Non Partisan",
-          "Votes": 7743,
+          "votes": 7743,
+          "name": "CRAIG A. BRILL",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "HENRY STERN",
-          "Party": "Non Partisan",
-          "Votes": 82852,
+          "votes": 82852,
+          "name": "HENRY STERN",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "JEFFI GIRGENTI",
-          "Party": "Non Partisan",
-          "Votes": 27382,
+          "votes": 27382,
+          "name": "JEFFI GIRGENTI",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "LINDSEY HORVATH",
-          "Party": "Non Partisan",
-          "Votes": 94528,
+          "votes": 94528,
+          "name": "LINDSEY HORVATH",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "ROXANNE BECKFORD HOGE",
-          "Party": "Non Partisan",
-          "Votes": 22352,
+          "votes": 22352,
+          "name": "ROXANNE BECKFORD HOGE",
+          "party": "Non Partisan",
           "incumbent": false
         }
       ]
@@ -107,24 +116,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALICIA ROMERO",
-          "Party": "Non Partisan",
-          "Votes": 965
+          "votes": 965,
+          "name": "ALICIA ROMERO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ANA MARIA QUINTANA",
-          "Party": "Non Partisan",
-          "Votes": 1310
+          "votes": 1310,
+          "name": "ANA MARIA QUINTANA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARCOS A. OLIVA",
-          "Party": "Non Partisan",
-          "Votes": 250
+          "votes": 250,
+          "name": "MARCOS A. OLIVA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NESTOR ENRIQUE VALENCIA",
-          "Party": "Non Partisan",
-          "Votes": 683
+          "votes": 683,
+          "name": "NESTOR ENRIQUE VALENCIA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -133,14 +146,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 6405
+          "votes": 6405,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 1453
+          "votes": 1453,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -149,19 +164,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GABRIELLE PANTERA-ROWE",
-          "Party": "Non Partisan",
-          "Votes": 619
+          "votes": 619,
+          "name": "GABRIELLE PANTERA-ROWE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "HOWARD S. FISHER",
-          "Party": "Non Partisan",
-          "Votes": 4100
+          "votes": 4100,
+          "name": "HOWARD S. FISHER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JAKE MANASTER",
-          "Party": "Non Partisan",
-          "Votes": 1878
+          "votes": 1878,
+          "name": "JAKE MANASTER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -170,59 +188,70 @@
       "description": "",
       "candidates": [
         {
-          "Name": "AKSHAT \"AB\" BHATIA",
-          "Party": "Non Partisan",
-          "Votes": 351
+          "votes": 351,
+          "name": "AKSHAT \"AB\" BHATIA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ANDY LICHT",
-          "Party": "Non Partisan",
-          "Votes": 2476
+          "votes": 2476,
+          "name": "ANDY LICHT",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DARIAN BOJEAUX",
-          "Party": "Non Partisan",
-          "Votes": 834
+          "votes": 834,
+          "name": "DARIAN BOJEAUX",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOHN A. MIRISCH",
-          "Party": "Non Partisan",
-          "Votes": 2634
+          "votes": 2634,
+          "name": "JOHN A. MIRISCH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KEVIN KUGLEY",
-          "Party": "Non Partisan",
-          "Votes": 405
+          "votes": 405,
+          "name": "KEVIN KUGLEY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LESTER FRIEDMAN",
-          "Party": "Non Partisan",
-          "Votes": 3571
+          "votes": 3571,
+          "name": "LESTER FRIEDMAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ROBERT (BOB) WUNDERLICH",
-          "Party": "Non Partisan",
-          "Votes": 2560
+          "votes": 2560,
+          "name": "ROBERT (BOB) WUNDERLICH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ROBIN ROWE",
-          "Party": "Non Partisan",
-          "Votes": 346
+          "votes": 346,
+          "name": "ROBIN ROWE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SHARONA NAZARIAN",
-          "Party": "Non Partisan",
-          "Votes": 3565
+          "votes": 3565,
+          "name": "SHARONA NAZARIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SHIVA GORDON BAGHERI",
-          "Party": "Non Partisan",
-          "Votes": 512
+          "votes": 512,
+          "name": "SHIVA GORDON BAGHERI",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "VERA MARKOWITZ",
-          "Party": "Non Partisan",
-          "Votes": 1924
+          "votes": 1924,
+          "name": "VERA MARKOWITZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -231,14 +260,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ANNI MARSHALL",
-          "Party": "Non Partisan",
-          "Votes": 428
+          "votes": 428,
+          "name": "ANNI MARSHALL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "CINDE MACGUGAN-CASSIDY",
-          "Party": "Non Partisan",
-          "Votes": 247
+          "votes": 247,
+          "name": "CINDE MACGUGAN-CASSIDY",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -247,24 +278,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "CARL JOHNSON",
-          "Party": "Non Partisan",
-          "Votes": 196
+          "votes": 196,
+          "name": "CARL JOHNSON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARY SCHICKLING",
-          "Party": "Non Partisan",
-          "Votes": 366
+          "votes": 366,
+          "name": "MARY SCHICKLING",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MICHAEL PONCE",
-          "Party": "Non Partisan",
-          "Votes": 335
+          "votes": 335,
+          "name": "MICHAEL PONCE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "OLEY OLSEN",
-          "Party": "Non Partisan",
-          "Votes": 335
+          "votes": 335,
+          "name": "OLEY OLSEN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -273,14 +308,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 229
+          "votes": 229,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 444
+          "votes": 444,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -289,14 +326,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 312
+          "votes": 312,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 359
+          "votes": 359,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -305,34 +344,40 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALFONSO GARATE JR.",
-          "Party": "Non Partisan",
-          "Votes": 342
+          "votes": 342,
+          "name": "ALFONSO GARATE JR.",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "IVAN ALTAMIRANO",
-          "Party": "Non Partisan",
-          "Votes": 859
+          "votes": 859,
+          "name": "IVAN ALTAMIRANO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KEVIN LAINEZ",
-          "Party": "Non Partisan",
-          "Votes": 959
+          "votes": 959,
+          "name": "KEVIN LAINEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LEONARD MENDOZA",
-          "Party": "Non Partisan",
-          "Votes": 728
+          "votes": 728,
+          "name": "LEONARD MENDOZA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIREYA GARCIA",
-          "Party": "Non Partisan",
-          "Votes": 1049
+          "votes": 1049,
+          "name": "MIREYA GARCIA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "YVETTE GAYTAN",
-          "Party": "Non Partisan",
-          "Votes": 385
+          "votes": 385,
+          "name": "YVETTE GAYTAN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -341,14 +386,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ANDREW \"DREW\" ALEMAN",
-          "Party": "Non Partisan",
-          "Votes": 3414
+          "votes": 3414,
+          "name": "ANDREW \"DREW\" ALEMAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARY LOU WALCZAK",
-          "Party": "Non Partisan",
-          "Votes": 3127
+          "votes": 3127,
+          "name": "MARY LOU WALCZAK",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -357,14 +404,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GEOFFREY COBBETT",
-          "Party": "Non Partisan",
-          "Votes": 3027
+          "votes": 3027,
+          "name": "GEOFFREY COBBETT",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NEIL POLZIN",
-          "Party": "Non Partisan",
-          "Votes": 3510
+          "votes": 3510,
+          "name": "NEIL POLZIN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -373,19 +422,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "HECTOR DELGADO",
-          "Party": "Non Partisan",
-          "Votes": 684
+          "votes": 684,
+          "name": "HECTOR DELGADO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JONATHON HARRIS",
-          "Party": "Non Partisan",
-          "Votes": 241
+          "votes": 241,
+          "name": "JONATHON HARRIS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARTIN DOMINGUEZ",
-          "Party": "Non Partisan",
-          "Votes": 225
+          "votes": 225,
+          "name": "MARTIN DOMINGUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -394,19 +446,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DAMIAN CATALAN",
-          "Party": "Non Partisan",
-          "Votes": 303
+          "votes": 303,
+          "name": "DAMIAN CATALAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOSEPH \"JOE\" RODRIGUEZ",
-          "Party": "Non Partisan",
-          "Votes": 450
+          "votes": 450,
+          "name": "JOSEPH \"JOE\" RODRIGUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "VICTOR LINARES",
-          "Party": "Non Partisan",
-          "Votes": 745
+          "votes": 745,
+          "name": "VICTOR LINARES",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -415,9 +470,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "JOHN C. KING",
-          "Party": "Non Partisan",
-          "Votes": 1140
+          "votes": 1140,
+          "name": "JOHN C. KING",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -426,9 +482,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "MINA SEMENZA",
-          "Party": "Non Partisan",
-          "Votes": 7180
+          "votes": 7180,
+          "name": "MINA SEMENZA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -437,19 +494,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GUY HAJIME MATO",
-          "Party": "Non Partisan",
-          "Votes": 3028
+          "votes": 3028,
+          "name": "GUY HAJIME MATO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KATHLEEN SUSAN EVANS",
-          "Party": "Non Partisan",
-          "Votes": 1847
+          "votes": 1847,
+          "name": "KATHLEEN SUSAN EVANS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LOUIS ENRIQUEZ",
-          "Party": "Non Partisan",
-          "Votes": 2778
+          "votes": 2778,
+          "name": "LOUIS ENRIQUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -458,9 +518,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "TASHA CERDA",
-          "Party": "Non Partisan",
-          "Votes": 7104
+          "votes": 7104,
+          "name": "TASHA CERDA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -469,19 +530,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "HAROUT (ART) KASKANIAN",
-          "Party": "Non Partisan",
-          "Votes": 3664
+          "votes": 3664,
+          "name": "HAROUT (ART) KASKANIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RODNEY G. TANAKA",
-          "Party": "Non Partisan",
-          "Votes": 5115
+          "votes": 5115,
+          "name": "RODNEY G. TANAKA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "WANDA LOVE",
-          "Party": "Non Partisan",
-          "Votes": 3815
+          "votes": 3815,
+          "name": "WANDA LOVE",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -490,14 +554,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GREG KRIKORIAN",
-          "Party": "Non Partisan",
-          "Votes": 14771
+          "votes": 14771,
+          "name": "GREG KRIKORIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SUZIE ABAJIAN",
-          "Party": "Non Partisan",
-          "Votes": 16456
+          "votes": 16456,
+          "name": "SUZIE ABAJIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -506,9 +572,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "RAFI MANOUKIAN",
-          "Party": "Non Partisan",
-          "Votes": 24386
+          "votes": 24386,
+          "name": "RAFI MANOUKIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -517,44 +584,52 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ANITA QUI\u00d1ONEZ GABRIELIAN",
-          "Party": "Non Partisan",
-          "Votes": 9859
+          "votes": 9859,
+          "name": "ANITA QUI\u00d1ONEZ GABRIELIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ARA JAMES NAJARIAN",
-          "Party": "Non Partisan",
-          "Votes": 11881
+          "votes": 11881,
+          "name": "ARA JAMES NAJARIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DAN BROTMAN",
-          "Party": "Non Partisan",
-          "Votes": 15621
+          "votes": 15621,
+          "name": "DAN BROTMAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ELEN ASATRYAN",
-          "Party": "Non Partisan",
-          "Votes": 13165
+          "votes": 13165,
+          "name": "ELEN ASATRYAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ISABEL VALENCIA-TEVANYAN",
-          "Party": "Non Partisan",
-          "Votes": 3070
+          "votes": 3070,
+          "name": "ISABEL VALENCIA-TEVANYAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JORDAN HENRY",
-          "Party": "Non Partisan",
-          "Votes": 7819
+          "votes": 7819,
+          "name": "JORDAN HENRY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KAREN KWAK",
-          "Party": "Non Partisan",
-          "Votes": 8804
+          "votes": 8804,
+          "name": "KAREN KWAK",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "VREJ AGAJANIAN",
-          "Party": "Non Partisan",
-          "Votes": 11735
+          "votes": 11735,
+          "name": "VREJ AGAJANIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -563,19 +638,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "KARINA MACIAS",
-          "Party": "Non Partisan",
-          "Votes": 2600
+          "votes": 2600,
+          "name": "KARINA MACIAS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MANUEL \"MANNY\" AVILA",
-          "Party": "Non Partisan",
-          "Votes": 2151
+          "votes": 2151,
+          "name": "MANUEL \"MANNY\" AVILA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "VICENTE CADENA",
-          "Party": "Non Partisan",
-          "Votes": 1143
+          "votes": 1143,
+          "name": "VICENTE CADENA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -584,24 +662,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "JOHN \"JACK\" SCHAEDEL",
-          "Party": "Non Partisan",
-          "Votes": 2510
+          "votes": 2510,
+          "name": "JOHN \"JACK\" SCHAEDEL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KIM BOWMAN",
-          "Party": "Non Partisan",
-          "Votes": 3159
+          "votes": 3159,
+          "name": "KIM BOWMAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARIJA DECKER",
-          "Party": "Non Partisan",
-          "Votes": 2012
+          "votes": 2012,
+          "name": "MARIJA DECKER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MICHAEL DAVITT",
-          "Party": "Non Partisan",
-          "Votes": 3158
+          "votes": 3158,
+          "name": "MICHAEL DAVITT",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -610,19 +692,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ANDREW SAREGA",
-          "Party": "Non Partisan",
-          "Votes": 570
+          "votes": 570,
+          "name": "ANDREW SAREGA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "CHRIS PFLANZER",
-          "Party": "Non Partisan",
-          "Votes": 567
+          "votes": 567,
+          "name": "CHRIS PFLANZER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DAVID CONSTANTINE",
-          "Party": "Non Partisan",
-          "Votes": 523
+          "votes": 523,
+          "name": "DAVID CONSTANTINE",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -631,14 +716,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "MUIR DAVIS",
-          "Party": "Non Partisan",
-          "Votes": 768
+          "votes": 768,
+          "name": "MUIR DAVIS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEVEN FRANK JOHNSON",
-          "Party": "Non Partisan",
-          "Votes": 877
+          "votes": 877,
+          "name": "STEVEN FRANK JOHNSON",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -647,14 +734,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "M. JOSEPH GABALDON",
-          "Party": "Non Partisan",
-          "Votes": 932
+          "votes": 932,
+          "name": "M. JOSEPH GABALDON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MESHAL \"KASH\" KASHIFALGHITA",
-          "Party": "Non Partisan",
-          "Votes": 1114
+          "votes": 1114,
+          "name": "MESHAL \"KASH\" KASHIFALGHITA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -663,19 +752,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ESTELLA V. MALDONADO",
-          "Party": "Non Partisan",
-          "Votes": 232
+          "votes": 232,
+          "name": "ESTELLA V. MALDONADO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RICH GILL",
-          "Party": "Non Partisan",
-          "Votes": 66
+          "votes": 66,
+          "name": "RICH GILL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TIM HEPBURN",
-          "Party": "Non Partisan",
-          "Votes": 1557
+          "votes": 1557,
+          "name": "TIM HEPBURN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -684,14 +776,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "MICHELLE HAMLIN",
-          "Party": "Non Partisan",
-          "Votes": 743
+          "votes": 743,
+          "name": "MICHELLE HAMLIN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TODD ROGERS",
-          "Party": "Non Partisan",
-          "Votes": 2544
+          "votes": 2544,
+          "name": "TODD ROGERS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -700,19 +794,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GREGORY SLAUGHTER",
-          "Party": "Non Partisan",
-          "Votes": 660
+          "votes": 660,
+          "name": "GREGORY SLAUGHTER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LAURA SANCHEZ RAMIREZ",
-          "Party": "Non Partisan",
-          "Votes": 941
+          "votes": 941,
+          "name": "LAURA SANCHEZ RAMIREZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEVE CROFT",
-          "Party": "Non Partisan",
-          "Votes": 1408
+          "votes": 1408,
+          "name": "STEVE CROFT",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -721,14 +818,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "CASSANDRA CHASE",
-          "Party": "Non Partisan",
-          "Votes": 897
+          "votes": 897,
+          "name": "CASSANDRA CHASE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "VERONICA LUCIO",
-          "Party": "Non Partisan",
-          "Votes": 785
+          "votes": 785,
+          "name": "VERONICA LUCIO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -737,14 +836,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DAWN MCINTOSH",
-          "Party": "Non Partisan",
-          "Votes": 38633
+          "votes": 38633,
+          "name": "DAWN MCINTOSH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GERRIE SCHIPSKE",
-          "Party": "Non Partisan",
-          "Votes": 31838
+          "votes": 31838,
+          "name": "GERRIE SCHIPSKE",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -753,14 +854,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DANIEL MILES",
-          "Party": "Non Partisan",
-          "Votes": 27958
+          "votes": 27958,
+          "name": "DANIEL MILES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LAURA L. DOUD",
-          "Party": "Non Partisan",
-          "Votes": 42409
+          "votes": 42409,
+          "name": "LAURA L. DOUD",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -769,19 +872,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DOUG HAUBERT",
-          "Party": "Non Partisan",
-          "Votes": 39812
+          "votes": 39812,
+          "name": "DOUG HAUBERT",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GEORGE MOYER",
-          "Party": "Non Partisan",
-          "Votes": 15953
+          "votes": 15953,
+          "name": "GEORGE MOYER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NICK LIDDI III",
-          "Party": "Non Partisan",
-          "Votes": 14923
+          "votes": 14923,
+          "name": "NICK LIDDI III",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -790,34 +896,40 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DEB MOZER",
-          "Party": "Non Partisan",
-          "Votes": 1511
+          "votes": 1511,
+          "name": "DEB MOZER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "FRANKLIN I. SIMS",
-          "Party": "Non Partisan",
-          "Votes": 2121
+          "votes": 2121,
+          "name": "FRANKLIN I. SIMS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOSHUA RODRIGUEZ",
-          "Party": "Non Partisan",
-          "Votes": 6286
+          "votes": 6286,
+          "name": "JOSHUA RODRIGUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RAUL CEDILLO",
-          "Party": "Non Partisan",
-          "Votes": 4563
+          "votes": 4563,
+          "name": "RAUL CEDILLO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "REX RICHARDSON",
-          "Party": "Non Partisan",
-          "Votes": 33791
+          "votes": 33791,
+          "name": "REX RICHARDSON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SUZIE PRICE",
-          "Party": "Non Partisan",
-          "Votes": 28331
+          "votes": 28331,
+          "name": "SUZIE PRICE",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -826,29 +938,34 @@
       "description": "",
       "candidates": [
         {
-          "Name": "LEE R. CHARLEY",
-          "Party": "Non Partisan",
-          "Votes": 417
+          "votes": 417,
+          "name": "LEE R. CHARLEY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARIELA SALGADO",
-          "Party": "Non Partisan",
-          "Votes": 1477
+          "votes": 1477,
+          "name": "MARIELA SALGADO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARY L. ZENDEJAS",
-          "Party": "Non Partisan",
-          "Votes": 2597
+          "votes": 2597,
+          "name": "MARY L. ZENDEJAS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEVEN ESTRADA",
-          "Party": "Non Partisan",
-          "Votes": 441
+          "votes": 441,
+          "name": "STEVEN ESTRADA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ZACK DEERE",
-          "Party": "Non Partisan",
-          "Votes": 236
+          "votes": 236,
+          "name": "ZACK DEERE",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -857,34 +974,40 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DEBORAH CASTRO",
-          "Party": "Non Partisan",
-          "Votes": 1196
+          "votes": 1196,
+          "name": "DEBORAH CASTRO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GREG MAGNUSON",
-          "Party": "Non Partisan",
-          "Votes": 2249
+          "votes": 2249,
+          "name": "GREG MAGNUSON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KAILEE CARUSO",
-          "Party": "Non Partisan",
-          "Votes": 2773
+          "votes": 2773,
+          "name": "KAILEE CARUSO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KRISTINA DUGGAN",
-          "Party": "Non Partisan",
-          "Votes": 3051
+          "votes": 3051,
+          "name": "KRISTINA DUGGAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARK GUILLEN",
-          "Party": "Non Partisan",
-          "Votes": 1665
+          "votes": 1665,
+          "name": "MARK GUILLEN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NIMA J. NOVIN",
-          "Party": "Non Partisan",
-          "Votes": 2686
+          "votes": 2686,
+          "name": "NIMA J. NOVIN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -893,24 +1016,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "IAN PATTON",
-          "Party": "Non Partisan",
-          "Votes": 4575
+          "votes": 4575,
+          "name": "IAN PATTON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JEANNINE BEDARD",
-          "Party": "Non Partisan",
-          "Votes": 1580
+          "votes": 1580,
+          "name": "JEANNINE BEDARD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LINDA VALDEZ",
-          "Party": "Non Partisan",
-          "Votes": 1507
+          "votes": 1507,
+          "name": "LINDA VALDEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MEGAN KERR",
-          "Party": "Non Partisan",
-          "Votes": 7211
+          "votes": 7211,
+          "name": "MEGAN KERR",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -919,24 +1046,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALEJANDRO CORTEZ",
-          "Party": "Non Partisan",
-          "Votes": 543
+          "votes": 543,
+          "name": "ALEJANDRO CORTEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "CARLOS S. OVALLE",
-          "Party": "Non Partisan",
-          "Votes": 1770
+          "votes": 1770,
+          "name": "CARLOS S. OVALLE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RAUL V. JALLORINA",
-          "Party": "Non Partisan",
-          "Votes": 128
+          "votes": 128,
+          "name": "RAUL V. JALLORINA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ROBERTO URANGA",
-          "Party": "Non Partisan",
-          "Votes": 3351
+          "votes": 3351,
+          "name": "ROBERTO URANGA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -945,24 +1076,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GINNY GONZALES",
-          "Party": "Non Partisan",
-          "Votes": 953
+          "votes": 953,
+          "name": "GINNY GONZALES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GUS OROZCO",
-          "Party": "Non Partisan",
-          "Votes": 580
+          "votes": 580,
+          "name": "GUS OROZCO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JONI RICKS-ODDIE",
-          "Party": "Non Partisan",
-          "Votes": 2007
+          "votes": 2007,
+          "name": "JONI RICKS-ODDIE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RAUL NARIO",
-          "Party": "Non Partisan",
-          "Votes": 534
+          "votes": 534,
+          "name": "RAUL NARIO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -971,39 +1106,46 @@
       "description": "",
       "candidates": [
         {
-          "Name": "FAISAL M. GILL",
-          "Party": "Non Partisan",
-          "Votes": 137554
+          "votes": 137554,
+          "name": "FAISAL M. GILL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "HYDEE FELDSTEIN SOTO",
-          "Party": "Non Partisan",
-          "Votes": 112978
+          "votes": 112978,
+          "name": "HYDEE FELDSTEIN SOTO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KEVIN JAMES",
-          "Party": "Non Partisan",
-          "Votes": 51606
+          "votes": 51606,
+          "name": "KEVIN JAMES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARINA TORRES",
-          "Party": "Non Partisan",
-          "Votes": 112842
+          "votes": 112842,
+          "name": "MARINA TORRES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RICHARD KIM",
-          "Party": "Non Partisan",
-          "Votes": 93660
+          "votes": 93660,
+          "name": "RICHARD KIM",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SHERRI ONICA VALLE COLE",
-          "Party": "Non Partisan",
-          "Votes": 30421
+          "votes": 30421,
+          "name": "SHERRI ONICA VALLE COLE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TEDDY KAPUR",
-          "Party": "Non Partisan",
-          "Votes": 28716
+          "votes": 28716,
+          "name": "TEDDY KAPUR",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1012,39 +1154,46 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DAVID T. VAHEDI",
-          "Party": "Non Partisan",
-          "Votes": 39240
+          "votes": 39240,
+          "name": "DAVID T. VAHEDI",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "J. CAROLAN O'GABHANN",
-          "Party": "Non Partisan",
-          "Votes": 21984
+          "votes": 21984,
+          "name": "J. CAROLAN O'GABHANN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KENNETH MEJIA",
-          "Party": "Non Partisan",
-          "Votes": 240374
+          "votes": 240374,
+          "name": "KENNETH MEJIA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "PAUL KORETZ",
-          "Party": "Non Partisan",
-          "Votes": 131921
+          "votes": 131921,
+          "name": "PAUL KORETZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "REID LIDOW",
-          "Party": "Non Partisan",
-          "Votes": 21769
+          "votes": 21769,
+          "name": "REID LIDOW",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ROB WILCOX",
-          "Party": "Non Partisan",
-          "Votes": 13460
+          "votes": 13460,
+          "name": "ROB WILCOX",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEPHANIE CLEMENTS",
-          "Party": "Non Partisan",
-          "Votes": 88678
+          "votes": 88678,
+          "name": "STEPHANIE CLEMENTS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1053,64 +1202,76 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALEX GRUENENFELDER SMITH",
-          "Party": "Non Partisan",
-          "Votes": 6153
+          "votes": 6153,
+          "name": "ALEX GRUENENFELDER SMITH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ANDREW KIM",
-          "Party": "Non Partisan",
-          "Votes": 9405
+          "votes": 9405,
+          "name": "ANDREW KIM",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "CRAIG E. GREIWE",
-          "Party": "Non Partisan",
-          "Votes": 2439
+          "votes": 2439,
+          "name": "CRAIG E. GREIWE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GINA VIOLA",
-          "Party": "Non Partisan",
-          "Votes": 44341
+          "votes": 44341,
+          "name": "GINA VIOLA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOE BUSCAINO",
-          "Party": "Non Partisan",
-          "Votes": 4485
+          "votes": 4485,
+          "name": "JOE BUSCAINO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOHN \"JSAMUEL\" JACKSON",
-          "Party": "Non Partisan",
-          "Votes": 1511
+          "votes": 1511,
+          "name": "JOHN \"JSAMUEL\" JACKSON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KAREN RUTH BASS",
-          "Party": "Non Partisan",
-          "Votes": 278511
+          "votes": 278511,
+          "name": "KAREN RUTH BASS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KEVIN DE LE\u00d3N",
-          "Party": "Non Partisan",
-          "Votes": 50372
+          "votes": 50372,
+          "name": "KEVIN DE LE\u00d3N",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MEL WILSON",
-          "Party": "Non Partisan",
-          "Votes": 2336
+          "votes": 2336,
+          "name": "MEL WILSON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIKE FEUER",
-          "Party": "Non Partisan",
-          "Votes": 12087
+          "votes": 12087,
+          "name": "MIKE FEUER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RAMIT VARMA",
-          "Party": "Non Partisan",
-          "Votes": 1916
+          "votes": 1916,
+          "name": "RAMIT VARMA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RICK J. CARUSO",
-          "Party": "Non Partisan",
-          "Votes": 232490
+          "votes": 232490,
+          "name": "RICK J. CARUSO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1119,14 +1280,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "EUNISSES HERNANDEZ",
-          "Party": "Non Partisan",
-          "Votes": 16108
+          "votes": 16108,
+          "name": "EUNISSES HERNANDEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GILBERT \"GIL\" CEDILLO",
-          "Party": "Non Partisan",
-          "Votes": 13700
+          "votes": 13700,
+          "name": "GILBERT \"GIL\" CEDILLO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1135,14 +1298,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BOB BLUMENFIELD",
-          "Party": "Non Partisan",
-          "Votes": 24659
+          "votes": 24659,
+          "name": "BOB BLUMENFIELD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SCOTT SILVERSTEIN",
-          "Party": "Non Partisan",
-          "Votes": 12469
+          "votes": 12469,
+          "name": "SCOTT SILVERSTEIN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1151,24 +1316,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "JIMMY BIBLARZ",
-          "Party": "Non Partisan",
-          "Votes": 6268
+          "votes": 6268,
+          "name": "JIMMY BIBLARZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KATY YOUNG YAROSLAVSKY",
-          "Party": "Non Partisan",
-          "Votes": 28039
+          "votes": 28039,
+          "name": "KATY YOUNG YAROSLAVSKY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SAM YEBRI",
-          "Party": "Non Partisan",
-          "Votes": 16998
+          "votes": 16998,
+          "name": "SAM YEBRI",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SCOTT EPSTEIN",
-          "Party": "Non Partisan",
-          "Votes": 5954
+          "votes": 5954,
+          "name": "SCOTT EPSTEIN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1177,14 +1346,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ELISA AVALOS",
-          "Party": "Non Partisan",
-          "Votes": 9577
+          "votes": 9577,
+          "name": "ELISA AVALOS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MONICA RODRIGUEZ",
-          "Party": "Non Partisan",
-          "Votes": 20267
+          "votes": 20267,
+          "name": "MONICA RODRIGUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1193,14 +1364,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "CURREN D. PRICE, JR.",
-          "Party": "Non Partisan",
-          "Votes": 8286
+          "votes": 8286,
+          "name": "CURREN D. PRICE, JR.",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DULCE VASQUEZ",
-          "Party": "Non Partisan",
-          "Votes": 4242
+          "votes": 4242,
+          "name": "DULCE VASQUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1209,44 +1382,52 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALLISON HOLDORFF POLHILL",
-          "Party": "Non Partisan",
-          "Votes": 5805
+          "votes": 5805,
+          "name": "ALLISON HOLDORFF POLHILL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ERIN DARLING",
-          "Party": "Non Partisan",
-          "Votes": 22939
+          "votes": 22939,
+          "name": "ERIN DARLING",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GREG GOOD",
-          "Party": "Non Partisan",
-          "Votes": 6565
+          "votes": 6565,
+          "name": "GREG GOOD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JIM MUREZ",
-          "Party": "Non Partisan",
-          "Votes": 3286
+          "votes": 3286,
+          "name": "JIM MUREZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MAT SMITH",
-          "Party": "Non Partisan",
-          "Votes": 2590
+          "votes": 2590,
+          "name": "MAT SMITH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIDSANON \"SONI\" LLOYD",
-          "Party": "Non Partisan",
-          "Votes": 1116
+          "votes": 1116,
+          "name": "MIDSANON \"SONI\" LLOYD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIKE NEWHOUSE",
-          "Party": "Non Partisan",
-          "Votes": 4702
+          "votes": 4702,
+          "name": "MIKE NEWHOUSE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TRACI PARK",
-          "Party": "Non Partisan",
-          "Votes": 19168
+          "votes": 19168,
+          "name": "TRACI PARK",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1255,29 +1436,34 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALBERT CORADO",
-          "Party": "Non Partisan",
-          "Votes": 2081
+          "votes": 2081,
+          "name": "ALBERT CORADO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "HUGO SOTO-MARTINEZ",
-          "Party": "Non Partisan",
-          "Votes": 19196
+          "votes": 19196,
+          "name": "HUGO SOTO-MARTINEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KATE PYNOOS",
-          "Party": "Non Partisan",
-          "Votes": 7371
+          "votes": 7371,
+          "name": "KATE PYNOOS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MITCH O'FARRELL",
-          "Party": "Non Partisan",
-          "Votes": 14952
+          "votes": 14952,
+          "name": "MITCH O'FARRELL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEVE JOHNSON",
-          "Party": "Non Partisan",
-          "Votes": 3648
+          "votes": 3648,
+          "name": "STEVE JOHNSON",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1286,24 +1472,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ANTHONY SANTICH",
-          "Party": "Non Partisan",
-          "Votes": 4512
+          "votes": 4512,
+          "name": "ANTHONY SANTICH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "BRYANT ODEGA",
-          "Party": "Non Partisan",
-          "Votes": 4137
+          "votes": 4137,
+          "name": "BRYANT ODEGA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DANIELLE SANDOVAL",
-          "Party": "Non Partisan",
-          "Votes": 7704
+          "votes": 7704,
+          "name": "DANIELLE SANDOVAL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TIM MCOSKER",
-          "Party": "Non Partisan",
-          "Votes": 9891
+          "votes": 9891,
+          "name": "TIM MCOSKER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1312,14 +1502,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 373956
+          "votes": 373956,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 178665
+          "votes": 178665,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1328,14 +1520,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 2483
+          "votes": 2483,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 1589
+          "votes": 1589,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1344,14 +1538,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 4352
+          "votes": 4352,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 9255
+          "votes": 9255,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1360,14 +1556,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 1861
+          "votes": 1861,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 5903
+          "votes": 5903,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1376,9 +1574,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALICE D. ATKINS",
-          "Party": "Non Partisan",
-          "Votes": 6692
+          "votes": 6692,
+          "name": "ALICE D. ATKINS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1387,9 +1586,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "STEPHEN R. BAKER",
-          "Party": "Non Partisan",
-          "Votes": 6043
+          "votes": 6043,
+          "name": "STEPHEN R. BAKER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1398,14 +1598,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BECKY A. SHEVLIN",
-          "Party": "Non Partisan",
-          "Votes": 6426
+          "votes": 6426,
+          "name": "BECKY A. SHEVLIN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEPHEN H. GROLLNEK",
-          "Party": "Non Partisan",
-          "Votes": 1028
+          "votes": 1028,
+          "name": "STEPHEN H. GROLLNEK",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1414,34 +1616,40 @@
       "description": "",
       "candidates": [
         {
-          "Name": "EDWARD BELDEN",
-          "Party": "Non Partisan",
-          "Votes": 1429
+          "votes": 1429,
+          "name": "EDWARD BELDEN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GENIA MILLS",
-          "Party": "Non Partisan",
-          "Votes": 696
+          "votes": 696,
+          "name": "GENIA MILLS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LARRY J. SPICER",
-          "Party": "Non Partisan",
-          "Votes": 3307
+          "votes": 3307,
+          "name": "LARRY J. SPICER",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SASHA ZAROYAN",
-          "Party": "Non Partisan",
-          "Votes": 2533
+          "votes": 2533,
+          "name": "SASHA ZAROYAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SERGIO JIMENEZ",
-          "Party": "Non Partisan",
-          "Votes": 2121
+          "votes": 2121,
+          "name": "SERGIO JIMENEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TAMALA KELLY",
-          "Party": "Non Partisan",
-          "Votes": 3163
+          "votes": 3163,
+          "name": "TAMALA KELLY",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1450,39 +1658,46 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALLEN ALBERT GOMEZ",
-          "Party": "Non Partisan",
-          "Votes": 358
+          "votes": 358,
+          "name": "ALLEN ALBERT GOMEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ANNETTE C. DELGADILLO",
-          "Party": "Non Partisan",
-          "Votes": 992
+          "votes": 992,
+          "name": "ANNETTE C. DELGADILLO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOSE DE LEON",
-          "Party": "Non Partisan",
-          "Votes": 456
+          "votes": 456,
+          "name": "JOSE DE LEON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LINDA TIMMONS",
-          "Party": "Non Partisan",
-          "Votes": 923
+          "votes": 923,
+          "name": "LINDA TIMMONS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "PEGGY LEMONS",
-          "Party": "Non Partisan",
-          "Votes": 1226
+          "votes": 1226,
+          "name": "PEGGY LEMONS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TONY RODRICK WARFIELD",
-          "Party": "Non Partisan",
-          "Votes": 301
+          "votes": 301,
+          "name": "TONY RODRICK WARFIELD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "YESENIA MARIA CUARENTA",
-          "Party": "Non Partisan",
-          "Votes": 985
+          "votes": 985,
+          "name": "YESENIA MARIA CUARENTA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1491,14 +1706,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BRANDON D. LAMAR",
-          "Party": "Non Partisan",
-          "Votes": 1081
+          "votes": 1081,
+          "name": "BRANDON D. LAMAR",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JOHN J. KENNEDY",
-          "Party": "Non Partisan",
-          "Votes": 1552
+          "votes": 1552,
+          "name": "JOHN J. KENNEDY",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1507,9 +1724,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "JESS RIVAS",
-          "Party": "Non Partisan",
-          "Votes": 2237
+          "votes": 2237,
+          "name": "JESS RIVAS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1518,19 +1736,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALLEN SHAY",
-          "Party": "Non Partisan",
-          "Votes": 644
+          "votes": 644,
+          "name": "ALLEN SHAY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "CIRAN HADJIAN",
-          "Party": "Non Partisan",
-          "Votes": 1872
+          "votes": 1872,
+          "name": "CIRAN HADJIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JASON LYON",
-          "Party": "Non Partisan",
-          "Votes": 2678
+          "votes": 2678,
+          "name": "JASON LYON",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1539,24 +1760,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "JOANNE RUSSELL CHAVEZ",
-          "Party": "Non Partisan",
-          "Votes": 1538
+          "votes": 1538,
+          "name": "JOANNE RUSSELL CHAVEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARGARET \"MAGGIE\" CLARK",
-          "Party": "Non Partisan",
-          "Votes": 2747
+          "votes": 2747,
+          "name": "MARGARET \"MAGGIE\" CLARK",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SANDRA ARMENTA",
-          "Party": "Non Partisan",
-          "Votes": 2369
+          "votes": 2369,
+          "name": "SANDRA ARMENTA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEVEN LY",
-          "Party": "Non Partisan",
-          "Votes": 2298
+          "votes": 2298,
+          "name": "STEVEN LY",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1565,14 +1790,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "EMMETT G. BADAR",
-          "Party": "Non Partisan",
-          "Votes": 4209
+          "votes": 4209,
+          "name": "EMMETT G. BADAR",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RUTH N. LUEVAND",
-          "Party": "Non Partisan",
-          "Votes": 3485
+          "votes": 3485,
+          "name": "RUTH N. LUEVAND",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1581,14 +1808,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BRANDON M. MOON",
-          "Party": "Non Partisan",
-          "Votes": 398
+          "votes": 398,
+          "name": "BRANDON M. MOON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ERIC NAKANO",
-          "Party": "Non Partisan",
-          "Votes": 1140
+          "votes": 1140,
+          "name": "ERIC NAKANO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1597,9 +1826,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "RYAN A. VIENNA",
-          "Party": "Non Partisan",
-          "Votes": 1551
+          "votes": 1551,
+          "name": "RYAN A. VIENNA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1608,14 +1838,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 2458
+          "votes": 2458,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 3333
+          "votes": 3333,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1624,9 +1856,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "REBECCA POIRIER",
-          "Party": "Non Partisan",
-          "Votes": 25761
+          "votes": 25761,
+          "name": "REBECCA POIRIER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1635,29 +1868,34 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DANA CORTEZ",
-          "Party": "Non Partisan",
-          "Votes": 5065
+          "votes": 5065,
+          "name": "DANA CORTEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "G. RICK MARSHALL",
-          "Party": "Non Partisan",
-          "Votes": 5212
+          "votes": 5212,
+          "name": "G. RICK MARSHALL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MELISSA M. WRIGHT",
-          "Party": "Non Partisan",
-          "Votes": 4261
+          "votes": 4261,
+          "name": "MELISSA M. WRIGHT",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIKE GRIFFITHS",
-          "Party": "Non Partisan",
-          "Votes": 7466
+          "votes": 7466,
+          "name": "MIKE GRIFFITHS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TIM GOODRICH",
-          "Party": "Non Partisan",
-          "Votes": 9179
+          "votes": 9179,
+          "name": "TIM GOODRICH",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1666,14 +1904,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "CLIFF NUMARK",
-          "Party": "Non Partisan",
-          "Votes": 15363
+          "votes": 15363,
+          "name": "CLIFF NUMARK",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "GEORGE CHEN",
-          "Party": "Non Partisan",
-          "Votes": 18245
+          "votes": 18245,
+          "name": "GEORGE CHEN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1682,24 +1922,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DAVE ZYGIELBAUM",
-          "Party": "Non Partisan",
-          "Votes": 1147
+          "votes": 1147,
+          "name": "DAVE ZYGIELBAUM",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DAVID M. KARTSONIS",
-          "Party": "Non Partisan",
-          "Votes": 891
+          "votes": 891,
+          "name": "DAVID M. KARTSONIS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JIMMY GOW",
-          "Party": "Non Partisan",
-          "Votes": 988
+          "votes": 988,
+          "name": "JIMMY GOW",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JON KAJI",
-          "Party": "Non Partisan",
-          "Votes": 2451
+          "votes": 2451,
+          "name": "JON KAJI",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1708,14 +1952,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ASAM SHEIKH",
-          "Party": "Non Partisan",
-          "Votes": 2550
+          "votes": 2550,
+          "name": "ASAM SHEIKH",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LAUREN COTNER",
-          "Party": "Non Partisan",
-          "Votes": 1772
+          "votes": 1772,
+          "name": "LAUREN COTNER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1724,14 +1970,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "AURELIO MATTUCCI",
-          "Party": "Non Partisan",
-          "Votes": 3648
+          "votes": 3648,
+          "name": "AURELIO MATTUCCI",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "H. JEAN ADELSMAN",
-          "Party": "Non Partisan",
-          "Votes": 3632
+          "votes": 3632,
+          "name": "H. JEAN ADELSMAN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1740,14 +1988,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 17996
+          "votes": 17996,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 14755
+          "votes": 14755,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1756,14 +2006,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 25756
+          "votes": 25756,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 19105
+          "votes": 19105,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1772,19 +2024,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "FRANK AMADOR",
-          "Party": "Non Partisan",
-          "Votes": 177533
+          "votes": 177533,
+          "name": "FRANK AMADOR",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SHERILYN PEACE GARNETT",
-          "Party": "Non Partisan",
-          "Votes": 791133
+          "votes": 791133,
+          "name": "SHERILYN PEACE GARNETT",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TIM REUBEN",
-          "Party": "Non Partisan",
-          "Votes": 296344
+          "votes": 296344,
+          "name": "TIM REUBEN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1793,29 +2048,34 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ABBY BARON",
-          "Party": "Non Partisan",
-          "Votes": 387025
+          "votes": 387025,
+          "name": "ABBY BARON",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ANNA SLOTKY REITANO",
-          "Party": "Non Partisan",
-          "Votes": 359512
+          "votes": 359512,
+          "name": "ANNA SLOTKY REITANO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARK ROSENFELD",
-          "Party": "Non Partisan",
-          "Votes": 120711
+          "votes": 120711,
+          "name": "MARK ROSENFELD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SHARON RANSOM",
-          "Party": "Non Partisan",
-          "Votes": 282196
+          "votes": 282196,
+          "name": "SHARON RANSOM",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TROY SLATEN",
-          "Party": "Non Partisan",
-          "Votes": 128024
+          "votes": 128024,
+          "name": "TROY SLATEN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1824,19 +2084,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ELIZABETH LASHLEY-HAYNES",
-          "Party": "Non Partisan",
-          "Votes": 477815
+          "votes": 477815,
+          "name": "ELIZABETH LASHLEY-HAYNES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "FERNANDA MARIA BARRETO",
-          "Party": "Non Partisan",
-          "Votes": 464697
+          "votes": 464697,
+          "name": "FERNANDA MARIA BARRETO",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RYAN DIBBLE",
-          "Party": "Non Partisan",
-          "Votes": 343228
+          "votes": 343228,
+          "name": "RYAN DIBBLE",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1845,29 +2108,34 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ERIC ALFONSO TORICES",
-          "Party": "Non Partisan",
-          "Votes": 91757
+          "votes": 91757,
+          "name": "ERIC ALFONSO TORICES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "HOLLY L. HANCOCK",
-          "Party": "Non Partisan",
-          "Votes": 604725
+          "votes": 604725,
+          "name": "HOLLY L. HANCOCK",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MATTHEW VODNOY",
-          "Party": "Non Partisan",
-          "Votes": 69534
+          "votes": 69534,
+          "name": "MATTHEW VODNOY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RANDY FUDGE",
-          "Party": "Non Partisan",
-          "Votes": 116217
+          "votes": 116217,
+          "name": "RANDY FUDGE",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "RENEE YOLANDE CHANG",
-          "Party": "Non Partisan",
-          "Votes": 412307
+          "votes": 412307,
+          "name": "RENEE YOLANDE CHANG",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1876,24 +2144,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "KEVIN THOMAS MCGURK",
-          "Party": "Non Partisan",
-          "Votes": 353589
+          "votes": 353589,
+          "name": "KEVIN THOMAS MCGURK",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LESLIE GUTIERREZ",
-          "Party": "Non Partisan",
-          "Votes": 355881
+          "votes": 355881,
+          "name": "LESLIE GUTIERREZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MELISSA LYONS",
-          "Party": "Non Partisan",
-          "Votes": 452247
+          "votes": 452247,
+          "name": "MELISSA LYONS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NASER (NAS) KHOURY",
-          "Party": "Non Partisan",
-          "Votes": 120161
+          "votes": 120161,
+          "name": "NASER (NAS) KHOURY",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1902,14 +2174,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DAVID B. GELFOUND",
-          "Party": "Non Partisan",
-          "Votes": 806538
+          "votes": 806538,
+          "name": "DAVID B. GELFOUND",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LLOYD E. HANDLER",
-          "Party": "Non Partisan",
-          "Votes": 435631
+          "votes": 435631,
+          "name": "LLOYD E. HANDLER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -1919,39 +2193,39 @@
       "geography": "Los Angeles County",
       "candidates": [
         {
-          "Name": "CAROLYN \"JIYOUNG\" PARK",
-          "Party": "Non Partisan",
-          "Votes": 288424,
+          "votes": 288424,
+          "name": "CAROLYN \"JIYOUNG\" PARK",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "GEORGIA HUERTA",
-          "Party": "Non Partisan",
-          "Votes": 193439,
+          "votes": 193439,
+          "name": "GEORGIA HUERTA",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "KEITH KOYANO",
-          "Party": "Non Partisan",
-          "Votes": 216998,
+          "votes": 216998,
+          "name": "KEITH KOYANO",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "KLINT MCKAY",
-          "Party": "Non Partisan",
-          "Votes": 176898,
+          "votes": 176898,
+          "name": "KLINT MCKAY",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "MELISSA HAMMOND",
-          "Party": "Non Partisan",
-          "Votes": 377672,
+          "votes": 377672,
+          "name": "MELISSA HAMMOND",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "S. (SHAWN) THEVER",
-          "Party": "Non Partisan",
-          "Votes": 26754,
+          "votes": 26754,
+          "name": "S. (SHAWN) THEVER",
+          "party": "Non Partisan",
           "incumbent": false
         }
       ]
@@ -1962,27 +2236,27 @@
       "geography": "Los Angeles County",
       "candidates": [
         {
-          "Name": "KAREN A. BRAKO",
-          "Party": "Non Partisan",
-          "Votes": 301745,
+          "votes": 301745,
+          "name": "KAREN A. BRAKO",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "PATRICK HARE",
-          "Party": "Non Partisan",
-          "Votes": 494095,
+          "votes": 494095,
+          "name": "PATRICK HARE",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "RICHARD QUI\u00d1ONES",
-          "Party": "Non Partisan",
-          "Votes": 220597,
+          "votes": 220597,
+          "name": "RICHARD QUI\u00d1ONES",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "THOMAS D. ALLISON",
-          "Party": "Non Partisan",
-          "Votes": 240670,
+          "votes": 240670,
+          "name": "THOMAS D. ALLISON",
+          "party": "Non Partisan",
           "incumbent": false
         }
       ]
@@ -1992,14 +2266,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALBERT ROBLES",
-          "Party": "Non Partisan",
-          "Votes": 387413
+          "votes": 387413,
+          "name": "ALBERT ROBLES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "CAROL ELSWICK",
-          "Party": "Non Partisan",
-          "Votes": 841715
+          "votes": 841715,
+          "name": "CAROL ELSWICK",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2008,14 +2284,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ROBERT PULLEN-MILES",
-          "Party": "Democratic",
-          "Votes": 28359
+          "votes": 28359,
+          "name": "ROBERT PULLEN-MILES",
+          "party": "Democratic",
+          "incumbent": false
         },
         {
-          "Name": "TINA SIMONE MCKINNOR",
-          "Party": "Democratic",
-          "Votes": 31348
+          "votes": 31348,
+          "name": "TINA SIMONE MCKINNOR",
+          "party": "Democratic",
+          "incumbent": false
         }
       ]
     },
@@ -2024,19 +2302,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BEN ZHANG",
-          "Party": "Non Partisan",
-          "Votes": 3542
+          "votes": 3542,
+          "name": "BEN ZHANG",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "FENTON ENG",
-          "Party": "Non Partisan",
-          "Votes": 5494
+          "votes": 5494,
+          "name": "FENTON ENG",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LEIGH CHAVEZ",
-          "Party": "Non Partisan",
-          "Votes": 6000
+          "votes": 6000,
+          "name": "LEIGH CHAVEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2045,19 +2326,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ADRIAN CLEVELAND",
-          "Party": "Non Partisan",
-          "Votes": 246
+          "votes": 246,
+          "name": "ADRIAN CLEVELAND",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "DENZELL O. PERRY",
-          "Party": "Non Partisan",
-          "Votes": 750
+          "votes": 750,
+          "name": "DENZELL O. PERRY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LAQUISHA ANDERSON",
-          "Party": "Non Partisan",
-          "Votes": 252
+          "votes": 252,
+          "name": "LAQUISHA ANDERSON",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2066,14 +2350,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ADRIENNE MARIE THOMAS",
-          "Party": "Non Partisan",
-          "Votes": 457
+          "votes": 457,
+          "name": "ADRIENNE MARIE THOMAS",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ALMA TAYLOR PLEASANT",
-          "Party": "Non Partisan",
-          "Votes": 580
+          "votes": 580,
+          "name": "ALMA TAYLOR PLEASANT",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2082,14 +2368,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "MARY L. JACKSON-FREENY",
-          "Party": "Non Partisan",
-          "Votes": 1305
+          "votes": 1305,
+          "name": "MARY L. JACKSON-FREENY",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SATRA D. ZURITA",
-          "Party": "Non Partisan",
-          "Votes": 1309
+          "votes": 1309,
+          "name": "SATRA D. ZURITA",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2098,14 +2386,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "INGRID GUNNELL",
-          "Party": "Non Partisan",
-          "Votes": 3919
+          "votes": 3919,
+          "name": "INGRID GUNNELL",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LERNA AMIRYANS",
-          "Party": "Non Partisan",
-          "Votes": 3792
+          "votes": 3792,
+          "name": "LERNA AMIRYANS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2114,14 +2404,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ARMINA GHARPETIAN",
-          "Party": "Non Partisan",
-          "Votes": 4102
+          "votes": 4102,
+          "name": "ARMINA GHARPETIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KATHLEEN CROSS",
-          "Party": "Non Partisan",
-          "Votes": 4317
+          "votes": 4317,
+          "name": "KATHLEEN CROSS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2130,9 +2422,10 @@
       "description": "",
       "candidates": [
         {
-          "Name": "SHANT SAHAKIAN",
-          "Party": "Non Partisan",
-          "Votes": 5100
+          "votes": 5100,
+          "name": "SHANT SAHAKIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2141,14 +2434,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 32698
+          "votes": 32698,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 4023
+          "votes": 4023,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2157,14 +2452,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "YES",
-          "Party": "Non Partisan",
-          "Votes": 2638
+          "votes": 2638,
+          "name": "YES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NO",
-          "Party": "Non Partisan",
-          "Votes": 1608
+          "votes": 1608,
+          "name": "NO",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2173,19 +2470,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "MARIA ISABEL LOPEZ",
-          "Party": "Non Partisan",
-          "Votes": 5185
+          "votes": 5185,
+          "name": "MARIA ISABEL LOPEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NUBIA FLORES",
-          "Party": "Non Partisan",
-          "Votes": 3769
+          "votes": 3769,
+          "name": "NUBIA FLORES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SHARIFA BATTS",
-          "Party": "Non Partisan",
-          "Votes": 3377
+          "votes": 3377,
+          "name": "SHARIFA BATTS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2194,14 +2494,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "DIANA F. CRAIGHEAD",
-          "Party": "Non Partisan",
-          "Votes": 14046
+          "votes": 14046,
+          "name": "DIANA F. CRAIGHEAD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MELISSA PITTSCUTLER",
-          "Party": "Non Partisan",
-          "Votes": 8475
+          "votes": 8475,
+          "name": "MELISSA PITTSCUTLER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2210,24 +2512,28 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ERICA VILARDI-ESPINOSA",
-          "Party": "Non Partisan",
-          "Votes": 5823
+          "votes": 5823,
+          "name": "ERICA VILARDI-ESPINOSA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARIA BRENES",
-          "Party": "Non Partisan",
-          "Votes": 22938
+          "votes": 22938,
+          "name": "MARIA BRENES",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MIGUEL ANGEL SEGURA",
-          "Party": "Non Partisan",
-          "Votes": 13289
+          "votes": 13289,
+          "name": "MIGUEL ANGEL SEGURA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ROC\u00cdO RIVAS",
-          "Party": "Non Partisan",
-          "Votes": 33272
+          "votes": 33272,
+          "name": "ROC\u00cdO RIVAS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2236,19 +2542,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "GENTILLE BARKHORDARIAN",
-          "Party": "Non Partisan",
-          "Votes": 19200
+          "votes": 19200,
+          "name": "GENTILLE BARKHORDARIAN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "NICK MELVOIN",
-          "Party": "Non Partisan",
-          "Votes": 82696
+          "votes": 82696,
+          "name": "NICK MELVOIN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "TRACEY SCHROEDER",
-          "Party": "Non Partisan",
-          "Votes": 36377
+          "votes": 36377,
+          "name": "TRACEY SCHROEDER",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2257,19 +2566,22 @@
       "description": "",
       "candidates": [
         {
-          "Name": "JESS ARANA",
-          "Party": "Non Partisan",
-          "Votes": 14334
+          "votes": 14334,
+          "name": "JESS ARANA",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "KELLY GONEZ",
-          "Party": "Non Partisan",
-          "Votes": 32702
+          "votes": 32702,
+          "name": "KELLY GONEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "MARVIN A. RODR\u00cdGUEZ",
-          "Party": "Non Partisan",
-          "Votes": 21495
+          "votes": 21495,
+          "name": "MARVIN A. RODR\u00cdGUEZ",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2278,14 +2590,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "EDDIE CRUZ",
-          "Party": "Non Partisan",
-          "Votes": 2847
+          "votes": 2847,
+          "name": "EDDIE CRUZ",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "SANDRA NILDA CUEVAS",
-          "Party": "Non Partisan",
-          "Votes": 2225
+          "votes": 2225,
+          "name": "SANDRA NILDA CUEVAS",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2294,14 +2608,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "BERLINDA BROWN",
-          "Party": "Non Partisan",
-          "Votes": 3399
+          "votes": 3399,
+          "name": "BERLINDA BROWN",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "STEVE GIBSON",
-          "Party": "Non Partisan",
-          "Votes": 5202
+          "votes": 5202,
+          "name": "STEVE GIBSON",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2310,14 +2626,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "KRISTINE E. KWONG",
-          "Party": "Non Partisan",
-          "Votes": 6075
+          "votes": 6075,
+          "name": "KRISTINE E. KWONG",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "LINDA S. WAH",
-          "Party": "Non Partisan",
-          "Votes": 5444
+          "votes": 5444,
+          "name": "LINDA S. WAH",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2326,14 +2644,16 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALTON WANG",
-          "Party": "Non Partisan",
-          "Votes": 4636
+          "votes": 4636,
+          "name": "ALTON WANG",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "ANTHONY R. FELLOW",
-          "Party": "Non Partisan",
-          "Votes": 4417
+          "votes": 4417,
+          "name": "ANTHONY R. FELLOW",
+          "party": "Non Partisan",
+          "incumbent": false
         }
       ]
     },
@@ -2343,57 +2663,57 @@
       "geography": "Los Angeles County",
       "candidates": [
         {
-          "Name": "ALEX VILLANUEVA",
-          "Party": "Non Partisan",
-          "Votes": 454556,
+          "votes": 454556,
+          "name": "ALEX VILLANUEVA",
+          "party": "Non Partisan",
           "incumbent": true
         },
         {
-          "Name": "APRIL SAUCEDO HOOD",
-          "Party": "Non Partisan",
-          "Votes": 34370,
+          "votes": 34370,
+          "name": "APRIL SAUCEDO HOOD",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "BRITTA S. STEINBRENNER",
-          "Party": "Non Partisan",
-          "Votes": 66191,
+          "votes": 66191,
+          "name": "BRITTA S. STEINBRENNER",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "CECIL RHAMBO",
-          "Party": "Non Partisan",
-          "Votes": 113386,
+          "votes": 113386,
+          "name": "CECIL RHAMBO",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "ELI VERA",
-          "Party": "Non Partisan",
-          "Votes": 63757,
+          "votes": 63757,
+          "name": "ELI VERA",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "ERIC STRONG",
-          "Party": "Non Partisan",
-          "Votes": 232274,
+          "votes": 232274,
+          "name": "ERIC STRONG",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "KARLA YESENIA CARRANZA",
-          "Party": "Non Partisan",
-          "Votes": 75688,
+          "votes": 75688,
+          "name": "KARLA YESENIA CARRANZA",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "MATT RODRIGUEZ",
-          "Party": "Non Partisan",
-          "Votes": 59103,
+          "votes": 59103,
+          "name": "MATT RODRIGUEZ",
+          "party": "Non Partisan",
           "incumbent": false
         },
         {
-          "Name": "ROBERT LUNA",
-          "Party": "Non Partisan",
-          "Votes": 383181,
+          "votes": 383181,
+          "name": "ROBERT LUNA",
+          "party": "Non Partisan",
           "incumbent": false
         }
       ]
@@ -2403,44 +2723,52 @@
       "description": "",
       "candidates": [
         {
-          "Name": "ALEX PADILLA",
-          "Party": "Democratic",
-          "Votes": 958208
+          "votes": 958208,
+          "name": "ALEX PADILLA",
+          "party": "Democratic",
+          "incumbent": false
         },
         {
-          "Name": "DAN O'DOWD",
-          "Party": "Democratic",
-          "Votes": 50096
+          "votes": 50096,
+          "name": "DAN O'DOWD",
+          "party": "Democratic",
+          "incumbent": false
         },
         {
-          "Name": "DAPHNE BRADFORD",
-          "Party": "Non Partisan",
-          "Votes": 25389
+          "votes": 25389,
+          "name": "DAPHNE BRADFORD",
+          "party": "Non Partisan",
+          "incumbent": false
         },
         {
-          "Name": "JAMES P. BRADLEY",
-          "Party": "Republican",
-          "Votes": 76437
+          "votes": 76437,
+          "name": "JAMES P. BRADLEY",
+          "party": "Republican",
+          "incumbent": false
         },
         {
-          "Name": "JON ELIST",
-          "Party": "Republican",
-          "Votes": 64713
+          "votes": 64713,
+          "name": "JON ELIST",
+          "party": "Republican",
+          "incumbent": false
         },
         {
-          "Name": "MARK P. MEUSER",
-          "Party": "Republican",
-          "Votes": 236915
+          "votes": 236915,
+          "name": "MARK P. MEUSER",
+          "party": "Republican",
+          "incumbent": false
         },
         {
-          "Name": "MYRON L. HALL",
-          "Party": "Republican",
-          "Votes": 25687
+          "votes": 25687,
+          "name": "MYRON L. HALL",
+          "party": "Republican",
+          "incumbent": false
         },
         {
-          "Name": "TIMOTHY URSICH JR.",
-          "Party": "Democratic",
-          "Votes": 40695
+          "votes": 40695,
+          "name": "TIMOTHY URSICH JR.",
+          "party": "Democratic",
+          "incumbent": false
         }
       ]
     }
