@@ -96,6 +96,8 @@ class ContestTransformer(schema.BaseTransformer):
         return dict(
             name=self.raw["raceTitle"].split("-")[0].strip(),
             precincts_reporting=self.raw["Reporting"],
+            description=None,
+            geography=None,
             candidates=[
                 CandidateResultTransformer(c).dump() for c in self.raw["candidates"]
             ],

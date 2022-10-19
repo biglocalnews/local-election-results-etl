@@ -16,8 +16,8 @@ class Contest(Schema):
     """An election contest or race."""
 
     name = fields.Str(required=True)
-    description = fields.Str(required=False, allow_none=True)
-    geography = fields.Str(required=False, allow_none=True)
+    description = fields.Str(required=True, allow_none=True)
+    geography = fields.Str(required=True, allow_none=True)
     precincts_reporting = fields.Str(required=False, allow_none=True)
     candidates = fields.List(fields.Nested(CandidateResult))
 
