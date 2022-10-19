@@ -98,6 +98,7 @@ def cli(electionid=4269):
     # Write out a timestamped file
     timestamp_path = (
         utils.TRANSFORMED_DATA_DIR
+        / "los_angeles_county"
         / str(electionid)
         / f"{transformed_list['scraped_datetime']}.json"
     )
