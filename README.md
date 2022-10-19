@@ -1,4 +1,4 @@
-Extract, transform and load election results posted online by the California election officials.
+Extract, transform and load election results posted online by California election officials.
 
 ## Supports
 
