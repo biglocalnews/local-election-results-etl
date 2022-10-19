@@ -1,7 +1,7 @@
 {
   "slug": "state-senate/district/all",
   "url": "https://api.sos.ca.gov/returns/state-senate/district/all",
-  "scraped_datetime": "2022-10-19T13:43:41.054368-07:00",
+  "scraped_datetime": "2022-10-19T13:41:52.781065-07:00",
   "races": [
     {
       "raceTitle": "State Senate District 2 - Districtwide Results",

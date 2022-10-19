@@ -1,7 +1,7 @@
 {
   "slug": "us-rep/district/all",
   "url": "https://api.sos.ca.gov/returns/us-rep/district/all",
-  "scraped_datetime": "2022-10-19T13:43:40.645372-07:00",
+  "scraped_datetime": "2022-10-19T13:41:52.222771-07:00",
   "races": [
     {
       "raceTitle": "U.S. House of Representatives District 1 - Districtwide Results",

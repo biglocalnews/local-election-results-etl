@@ -1,7 +1,7 @@
 {
   "slug": "state-assembly/district/all",
   "url": "https://api.sos.ca.gov/returns/state-assembly/district/all",
-  "scraped_datetime": "2022-10-19T13:43:41.978801-07:00",
+  "scraped_datetime": "2022-10-19T13:41:53.695561-07:00",
   "races": [
     {
       "raceTitle": "State Assembly District 1 - Districtwide Results",
