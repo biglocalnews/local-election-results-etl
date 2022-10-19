@@ -96,21 +96,12 @@ def cli(electionid=4269):
             transformed_list["races"].append(obj)
 
     # Write out a timestamped file
-    timestamp_path = (
-        utils.TRANSFORMED_DATA_DIR
-        / "los_angeles_county"
-        / str(electionid)
-        / f"{transformed_list['scraped_datetime']}.json"
-    )
+    output_dir = utils.TRANSFORMED_DATA_DIR / "los_angeles_county" / str(electionid)
+    timestamp_path = output_dir / f"{transformed_list['scraped_datetime']}.json"
     utils.write_json(transformed_list, timestamp_path)
 
     # Overwrite the latest file
-    latest_path = (
-        utils.TRANSFORMED_DATA_DIR
-        / "los_angeles_county"
-        / str(electionid)
-        / "latest.json"
-    )
+    latest_path = output_dir / "latest.json"
     utils.write_json(transformed_list, latest_path)
 
 
