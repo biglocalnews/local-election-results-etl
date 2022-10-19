@@ -40,7 +40,7 @@ def write_json(data: typing.Dict, path: pathlib.Path, indent: int = 2):
     """Write the provided data dictionary into the provided path."""
     print(f"✏️ Writing JSON to {path}")
     path.parent.mkdir(parents=True, exist_ok=True)
-    json.dump(data, open(path, "w"), indent=indent)
+    json.dump(data, open(path, "w"), indent=indent, sort_keys=True)
 
 
 def upload_to_s3(path: pathlib.Path, object_name: str):

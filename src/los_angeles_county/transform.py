@@ -84,6 +84,7 @@ class ContestTransformer(schema.BaseTransformer):
             name=self.correct_name(),
             description=self.correct_description(),
             geography=self.correct_geography(),
+            precincts_reporting=None,
             candidates=[
                 CandidateResultTransformer(c).dump() for c in self.raw["Candidates"]
             ],
