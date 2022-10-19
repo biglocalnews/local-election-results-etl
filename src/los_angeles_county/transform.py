@@ -1,7 +1,6 @@
 import csv
 import json
 import pathlib
-import typing
 
 import click
 
@@ -10,24 +9,35 @@ from .. import schema, utils
 THIS_DIR = pathlib.Path(__file__).parent.absolute()
 
 
-class CandidateResultTransformer:
+class CandidateResultTransformer(schema.BaseTransformer):
     """Map our raw candidate results to the schema."""
 
     schema = schema.CandidateResult
 
-    def __init__(self, raw_data: typing.Dict):
+    def transform_data(self):
         """Create a new object."""
-        self.raw = raw_data
+        return dict(
+            name=self.raw["Name"],
+            party=self.raw["Party"],
+            votes=self.raw["Votes"],
+            incumbent=self.raw.get("incumbent", False),
+        )
 
-    def transform(self):
-        """Transform the object into our schema."""
-        return self.schema().dump(
-            dict(
-                name=self.raw["Name"],
-                party=self.raw["Party"],
-                votes=self.raw["Votes"],
-                incumbent=self.raw.get("incumbent", False),
-            )
+
+class ContestTransformer(schema.BaseTransformer):
+    """Map our raw contest data to the schema."""
+
+    schema = schema.Contest
+
+    def transform_data(self):
+        """Create a new object."""
+        return dict(
+            name=self.raw["name"],
+            description=self.raw["description"],
+            geography=self.raw["geography"],
+            candidates=[
+                CandidateResultTransformer(c).dump() for c in self.raw["Candidates"]
+            ],
         )
 
 
@@ -76,24 +86,14 @@ def cli(electionid=4269):
                 # We should consider removing this once we have a real feed
                 contest["name"] = contest["Title"]
                 contest["description"] = ""
+                contest["geography"] = ""
                 pass
 
             # Tidy
-            contest["candidates"] = [
-                CandidateResultTransformer(c).transform() for c in contest["Candidates"]
-            ]
-
-            # Kill cruft
-            del contest["Candidates"]
-            del contest["Title"]
-            del contest["Type"]
-            del contest["AdditionalText"]
-            del contest["MeasureText"]
-            del contest["MeasurePassRate"]
-            del contest["VoteFor"]
+            obj = ContestTransformer(contest).dump()
 
             # Add to our master list
-            transformed_list["races"].append(contest)
+            transformed_list["races"].append(obj)
 
     # Write out a timestamped file
     timestamp_path = (
