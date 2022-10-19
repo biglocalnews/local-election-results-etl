@@ -24,7 +24,7 @@ class Contest(Schema):
 class BaseTransformer:
     """A base transformer for all of our files."""
 
-    schema: Schema = None
+    schema: typing.Any = None
 
     def __init__(self, raw_data: typing.Dict):
         """Create a new object."""
