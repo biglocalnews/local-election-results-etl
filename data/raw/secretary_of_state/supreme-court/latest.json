@@ -1,0 +1,38 @@
+{
+  "Reporting": "67.3% (17,228 of 25,585) precincts reporting",
+  "ReportingTime": "October 20, 2022, 9:03 a.m.",
+  "raceTitle": "Supreme Court Justice - Statewide Results",
+  "scraped_datetime": "2022-10-20T09:17:08.947356-07:00",
+  "slug": "supreme-court",
+  "supreme-court": [
+    {
+      "Name": "Patricia Guerrero",
+      "noPercent": "27.2",
+      "noVotes": "1218045",
+      "yesPercent": "72.8",
+      "yesVotes": "3253248"
+    },
+    {
+      "Name": "Martin J. Jenkins",
+      "noPercent": "16.6",
+      "noVotes": "744054",
+      "yesPercent": "83.4",
+      "yesVotes": "3726070"
+    },
+    {
+      "Name": "Goodwin Liu",
+      "noPercent": "9.5",
+      "noVotes": "422197",
+      "yesPercent": "90.5",
+      "yesVotes": "4042033"
+    },
+    {
+      "Name": "Joshua P. Groban",
+      "noPercent": "26.1",
+      "noVotes": "1165057",
+      "yesPercent": "73.9",
+      "yesVotes": "3305122"
+    }
+  ],
+  "url": "https://api.sos.ca.gov/returns/supreme-court"
+}

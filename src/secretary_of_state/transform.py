@@ -27,8 +27,16 @@ def cli():
         if "races" in raw_data:
             contest_list.extend(raw_data["races"])
         elif slug == "supreme-court":
-            raw_data["candidates"] = raw_data.pop("supreme-court")
-            contest_list.append(raw_data)
+            for race in raw_data["supreme-court"]:
+                race_data = {
+                    "raceTitle": f"Retain Supreme Court Justice {race['Name']}",
+                    "Reporting": raw_data["Reporting"],
+                    "candidates": [
+                        {"Name": "Yes", "Votes": race["yesVotes"]},
+                        {"Name": "No", "Votes": race["noVotes"]},
+                    ],
+                }
+                contest_list.append(race_data)
         elif slug == "ballot-measures":
             for race in raw_data["ballot-measures"]:
                 race_data = {

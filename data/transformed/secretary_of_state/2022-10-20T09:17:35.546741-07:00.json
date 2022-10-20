@@ -2805,7 +2805,7 @@
       ],
       "description": null,
       "geography": null,
-      "name": "Retain Supreme Court Justice Patricia Guerrero",
+      "name": "",
       "precincts_reporting": "67.3% (17,228 of 25,585) precincts reporting"
     },
     {
@@ -2825,7 +2825,7 @@
       ],
       "description": null,
       "geography": null,
-      "name": "Retain Supreme Court Justice Martin J. Jenkins",
+      "name": "",
       "precincts_reporting": "67.3% (17,228 of 25,585) precincts reporting"
     },
     {
@@ -2845,7 +2845,7 @@
       ],
       "description": null,
       "geography": null,
-      "name": "Retain Supreme Court Justice Goodwin Liu",
+      "name": "",
       "precincts_reporting": "67.3% (17,228 of 25,585) precincts reporting"
     },
     {
@@ -2865,7 +2865,7 @@
       ],
       "description": null,
       "geography": null,
-      "name": "Retain Supreme Court Justice Joshua P. Groban",
+      "name": "",
       "precincts_reporting": "67.3% (17,228 of 25,585) precincts reporting"
     },
     {
@@ -3529,5 +3529,5 @@
       "precincts_reporting": "67.3% (17,228 of 25,585) precincts reporting"
     }
   ],
-  "scraped_datetime": "2022-10-20T09:18:50.069690-07:00"
+  "scraped_datetime": "2022-10-20T09:17:35.546741-07:00"
 }

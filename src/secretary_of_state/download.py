@@ -17,7 +17,7 @@ def cli():
         "superintendent-of-public-instruction",
         "us-senate",
         "us-senate-unexpired-term",
-        # "supreme-court",
+        "supreme-court",
         "ballot-measures",
         "board-of-equalization/district/all",
         "us-rep/district/all",
