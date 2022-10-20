@@ -1,8 +1,9 @@
-Extract, transform and load election results posted online by California election officials.
+Extract, transform and load election results posted online by local U.S. election officials.
 
 ## Supports
 
 - California Secretary of State
+- New York State Board of Elections
 - Los Angeles County Registrar-Recorder/County Clerk
 
 ## Latest files
