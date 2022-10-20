@@ -47,14 +47,14 @@ Download the raw data from the source websites.
 
 ```bash
 pipenv run python -m src.los_angeles_county.download
-pipenv run python -m src.secretary_of_state.download
+pipenv run python -m src.ca_secretary_of_state.download
 ```
 
 Transform the data into something we want to publish.
 
 ```bash
 pipenv run python -m src.los_angeles_county.transform
-pipenv run python -m src.secretary_of_state.transform
+pipenv run python -m src.ca_secretary_of_state.transform
 ```
 
 Upload data to the Amazon S3 bucket.
