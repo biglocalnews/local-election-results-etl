@@ -3,7 +3,6 @@ Extract, transform and load election results posted online by local U.S. electio
 ## Supports
 
 - California Secretary of State
-- New York State Board of Elections
 - Los Angeles County Registrar-Recorder/County Clerk
 
 ## Latest files
