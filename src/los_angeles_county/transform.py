@@ -86,7 +86,8 @@ class ContestTransformer(schema.BaseTransformer):
             geography=self.correct_geography(),
             precincts_reporting=None,
             candidates=[
-                CandidateResultTransformer(c).dump() for c in self.raw["Candidates"]
+                CandidateResultTransformer(c).dump()
+                for c in self.correct_incumbent(self.raw["Candidates"])
             ],
         )
 
@@ -123,6 +124,17 @@ class ContestTransformer(schema.BaseTransformer):
         if not correction:
             return None
         return correction["clean_geography"] or None
+
+    def correct_incumbent(
+        self, candidate_list: typing.List[typing.Dict]
+    ) -> typing.List[typing.Dict]:
+        """Correct the incumbents field."""
+        # Correct any incumbent candidates
+        correction = self._get_correction()
+        if correction and correction["incumbent"]:
+            for c in candidate_list:
+                c["incumbent"] = c["Name"] in correction["incumbent"]
+        return candidate_list
 
 
 if __name__ == "__main__":

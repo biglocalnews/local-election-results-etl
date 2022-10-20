@@ -2867,7 +2867,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "ALEX VILLANUEVA",
           "party": "Non Partisan",
           "votes": 454556
@@ -2983,6 +2983,6 @@
       "precincts_reporting": null
     }
   ],
-  "scraped_datetime": "2022-10-20T09:34:23.693130-07:00",
+  "scraped_datetime": "2022-10-20T09:32:13.857789-07:00",
   "updated_datetime": "2022-07-01T11:38:48.247"
 }
