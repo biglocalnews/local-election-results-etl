@@ -1,353 +1,353 @@
 incumbent,party,votes,candidate_name,description,geography,precincts_reporting,race_name,scraped_datetime,source
-,,3739495,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 01: Constitutional Right to Reproductive Freedom,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,734969,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 01: Constitutional Right to Reproductive Freedom,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3400047,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 26: Sports Wagering on Tribal Lands,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,1075169,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 26: Sports Wagering on Tribal Lands,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,4080535,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 27: Online Sports Wagering Outside of Tribal Lands,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,395199,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 27: Online Sports Wagering Outside of Tribal Lands,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3486658,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 28: Public School Arts and Music Education Funding,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,986236,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 28: Public School Arts and Music Education Funding,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3714554,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 29: Regulates Kidney Dialysis Clinics,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,761607,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 29: Regulates Kidney Dialysis Clinics,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3975007,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 30: Tax to Fund ZEV/Wildfire Programs,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,501361,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 30: Tax to Fund ZEV/Wildfire Programs,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3647125,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 31: Prohibition on Sale of Certain Tobacco Products,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,829329,No,,,"94.6% (24,220 of 25,603) precincts reporting",Proposition 31: Prohibition on Sale of Certain Tobacco Products,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,3253647,Shirley N. Weber,,,"94.6% (24,220 of 25,603) precincts reporting",Secretary of State,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1226101,Rob Bernosky,,,"94.6% (24,220 of 25,603) precincts reporting",Secretary of State,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-True,Dem,3271836,Ricardo Lara,,,"94.6% (24,220 of 25,603) precincts reporting",Insurance Commissioner,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1208075,Robert Howell,,,"94.6% (24,220 of 25,603) precincts reporting",Insurance Commissioner,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-True,Dem,3263471,Gavin Newsom,,,"94.6% (24,220 of 25,603) precincts reporting",Governor,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1233535,Brian Dahle,,,"94.6% (24,220 of 25,603) precincts reporting",Governor,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3257427,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Patricia Guerrero,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,1223395,No,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Patricia Guerrero,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3730320,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Martin J. Jenkins,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,749472,No,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Martin J. Jenkins,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,4046236,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Goodwin Liu,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,427591,No,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Goodwin Liu,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,3309405,Yes,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Joshua P. Groban,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-,,1170522,No,,,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Joshua P. Groban,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,237209,Mike McGuire,,,"95.6% (1,089 of 1,139) precincts reporting",State Senate District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,86317,Gene Yoon,,,"95.6% (1,089 of 1,139) precincts reporting",State Senate District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,217518,Marie Alvarado-Gil,,,94.6% (648 of 685) precincts reporting,State Senate District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,79276,Tim Robertson,,,94.6% (648 of 685) precincts reporting,State Senate District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,38699,Paula Villescaz,,,100% (574 of 574) precincts reporting,State Senate District 6,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,10960,Roger Niello,,,100% (574 of 574) precincts reporting,State Senate District 6,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,44919,Angelique Ashby,,,100% (366 of 366) precincts reporting,State Senate District 8,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,35681,Dave Jones,,,100% (366 of 366) precincts reporting,State Senate District 8,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,130609,Lily Mei,,,48.2% (157 of 326) precincts reporting,State Senate District 10,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,47494,Aisha Wahab,,,48.2% (157 of 326) precincts reporting,State Senate District 10,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,137731,Susanne Gundy,,,78.7% (589 of 748) precincts reporting,State Senate District 12,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,50250,Shannon Grove,,,78.7% (589 of 748) precincts reporting,State Senate District 12,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,64783,Anna Caballero,,,99.9% (705 of 706) precincts reporting,State Senate District 14,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,24335,Amnon Shor,,,99.9% (705 of 706) precincts reporting,State Senate District 14,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,40306,Melissa Hurtado,,,67.6% (418 of 618) precincts reporting,State Senate District 16,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,108811,David Shepard,,,67.6% (418 of 618) precincts reporting,State Senate District 16,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,94534,Steve Padilla,,,58% (487 of 840) precincts reporting,State Senate District 18,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,34469,Alejandro Galicia,,,58% (487 of 840) precincts reporting,State Senate District 18,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,54,Daniel Hertzberg,,,100% (224 of 224) precincts reporting,State Senate District 20,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,20,Caroline Menjivar,,,100% (224 of 224) precincts reporting,State Senate District 20,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,50,Susan Rubio,,,100% (572 of 572) precincts reporting,State Senate District 22,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,84,Vincent Tsai,,,100% (572 of 572) precincts reporting,State Senate District 22,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,68,Ben Allen,,,100% (358 of 358) precincts reporting,State Senate District 24,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,17,Kristina Irwin,,,100% (358 of 358) precincts reporting,State Senate District 24,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,28,Maria Elena Durazo,,,100% (243 of 243) precincts reporting,State Senate District 26,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,38,Claudia Agraz,,,100% (243 of 243) precincts reporting,State Senate District 26,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,60,Lola Smallwood-Cuevas,,,100% (281 of 281) precincts reporting,State Senate District 28,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,29,Cheryl C. Turner,,,100% (281 of 281) precincts reporting,State Senate District 28,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4373,Bob Archuleta,,,100% (428 of 428) precincts reporting,State Senate District 30,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4301,Mitch Clemmons,,,100% (428 of 428) precincts reporting,State Senate District 30,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,103312,Brian Nash,,,100% (643 of 643) precincts reporting,State Senate District 32,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,276235,Kelly Seyarto,,,100% (643 of 643) precincts reporting,State Senate District 32,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,2796,Tom Umberg,,,100% (436 of 436) precincts reporting,State Senate District 34,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,2855,Rhonda Shader,,,100% (436 of 436) precincts reporting,State Senate District 34,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4444,Kim Carr,,,100% (653 of 653) precincts reporting,State Senate District 36,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4373,Janet Nguyen,,,100% (653 of 653) precincts reporting,State Senate District 36,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,6114,Catherine Blakespear,,,100% (741 of 741) precincts reporting,State Senate District 38,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,5631,Matt Gunderson,,,100% (741 of 741) precincts reporting,State Senate District 38,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,960,Joseph C. Rocha,,,"100% (1,068 of 1,068) precincts reporting",State Senate District 40,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,480,Brian W. Jones,,,"100% (1,068 of 1,068) precincts reporting",State Senate District 40,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,1220510,Rob Bonta,,,"94.6% (24,220 of 25,603) precincts reporting",Attorney General,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,3259587,Nathan Hochman,,,"94.6% (24,220 of 25,603) precincts reporting",Attorney General,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,1222814,Alex Padilla,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Full Term),2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,3257138,Mark P. Meuser,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Full Term),2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,351233,Jose S. Altamirano,,,"88.8% (6,693 of 7,536) precincts reporting",Board of Equalization District 1,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,830758,Ted Gaines,,,"88.8% (6,693 of 7,536) precincts reporting",Board of Equalization District 1,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,1622309,Sally J. Lieber,,,"91.9% (6,815 of 7,417) precincts reporting",Board of Equalization District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,593129,Peter Coe Verbica,,,"91.9% (6,815 of 7,417) precincts reporting",Board of Equalization District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,81,Tony Vazquez,,,"100% (3,680 of 3,680) precincts reporting",Board of Equalization District 3,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,NPP,125,Y. Marie Manvel,,,"100% (3,680 of 3,680) precincts reporting",Board of Equalization District 3,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,290978,David Dodson,,,"94.9% (6,617 of 6,970) precincts reporting",Board of Equalization District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,791402,Mike Schaefer,,,"94.9% (6,617 of 6,970) precincts reporting",Board of Equalization District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,1229103,Alex Padilla,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Partial/Unexpired Term),2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,3251045,Mark P. Meuser,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Partial/Unexpired Term),2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,37848,Belle Starr Sandwith,,,100% (547 of 547) precincts reporting,State Assembly District 1,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,103807,Megan Dahle,,,100% (547 of 547) precincts reporting,State Assembly District 1,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,175345,Jim Wood,,,100% (759 of 759) precincts reporting,State Assembly District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,63759,Charlotte Svolos,,,100% (759 of 759) precincts reporting,State Assembly District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,57579,David Leon Zink,,,100% (396 of 396) precincts reporting,State Assembly District 3,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,139384,James Gallagher,,,100% (396 of 396) precincts reporting,State Assembly District 3,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,23889,Cecilia Aguiar-Curry,,,71.8% (285 of 397) precincts reporting,State Assembly District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,8731,Bryan Pritchard,,,71.8% (285 of 397) precincts reporting,State Assembly District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,164,Rebecca L Chenoweth,,,100% (447 of 447) precincts reporting,State Assembly District 5,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,152,Joe Patterson,,,100% (447 of 447) precincts reporting,State Assembly District 5,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,14750,Kevin McCarty,,,100% (210 of 210) precincts reporting,State Assembly District 6,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,22450,Cathy Cook,,,100% (210 of 210) precincts reporting,State Assembly District 6,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,19846,Ken Cooley,,,100% (224 of 224) precincts reporting,State Assembly District 7,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,20454,Josh Hoover,,,100% (224 of 224) precincts reporting,State Assembly District 7,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,36927,Jim Patterson,,,89.4% (262 of 293) precincts reporting,State Assembly District 8,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Lib,13731,Thomas Edward Nichols,,,89.4% (262 of 293) precincts reporting,State Assembly District 8,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,22456,Mushtaq A Tahirkheli,,,43% (135 of 314) precincts reporting,State Assembly District 9,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,45458,Heath Flora,,,43% (135 of 314) precincts reporting,State Assembly District 9,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,19139,Eric Guerra,,,100% (190 of 190) precincts reporting,State Assembly District 10,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,16821,Stephanie Nguyen,,,100% (190 of 190) precincts reporting,State Assembly District 10,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,25034,Lori D Wilson,,,100% (346 of 346) precincts reporting,State Assembly District 11,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,NPP,11767,Jenny Leilani Callison,,,100% (346 of 346) precincts reporting,State Assembly District 11,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,75850,Sara Aminzadeh,,,100% (388 of 388) precincts reporting,State Assembly District 12,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,27644,Damon Connolly,,,100% (388 of 388) precincts reporting,State Assembly District 12,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Veronica Vargas,,,0% (0 of 211) precincts reporting,State Assembly District 13,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Carlos Villapudua,,,0% (0 of 211) precincts reporting,State Assembly District 13,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,83133,Buffy Wicks,,,83.4% (242 of 290) precincts reporting,State Assembly District 14,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,30230,Richard Kinney,,,83.4% (242 of 290) precincts reporting,State Assembly District 14,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,168062,Tim Grayson,,,100% (574 of 574) precincts reporting,State Assembly District 15,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,61113,Janell Elizabeth Proctor,,,100% (574 of 574) precincts reporting,State Assembly District 15,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,121396,Rebecca Bauer-Kahan,,,79.9% (319 of 399) precincts reporting,State Assembly District 16,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,44143,Joseph A. Rubay,,,79.9% (319 of 399) precincts reporting,State Assembly District 16,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,102,David Campos,,,100% (298 of 298) precincts reporting,State Assembly District 17,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,106,Matt Haney,,,100% (298 of 298) precincts reporting,State Assembly District 17,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Mia Bonta,,,0.9% (1 of 108) precincts reporting,State Assembly District 18,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,0,Mindy Pechenuk,,,0.9% (1 of 108) precincts reporting,State Assembly District 18,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,246,Phil Ting,,,100% (258 of 258) precincts reporting,State Assembly District 19,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,386,Karsten Weide,,,100% (258 of 258) precincts reporting,State Assembly District 19,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Shawn Kumagai,,,0% (0 of 257) precincts reporting,State Assembly District 20,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Liz Ortega,,,0% (0 of 257) precincts reporting,State Assembly District 20,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,1728,Giselle Hale,,,100% (184 of 184) precincts reporting,State Assembly District 21,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,864,Diane Papan,,,100% (184 of 184) precincts reporting,State Assembly District 21,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,131910,Jessica Self,,,100% (161 of 161) precincts reporting,State Assembly District 22,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,47966,Juan Alanis,,,100% (161 of 161) precincts reporting,State Assembly District 22,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,40563,Marc Berman,,,100% (236 of 236) precincts reporting,State Assembly District 23,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,111160,Tim Dec,,,100% (236 of 236) precincts reporting,State Assembly District 23,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,55070,Alex Lee,,,56.2% (77 of 137) precincts reporting,State Assembly District 24,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,20025,Bob Brunton,,,56.2% (77 of 137) precincts reporting,State Assembly District 24,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,50972,Ash Kalra,,,100% (193 of 193) precincts reporting,State Assembly District 25,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,140173,Ted Stroll,,,100% (193 of 193) precincts reporting,State Assembly District 25,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,120014,Evan Low,,,100% (146 of 146) precincts reporting,State Assembly District 26,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,43641,Tim Gorsulowsky,,,100% (146 of 146) precincts reporting,State Assembly District 26,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,65461,Esmeralda Soria,,,100% (399 of 399) precincts reporting,State Assembly District 27,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,23950,Mark Nicholas Pazin,,,100% (399 of 399) precincts reporting,State Assembly District 27,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,60829,Gail Pellerin,,,100% (312 of 312) precincts reporting,State Assembly District 28,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,167284,Liz Lawler,,,100% (312 of 312) precincts reporting,State Assembly District 28,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,17430,Robert Rivas,,,100% (234 of 234) precincts reporting,State Assembly District 29,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,42201,Stephanie L. Castro,,,100% (234 of 234) precincts reporting,State Assembly District 29,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,13537,Dawn Addis,,,100% (252 of 252) precincts reporting,State Assembly District 30,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,33579,Vicki Nohrden,,,100% (252 of 252) precincts reporting,State Assembly District 30,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,511,Joaquin Arambula,,,100% (289 of 289) precincts reporting,State Assembly District 31,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,392,Dolce Misol Calandra,,,100% (289 of 289) precincts reporting,State Assembly District 31,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,167848,Vince Fong,,,73.4% (383 of 522) precincts reporting,State Assembly District 32,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,885,Jose Sigala,,,38.1% (136 of 357) precincts reporting,State Assembly District 33,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1146,Devon J. Mathis,,,38.1% (136 of 357) precincts reporting,State Assembly District 33,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4638,Tom Lackey,,,"100% (1,242 of 1,242) precincts reporting",State Assembly District 34,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,12721,"Thurston ""Smitty"" Smith",,,"100% (1,242 of 1,242) precincts reporting",State Assembly District 34,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,109731,Jasmeet Bains,,,100% (338 of 338) precincts reporting,State Assembly District 35,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,39902,Leticia Perez,,,100% (338 of 338) precincts reporting,State Assembly District 35,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,129096,Eduardo Garcia,,,37.4% (211 of 564) precincts reporting,State Assembly District 36,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,46949,Ian M. Weeks,,,37.4% (211 of 564) precincts reporting,State Assembly District 36,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,342,Gregg Hart,,,100% (306 of 306) precincts reporting,State Assembly District 37,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,366,Mike Stoker,,,100% (306 of 306) precincts reporting,State Assembly District 37,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,54458,Steve Bennett,,,"100% (1,054 of 1,054) precincts reporting",State Assembly District 38,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,149761,Cole Brocato,,,"100% (1,054 of 1,054) precincts reporting",State Assembly District 38,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,48,Juan Carrillo,,,100% (264 of 264) precincts reporting,State Assembly District 39,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,83,Paul Andre Marsh,,,100% (264 of 264) precincts reporting,State Assembly District 39,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,56,Pilar Schiavo,,,100% (266 of 266) precincts reporting,State Assembly District 40,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,19,Suzette Martinez Valladares,,,100% (266 of 266) precincts reporting,State Assembly District 40,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,83,Chris Holden,,,100% (429 of 429) precincts reporting,State Assembly District 41,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,48,Michael McMahon,,,100% (429 of 429) precincts reporting,State Assembly District 41,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,134175,Jacqui Irwin,,,100% (664 of 664) precincts reporting,State Assembly District 42,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,48852,Lori Mills,,,100% (664 of 664) precincts reporting,State Assembly District 42,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,23,Luz Maria Rivas,,,100% (108 of 108) precincts reporting,State Assembly District 43,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,41,Siaka Massaquoi,,,100% (108 of 108) precincts reporting,State Assembly District 43,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,28,Laura Friedman,,,100% (136 of 136) precincts reporting,State Assembly District 44,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,43,Barry Curtis Jacobsen,,,100% (136 of 136) precincts reporting,State Assembly District 44,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,36,James C. Ramos,,,100% (512 of 512) precincts reporting,State Assembly District 45,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,40,Joseph (Joe) W. Martinez,,,100% (512 of 512) precincts reporting,State Assembly District 45,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,866,Jesse Gabriel,,,100% (119 of 119) precincts reporting,State Assembly District 46,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,320,Dana Caruso,,,100% (119 of 119) precincts reporting,State Assembly District 46,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,48666,Christy Holstege,,,100% (623 of 623) precincts reporting,State Assembly District 47,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,133744,Greg Wallis,,,100% (623 of 623) precincts reporting,State Assembly District 47,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,30,Blanca Rubio,,,100% (265 of 265) precincts reporting,State Assembly District 48,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,47,Ryan Maye,,,100% (265 of 265) precincts reporting,State Assembly District 48,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,54,Mike Fong,,,100% (184 of 184) precincts reporting,State Assembly District 49,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,27,Burton Brink,,,100% (184 of 184) precincts reporting,State Assembly District 49,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,52,Eloise Gomez Reyes,,,100% (346 of 346) precincts reporting,State Assembly District 50,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,56,Sheela Stark,,,100% (346 of 346) precincts reporting,State Assembly District 50,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,33,Louis Abramson,,,100% (164 of 164) precincts reporting,State Assembly District 51,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,39,Rick Chavez Zbur,,,100% (164 of 164) precincts reporting,State Assembly District 51,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,28,Wendy Carrillo,,,100% (146 of 146) precincts reporting,State Assembly District 52,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,38,Mia Livas Porter,,,100% (146 of 146) precincts reporting,State Assembly District 52,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,76,Freddie Rodriguez,,,100% (245 of 245) precincts reporting,State Assembly District 53,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,115,Toni Holle,,,100% (245 of 245) precincts reporting,State Assembly District 53,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,47,Miguel Santiago,,,100% (120 of 120) precincts reporting,State Assembly District 54,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,26,Elaine Alaniz,,,100% (120 of 120) precincts reporting,State Assembly District 54,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,21,Isaac G. Bryan,,,100% (168 of 168) precincts reporting,State Assembly District 55,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,40,Keith Girolamo Cascio,,,100% (168 of 168) precincts reporting,State Assembly District 55,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,27,Lisa Calderon,,,100% (256 of 256) precincts reporting,State Assembly District 56,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,47,Jessica Martinez,,,100% (256 of 256) precincts reporting,State Assembly District 56,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,22,Reggie Jones-Sawyer,,,100% (110 of 110) precincts reporting,State Assembly District 57,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,135166,Sabrina Cervantes,,,100% (151 of 151) precincts reporting,State Assembly District 58,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,49193,Bernard William Murphy,,,100% (151 of 151) precincts reporting,State Assembly District 58,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4413,Phillip Chen,,,100% (523 of 523) precincts reporting,State Assembly District 59,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,NPP,4491,Leon Q. Sit,,,100% (523 of 523) precincts reporting,State Assembly District 59,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,125873,Corey A Jackson,,,100% (180 of 180) precincts reporting,State Assembly District 60,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,45771,Hector Diaz-Nava,,,100% (180 of 180) precincts reporting,State Assembly District 60,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,55,Tina Simone McKinnor,,,100% (182 of 182) precincts reporting,State Assembly District 61,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,22,Robert Pullen-Miles,,,100% (182 of 182) precincts reporting,State Assembly District 61,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,48,Maria Estrada,,,100% (131 of 131) precincts reporting,State Assembly District 62,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,26,Anthony Rendon,,,100% (131 of 131) precincts reporting,State Assembly District 62,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,59524,Fauzia Rizvi,,,100% (213 of 213) precincts reporting,State Assembly District 63,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,163693,Bill Essayli,,,100% (213 of 213) precincts reporting,State Assembly District 63,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,3876,Blanca Pacheco,,,100% (175 of 175) precincts reporting,State Assembly District 64,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,3943,"Raul Ortiz, Jr.",,,100% (175 of 175) precincts reporting,State Assembly District 64,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,32,Mike Anthony Gipson,,,100% (180 of 180) precincts reporting,State Assembly District 65,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,32,Fatima Iqbal-Zubair,,,100% (180 of 180) precincts reporting,State Assembly District 65,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,42,Al Muratsuchi,,,100% (147 of 147) precincts reporting,State Assembly District 66,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,19,George Barks,,,100% (147 of 147) precincts reporting,State Assembly District 66,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4166,Sharon Quirk-Silva,,,100% (262 of 262) precincts reporting,State Assembly District 67,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4233,Soo Yoo,,,100% (262 of 262) precincts reporting,State Assembly District 67,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4092,Avelino Valencia,,,100% (206 of 206) precincts reporting,State Assembly District 68,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4158,Mike Tardif,,,100% (206 of 206) precincts reporting,State Assembly District 68,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,27,Al Austin II,,,100% (139 of 139) precincts reporting,State Assembly District 69,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,35,Josh Lowenthal,,,100% (139 of 139) precincts reporting,State Assembly District 69,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4876,Diedre Thu-Ha Nguyen,,,100% (268 of 268) precincts reporting,State Assembly District 70,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4970,Tri Ta,,,100% (268 of 268) precincts reporting,State Assembly District 70,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,104572,Matt Rahn,,,100% (338 of 338) precincts reporting,State Assembly District 71,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,41574,Kate Sanchez,,,100% (338 of 338) precincts reporting,State Assembly District 71,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4999,Judie Mancuso,,,100% (361 of 361) precincts reporting,State Assembly District 72,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4903,Diane Dixon,,,100% (361 of 361) precincts reporting,State Assembly District 72,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,5681,Cottie Petrie-Norris,,,100% (321 of 321) precincts reporting,State Assembly District 73,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,5572,"Steven ""Steve"" Choi",,,100% (321 of 321) precincts reporting,State Assembly District 73,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,5274,Chris Duncan,,,100% (343 of 343) precincts reporting,State Assembly District 74,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,5495,Laurie Davies,,,100% (343 of 343) precincts reporting,State Assembly District 74,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,840,Randy Voepel,,,100% (595 of 595) precincts reporting,State Assembly District 75,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,420,Marie Waldron,,,100% (595 of 595) precincts reporting,State Assembly District 75,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,200,Brian Maienschein,,,100% (618 of 618) precincts reporting,State Assembly District 76,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,400,Kristie Bruce-Lane,,,100% (618 of 618) precincts reporting,State Assembly District 76,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,240,Tasha Boerner Horvath,,,100% (371 of 371) precincts reporting,State Assembly District 77,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,480,Dan Downey,,,100% (371 of 371) precincts reporting,State Assembly District 77,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,200,Chris Ward,,,100% (331 of 331) precincts reporting,State Assembly District 78,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,100,Eric E. Gonzales,,,100% (331 of 331) precincts reporting,State Assembly District 78,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,140,Akilah Weber,,,100% (298 of 298) precincts reporting,State Assembly District 79,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,280,Corbin Sabol,,,100% (298 of 298) precincts reporting,State Assembly District 79,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,440,David Alvarez,,,100% (313 of 313) precincts reporting,State Assembly District 80,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,220,Georgette Gómez,,,100% (313 of 313) precincts reporting,State Assembly District 80,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,88602,Max Steiner,,,100% (568 of 568) precincts reporting,U.S. House of Representatives District 1,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,224143,Doug LaMalfa,,,100% (568 of 568) precincts reporting,U.S. House of Representatives District 1,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,63975,Jared Huffman,,,100% (878 of 878) precincts reporting,U.S. House of Representatives District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,175796,Douglas Brower,,,100% (878 of 878) precincts reporting,U.S. House of Representatives District 2,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,25033,Kermit Jones,,,98.5% (775 of 787) precincts reporting,U.S. House of Representatives District 3,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,38182,Kevin Kiley,,,98.5% (775 of 787) precincts reporting,U.S. House of Representatives District 3,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,94671,Mike Thompson,,,86.1% (613 of 712) precincts reporting,U.S. House of Representatives District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,34571,Matt Brock,,,86.1% (613 of 712) precincts reporting,U.S. House of Representatives District 4,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,145285,"Michael J. ""Mike"" Barkley",,,94.7% (446 of 471) precincts reporting,U.S. House of Representatives District 5,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,53017,Tom McClintock,,,94.7% (446 of 471) precincts reporting,U.S. House of Representatives District 5,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,38614,Ami Bera,,,100% (309 of 309) precincts reporting,U.S. House of Representatives District 6,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,23386,Tamika Hamilton,,,100% (309 of 309) precincts reporting,U.S. House of Representatives District 6,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,31354,Doris Matsui,,,96% (308 of 321) precincts reporting,U.S. House of Representatives District 7,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,33780,Max Semenenko,,,96% (308 of 321) precincts reporting,U.S. House of Representatives District 7,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,49353,John Garamendi,,,100% (529 of 529) precincts reporting,U.S. House of Representatives District 8,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,132522,Rudy Recile,,,100% (529 of 529) precincts reporting,U.S. House of Representatives District 8,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,2625,Josh Harder,,,7.9% (31 of 393) precincts reporting,U.S. House of Representatives District 9,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,7223,Tom Patti,,,7.9% (31 of 393) precincts reporting,U.S. House of Representatives District 9,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,257263,Mark DeSaulnier,,,98.6% (845 of 857) precincts reporting,U.S. House of Representatives District 10,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Grn,93549,Michael Ernest Kerr,,,98.6% (845 of 857) precincts reporting,U.S. House of Representatives District 10,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,90,Nancy Pelosi,,,100% (451 of 451) precincts reporting,U.S. House of Representatives District 11,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,86,John Dennis,,,100% (451 of 451) precincts reporting,U.S. House of Representatives District 11,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Barbara Lee,,,0.5% (1 of 184) precincts reporting,U.S. House of Representatives District 12,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,0,Stephen Slauson,,,0.5% (1 of 184) precincts reporting,U.S. House of Representatives District 12,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,45926,Adam Gray,,,95.6% (474 of 496) precincts reporting,U.S. House of Representatives District 13,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,125287,John Duarte,,,95.6% (474 of 496) precincts reporting,U.S. House of Representatives District 13,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,0,Eric Swalwell,,,0% (0 of 338) precincts reporting,U.S. House of Representatives District 14,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,0,Alison Hayden,,,0% (0 of 338) precincts reporting,U.S. House of Representatives District 14,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,1150,David J. Canepa,,,100% (299 of 299) precincts reporting,U.S. House of Representatives District 15,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,2210,Kevin Mullin,,,100% (299 of 299) precincts reporting,U.S. House of Representatives District 15,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,73673,Anna G. Eshoo,,,100% (349 of 349) precincts reporting,U.S. House of Representatives District 16,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,202256,Rishi Kumar,,,100% (349 of 349) precincts reporting,U.S. House of Representatives District 16,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,170732,Ro Khanna,,,91.4% (201 of 220) precincts reporting,U.S. House of Representatives District 17,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,62084,Ritesh Tandon,,,91.4% (201 of 220) precincts reporting,U.S. House of Representatives District 17,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,44661,Zoe Lofgren,,,100% (351 of 351) precincts reporting,U.S. House of Representatives District 18,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,117753,Peter Hernandez,,,100% (351 of 351) precincts reporting,U.S. House of Representatives District 18,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,65416,Jimmy Panetta,,,100% (462 of 462) precincts reporting,U.S. House of Representatives District 19,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,177150,Jeff Gorman,,,100% (462 of 462) precincts reporting,U.S. House of Representatives District 19,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,47421,Marisa Wood,,,84.6% (493 of 583) precincts reporting,U.S. House of Representatives District 20,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,128941,Kevin McCarthy,,,84.6% (493 of 583) precincts reporting,U.S. House of Representatives District 20,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,680,Jim Costa,,,74.7% (374 of 501) precincts reporting,U.S. House of Representatives District 21,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,567,Michael Maher,,,74.7% (374 of 501) precincts reporting,U.S. House of Representatives District 21,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,41410,Rudy Salas,,,74% (407 of 550) precincts reporting,U.S. House of Representatives District 22,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,112607,David G. Valadao,,,74% (407 of 550) precincts reporting,U.S. House of Representatives District 22,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,5123,Derek Marshall,,,"100% (1,566 of 1,566) precincts reporting",U.S. House of Representatives District 23,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1865,Jay Obernolte,,,"100% (1,566 of 1,566) precincts reporting",U.S. House of Representatives District 23,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,51839,Salud Carbajal,,,100% (789 of 789) precincts reporting,U.S. House of Representatives District 24,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,19288,Brad Allen,,,100% (789 of 789) precincts reporting,U.S. House of Representatives District 24,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,76046,Raul Ruiz,,,51.2% (370 of 723) precincts reporting,U.S. House of Representatives District 25,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,209110,Brian E. Hawkins,,,51.2% (370 of 723) precincts reporting,U.S. House of Representatives District 25,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,85150,Julia Brownley,,,"100% (1,253 of 1,253) precincts reporting",U.S. House of Representatives District 26,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,234197,Matt Jacobs,,,"100% (1,253 of 1,253) precincts reporting",U.S. House of Representatives District 26,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,44,Christy Smith,,,100% (468 of 468) precincts reporting,U.S. House of Representatives District 27,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,111,Mike Garcia,,,100% (468 of 468) precincts reporting,U.S. House of Representatives District 27,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,66,Judy Chu,,,100% (530 of 530) precincts reporting,U.S. House of Representatives District 28,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,113,Wes Hallman,,,100% (530 of 530) precincts reporting,U.S. House of Representatives District 28,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,87,Tony Cardenas,,,100% (165 of 165) precincts reporting,U.S. House of Representatives District 29,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,47,Angélica María Dueñas,,,100% (165 of 165) precincts reporting,U.S. House of Representatives District 29,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,43,"G ""Maebe A. Girl"" Pudlo",,,100% (252 of 252) precincts reporting,U.S. House of Representatives District 30,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,91,Adam B. Schiff,,,100% (252 of 252) precincts reporting,U.S. House of Representatives District 30,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,60,Grace F. Napolitano,,,100% (426 of 426) precincts reporting,U.S. House of Representatives District 31,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,100,Daniel Bocic Martinez,,,100% (426 of 426) precincts reporting,U.S. House of Representatives District 31,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,869,Brad Sherman,,,100% (239 of 239) precincts reporting,U.S. House of Representatives District 32,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,391,Lucie Lapointe Volotzky,,,100% (239 of 239) precincts reporting,U.S. House of Representatives District 32,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,28,Pete Aguilar,,,100% (653 of 653) precincts reporting,U.S. House of Representatives District 33,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,32,John Mark Porter,,,100% (653 of 653) precincts reporting,U.S. House of Representatives District 33,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,96,Jimmy Gomez,,,100% (174 of 174) precincts reporting,U.S. House of Representatives District 34,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,42,David Kim,,,100% (174 of 174) precincts reporting,U.S. House of Representatives District 34,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,14988,Norma J. Torres,,,100% (437 of 437) precincts reporting,U.S. House of Representatives District 35,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,5468,Mike Cargile,,,100% (437 of 437) precincts reporting,U.S. House of Representatives District 35,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,85,Ted W. Lieu,,,100% (242 of 242) precincts reporting,U.S. House of Representatives District 36,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,46,Joe E. Collins III,,,100% (242 of 242) precincts reporting,U.S. House of Representatives District 36,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,92,Sydney Kamlager,,,100% (203 of 203) precincts reporting,U.S. House of Representatives District 37,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,56,Jan C. Perry,,,100% (203 of 203) precincts reporting,U.S. House of Representatives District 37,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,3920,Linda T. Sánchez,,,100% (317 of 317) precincts reporting,U.S. House of Representatives District 38,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,3829,Eric J. Ching,,,100% (317 of 317) precincts reporting,U.S. House of Representatives District 38,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,210056,Mark Takano,,,100% (254 of 254) precincts reporting,U.S. House of Representatives District 39,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,76384,Aja Smith,,,100% (254 of 254) precincts reporting,U.S. House of Representatives District 39,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,5840,Asif Mahmood,,,100% (687 of 687) precincts reporting,U.S. House of Representatives District 40,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,8344,Young Kim,,,100% (687 of 687) precincts reporting,U.S. House of Representatives District 40,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,94786,Will Rollins,,,100% (459 of 459) precincts reporting,U.S. House of Representatives District 41,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,260663,Ken Calvert,,,100% (459 of 459) precincts reporting,U.S. House of Representatives District 41,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,88,Robert Garcia,,,100% (218 of 218) precincts reporting,U.S. House of Representatives District 42,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,42,John Briscoe,,,100% (218 of 218) precincts reporting,U.S. House of Representatives District 42,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,96,Maxine Waters,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 43,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,39,Omar Navarro,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 43,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,37,Nanette Diaz Barragan,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 44,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,98,Paul Jones,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 44,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4171,Jay F. Chen,,,100% (450 of 450) precincts reporting,U.S. House of Representatives District 45,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4291,Michelle Steel,,,100% (450 of 450) precincts reporting,U.S. House of Representatives District 45,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,3862,Lou Correa,,,100% (366 of 366) precincts reporting,U.S. House of Representatives District 46,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,3922,Christopher J. Gonzales,,,100% (366 of 366) precincts reporting,U.S. House of Representatives District 46,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,4901,Katie Porter,,,100% (534 of 534) precincts reporting,U.S. House of Representatives District 47,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,4807,Scott Baugh,,,100% (534 of 534) precincts reporting,U.S. House of Representatives District 47,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,32935,Stephen Houlahan,,,100% (824 of 824) precincts reporting,U.S. House of Representatives District 48,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,88699,Darrell Issa,,,100% (824 of 824) precincts reporting,U.S. House of Representatives District 48,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,5399,Mike Levin,,,100% (586 of 586) precincts reporting,U.S. House of Representatives District 49,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,5541,Brian Maryott,,,100% (586 of 586) precincts reporting,U.S. House of Representatives District 49,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,300,Scott Peters,,,100% (701 of 701) precincts reporting,U.S. House of Representatives District 50,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,360,Corey Gustafson,,,100% (701 of 701) precincts reporting,U.S. House of Representatives District 50,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,240,Sara Jacobs,,,100% (528 of 528) precincts reporting,U.S. House of Representatives District 51,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,300,Stan Caplan,,,100% (528 of 528) precincts reporting,U.S. House of Representatives District 51,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,480,Juan Vargas,,,100% (434 of 434) precincts reporting,U.S. House of Representatives District 52,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,300,Tyler Geffeney,,,100% (434 of 434) precincts reporting,U.S. House of Representatives District 52,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Dem,3208451,Malia M. Cohen,,,"94.6% (24,220 of 25,603) precincts reporting",Controller,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1271300,Lanhee J. Chen,,,"94.6% (24,220 of 25,603) precincts reporting",Controller,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-True,Dem,3222555,Eleni Kounalakis,,,"94.6% (24,220 of 25,603) precincts reporting",Lieutenant Governor,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1256925,Angela E. Underwood Jacobs,,,"94.6% (24,220 of 25,603) precincts reporting",Lieutenant Governor,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Non,1237934,Lance Ray Christensen,,,"94.6% (24,220 of 25,603) precincts reporting",Superintendent of Public Instruction,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-True,Non,3247958,Tony K. Thurmond,,,"94.6% (24,220 of 25,603) precincts reporting",Superintendent of Public Instruction,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-True,Dem,3243202,Fiona Ma,,,"94.6% (24,220 of 25,603) precincts reporting",Treasurer,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
-False,Rep,1236904,Jack M. Guerrero,,,"94.6% (24,220 of 25,603) precincts reporting",Treasurer,2022-10-20T14:16:59.676588-07:00,ca_secretary_of_state
+False,Dem,1229103,Alex Padilla,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Partial/Unexpired Term) - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,3251045,Mark P. Meuser,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Partial/Unexpired Term) - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,1220510,Rob Bonta,,,"94.6% (24,220 of 25,603) precincts reporting",Attorney General - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,3259587,Nathan Hochman,,,"94.6% (24,220 of 25,603) precincts reporting",Attorney General - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,3208451,Malia M. Cohen,,,"94.6% (24,220 of 25,603) precincts reporting",Controller - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1271300,Lanhee J. Chen,,,"94.6% (24,220 of 25,603) precincts reporting",Controller - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,1222814,Alex Padilla,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Full Term) - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,3257138,Mark P. Meuser,,,"94.6% (24,220 of 25,603) precincts reporting",U.S. Senate (Full Term) - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+True,Dem,3271836,Ricardo Lara,,,"94.6% (24,220 of 25,603) precincts reporting",Insurance Commissioner - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1208075,Robert Howell,,,"94.6% (24,220 of 25,603) precincts reporting",Insurance Commissioner - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,88602,Max Steiner,,,100% (568 of 568) precincts reporting,U.S. House of Representatives District 1 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,224143,Doug LaMalfa,,,100% (568 of 568) precincts reporting,U.S. House of Representatives District 1 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,63975,Jared Huffman,,,100% (878 of 878) precincts reporting,U.S. House of Representatives District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,175796,Douglas Brower,,,100% (878 of 878) precincts reporting,U.S. House of Representatives District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,25033,Kermit Jones,,,98.5% (775 of 787) precincts reporting,U.S. House of Representatives District 3 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,38182,Kevin Kiley,,,98.5% (775 of 787) precincts reporting,U.S. House of Representatives District 3 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,94671,Mike Thompson,,,86.1% (613 of 712) precincts reporting,U.S. House of Representatives District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,34571,Matt Brock,,,86.1% (613 of 712) precincts reporting,U.S. House of Representatives District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,145285,"Michael J. ""Mike"" Barkley",,,94.7% (446 of 471) precincts reporting,U.S. House of Representatives District 5 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,53017,Tom McClintock,,,94.7% (446 of 471) precincts reporting,U.S. House of Representatives District 5 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,38614,Ami Bera,,,100% (309 of 309) precincts reporting,U.S. House of Representatives District 6 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,23386,Tamika Hamilton,,,100% (309 of 309) precincts reporting,U.S. House of Representatives District 6 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,31354,Doris Matsui,,,96% (308 of 321) precincts reporting,U.S. House of Representatives District 7 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,33780,Max Semenenko,,,96% (308 of 321) precincts reporting,U.S. House of Representatives District 7 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,49353,John Garamendi,,,100% (529 of 529) precincts reporting,U.S. House of Representatives District 8 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,132522,Rudy Recile,,,100% (529 of 529) precincts reporting,U.S. House of Representatives District 8 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,2625,Josh Harder,,,7.9% (31 of 393) precincts reporting,U.S. House of Representatives District 9 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,7223,Tom Patti,,,7.9% (31 of 393) precincts reporting,U.S. House of Representatives District 9 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,257263,Mark DeSaulnier,,,98.6% (845 of 857) precincts reporting,U.S. House of Representatives District 10 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Grn,93549,Michael Ernest Kerr,,,98.6% (845 of 857) precincts reporting,U.S. House of Representatives District 10 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,90,Nancy Pelosi,,,100% (451 of 451) precincts reporting,U.S. House of Representatives District 11 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,86,John Dennis,,,100% (451 of 451) precincts reporting,U.S. House of Representatives District 11 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Barbara Lee,,,0.5% (1 of 184) precincts reporting,U.S. House of Representatives District 12 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,0,Stephen Slauson,,,0.5% (1 of 184) precincts reporting,U.S. House of Representatives District 12 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,45926,Adam Gray,,,95.6% (474 of 496) precincts reporting,U.S. House of Representatives District 13 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,125287,John Duarte,,,95.6% (474 of 496) precincts reporting,U.S. House of Representatives District 13 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Eric Swalwell,,,0% (0 of 338) precincts reporting,U.S. House of Representatives District 14 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,0,Alison Hayden,,,0% (0 of 338) precincts reporting,U.S. House of Representatives District 14 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,1150,David J. Canepa,,,100% (299 of 299) precincts reporting,U.S. House of Representatives District 15 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,2210,Kevin Mullin,,,100% (299 of 299) precincts reporting,U.S. House of Representatives District 15 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,73673,Anna G. Eshoo,,,100% (349 of 349) precincts reporting,U.S. House of Representatives District 16 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,202256,Rishi Kumar,,,100% (349 of 349) precincts reporting,U.S. House of Representatives District 16 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,170732,Ro Khanna,,,91.4% (201 of 220) precincts reporting,U.S. House of Representatives District 17 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,62084,Ritesh Tandon,,,91.4% (201 of 220) precincts reporting,U.S. House of Representatives District 17 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,44661,Zoe Lofgren,,,100% (351 of 351) precincts reporting,U.S. House of Representatives District 18 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,117753,Peter Hernandez,,,100% (351 of 351) precincts reporting,U.S. House of Representatives District 18 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,65416,Jimmy Panetta,,,100% (462 of 462) precincts reporting,U.S. House of Representatives District 19 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,177150,Jeff Gorman,,,100% (462 of 462) precincts reporting,U.S. House of Representatives District 19 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,47421,Marisa Wood,,,84.6% (493 of 583) precincts reporting,U.S. House of Representatives District 20 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,128941,Kevin McCarthy,,,84.6% (493 of 583) precincts reporting,U.S. House of Representatives District 20 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,680,Jim Costa,,,74.7% (374 of 501) precincts reporting,U.S. House of Representatives District 21 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,567,Michael Maher,,,74.7% (374 of 501) precincts reporting,U.S. House of Representatives District 21 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,41410,Rudy Salas,,,74% (407 of 550) precincts reporting,U.S. House of Representatives District 22 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,112607,David G. Valadao,,,74% (407 of 550) precincts reporting,U.S. House of Representatives District 22 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,5123,Derek Marshall,,,"100% (1,566 of 1,566) precincts reporting",U.S. House of Representatives District 23 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1865,Jay Obernolte,,,"100% (1,566 of 1,566) precincts reporting",U.S. House of Representatives District 23 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,51839,Salud Carbajal,,,100% (789 of 789) precincts reporting,U.S. House of Representatives District 24 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,19288,Brad Allen,,,100% (789 of 789) precincts reporting,U.S. House of Representatives District 24 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,76046,Raul Ruiz,,,51.2% (370 of 723) precincts reporting,U.S. House of Representatives District 25 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,209110,Brian E. Hawkins,,,51.2% (370 of 723) precincts reporting,U.S. House of Representatives District 25 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,85150,Julia Brownley,,,"100% (1,253 of 1,253) precincts reporting",U.S. House of Representatives District 26 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,234197,Matt Jacobs,,,"100% (1,253 of 1,253) precincts reporting",U.S. House of Representatives District 26 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,44,Christy Smith,,,100% (468 of 468) precincts reporting,U.S. House of Representatives District 27 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,111,Mike Garcia,,,100% (468 of 468) precincts reporting,U.S. House of Representatives District 27 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,66,Judy Chu,,,100% (530 of 530) precincts reporting,U.S. House of Representatives District 28 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,113,Wes Hallman,,,100% (530 of 530) precincts reporting,U.S. House of Representatives District 28 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,87,Tony Cardenas,,,100% (165 of 165) precincts reporting,U.S. House of Representatives District 29 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,47,Angélica María Dueñas,,,100% (165 of 165) precincts reporting,U.S. House of Representatives District 29 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,43,"G ""Maebe A. Girl"" Pudlo",,,100% (252 of 252) precincts reporting,U.S. House of Representatives District 30 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,91,Adam B. Schiff,,,100% (252 of 252) precincts reporting,U.S. House of Representatives District 30 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,60,Grace F. Napolitano,,,100% (426 of 426) precincts reporting,U.S. House of Representatives District 31 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,100,Daniel Bocic Martinez,,,100% (426 of 426) precincts reporting,U.S. House of Representatives District 31 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,869,Brad Sherman,,,100% (239 of 239) precincts reporting,U.S. House of Representatives District 32 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,391,Lucie Lapointe Volotzky,,,100% (239 of 239) precincts reporting,U.S. House of Representatives District 32 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,28,Pete Aguilar,,,100% (653 of 653) precincts reporting,U.S. House of Representatives District 33 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,32,John Mark Porter,,,100% (653 of 653) precincts reporting,U.S. House of Representatives District 33 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,96,Jimmy Gomez,,,100% (174 of 174) precincts reporting,U.S. House of Representatives District 34 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,42,David Kim,,,100% (174 of 174) precincts reporting,U.S. House of Representatives District 34 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,14988,Norma J. Torres,,,100% (437 of 437) precincts reporting,U.S. House of Representatives District 35 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,5468,Mike Cargile,,,100% (437 of 437) precincts reporting,U.S. House of Representatives District 35 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,85,Ted W. Lieu,,,100% (242 of 242) precincts reporting,U.S. House of Representatives District 36 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,46,Joe E. Collins III,,,100% (242 of 242) precincts reporting,U.S. House of Representatives District 36 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,92,Sydney Kamlager,,,100% (203 of 203) precincts reporting,U.S. House of Representatives District 37 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,56,Jan C. Perry,,,100% (203 of 203) precincts reporting,U.S. House of Representatives District 37 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,3920,Linda T. Sánchez,,,100% (317 of 317) precincts reporting,U.S. House of Representatives District 38 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,3829,Eric J. Ching,,,100% (317 of 317) precincts reporting,U.S. House of Representatives District 38 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,210056,Mark Takano,,,100% (254 of 254) precincts reporting,U.S. House of Representatives District 39 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,76384,Aja Smith,,,100% (254 of 254) precincts reporting,U.S. House of Representatives District 39 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,5840,Asif Mahmood,,,100% (687 of 687) precincts reporting,U.S. House of Representatives District 40 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,8344,Young Kim,,,100% (687 of 687) precincts reporting,U.S. House of Representatives District 40 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,94786,Will Rollins,,,100% (459 of 459) precincts reporting,U.S. House of Representatives District 41 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,260663,Ken Calvert,,,100% (459 of 459) precincts reporting,U.S. House of Representatives District 41 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,88,Robert Garcia,,,100% (218 of 218) precincts reporting,U.S. House of Representatives District 42 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,42,John Briscoe,,,100% (218 of 218) precincts reporting,U.S. House of Representatives District 42 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,96,Maxine Waters,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 43 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,39,Omar Navarro,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 43 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,37,Nanette Diaz Barragan,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 44 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,98,Paul Jones,,,100% (258 of 258) precincts reporting,U.S. House of Representatives District 44 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4171,Jay F. Chen,,,100% (450 of 450) precincts reporting,U.S. House of Representatives District 45 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4291,Michelle Steel,,,100% (450 of 450) precincts reporting,U.S. House of Representatives District 45 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,3862,Lou Correa,,,100% (366 of 366) precincts reporting,U.S. House of Representatives District 46 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,3922,Christopher J. Gonzales,,,100% (366 of 366) precincts reporting,U.S. House of Representatives District 46 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4901,Katie Porter,,,100% (534 of 534) precincts reporting,U.S. House of Representatives District 47 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4807,Scott Baugh,,,100% (534 of 534) precincts reporting,U.S. House of Representatives District 47 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,32935,Stephen Houlahan,,,100% (824 of 824) precincts reporting,U.S. House of Representatives District 48 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,88699,Darrell Issa,,,100% (824 of 824) precincts reporting,U.S. House of Representatives District 48 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,5399,Mike Levin,,,100% (586 of 586) precincts reporting,U.S. House of Representatives District 49 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,5541,Brian Maryott,,,100% (586 of 586) precincts reporting,U.S. House of Representatives District 49 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,300,Scott Peters,,,100% (701 of 701) precincts reporting,U.S. House of Representatives District 50 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,360,Corey Gustafson,,,100% (701 of 701) precincts reporting,U.S. House of Representatives District 50 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,240,Sara Jacobs,,,100% (528 of 528) precincts reporting,U.S. House of Representatives District 51 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,300,Stan Caplan,,,100% (528 of 528) precincts reporting,U.S. House of Representatives District 51 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,480,Juan Vargas,,,100% (434 of 434) precincts reporting,U.S. House of Representatives District 52 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,300,Tyler Geffeney,,,100% (434 of 434) precincts reporting,U.S. House of Representatives District 52 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Non,1237934,Lance Ray Christensen,,,"94.6% (24,220 of 25,603) precincts reporting",Superintendent of Public Instruction - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+True,Non,3247958,Tony K. Thurmond,,,"94.6% (24,220 of 25,603) precincts reporting",Superintendent of Public Instruction - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+True,Dem,3243202,Fiona Ma,,,"94.6% (24,220 of 25,603) precincts reporting",Treasurer - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1236904,Jack M. Guerrero,,,"94.6% (24,220 of 25,603) precincts reporting",Treasurer - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+True,Dem,3263471,Gavin Newsom,,,"94.6% (24,220 of 25,603) precincts reporting",Governor - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1233535,Brian Dahle,,,"94.6% (24,220 of 25,603) precincts reporting",Governor - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,37848,Belle Starr Sandwith,,,100% (547 of 547) precincts reporting,State Assembly District 1 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,103807,Megan Dahle,,,100% (547 of 547) precincts reporting,State Assembly District 1 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,175345,Jim Wood,,,100% (759 of 759) precincts reporting,State Assembly District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,63759,Charlotte Svolos,,,100% (759 of 759) precincts reporting,State Assembly District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,57579,David Leon Zink,,,100% (396 of 396) precincts reporting,State Assembly District 3 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,139384,James Gallagher,,,100% (396 of 396) precincts reporting,State Assembly District 3 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,23889,Cecilia Aguiar-Curry,,,71.8% (285 of 397) precincts reporting,State Assembly District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,8731,Bryan Pritchard,,,71.8% (285 of 397) precincts reporting,State Assembly District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,164,Rebecca L Chenoweth,,,100% (447 of 447) precincts reporting,State Assembly District 5 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,152,Joe Patterson,,,100% (447 of 447) precincts reporting,State Assembly District 5 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,14750,Kevin McCarty,,,100% (210 of 210) precincts reporting,State Assembly District 6 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,22450,Cathy Cook,,,100% (210 of 210) precincts reporting,State Assembly District 6 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,19846,Ken Cooley,,,100% (224 of 224) precincts reporting,State Assembly District 7 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,20454,Josh Hoover,,,100% (224 of 224) precincts reporting,State Assembly District 7 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,36927,Jim Patterson,,,89.4% (262 of 293) precincts reporting,State Assembly District 8 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Lib,13731,Thomas Edward Nichols,,,89.4% (262 of 293) precincts reporting,State Assembly District 8 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,22456,Mushtaq A Tahirkheli,,,43% (135 of 314) precincts reporting,State Assembly District 9 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,45458,Heath Flora,,,43% (135 of 314) precincts reporting,State Assembly District 9 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,19139,Eric Guerra,,,100% (190 of 190) precincts reporting,State Assembly District 10 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,16821,Stephanie Nguyen,,,100% (190 of 190) precincts reporting,State Assembly District 10 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,25034,Lori D Wilson,,,100% (346 of 346) precincts reporting,State Assembly District 11 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,NPP,11767,Jenny Leilani Callison,,,100% (346 of 346) precincts reporting,State Assembly District 11 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,75850,Sara Aminzadeh,,,100% (388 of 388) precincts reporting,State Assembly District 12 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,27644,Damon Connolly,,,100% (388 of 388) precincts reporting,State Assembly District 12 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Veronica Vargas,,,0% (0 of 211) precincts reporting,State Assembly District 13 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Carlos Villapudua,,,0% (0 of 211) precincts reporting,State Assembly District 13 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,83133,Buffy Wicks,,,83.4% (242 of 290) precincts reporting,State Assembly District 14 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,30230,Richard Kinney,,,83.4% (242 of 290) precincts reporting,State Assembly District 14 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,168062,Tim Grayson,,,100% (574 of 574) precincts reporting,State Assembly District 15 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,61113,Janell Elizabeth Proctor,,,100% (574 of 574) precincts reporting,State Assembly District 15 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,121396,Rebecca Bauer-Kahan,,,79.9% (319 of 399) precincts reporting,State Assembly District 16 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,44143,Joseph A. Rubay,,,79.9% (319 of 399) precincts reporting,State Assembly District 16 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,102,David Campos,,,100% (298 of 298) precincts reporting,State Assembly District 17 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,106,Matt Haney,,,100% (298 of 298) precincts reporting,State Assembly District 17 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Mia Bonta,,,0.9% (1 of 108) precincts reporting,State Assembly District 18 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,0,Mindy Pechenuk,,,0.9% (1 of 108) precincts reporting,State Assembly District 18 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,246,Phil Ting,,,100% (258 of 258) precincts reporting,State Assembly District 19 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,386,Karsten Weide,,,100% (258 of 258) precincts reporting,State Assembly District 19 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Shawn Kumagai,,,0% (0 of 257) precincts reporting,State Assembly District 20 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,0,Liz Ortega,,,0% (0 of 257) precincts reporting,State Assembly District 20 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,1728,Giselle Hale,,,100% (184 of 184) precincts reporting,State Assembly District 21 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,864,Diane Papan,,,100% (184 of 184) precincts reporting,State Assembly District 21 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,131910,Jessica Self,,,100% (161 of 161) precincts reporting,State Assembly District 22 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,47966,Juan Alanis,,,100% (161 of 161) precincts reporting,State Assembly District 22 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,40563,Marc Berman,,,100% (236 of 236) precincts reporting,State Assembly District 23 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,111160,Tim Dec,,,100% (236 of 236) precincts reporting,State Assembly District 23 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,55070,Alex Lee,,,56.2% (77 of 137) precincts reporting,State Assembly District 24 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,20025,Bob Brunton,,,56.2% (77 of 137) precincts reporting,State Assembly District 24 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,50972,Ash Kalra,,,100% (193 of 193) precincts reporting,State Assembly District 25 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,140173,Ted Stroll,,,100% (193 of 193) precincts reporting,State Assembly District 25 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,120014,Evan Low,,,100% (146 of 146) precincts reporting,State Assembly District 26 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,43641,Tim Gorsulowsky,,,100% (146 of 146) precincts reporting,State Assembly District 26 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,65461,Esmeralda Soria,,,100% (399 of 399) precincts reporting,State Assembly District 27 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,23950,Mark Nicholas Pazin,,,100% (399 of 399) precincts reporting,State Assembly District 27 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,60829,Gail Pellerin,,,100% (312 of 312) precincts reporting,State Assembly District 28 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,167284,Liz Lawler,,,100% (312 of 312) precincts reporting,State Assembly District 28 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,17430,Robert Rivas,,,100% (234 of 234) precincts reporting,State Assembly District 29 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,42201,Stephanie L. Castro,,,100% (234 of 234) precincts reporting,State Assembly District 29 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,13537,Dawn Addis,,,100% (252 of 252) precincts reporting,State Assembly District 30 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,33579,Vicki Nohrden,,,100% (252 of 252) precincts reporting,State Assembly District 30 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,511,Joaquin Arambula,,,100% (289 of 289) precincts reporting,State Assembly District 31 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,392,Dolce Misol Calandra,,,100% (289 of 289) precincts reporting,State Assembly District 31 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,167848,Vince Fong,,,73.4% (383 of 522) precincts reporting,State Assembly District 32 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,885,Jose Sigala,,,38.1% (136 of 357) precincts reporting,State Assembly District 33 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1146,Devon J. Mathis,,,38.1% (136 of 357) precincts reporting,State Assembly District 33 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4638,Tom Lackey,,,"100% (1,242 of 1,242) precincts reporting",State Assembly District 34 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,12721,"Thurston ""Smitty"" Smith",,,"100% (1,242 of 1,242) precincts reporting",State Assembly District 34 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,109731,Jasmeet Bains,,,100% (338 of 338) precincts reporting,State Assembly District 35 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,39902,Leticia Perez,,,100% (338 of 338) precincts reporting,State Assembly District 35 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,129096,Eduardo Garcia,,,37.4% (211 of 564) precincts reporting,State Assembly District 36 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,46949,Ian M. Weeks,,,37.4% (211 of 564) precincts reporting,State Assembly District 36 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,342,Gregg Hart,,,100% (306 of 306) precincts reporting,State Assembly District 37 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,366,Mike Stoker,,,100% (306 of 306) precincts reporting,State Assembly District 37 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,54458,Steve Bennett,,,"100% (1,054 of 1,054) precincts reporting",State Assembly District 38 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,149761,Cole Brocato,,,"100% (1,054 of 1,054) precincts reporting",State Assembly District 38 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,48,Juan Carrillo,,,100% (264 of 264) precincts reporting,State Assembly District 39 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,83,Paul Andre Marsh,,,100% (264 of 264) precincts reporting,State Assembly District 39 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,56,Pilar Schiavo,,,100% (266 of 266) precincts reporting,State Assembly District 40 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,19,Suzette Martinez Valladares,,,100% (266 of 266) precincts reporting,State Assembly District 40 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,83,Chris Holden,,,100% (429 of 429) precincts reporting,State Assembly District 41 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,48,Michael McMahon,,,100% (429 of 429) precincts reporting,State Assembly District 41 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,134175,Jacqui Irwin,,,100% (664 of 664) precincts reporting,State Assembly District 42 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,48852,Lori Mills,,,100% (664 of 664) precincts reporting,State Assembly District 42 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,23,Luz Maria Rivas,,,100% (108 of 108) precincts reporting,State Assembly District 43 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,41,Siaka Massaquoi,,,100% (108 of 108) precincts reporting,State Assembly District 43 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,28,Laura Friedman,,,100% (136 of 136) precincts reporting,State Assembly District 44 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,43,Barry Curtis Jacobsen,,,100% (136 of 136) precincts reporting,State Assembly District 44 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,36,James C. Ramos,,,100% (512 of 512) precincts reporting,State Assembly District 45 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,40,Joseph (Joe) W. Martinez,,,100% (512 of 512) precincts reporting,State Assembly District 45 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,866,Jesse Gabriel,,,100% (119 of 119) precincts reporting,State Assembly District 46 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,320,Dana Caruso,,,100% (119 of 119) precincts reporting,State Assembly District 46 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,48666,Christy Holstege,,,100% (623 of 623) precincts reporting,State Assembly District 47 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,133744,Greg Wallis,,,100% (623 of 623) precincts reporting,State Assembly District 47 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,30,Blanca Rubio,,,100% (265 of 265) precincts reporting,State Assembly District 48 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,47,Ryan Maye,,,100% (265 of 265) precincts reporting,State Assembly District 48 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,54,Mike Fong,,,100% (184 of 184) precincts reporting,State Assembly District 49 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,27,Burton Brink,,,100% (184 of 184) precincts reporting,State Assembly District 49 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,52,Eloise Gomez Reyes,,,100% (346 of 346) precincts reporting,State Assembly District 50 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,56,Sheela Stark,,,100% (346 of 346) precincts reporting,State Assembly District 50 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,33,Louis Abramson,,,100% (164 of 164) precincts reporting,State Assembly District 51 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,39,Rick Chavez Zbur,,,100% (164 of 164) precincts reporting,State Assembly District 51 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,28,Wendy Carrillo,,,100% (146 of 146) precincts reporting,State Assembly District 52 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,38,Mia Livas Porter,,,100% (146 of 146) precincts reporting,State Assembly District 52 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,76,Freddie Rodriguez,,,100% (245 of 245) precincts reporting,State Assembly District 53 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,115,Toni Holle,,,100% (245 of 245) precincts reporting,State Assembly District 53 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,47,Miguel Santiago,,,100% (120 of 120) precincts reporting,State Assembly District 54 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,26,Elaine Alaniz,,,100% (120 of 120) precincts reporting,State Assembly District 54 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,21,Isaac G. Bryan,,,100% (168 of 168) precincts reporting,State Assembly District 55 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,40,Keith Girolamo Cascio,,,100% (168 of 168) precincts reporting,State Assembly District 55 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,27,Lisa Calderon,,,100% (256 of 256) precincts reporting,State Assembly District 56 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,47,Jessica Martinez,,,100% (256 of 256) precincts reporting,State Assembly District 56 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,22,Reggie Jones-Sawyer,,,100% (110 of 110) precincts reporting,State Assembly District 57 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,135166,Sabrina Cervantes,,,100% (151 of 151) precincts reporting,State Assembly District 58 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,49193,Bernard William Murphy,,,100% (151 of 151) precincts reporting,State Assembly District 58 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4413,Phillip Chen,,,100% (523 of 523) precincts reporting,State Assembly District 59 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,NPP,4491,Leon Q. Sit,,,100% (523 of 523) precincts reporting,State Assembly District 59 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,125873,Corey A Jackson,,,100% (180 of 180) precincts reporting,State Assembly District 60 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,45771,Hector Diaz-Nava,,,100% (180 of 180) precincts reporting,State Assembly District 60 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,55,Tina Simone McKinnor,,,100% (182 of 182) precincts reporting,State Assembly District 61 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,22,Robert Pullen-Miles,,,100% (182 of 182) precincts reporting,State Assembly District 61 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,48,Maria Estrada,,,100% (131 of 131) precincts reporting,State Assembly District 62 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,26,Anthony Rendon,,,100% (131 of 131) precincts reporting,State Assembly District 62 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,59524,Fauzia Rizvi,,,100% (213 of 213) precincts reporting,State Assembly District 63 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,163693,Bill Essayli,,,100% (213 of 213) precincts reporting,State Assembly District 63 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,3876,Blanca Pacheco,,,100% (175 of 175) precincts reporting,State Assembly District 64 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,3943,"Raul Ortiz, Jr.",,,100% (175 of 175) precincts reporting,State Assembly District 64 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,32,Mike Anthony Gipson,,,100% (180 of 180) precincts reporting,State Assembly District 65 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,32,Fatima Iqbal-Zubair,,,100% (180 of 180) precincts reporting,State Assembly District 65 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,42,Al Muratsuchi,,,100% (147 of 147) precincts reporting,State Assembly District 66 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,19,George Barks,,,100% (147 of 147) precincts reporting,State Assembly District 66 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4166,Sharon Quirk-Silva,,,100% (262 of 262) precincts reporting,State Assembly District 67 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4233,Soo Yoo,,,100% (262 of 262) precincts reporting,State Assembly District 67 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4092,Avelino Valencia,,,100% (206 of 206) precincts reporting,State Assembly District 68 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4158,Mike Tardif,,,100% (206 of 206) precincts reporting,State Assembly District 68 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,27,Al Austin II,,,100% (139 of 139) precincts reporting,State Assembly District 69 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,35,Josh Lowenthal,,,100% (139 of 139) precincts reporting,State Assembly District 69 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4876,Diedre Thu-Ha Nguyen,,,100% (268 of 268) precincts reporting,State Assembly District 70 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4970,Tri Ta,,,100% (268 of 268) precincts reporting,State Assembly District 70 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,104572,Matt Rahn,,,100% (338 of 338) precincts reporting,State Assembly District 71 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,41574,Kate Sanchez,,,100% (338 of 338) precincts reporting,State Assembly District 71 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4999,Judie Mancuso,,,100% (361 of 361) precincts reporting,State Assembly District 72 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4903,Diane Dixon,,,100% (361 of 361) precincts reporting,State Assembly District 72 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,5681,Cottie Petrie-Norris,,,100% (321 of 321) precincts reporting,State Assembly District 73 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,5572,"Steven ""Steve"" Choi",,,100% (321 of 321) precincts reporting,State Assembly District 73 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,5274,Chris Duncan,,,100% (343 of 343) precincts reporting,State Assembly District 74 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,5495,Laurie Davies,,,100% (343 of 343) precincts reporting,State Assembly District 74 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,840,Randy Voepel,,,100% (595 of 595) precincts reporting,State Assembly District 75 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,420,Marie Waldron,,,100% (595 of 595) precincts reporting,State Assembly District 75 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,200,Brian Maienschein,,,100% (618 of 618) precincts reporting,State Assembly District 76 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,400,Kristie Bruce-Lane,,,100% (618 of 618) precincts reporting,State Assembly District 76 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,240,Tasha Boerner Horvath,,,100% (371 of 371) precincts reporting,State Assembly District 77 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,480,Dan Downey,,,100% (371 of 371) precincts reporting,State Assembly District 77 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,200,Chris Ward,,,100% (331 of 331) precincts reporting,State Assembly District 78 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,100,Eric E. Gonzales,,,100% (331 of 331) precincts reporting,State Assembly District 78 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,140,Akilah Weber,,,100% (298 of 298) precincts reporting,State Assembly District 79 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,280,Corbin Sabol,,,100% (298 of 298) precincts reporting,State Assembly District 79 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,440,David Alvarez,,,100% (313 of 313) precincts reporting,State Assembly District 80 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,220,Georgette Gómez,,,100% (313 of 313) precincts reporting,State Assembly District 80 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3257427,Yes,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Patricia Guerrero,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,1223395,No,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Patricia Guerrero,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3730320,Yes,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Martin J. Jenkins,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,749472,No,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Martin J. Jenkins,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,4046236,Yes,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Goodwin Liu,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,427591,No,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Goodwin Liu,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3309405,Yes,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Joshua P. Groban,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,1170522,No,,California,"94.6% (24,220 of 25,603) precincts reporting",Retain Supreme Court Justice Joshua P. Groban,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,237209,Mike McGuire,,,"95.6% (1,089 of 1,139) precincts reporting",State Senate District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,86317,Gene Yoon,,,"95.6% (1,089 of 1,139) precincts reporting",State Senate District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,217518,Marie Alvarado-Gil,,,94.6% (648 of 685) precincts reporting,State Senate District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,79276,Tim Robertson,,,94.6% (648 of 685) precincts reporting,State Senate District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,38699,Paula Villescaz,,,100% (574 of 574) precincts reporting,State Senate District 6 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,10960,Roger Niello,,,100% (574 of 574) precincts reporting,State Senate District 6 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,44919,Angelique Ashby,,,100% (366 of 366) precincts reporting,State Senate District 8 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,35681,Dave Jones,,,100% (366 of 366) precincts reporting,State Senate District 8 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,130609,Lily Mei,,,48.2% (157 of 326) precincts reporting,State Senate District 10 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,47494,Aisha Wahab,,,48.2% (157 of 326) precincts reporting,State Senate District 10 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,137731,Susanne Gundy,,,78.7% (589 of 748) precincts reporting,State Senate District 12 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,50250,Shannon Grove,,,78.7% (589 of 748) precincts reporting,State Senate District 12 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,64783,Anna Caballero,,,99.9% (705 of 706) precincts reporting,State Senate District 14 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,24335,Amnon Shor,,,99.9% (705 of 706) precincts reporting,State Senate District 14 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,40306,Melissa Hurtado,,,67.6% (418 of 618) precincts reporting,State Senate District 16 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,108811,David Shepard,,,67.6% (418 of 618) precincts reporting,State Senate District 16 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,94534,Steve Padilla,,,58% (487 of 840) precincts reporting,State Senate District 18 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,34469,Alejandro Galicia,,,58% (487 of 840) precincts reporting,State Senate District 18 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,54,Daniel Hertzberg,,,100% (224 of 224) precincts reporting,State Senate District 20 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,20,Caroline Menjivar,,,100% (224 of 224) precincts reporting,State Senate District 20 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,50,Susan Rubio,,,100% (572 of 572) precincts reporting,State Senate District 22 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,84,Vincent Tsai,,,100% (572 of 572) precincts reporting,State Senate District 22 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,68,Ben Allen,,,100% (358 of 358) precincts reporting,State Senate District 24 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,17,Kristina Irwin,,,100% (358 of 358) precincts reporting,State Senate District 24 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,28,Maria Elena Durazo,,,100% (243 of 243) precincts reporting,State Senate District 26 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,38,Claudia Agraz,,,100% (243 of 243) precincts reporting,State Senate District 26 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,60,Lola Smallwood-Cuevas,,,100% (281 of 281) precincts reporting,State Senate District 28 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,29,Cheryl C. Turner,,,100% (281 of 281) precincts reporting,State Senate District 28 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4373,Bob Archuleta,,,100% (428 of 428) precincts reporting,State Senate District 30 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4301,Mitch Clemmons,,,100% (428 of 428) precincts reporting,State Senate District 30 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,103312,Brian Nash,,,100% (643 of 643) precincts reporting,State Senate District 32 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,276235,Kelly Seyarto,,,100% (643 of 643) precincts reporting,State Senate District 32 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,2796,Tom Umberg,,,100% (436 of 436) precincts reporting,State Senate District 34 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,2855,Rhonda Shader,,,100% (436 of 436) precincts reporting,State Senate District 34 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,4444,Kim Carr,,,100% (653 of 653) precincts reporting,State Senate District 36 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,4373,Janet Nguyen,,,100% (653 of 653) precincts reporting,State Senate District 36 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,6114,Catherine Blakespear,,,100% (741 of 741) precincts reporting,State Senate District 38 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,5631,Matt Gunderson,,,100% (741 of 741) precincts reporting,State Senate District 38 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,960,Joseph C. Rocha,,,"100% (1,068 of 1,068) precincts reporting",State Senate District 40 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,480,Brian W. Jones,,,"100% (1,068 of 1,068) precincts reporting",State Senate District 40 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,351233,Jose S. Altamirano,,,"88.8% (6,693 of 7,536) precincts reporting",Board of Equalization District 1 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,830758,Ted Gaines,,,"88.8% (6,693 of 7,536) precincts reporting",Board of Equalization District 1 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,1622309,Sally J. Lieber,,,"91.9% (6,815 of 7,417) precincts reporting",Board of Equalization District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,593129,Peter Coe Verbica,,,"91.9% (6,815 of 7,417) precincts reporting",Board of Equalization District 2 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,81,Tony Vazquez,,,"100% (3,680 of 3,680) precincts reporting",Board of Equalization District 3 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,NPP,125,Y. Marie Manvel,,,"100% (3,680 of 3,680) precincts reporting",Board of Equalization District 3 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,290978,David Dodson,,,"94.9% (6,617 of 6,970) precincts reporting",Board of Equalization District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,791402,Mike Schaefer,,,"94.9% (6,617 of 6,970) precincts reporting",Board of Equalization District 4 - Districtwide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3739495,Yes,Constitutional Right to Reproductive Freedom,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 1,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,734969,No,Constitutional Right to Reproductive Freedom,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 1,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3400047,Yes,Sports Wagering on Tribal Lands,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 26,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,1075169,No,Sports Wagering on Tribal Lands,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 26,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,4080535,Yes,Online Sports Wagering Outside of Tribal Lands,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 27,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,395199,No,Online Sports Wagering Outside of Tribal Lands,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 27,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3486658,Yes,Public School Arts and Music Education Funding,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 28,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,986236,No,Public School Arts and Music Education Funding,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 28,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3714554,Yes,Regulates Kidney Dialysis Clinics,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 29,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,761607,No,Regulates Kidney Dialysis Clinics,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 29,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3975007,Yes,Tax to Fund ZEV/Wildfire Programs,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 30,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,501361,No,Tax to Fund ZEV/Wildfire Programs,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 30,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,3647125,Yes,Prohibition on Sale of Certain Tobacco Products,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 31,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+,,829329,No,Prohibition on Sale of Certain Tobacco Products,California,"94.6% (24,220 of 25,603) precincts reporting",Proposition 31,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Dem,3253647,Shirley N. Weber,,,"94.6% (24,220 of 25,603) precincts reporting",Secretary of State - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1226101,Rob Bernosky,,,"94.6% (24,220 of 25,603) precincts reporting",Secretary of State - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+True,Dem,3222555,Eleni Kounalakis,,,"94.6% (24,220 of 25,603) precincts reporting",Lieutenant Governor - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
+False,Rep,1256925,Angela E. Underwood Jacobs,,,"94.6% (24,220 of 25,603) precincts reporting",Lieutenant Governor - Statewide Results,2022-10-20T14:41:04.286427-07:00,ca_secretary_of_state
