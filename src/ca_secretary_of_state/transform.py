@@ -1,4 +1,7 @@
+import csv
 import json
+import pathlib
+import typing
 
 import click
 from rich import print
@@ -57,9 +60,15 @@ def cli():
         "races": [],
     }
 
+    corrections = get_corrections()
+
     for contest in contest_list:
         # Tidy
-        obj = ContestTransformer(contest)
+        obj = ContestTransformer(contest, corrections)
+
+        # Exclude records we don't want
+        if not obj.include():
+            continue
 
         # Add to our master list
         transformed_list["races"].append(obj.dump())
@@ -72,6 +81,14 @@ def cli():
     # Overwrite the latest file
     latest_path = output_dir / "latest.json"
     utils.write_json(transformed_list, latest_path)
+
+
+def get_corrections() -> typing.Dict:
+    """Open the lookup of corrections to the raw data."""
+    this_dir = pathlib.Path(__file__).parent.absolute()
+    correx_path = this_dir / "corrections.csv"
+    correx_reader = csv.DictReader(open(correx_path))
+    return {d["raw_name"]: d for d in correx_reader}
 
 
 class CandidateResultTransformer(schema.BaseTransformer):
@@ -102,14 +119,59 @@ class ContestTransformer(schema.BaseTransformer):
     def transform_data(self):
         """Create a new object."""
         return dict(
-            name=self.raw["raceTitle"].split("-")[0].strip(),
+            name=self.correct_name(),
+            description=self.correct_description(),
+            geography=self.correct_geography(),
             precincts_reporting=self.raw["Reporting"],
-            description=None,
-            geography=None,
             candidates=[
                 CandidateResultTransformer(c).dump() for c in self.raw["candidates"]
             ],
         )
+
+    def _get_correction(self):
+        try:
+            return self.corrections[self.raw["raceTitle"]]
+        except KeyError:
+            return None
+
+    def include(self):
+        """Determine if we want to keep this record, based on our corrections."""
+        correction = self._get_correction()
+        if not correction:
+            return True
+        return correction["include"].lower() == "yes"
+
+    def correct_name(self):
+        """Correct the name field."""
+        correction = self._get_correction()
+        if not correction:
+            return self.raw["raceTitle"]
+        return correction["clean_name"] or self.raw["raceTitle"]
+
+    def correct_description(self):
+        """Correct the description field."""
+        correction = self._get_correction()
+        if not correction:
+            return None
+        return correction["clean_description"] or None
+
+    def correct_geography(self):
+        """Correct the geography field."""
+        correction = self._get_correction()
+        if not correction:
+            return None
+        return correction["clean_geography"] or None
+
+    def correct_incumbent(
+        self, candidate_list: typing.List[typing.Dict]
+    ) -> typing.List[typing.Dict]:
+        """Correct the incumbents field."""
+        # Correct any incumbent candidates
+        correction = self._get_correction()
+        if correction and correction["incumbent"]:
+            for c in candidate_list:
+                c["incumbent"] = c["Name"] in correction["incumbent"]
+        return candidate_list
 
 
 if __name__ == "__main__":
