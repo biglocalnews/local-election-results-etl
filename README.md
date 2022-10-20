@@ -57,6 +57,12 @@ pipenv run python -m src.los_angeles_county.transform
 pipenv run python -m src.ca_secretary_of_state.transform
 ```
 
+Export results to CSV.
+
+```bash
+pipenv run python -m src.export
+```
+
 Upload data to the Amazon S3 bucket.
 
 ```bash
