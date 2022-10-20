@@ -77,6 +77,7 @@ all: ## run a scraper. example: `make run scraper=IA`
 	$(PIPENV) python -m src.los_angeles_county.download
 	$(PIPENV) python -m src.ca_secretary_of_state.transform
 	$(PIPENV) python -m src.los_angeles_county.transform
+	$(PIPENV) python -m src.export
 	$(PIPENV) python -m src.upload
 
 #

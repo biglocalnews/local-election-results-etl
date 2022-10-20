@@ -51,6 +51,11 @@ jobs:
         run: pipenv run python -m src.ca_secretary_of_state.transform
         shell: bash
 
+      - id: export
+        name: Export to S3
+        run: pipenv run python -m src.export
+        shell: bash
+
       - id: upload
         name: Upload to S3
         run: pipenv run python -m src.upload
