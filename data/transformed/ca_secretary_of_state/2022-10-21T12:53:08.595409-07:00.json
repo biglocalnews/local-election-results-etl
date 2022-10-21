@@ -6,14 +6,14 @@
           "incumbent": false,
           "name": "Alex Padilla",
           "party": "Dem",
-          "votes": 946071,
+          "votes": 946033,
           "votes_percent": 0.2773
         },
         {
           "incumbent": false,
           "name": "Mark P. Meuser",
           "party": "Rep",
-          "votes": 2466245,
+          "votes": 2466035,
           "votes_percent": 0.7227
         }
       ],
@@ -29,14 +29,14 @@
           "incumbent": false,
           "name": "Rob Bonta",
           "party": "Dem",
-          "votes": 938815,
+          "votes": 938726,
           "votes_percent": 0.275
         },
         {
           "incumbent": false,
           "name": "Nathan Hochman",
           "party": "Rep",
-          "votes": 2474704,
+          "votes": 2474507,
           "votes_percent": 0.725
         }
       ],
@@ -52,14 +52,14 @@
           "incumbent": false,
           "name": "Malia M. Cohen",
           "party": "Dem",
-          "votes": 2423685,
+          "votes": 2423427,
           "votes_percent": 0.7102
         },
         {
           "incumbent": false,
           "name": "Lanhee J. Chen",
           "party": "Rep",
-          "votes": 989149,
+          "votes": 989093,
           "votes_percent": 0.2898
         }
       ],
@@ -75,15 +75,15 @@
           "incumbent": false,
           "name": "Alex Padilla",
           "party": "Dem",
-          "votes": 941756,
-          "votes_percent": 0.2758
+          "votes": 941480,
+          "votes_percent": 0.2757
         },
         {
           "incumbent": false,
           "name": "Mark P. Meuser",
           "party": "Rep",
-          "votes": 2473365,
-          "votes_percent": 0.7242
+          "votes": 2473222,
+          "votes_percent": 0.7243
         }
       ],
       "description": null,
@@ -98,14 +98,14 @@
           "incumbent": true,
           "name": "Ricardo Lara",
           "party": "Dem",
-          "votes": 2489082,
+          "votes": 2488945,
           "votes_percent": 0.7291
         },
         {
           "incumbent": false,
           "name": "Robert Howell",
           "party": "Rep",
-          "votes": 925045,
+          "votes": 924932,
           "votes_percent": 0.2709
         }
       ],
@@ -144,15 +144,15 @@
           "incumbent": false,
           "name": "Jared Huffman",
           "party": "Dem",
-          "votes": 18947,
-          "votes_percent": 0.2812
+          "votes": 18671,
+          "votes_percent": 0.2794
         },
         {
           "incumbent": false,
           "name": "Douglas Brower",
           "party": "Rep",
-          "votes": 48431,
-          "votes_percent": 0.7188
+          "votes": 48150,
+          "votes_percent": 0.7206
         }
       ],
       "description": null,
@@ -190,15 +190,15 @@
           "incumbent": false,
           "name": "Mike Thompson",
           "party": "Dem",
-          "votes": 12007,
-          "votes_percent": 0.5982
+          "votes": 11707,
+          "votes_percent": 0.6037
         },
         {
           "incumbent": false,
           "name": "Matt Brock",
           "party": "Rep",
-          "votes": 8065,
-          "votes_percent": 0.4018
+          "votes": 7685,
+          "votes_percent": 0.3963
         }
       ],
       "description": null,
@@ -1317,14 +1317,14 @@
           "incumbent": false,
           "name": "Lance Ray Christensen",
           "party": "Non",
-          "votes": 956049,
+          "votes": 955655,
           "votes_percent": 0.2793
         },
         {
           "incumbent": true,
           "name": "Tony K. Thurmond",
           "party": "Non",
-          "votes": 2466419,
+          "votes": 2466076,
           "votes_percent": 0.7207
         }
       ],
@@ -1340,14 +1340,14 @@
           "incumbent": true,
           "name": "Fiona Ma",
           "party": "Dem",
-          "votes": 2461421,
+          "votes": 2461022,
           "votes_percent": 0.7205
         },
         {
           "incumbent": false,
           "name": "Jack M. Guerrero",
           "party": "Rep",
-          "votes": 954840,
+          "votes": 954635,
           "votes_percent": 0.2795
         }
       ],
@@ -1363,14 +1363,14 @@
           "incumbent": true,
           "name": "Gavin Newsom",
           "party": "Dem",
-          "votes": 2479036,
+          "votes": 2478693,
           "votes_percent": 0.7226
         },
         {
           "incumbent": false,
           "name": "Brian Dahle",
           "party": "Rep",
-          "votes": 951849,
+          "votes": 951638,
           "votes_percent": 0.2774
         }
       ],
@@ -1409,15 +1409,15 @@
           "incumbent": false,
           "name": "Jim Wood",
           "party": "Dem",
-          "votes": 45165,
-          "votes_percent": 0.7069
+          "votes": 44969,
+          "votes_percent": 0.7095
         },
         {
           "incumbent": false,
           "name": "Charlotte Svolos",
           "party": "Rep",
-          "votes": 18727,
-          "votes_percent": 0.2931
+          "votes": 18415,
+          "votes_percent": 0.2905
         }
       ],
       "description": null,
@@ -1455,15 +1455,15 @@
           "incumbent": false,
           "name": "Cecilia Aguiar-Curry",
           "party": "Dem",
-          "votes": 18554,
-          "votes_percent": 0.6459
+          "votes": 18459,
+          "votes_percent": 0.6495
         },
         {
           "incumbent": false,
           "name": "Bryan Pritchard",
           "party": "Rep",
-          "votes": 10170,
-          "votes_percent": 0.3541
+          "votes": 9961,
+          "votes_percent": 0.3505
         }
       ],
       "description": null,
@@ -1639,15 +1639,15 @@
           "incumbent": false,
           "name": "Sara Aminzadeh",
           "party": "Dem",
-          "votes": 4584,
-          "votes_percent": 0.5014
+          "votes": 4395,
+          "votes_percent": 0.5066
         },
         {
           "incumbent": false,
           "name": "Damon Connolly",
           "party": "Dem",
-          "votes": 4558,
-          "votes_percent": 0.4986
+          "votes": 4281,
+          "votes_percent": 0.4934
         }
       ],
       "description": null,
@@ -3212,14 +3212,14 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2474587,
+          "votes": 2474343,
           "votes_percent": 0.7242
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 942172,
+          "votes": 942146,
           "votes_percent": 0.2758
         }
       ],
@@ -3235,15 +3235,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2814404,
-          "votes_percent": 0.8245
+          "votes": 2814282,
+          "votes_percent": 0.8246
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 599123,
-          "votes_percent": 0.1755
+          "votes": 598782,
+          "votes_percent": 0.1754
         }
       ],
       "description": null,
@@ -3258,15 +3258,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 3067757,
-          "votes_percent": 0.8998
+          "votes": 3067661,
+          "votes_percent": 0.8999
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 341460,
-          "votes_percent": 0.1002
+          "votes": 341098,
+          "votes_percent": 0.1001
         }
       ],
       "description": null,
@@ -3281,15 +3281,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2507279,
-          "votes_percent": 0.7343
+          "votes": 2506918,
+          "votes_percent": 0.7344
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 907092,
-          "votes_percent": 0.2657
+          "votes": 906830,
+          "votes_percent": 0.2656
         }
       ],
       "description": null,
@@ -3304,15 +3304,15 @@
           "incumbent": false,
           "name": "Mike McGuire",
           "party": "Dem",
-          "votes": 54977,
-          "votes_percent": 0.7117
+          "votes": 54915,
+          "votes_percent": 0.7126
         },
         {
           "incumbent": false,
           "name": "Gene Yoon",
           "party": "Rep",
-          "votes": 22268,
-          "votes_percent": 0.2883
+          "votes": 22150,
+          "votes_percent": 0.2874
         }
       ],
       "description": null,
@@ -3787,15 +3787,15 @@
           "incumbent": false,
           "name": "Sally J. Lieber",
           "party": "Dem",
-          "votes": 840135,
-          "votes_percent": 0.7303
+          "votes": 839910,
+          "votes_percent": 0.7304
         },
         {
           "incumbent": false,
           "name": "Peter Coe Verbica",
           "party": "Rep",
-          "votes": 310208,
-          "votes_percent": 0.2697
+          "votes": 310067,
+          "votes_percent": 0.2696
         }
       ],
       "description": null,
@@ -3856,15 +3856,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2829162,
-          "votes_percent": 0.8298
+          "votes": 2829119,
+          "votes_percent": 0.8299
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 580085,
-          "votes_percent": 0.1702
+          "votes": 580035,
+          "votes_percent": 0.1701
         }
       ],
       "description": "Constitutional Right to Reproductive Freedom",
@@ -3879,14 +3879,14 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2584652,
+          "votes": 2584446,
           "votes_percent": 0.7585
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 823003,
+          "votes": 822678,
           "votes_percent": 0.2415
         }
       ],
@@ -3902,15 +3902,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 3086481,
-          "votes_percent": 0.9051
+          "votes": 3086402,
+          "votes_percent": 0.9052
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 323435,
-          "votes_percent": 0.0949
+          "votes": 323081,
+          "votes_percent": 0.0948
         }
       ],
       "description": "Online Sports Wagering Outside of Tribal Lands",
@@ -3925,14 +3925,14 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2638602,
+          "votes": 2638532,
           "votes_percent": 0.7742
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 769766,
+          "votes": 769449,
           "votes_percent": 0.2258
         }
       ],
@@ -3948,15 +3948,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2811270,
-          "votes_percent": 0.8245
+          "votes": 2811222,
+          "votes_percent": 0.8246
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 598253,
-          "votes_percent": 0.1755
+          "votes": 597966,
+          "votes_percent": 0.1754
         }
       ],
       "description": "Regulates Kidney Dialysis Clinics",
@@ -3971,15 +3971,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2961133,
-          "votes_percent": 0.8682
+          "votes": 2960899,
+          "votes_percent": 0.8683
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 449538,
-          "votes_percent": 0.1318
+          "votes": 449175,
+          "votes_percent": 0.1317
         }
       ],
       "description": "Tax to Fund ZEV/Wildfire Programs",
@@ -3994,15 +3994,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2849560,
-          "votes_percent": 0.8352
+          "votes": 2849261,
+          "votes_percent": 0.8353
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 562252,
-          "votes_percent": 0.1648
+          "votes": 561886,
+          "votes_percent": 0.1647
         }
       ],
       "description": "Prohibition on Sale of Certain Tobacco Products",
@@ -4017,14 +4017,14 @@
           "incumbent": false,
           "name": "Shirley N. Weber",
           "party": "Dem",
-          "votes": 2468400,
+          "votes": 2468290,
           "votes_percent": 0.7234
         },
         {
           "incumbent": false,
           "name": "Rob Bernosky",
           "party": "Rep",
-          "votes": 943676,
+          "votes": 943564,
           "votes_percent": 0.2766
         }
       ],
@@ -4040,15 +4040,15 @@
           "incumbent": true,
           "name": "Eleni Kounalakis",
           "party": "Dem",
-          "votes": 2438568,
-          "votes_percent": 0.7146
+          "votes": 2438505,
+          "votes_percent": 0.7147
         },
         {
           "incumbent": false,
           "name": "Angela E. Underwood Jacobs",
           "party": "Rep",
-          "votes": 973726,
-          "votes_percent": 0.2854
+          "votes": 973506,
+          "votes_percent": 0.2853
         }
       ],
       "description": null,
@@ -4058,5 +4058,5 @@
       "slug": "lieutenant-governor-statewide-results"
     }
   ],
-  "scraped_datetime": "2022-10-21T12:53:42.699352-07:00"
+  "scraped_datetime": "2022-10-21T12:53:08.595409-07:00"
 }

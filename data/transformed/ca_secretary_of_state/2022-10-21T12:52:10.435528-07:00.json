@@ -6,15 +6,15 @@
           "incumbent": false,
           "name": "Alex Padilla",
           "party": "Dem",
-          "votes": 946071,
-          "votes_percent": 0.2773
+          "votes": 946033,
+          "votes_percent": 0.27726088694598117
         },
         {
           "incumbent": false,
           "name": "Mark P. Meuser",
           "party": "Rep",
-          "votes": 2466245,
-          "votes_percent": 0.7227
+          "votes": 2466035,
+          "votes_percent": 0.7227391130540188
         }
       ],
       "description": null,
@@ -29,15 +29,15 @@
           "incumbent": false,
           "name": "Rob Bonta",
           "party": "Dem",
-          "votes": 938815,
-          "votes_percent": 0.275
+          "votes": 938726,
+          "votes_percent": 0.27502546705718595
         },
         {
           "incumbent": false,
           "name": "Nathan Hochman",
           "party": "Rep",
-          "votes": 2474704,
-          "votes_percent": 0.725
+          "votes": 2474507,
+          "votes_percent": 0.724974532942814
         }
       ],
       "description": null,
@@ -52,15 +52,15 @@
           "incumbent": false,
           "name": "Malia M. Cohen",
           "party": "Dem",
-          "votes": 2423685,
-          "votes_percent": 0.7102
+          "votes": 2423427,
+          "votes_percent": 0.7101575961459566
         },
         {
           "incumbent": false,
           "name": "Lanhee J. Chen",
           "party": "Rep",
-          "votes": 989149,
-          "votes_percent": 0.2898
+          "votes": 989093,
+          "votes_percent": 0.28984240385404336
         }
       ],
       "description": null,
@@ -75,15 +75,15 @@
           "incumbent": false,
           "name": "Alex Padilla",
           "party": "Dem",
-          "votes": 941756,
-          "votes_percent": 0.2758
+          "votes": 941480,
+          "votes_percent": 0.2757136640327619
         },
         {
           "incumbent": false,
           "name": "Mark P. Meuser",
           "party": "Rep",
-          "votes": 2473365,
-          "votes_percent": 0.7242
+          "votes": 2473222,
+          "votes_percent": 0.7242863359672381
         }
       ],
       "description": null,
@@ -98,15 +98,15 @@
           "incumbent": true,
           "name": "Ricardo Lara",
           "party": "Dem",
-          "votes": 2489082,
-          "votes_percent": 0.7291
+          "votes": 2488945,
+          "votes_percent": 0.7290669816165023
         },
         {
           "incumbent": false,
           "name": "Robert Howell",
           "party": "Rep",
-          "votes": 925045,
-          "votes_percent": 0.2709
+          "votes": 924932,
+          "votes_percent": 0.2709330183834977
         }
       ],
       "description": null,
@@ -122,14 +122,14 @@
           "name": "Max Steiner",
           "party": "Dem",
           "votes": 88602,
-          "votes_percent": 0.2833
+          "votes_percent": 0.2833042894370813
         },
         {
           "incumbent": false,
           "name": "Doug LaMalfa",
           "party": "Rep",
           "votes": 224143,
-          "votes_percent": 0.7167
+          "votes_percent": 0.7166957105629187
         }
       ],
       "description": null,
@@ -144,15 +144,15 @@
           "incumbent": false,
           "name": "Jared Huffman",
           "party": "Dem",
-          "votes": 18947,
-          "votes_percent": 0.2812
+          "votes": 18671,
+          "votes_percent": 0.2794181469897188
         },
         {
           "incumbent": false,
           "name": "Douglas Brower",
           "party": "Rep",
-          "votes": 48431,
-          "votes_percent": 0.7188
+          "votes": 48150,
+          "votes_percent": 0.7205818530102812
         }
       ],
       "description": null,
@@ -168,14 +168,14 @@
           "name": "Kermit Jones",
           "party": "Dem",
           "votes": 25033,
-          "votes_percent": 0.396
+          "votes_percent": 0.3959977853357589
         },
         {
           "incumbent": false,
           "name": "Kevin Kiley",
           "party": "Rep",
           "votes": 38182,
-          "votes_percent": 0.604
+          "votes_percent": 0.6040022146642411
         }
       ],
       "description": null,
@@ -190,15 +190,15 @@
           "incumbent": false,
           "name": "Mike Thompson",
           "party": "Dem",
-          "votes": 12007,
-          "votes_percent": 0.5982
+          "votes": 11707,
+          "votes_percent": 0.6037025577557755
         },
         {
           "incumbent": false,
           "name": "Matt Brock",
           "party": "Rep",
-          "votes": 8065,
-          "votes_percent": 0.4018
+          "votes": 7685,
+          "votes_percent": 0.3962974422442244
         }
       ],
       "description": null,
@@ -214,14 +214,14 @@
           "name": "Michael J. \"Mike\" Barkley",
           "party": "Dem",
           "votes": 145285,
-          "votes_percent": 0.7326
+          "votes_percent": 0.732645157386209
         },
         {
           "incumbent": false,
           "name": "Tom McClintock",
           "party": "Rep",
           "votes": 53017,
-          "votes_percent": 0.2674
+          "votes_percent": 0.2673548426137911
         }
       ],
       "description": null,
@@ -237,14 +237,14 @@
           "name": "Ami Bera",
           "party": "Dem",
           "votes": 38614,
-          "votes_percent": 0.6228
+          "votes_percent": 0.6228064516129033
         },
         {
           "incumbent": false,
           "name": "Tamika Hamilton",
           "party": "Rep",
           "votes": 23386,
-          "votes_percent": 0.3772
+          "votes_percent": 0.3771935483870968
         }
       ],
       "description": null,
@@ -260,14 +260,14 @@
           "name": "Doris Matsui",
           "party": "Dem",
           "votes": 31362,
-          "votes_percent": 0.4813
+          "votes_percent": 0.4813075506445672
         },
         {
           "incumbent": false,
           "name": "Max Semenenko",
           "party": "Rep",
           "votes": 33798,
-          "votes_percent": 0.5187
+          "votes_percent": 0.5186924493554328
         }
       ],
       "description": null,
@@ -283,14 +283,14 @@
           "name": "John Garamendi",
           "party": "Dem",
           "votes": 49353,
-          "votes_percent": 0.2714
+          "votes_percent": 0.27135670103092785
         },
         {
           "incumbent": false,
           "name": "Rudy Recile",
           "party": "Rep",
           "votes": 132522,
-          "votes_percent": 0.7286
+          "votes_percent": 0.7286432989690722
         }
       ],
       "description": null,
@@ -306,14 +306,14 @@
           "name": "Josh Harder",
           "party": "Dem",
           "votes": 2625,
-          "votes_percent": 0.2666
+          "votes_percent": 0.2665515840779854
         },
         {
           "incumbent": false,
           "name": "Tom Patti",
           "party": "Rep",
           "votes": 7223,
-          "votes_percent": 0.7334
+          "votes_percent": 0.7334484159220146
         }
       ],
       "description": null,
@@ -329,14 +329,14 @@
           "name": "Mark DeSaulnier",
           "party": "Dem",
           "votes": 257263,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333358037923446
         },
         {
           "incumbent": false,
           "name": "Michael Ernest Kerr",
           "party": "Grn",
           "votes": 93549,
-          "votes_percent": 0.2667
+          "votes_percent": 0.26666419620765536
         }
       ],
       "description": null,
@@ -352,14 +352,14 @@
           "name": "Nancy Pelosi",
           "party": "Dem",
           "votes": 90,
-          "votes_percent": 0.5114
+          "votes_percent": 0.5113636363636364
         },
         {
           "incumbent": false,
           "name": "John Dennis",
           "party": "Rep",
           "votes": 86,
-          "votes_percent": 0.4886
+          "votes_percent": 0.48863636363636365
         }
       ],
       "description": null,
@@ -398,14 +398,14 @@
           "name": "Adam Gray",
           "party": "Dem",
           "votes": 45926,
-          "votes_percent": 0.2682
+          "votes_percent": 0.2682389771804711
         },
         {
           "incumbent": false,
           "name": "John Duarte",
           "party": "Rep",
           "votes": 125287,
-          "votes_percent": 0.7318
+          "votes_percent": 0.7317610228195289
         }
       ],
       "description": null,
@@ -444,14 +444,14 @@
           "name": "David J. Canepa",
           "party": "Dem",
           "votes": 1150,
-          "votes_percent": 0.3423
+          "votes_percent": 0.34226190476190477
         },
         {
           "incumbent": false,
           "name": "Kevin Mullin",
           "party": "Dem",
           "votes": 2210,
-          "votes_percent": 0.6577
+          "votes_percent": 0.6577380952380952
         }
       ],
       "description": null,
@@ -467,14 +467,14 @@
           "name": "Anna G. Eshoo",
           "party": "Dem",
           "votes": 464,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         },
         {
           "incumbent": false,
           "name": "Rishi Kumar",
           "party": "Dem",
           "votes": 928,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         }
       ],
       "description": null,
@@ -513,14 +513,14 @@
           "name": "Zoe Lofgren",
           "party": "Dem",
           "votes": 8539,
-          "votes_percent": 0.3168
+          "votes_percent": 0.3168107446295403
         },
         {
           "incumbent": false,
           "name": "Peter Hernandez",
           "party": "Rep",
           "votes": 18414,
-          "votes_percent": 0.6832
+          "votes_percent": 0.6831892553704597
         }
       ],
       "description": null,
@@ -536,14 +536,14 @@
           "name": "Jimmy Panetta",
           "party": "Dem",
           "votes": 29971,
-          "votes_percent": 0.2733
+          "votes_percent": 0.2733482908321477
         },
         {
           "incumbent": false,
           "name": "Jeff Gorman",
           "party": "Rep",
           "votes": 79673,
-          "votes_percent": 0.7267
+          "votes_percent": 0.7266517091678523
         }
       ],
       "description": null,
@@ -559,14 +559,14 @@
           "name": "Marisa Wood",
           "party": "Dem",
           "votes": 47421,
-          "votes_percent": 0.2689
+          "votes_percent": 0.26888445356709495
         },
         {
           "incumbent": false,
           "name": "Kevin McCarthy",
           "party": "Rep",
           "votes": 128941,
-          "votes_percent": 0.7311
+          "votes_percent": 0.731115546432905
         }
       ],
       "description": null,
@@ -582,14 +582,14 @@
           "name": "Jim Costa",
           "party": "Dem",
           "votes": 680,
-          "votes_percent": 0.5453
+          "votes_percent": 0.545308740978348
         },
         {
           "incumbent": false,
           "name": "Michael Maher",
           "party": "Rep",
           "votes": 567,
-          "votes_percent": 0.4547
+          "votes_percent": 0.454691259021652
         }
       ],
       "description": null,
@@ -605,14 +605,14 @@
           "name": "Rudy Salas",
           "party": "Dem",
           "votes": 41410,
-          "votes_percent": 0.2689
+          "votes_percent": 0.26886642383632975
         },
         {
           "incumbent": false,
           "name": "David G. Valadao",
           "party": "Rep",
           "votes": 112607,
-          "votes_percent": 0.7311
+          "votes_percent": 0.7311335761636703
         }
       ],
       "description": null,
@@ -628,14 +628,14 @@
           "name": "Derek Marshall",
           "party": "Dem",
           "votes": 5295,
-          "votes_percent": 0.7312
+          "votes_percent": 0.7311516155758078
         },
         {
           "incumbent": false,
           "name": "Jay Obernolte",
           "party": "Rep",
           "votes": 1947,
-          "votes_percent": 0.2688
+          "votes_percent": 0.26884838442419223
         }
       ],
       "description": null,
@@ -651,14 +651,14 @@
           "name": "Salud Carbajal",
           "party": "Dem",
           "votes": 51839,
-          "votes_percent": 0.7288
+          "votes_percent": 0.7288230910905844
         },
         {
           "incumbent": false,
           "name": "Brad Allen",
           "party": "Rep",
           "votes": 19288,
-          "votes_percent": 0.2712
+          "votes_percent": 0.27117690890941554
         }
       ],
       "description": null,
@@ -674,14 +674,14 @@
           "name": "Raul Ruiz",
           "party": "Dem",
           "votes": 76046,
-          "votes_percent": 0.2667
+          "votes_percent": 0.26668209681718075
         },
         {
           "incumbent": false,
           "name": "Brian E. Hawkins",
           "party": "Rep",
           "votes": 209110,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333179031828192
         }
       ],
       "description": null,
@@ -697,14 +697,14 @@
           "name": "Julia Brownley",
           "party": "Dem",
           "votes": 85234,
-          "votes_percent": 0.2667
+          "votes_percent": 0.26668543983980225
         },
         {
           "incumbent": false,
           "name": "Matt Jacobs",
           "party": "Rep",
           "votes": 234371,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333145601601977
         }
       ],
       "description": null,
@@ -720,14 +720,14 @@
           "name": "Christy Smith",
           "party": "Dem",
           "votes": 232,
-          "votes_percent": 0.3586
+          "votes_percent": 0.35857805255023184
         },
         {
           "incumbent": false,
           "name": "Mike Garcia",
           "party": "Rep",
           "votes": 415,
-          "votes_percent": 0.6414
+          "votes_percent": 0.6414219474497682
         }
       ],
       "description": null,
@@ -743,14 +743,14 @@
           "name": "Judy Chu",
           "party": "Dem",
           "votes": 226,
-          "votes_percent": 0.3229
+          "votes_percent": 0.32285714285714284
         },
         {
           "incumbent": false,
           "name": "Wes Hallman",
           "party": "Rep",
           "votes": 474,
-          "votes_percent": 0.6771
+          "votes_percent": 0.6771428571428572
         }
       ],
       "description": null,
@@ -766,14 +766,14 @@
           "name": "Tony Cardenas",
           "party": "Dem",
           "votes": 381,
-          "votes_percent": 0.6287
+          "votes_percent": 0.6287128712871287
         },
         {
           "incumbent": false,
           "name": "Ang\u00e9lica Mar\u00eda Due\u00f1as",
           "party": "Dem",
           "votes": 225,
-          "votes_percent": 0.3713
+          "votes_percent": 0.3712871287128713
         }
       ],
       "description": null,
@@ -789,14 +789,14 @@
           "name": "G \"Maebe A. Girl\" Pudlo",
           "party": "Dem",
           "votes": 217,
-          "votes_percent": 0.3478
+          "votes_percent": 0.34775641025641024
         },
         {
           "incumbent": false,
           "name": "Adam B. Schiff",
           "party": "Dem",
           "votes": 407,
-          "votes_percent": 0.6522
+          "votes_percent": 0.6522435897435898
         }
       ],
       "description": null,
@@ -812,14 +812,14 @@
           "name": "Grace F. Napolitano",
           "party": "Dem",
           "votes": 218,
-          "votes_percent": 0.3516
+          "votes_percent": 0.35161290322580646
         },
         {
           "incumbent": false,
           "name": "Daniel Bocic Martinez",
           "party": "Rep",
           "votes": 402,
-          "votes_percent": 0.6484
+          "votes_percent": 0.6483870967741936
         }
       ],
       "description": null,
@@ -835,14 +835,14 @@
           "name": "Brad Sherman",
           "party": "Dem",
           "votes": 1047,
-          "votes_percent": 0.5919
+          "votes_percent": 0.5918598078010175
         },
         {
           "incumbent": false,
           "name": "Lucie Lapointe Volotzky",
           "party": "Rep",
           "votes": 722,
-          "votes_percent": 0.4081
+          "votes_percent": 0.40814019219898245
         }
       ],
       "description": null,
@@ -858,14 +858,14 @@
           "name": "Pete Aguilar",
           "party": "Dem",
           "votes": 28,
-          "votes_percent": 0.4667
+          "votes_percent": 0.4666666666666667
         },
         {
           "incumbent": false,
           "name": "John Mark Porter",
           "party": "Rep",
           "votes": 32,
-          "votes_percent": 0.5333
+          "votes_percent": 0.5333333333333333
         }
       ],
       "description": null,
@@ -881,14 +881,14 @@
           "name": "Jimmy Gomez",
           "party": "Dem",
           "votes": 391,
-          "votes_percent": 0.6549
+          "votes_percent": 0.6549413735343383
         },
         {
           "incumbent": false,
           "name": "David Kim",
           "party": "Dem",
           "votes": 206,
-          "votes_percent": 0.3451
+          "votes_percent": 0.34505862646566166
         }
       ],
       "description": null,
@@ -904,14 +904,14 @@
           "name": "Norma J. Torres",
           "party": "Dem",
           "votes": 15159,
-          "votes_percent": 0.7321
+          "votes_percent": 0.7321419946872736
         },
         {
           "incumbent": false,
           "name": "Mike Cargile",
           "party": "Rep",
           "votes": 5546,
-          "votes_percent": 0.2679
+          "votes_percent": 0.2678580053127264
         }
       ],
       "description": null,
@@ -927,14 +927,14 @@
           "name": "Ted W. Lieu",
           "party": "Dem",
           "votes": 388,
-          "votes_percent": 0.6424
+          "votes_percent": 0.6423841059602649
         },
         {
           "incumbent": false,
           "name": "Joe E. Collins III",
           "party": "Rep",
           "votes": 216,
-          "votes_percent": 0.3576
+          "votes_percent": 0.3576158940397351
         }
       ],
       "description": null,
@@ -950,14 +950,14 @@
           "name": "Sydney Kamlager",
           "party": "Dem",
           "votes": 391,
-          "votes_percent": 0.6474
+          "votes_percent": 0.6473509933774835
         },
         {
           "incumbent": false,
           "name": "Jan C. Perry",
           "party": "Dem",
           "votes": 213,
-          "votes_percent": 0.3526
+          "votes_percent": 0.3526490066225166
         }
       ],
       "description": null,
@@ -973,14 +973,14 @@
           "name": "Linda T. S\u00e1nchez",
           "party": "Dem",
           "votes": 4249,
-          "votes_percent": 0.5145
+          "votes_percent": 0.5145313635262776
         },
         {
           "incumbent": false,
           "name": "Eric J. Ching",
           "party": "Rep",
           "votes": 4009,
-          "votes_percent": 0.4855
+          "votes_percent": 0.48546863647372246
         }
       ],
       "description": null,
@@ -996,14 +996,14 @@
           "name": "Mark Takano",
           "party": "Dem",
           "votes": 210056,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333333333333333
         },
         {
           "incumbent": false,
           "name": "Aja Smith",
           "party": "Rep",
           "votes": 76384,
-          "votes_percent": 0.2667
+          "votes_percent": 0.26666666666666666
         }
       ],
       "description": null,
@@ -1019,14 +1019,14 @@
           "name": "Asif Mahmood",
           "party": "Dem",
           "votes": 5840,
-          "votes_percent": 0.4117
+          "votes_percent": 0.41173152848279754
         },
         {
           "incumbent": false,
           "name": "Young Kim",
           "party": "Rep",
           "votes": 8344,
-          "votes_percent": 0.5883
+          "votes_percent": 0.5882684715172025
         }
       ],
       "description": null,
@@ -1042,14 +1042,14 @@
           "name": "Will Rollins",
           "party": "Dem",
           "votes": 94786,
-          "votes_percent": 0.2667
+          "votes_percent": 0.26666554132941717
         },
         {
           "incumbent": false,
           "name": "Ken Calvert",
           "party": "Rep",
           "votes": 260663,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333344586705829
         }
       ],
       "description": null,
@@ -1065,14 +1065,14 @@
           "name": "Robert Garcia",
           "party": "Dem",
           "votes": 413,
-          "votes_percent": 0.7024
+          "votes_percent": 0.7023809523809523
         },
         {
           "incumbent": false,
           "name": "John Briscoe",
           "party": "Rep",
           "votes": 175,
-          "votes_percent": 0.2976
+          "votes_percent": 0.2976190476190476
         }
       ],
       "description": null,
@@ -1088,14 +1088,14 @@
           "name": "Maxine Waters",
           "party": "Dem",
           "votes": 425,
-          "votes_percent": 0.6746
+          "votes_percent": 0.6746031746031746
         },
         {
           "incumbent": false,
           "name": "Omar Navarro",
           "party": "Rep",
           "votes": 205,
-          "votes_percent": 0.3254
+          "votes_percent": 0.3253968253968254
         }
       ],
       "description": null,
@@ -1134,14 +1134,14 @@
           "name": "Jay F. Chen",
           "party": "Dem",
           "votes": 4325,
-          "votes_percent": 0.4852
+          "votes_percent": 0.4851918330715728
         },
         {
           "incumbent": false,
           "name": "Michelle Steel",
           "party": "Rep",
           "votes": 4589,
-          "votes_percent": 0.5148
+          "votes_percent": 0.5148081669284272
         }
       ],
       "description": null,
@@ -1157,14 +1157,14 @@
           "name": "Lou Correa",
           "party": "Dem",
           "votes": 3862,
-          "votes_percent": 0.4961
+          "votes_percent": 0.4961459403905447
         },
         {
           "incumbent": false,
           "name": "Christopher J. Gonzales",
           "party": "Rep",
           "votes": 3922,
-          "votes_percent": 0.5039
+          "votes_percent": 0.5038540596094553
         }
       ],
       "description": null,
@@ -1180,14 +1180,14 @@
           "name": "Katie Porter",
           "party": "Dem",
           "votes": 4901,
-          "votes_percent": 0.5048
+          "votes_percent": 0.5048413679439637
         },
         {
           "incumbent": false,
           "name": "Scott Baugh",
           "party": "Rep",
           "votes": 4807,
-          "votes_percent": 0.4952
+          "votes_percent": 0.4951586320560363
         }
       ],
       "description": null,
@@ -1203,14 +1203,14 @@
           "name": "Stephen Houlahan",
           "party": "Dem",
           "votes": 32935,
-          "votes_percent": 0.2708
+          "votes_percent": 0.2707713303845964
         },
         {
           "incumbent": false,
           "name": "Darrell Issa",
           "party": "Rep",
           "votes": 88699,
-          "votes_percent": 0.7292
+          "votes_percent": 0.7292286696154036
         }
       ],
       "description": null,
@@ -1226,14 +1226,14 @@
           "name": "Mike Levin",
           "party": "Dem",
           "votes": 5399,
-          "votes_percent": 0.4935
+          "votes_percent": 0.49351005484460697
         },
         {
           "incumbent": false,
           "name": "Brian Maryott",
           "party": "Rep",
           "votes": 5541,
-          "votes_percent": 0.5065
+          "votes_percent": 0.506489945155393
         }
       ],
       "description": null,
@@ -1249,14 +1249,14 @@
           "name": "Scott Peters",
           "party": "Dem",
           "votes": 300,
-          "votes_percent": 0.4545
+          "votes_percent": 0.45454545454545453
         },
         {
           "incumbent": false,
           "name": "Corey Gustafson",
           "party": "Rep",
           "votes": 360,
-          "votes_percent": 0.5455
+          "votes_percent": 0.5454545454545454
         }
       ],
       "description": null,
@@ -1272,14 +1272,14 @@
           "name": "Sara Jacobs",
           "party": "Dem",
           "votes": 240,
-          "votes_percent": 0.4444
+          "votes_percent": 0.4444444444444444
         },
         {
           "incumbent": false,
           "name": "Stan Caplan",
           "party": "Rep",
           "votes": 300,
-          "votes_percent": 0.5556
+          "votes_percent": 0.5555555555555556
         }
       ],
       "description": null,
@@ -1295,14 +1295,14 @@
           "name": "Juan Vargas",
           "party": "Dem",
           "votes": 480,
-          "votes_percent": 0.6154
+          "votes_percent": 0.6153846153846154
         },
         {
           "incumbent": false,
           "name": "Tyler Geffeney",
           "party": "Rep",
           "votes": 300,
-          "votes_percent": 0.3846
+          "votes_percent": 0.38461538461538464
         }
       ],
       "description": null,
@@ -1317,15 +1317,15 @@
           "incumbent": false,
           "name": "Lance Ray Christensen",
           "party": "Non",
-          "votes": 956049,
-          "votes_percent": 0.2793
+          "votes": 955655,
+          "votes_percent": 0.2792899266482374
         },
         {
           "incumbent": true,
           "name": "Tony K. Thurmond",
           "party": "Non",
-          "votes": 2466419,
-          "votes_percent": 0.7207
+          "votes": 2466076,
+          "votes_percent": 0.7207100733517626
         }
       ],
       "description": null,
@@ -1340,15 +1340,15 @@
           "incumbent": true,
           "name": "Fiona Ma",
           "party": "Dem",
-          "votes": 2461421,
-          "votes_percent": 0.7205
+          "votes": 2461022,
+          "votes_percent": 0.7205120420463764
         },
         {
           "incumbent": false,
           "name": "Jack M. Guerrero",
           "party": "Rep",
-          "votes": 954840,
-          "votes_percent": 0.2795
+          "votes": 954635,
+          "votes_percent": 0.2794879579536236
         }
       ],
       "description": null,
@@ -1363,15 +1363,15 @@
           "incumbent": true,
           "name": "Gavin Newsom",
           "party": "Dem",
-          "votes": 2479036,
-          "votes_percent": 0.7226
+          "votes": 2478693,
+          "votes_percent": 0.7225812902603277
         },
         {
           "incumbent": false,
           "name": "Brian Dahle",
           "party": "Rep",
-          "votes": 951849,
-          "votes_percent": 0.2774
+          "votes": 951638,
+          "votes_percent": 0.27741870973967236
         }
       ],
       "description": null,
@@ -1387,14 +1387,14 @@
           "name": "Belle Starr Sandwith",
           "party": "Dem",
           "votes": 37848,
-          "votes_percent": 0.2672
+          "votes_percent": 0.267184356358759
         },
         {
           "incumbent": false,
           "name": "Megan Dahle",
           "party": "Rep",
           "votes": 103807,
-          "votes_percent": 0.7328
+          "votes_percent": 0.7328156436412411
         }
       ],
       "description": null,
@@ -1409,15 +1409,15 @@
           "incumbent": false,
           "name": "Jim Wood",
           "party": "Dem",
-          "votes": 45165,
-          "votes_percent": 0.7069
+          "votes": 44969,
+          "votes_percent": 0.7094692666919097
         },
         {
           "incumbent": false,
           "name": "Charlotte Svolos",
           "party": "Rep",
-          "votes": 18727,
-          "votes_percent": 0.2931
+          "votes": 18415,
+          "votes_percent": 0.29053073330809037
         }
       ],
       "description": null,
@@ -1433,14 +1433,14 @@
           "name": "David Leon Zink",
           "party": "Dem",
           "votes": 57579,
-          "votes_percent": 0.2923
+          "votes_percent": 0.29233409320532283
         },
         {
           "incumbent": false,
           "name": "James Gallagher",
           "party": "Rep",
           "votes": 139384,
-          "votes_percent": 0.7077
+          "votes_percent": 0.7076659067946772
         }
       ],
       "description": null,
@@ -1455,15 +1455,15 @@
           "incumbent": false,
           "name": "Cecilia Aguiar-Curry",
           "party": "Dem",
-          "votes": 18554,
-          "votes_percent": 0.6459
+          "votes": 18459,
+          "votes_percent": 0.6495073891625616
         },
         {
           "incumbent": false,
           "name": "Bryan Pritchard",
           "party": "Rep",
-          "votes": 10170,
-          "votes_percent": 0.3541
+          "votes": 9961,
+          "votes_percent": 0.35049261083743843
         }
       ],
       "description": null,
@@ -1479,14 +1479,14 @@
           "name": "Rebecca L Chenoweth",
           "party": "Dem",
           "votes": 164,
-          "votes_percent": 0.519
+          "votes_percent": 0.5189873417721519
         },
         {
           "incumbent": false,
           "name": "Joe Patterson",
           "party": "Rep",
           "votes": 152,
-          "votes_percent": 0.481
+          "votes_percent": 0.4810126582278481
         }
       ],
       "description": null,
@@ -1502,14 +1502,14 @@
           "name": "Kevin McCarty",
           "party": "Dem",
           "votes": 14750,
-          "votes_percent": 0.3965
+          "votes_percent": 0.396505376344086
         },
         {
           "incumbent": false,
           "name": "Cathy Cook",
           "party": "Rep",
           "votes": 22450,
-          "votes_percent": 0.6035
+          "votes_percent": 0.603494623655914
         }
       ],
       "description": null,
@@ -1525,14 +1525,14 @@
           "name": "Ken Cooley",
           "party": "Dem",
           "votes": 19846,
-          "votes_percent": 0.4925
+          "votes_percent": 0.49245657568238216
         },
         {
           "incumbent": false,
           "name": "Josh Hoover",
           "party": "Rep",
           "votes": 20454,
-          "votes_percent": 0.5075
+          "votes_percent": 0.5075434243176179
         }
       ],
       "description": null,
@@ -1548,14 +1548,14 @@
           "name": "Jim Patterson",
           "party": "Rep",
           "votes": 36927,
-          "votes_percent": 0.7289
+          "votes_percent": 0.7289470567333886
         },
         {
           "incumbent": false,
           "name": "Thomas Edward Nichols",
           "party": "Lib",
           "votes": 13731,
-          "votes_percent": 0.2711
+          "votes_percent": 0.2710529432666114
         }
       ],
       "description": null,
@@ -1571,14 +1571,14 @@
           "name": "Mushtaq A Tahirkheli",
           "party": "Dem",
           "votes": 22456,
-          "votes_percent": 0.3307
+          "votes_percent": 0.33065347351061636
         },
         {
           "incumbent": false,
           "name": "Heath Flora",
           "party": "Rep",
           "votes": 45458,
-          "votes_percent": 0.6693
+          "votes_percent": 0.6693465264893836
         }
       ],
       "description": null,
@@ -1594,14 +1594,14 @@
           "name": "Eric Guerra",
           "party": "Dem",
           "votes": 19139,
-          "votes_percent": 0.5322
+          "votes_percent": 0.532230255839822
         },
         {
           "incumbent": false,
           "name": "Stephanie Nguyen",
           "party": "Dem",
           "votes": 16821,
-          "votes_percent": 0.4678
+          "votes_percent": 0.46776974416017797
         }
       ],
       "description": null,
@@ -1617,14 +1617,14 @@
           "name": "Lori D Wilson",
           "party": "Dem",
           "votes": 25034,
-          "votes_percent": 0.6803
+          "votes_percent": 0.6802532539876633
         },
         {
           "incumbent": false,
           "name": "Jenny Leilani Callison",
           "party": "NPP",
           "votes": 11767,
-          "votes_percent": 0.3197
+          "votes_percent": 0.3197467460123366
         }
       ],
       "description": null,
@@ -1639,15 +1639,15 @@
           "incumbent": false,
           "name": "Sara Aminzadeh",
           "party": "Dem",
-          "votes": 4584,
-          "votes_percent": 0.5014
+          "votes": 4395,
+          "votes_percent": 0.5065698478561549
         },
         {
           "incumbent": false,
           "name": "Damon Connolly",
           "party": "Dem",
-          "votes": 4558,
-          "votes_percent": 0.4986
+          "votes": 4281,
+          "votes_percent": 0.4934301521438451
         }
       ],
       "description": null,
@@ -1686,14 +1686,14 @@
           "name": "Buffy Wicks",
           "party": "Dem",
           "votes": 83133,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333345094960437
         },
         {
           "incumbent": false,
           "name": "Richard Kinney",
           "party": "Rep",
           "votes": 30230,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666654905039563
         }
       ],
       "description": null,
@@ -1709,14 +1709,14 @@
           "name": "Tim Grayson",
           "party": "Dem",
           "votes": 168062,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333347878258972
         },
         {
           "incumbent": false,
           "name": "Janell Elizabeth Proctor",
           "party": "Rep",
           "votes": 61113,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666652121741028
         }
       ],
       "description": null,
@@ -1732,14 +1732,14 @@
           "name": "Rebecca Bauer-Kahan",
           "party": "Dem",
           "votes": 121396,
-          "votes_percent": 0.7333
+          "votes_percent": 0.733337763306532
         },
         {
           "incumbent": false,
           "name": "Joseph A. Rubay",
           "party": "Rep",
           "votes": 44143,
-          "votes_percent": 0.2667
+          "votes_percent": 0.266662236693468
         }
       ],
       "description": null,
@@ -1755,14 +1755,14 @@
           "name": "David Campos",
           "party": "Dem",
           "votes": 102,
-          "votes_percent": 0.4904
+          "votes_percent": 0.49038461538461536
         },
         {
           "incumbent": false,
           "name": "Matt Haney",
           "party": "Dem",
           "votes": 106,
-          "votes_percent": 0.5096
+          "votes_percent": 0.5096153846153846
         }
       ],
       "description": null,
@@ -1801,14 +1801,14 @@
           "name": "Phil Ting",
           "party": "Dem",
           "votes": 246,
-          "votes_percent": 0.3892
+          "votes_percent": 0.38924050632911394
         },
         {
           "incumbent": false,
           "name": "Karsten Weide",
           "party": "Rep",
           "votes": 386,
-          "votes_percent": 0.6108
+          "votes_percent": 0.6107594936708861
         }
       ],
       "description": null,
@@ -1847,14 +1847,14 @@
           "name": "Giselle Hale",
           "party": "Dem",
           "votes": 1728,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         },
         {
           "incumbent": false,
           "name": "Diane Papan",
           "party": "Dem",
           "votes": 864,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         }
       ],
       "description": null,
@@ -1870,14 +1870,14 @@
           "name": "Jessica Self",
           "party": "Dem",
           "votes": 131910,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333385220929974
         },
         {
           "incumbent": false,
           "name": "Juan Alanis",
           "party": "Rep",
           "votes": 47966,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666614779070026
         }
       ],
       "description": null,
@@ -1893,14 +1893,14 @@
           "name": "Marc Berman",
           "party": "Dem",
           "votes": 520,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         },
         {
           "incumbent": false,
           "name": "Tim Dec",
           "party": "Rep",
           "votes": 1040,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         }
       ],
       "description": null,
@@ -1985,14 +1985,14 @@
           "name": "Esmeralda Soria",
           "party": "Dem",
           "votes": 65461,
-          "votes_percent": 0.7321
+          "votes_percent": 0.7321358669514937
         },
         {
           "incumbent": false,
           "name": "Mark Nicholas Pazin",
           "party": "Rep",
           "votes": 23950,
-          "votes_percent": 0.2679
+          "votes_percent": 0.2678641330485063
         }
       ],
       "description": null,
@@ -2008,14 +2008,14 @@
           "name": "Gail Pellerin",
           "party": "Dem",
           "votes": 16425,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666569257744009
         },
         {
           "incumbent": false,
           "name": "Liz Lawler",
           "party": "Rep",
           "votes": 45171,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333430742255991
         }
       ],
       "description": null,
@@ -2031,14 +2031,14 @@
           "name": "Robert Rivas",
           "party": "Dem",
           "votes": 9654,
-          "votes_percent": 0.3168
+          "votes_percent": 0.31683623235969804
         },
         {
           "incumbent": false,
           "name": "Stephanie L. Castro",
           "party": "Rep",
           "votes": 20816,
-          "votes_percent": 0.6832
+          "votes_percent": 0.683163767640302
         }
       ],
       "description": null,
@@ -2054,14 +2054,14 @@
           "name": "Dawn Addis",
           "party": "Dem",
           "votes": 13537,
-          "votes_percent": 0.2873
+          "votes_percent": 0.2873121657186518
         },
         {
           "incumbent": false,
           "name": "Vicki Nohrden",
           "party": "Rep",
           "votes": 33579,
-          "votes_percent": 0.7127
+          "votes_percent": 0.7126878342813482
         }
       ],
       "description": null,
@@ -2077,14 +2077,14 @@
           "name": "Joaquin Arambula",
           "party": "Dem",
           "votes": 511,
-          "votes_percent": 0.5659
+          "votes_percent": 0.5658914728682171
         },
         {
           "incumbent": false,
           "name": "Dolce Misol Calandra",
           "party": "Rep",
           "votes": 392,
-          "votes_percent": 0.4341
+          "votes_percent": 0.43410852713178294
         }
       ],
       "description": null,
@@ -2116,14 +2116,14 @@
           "name": "Jose Sigala",
           "party": "Dem",
           "votes": 885,
-          "votes_percent": 0.4357
+          "votes_percent": 0.4357459379615953
         },
         {
           "incumbent": false,
           "name": "Devon J. Mathis",
           "party": "Rep",
           "votes": 1146,
-          "votes_percent": 0.5643
+          "votes_percent": 0.5642540620384048
         }
       ],
       "description": null,
@@ -2139,14 +2139,14 @@
           "name": "Tom Lackey",
           "party": "Rep",
           "votes": 4739,
-          "votes_percent": 0.269
+          "votes_percent": 0.2690168029064487
         },
         {
           "incumbent": false,
           "name": "Thurston \"Smitty\" Smith",
           "party": "Rep",
           "votes": 12877,
-          "votes_percent": 0.731
+          "votes_percent": 0.7309831970935513
         }
       ],
       "description": null,
@@ -2162,14 +2162,14 @@
           "name": "Jasmeet Bains",
           "party": "Dem",
           "votes": 109731,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333342244023712
         },
         {
           "incumbent": false,
           "name": "Leticia Perez",
           "party": "Dem",
           "votes": 39902,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666657755976289
         }
       ],
       "description": null,
@@ -2185,14 +2185,14 @@
           "name": "Eduardo Garcia",
           "party": "Dem",
           "votes": 129096,
-          "votes_percent": 0.7333
+          "votes_percent": 0.733312505325343
         },
         {
           "incumbent": false,
           "name": "Ian M. Weeks",
           "party": "Rep",
           "votes": 46949,
-          "votes_percent": 0.2667
+          "votes_percent": 0.266687494674657
         }
       ],
       "description": null,
@@ -2208,14 +2208,14 @@
           "name": "Gregg Hart",
           "party": "Dem",
           "votes": 342,
-          "votes_percent": 0.4831
+          "votes_percent": 0.4830508474576271
         },
         {
           "incumbent": false,
           "name": "Mike Stoker",
           "party": "Rep",
           "votes": 366,
-          "votes_percent": 0.5169
+          "votes_percent": 0.5169491525423728
         }
       ],
       "description": null,
@@ -2231,14 +2231,14 @@
           "name": "Steve Bennett",
           "party": "Dem",
           "votes": 54458,
-          "votes_percent": 0.2667
+          "votes_percent": 0.26666470798505526
         },
         {
           "incumbent": false,
           "name": "Cole Brocato",
           "party": "Rep",
           "votes": 149761,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333352920149447
         }
       ],
       "description": null,
@@ -2254,14 +2254,14 @@
           "name": "Juan Carrillo",
           "party": "Dem",
           "votes": 130,
-          "votes_percent": 0.3377
+          "votes_percent": 0.33766233766233766
         },
         {
           "incumbent": false,
           "name": "Paul Andre Marsh",
           "party": "Rep",
           "votes": 255,
-          "votes_percent": 0.6623
+          "votes_percent": 0.6623376623376623
         }
       ],
       "description": null,
@@ -2277,14 +2277,14 @@
           "name": "Pilar Schiavo",
           "party": "Dem",
           "votes": 201,
-          "votes_percent": 0.6262
+          "votes_percent": 0.6261682242990654
         },
         {
           "incumbent": false,
           "name": "Suzette Martinez Valladares",
           "party": "Rep",
           "votes": 120,
-          "votes_percent": 0.3738
+          "votes_percent": 0.37383177570093457
         }
       ],
       "description": null,
@@ -2300,14 +2300,14 @@
           "name": "Chris Holden",
           "party": "Dem",
           "votes": 271,
-          "votes_percent": 0.7113
+          "votes_percent": 0.7112860892388452
         },
         {
           "incumbent": false,
           "name": "Michael McMahon",
           "party": "Rep",
           "votes": 110,
-          "votes_percent": 0.2887
+          "votes_percent": 0.2887139107611549
         }
       ],
       "description": null,
@@ -2323,14 +2323,14 @@
           "name": "Jacqui Irwin",
           "party": "Dem",
           "votes": 134263,
-          "votes_percent": 0.7325
+          "votes_percent": 0.7325367596911914
         },
         {
           "incumbent": false,
           "name": "Lori Mills",
           "party": "Rep",
           "votes": 49022,
-          "votes_percent": 0.2675
+          "votes_percent": 0.2674632403088087
         }
       ],
       "description": null,
@@ -2346,14 +2346,14 @@
           "name": "Luz Maria Rivas",
           "party": "Dem",
           "votes": 100,
-          "votes_percent": 0.3425
+          "votes_percent": 0.3424657534246575
         },
         {
           "incumbent": false,
           "name": "Siaka Massaquoi",
           "party": "Rep",
           "votes": 192,
-          "votes_percent": 0.6575
+          "votes_percent": 0.6575342465753424
         }
       ],
       "description": null,
@@ -2369,14 +2369,14 @@
           "name": "Laura Friedman",
           "party": "Dem",
           "votes": 94,
-          "votes_percent": 0.3264
+          "votes_percent": 0.3263888888888889
         },
         {
           "incumbent": false,
           "name": "Barry Curtis Jacobsen",
           "party": "Rep",
           "votes": 194,
-          "votes_percent": 0.6736
+          "votes_percent": 0.6736111111111112
         }
       ],
       "description": null,
@@ -2392,14 +2392,14 @@
           "name": "James C. Ramos",
           "party": "Dem",
           "votes": 36,
-          "votes_percent": 0.4737
+          "votes_percent": 0.47368421052631576
         },
         {
           "incumbent": false,
           "name": "Joseph (Joe) W. Martinez",
           "party": "Rep",
           "votes": 40,
-          "votes_percent": 0.5263
+          "votes_percent": 0.5263157894736842
         }
       ],
       "description": null,
@@ -2415,14 +2415,14 @@
           "name": "Jesse Gabriel",
           "party": "Dem",
           "votes": 1026,
-          "votes_percent": 0.7095
+          "votes_percent": 0.7095435684647303
         },
         {
           "incumbent": false,
           "name": "Dana Caruso",
           "party": "Rep",
           "votes": 420,
-          "votes_percent": 0.2905
+          "votes_percent": 0.29045643153526973
         }
       ],
       "description": null,
@@ -2438,14 +2438,14 @@
           "name": "Christy Holstege",
           "party": "Dem",
           "votes": 48666,
-          "votes_percent": 0.2668
+          "votes_percent": 0.2667945836302834
         },
         {
           "incumbent": false,
           "name": "Greg Wallis",
           "party": "Rep",
           "votes": 133744,
-          "votes_percent": 0.7332
+          "votes_percent": 0.7332054163697166
         }
       ],
       "description": null,
@@ -2461,14 +2461,14 @@
           "name": "Blanca Rubio",
           "party": "Dem",
           "votes": 111,
-          "votes_percent": 0.3675
+          "votes_percent": 0.3675496688741722
         },
         {
           "incumbent": false,
           "name": "Ryan Maye",
           "party": "Rep",
           "votes": 191,
-          "votes_percent": 0.6325
+          "votes_percent": 0.6324503311258278
         }
       ],
       "description": null,
@@ -2484,14 +2484,14 @@
           "name": "Mike Fong",
           "party": "Dem",
           "votes": 218,
-          "votes_percent": 0.6229
+          "votes_percent": 0.6228571428571429
         },
         {
           "incumbent": false,
           "name": "Burton Brink",
           "party": "Rep",
           "votes": 132,
-          "votes_percent": 0.3771
+          "votes_percent": 0.37714285714285717
         }
       ],
       "description": null,
@@ -2507,14 +2507,14 @@
           "name": "Eloise Gomez Reyes",
           "party": "Dem",
           "votes": 52,
-          "votes_percent": 0.4815
+          "votes_percent": 0.48148148148148145
         },
         {
           "incumbent": false,
           "name": "Sheela Stark",
           "party": "Rep",
           "votes": 56,
-          "votes_percent": 0.5185
+          "votes_percent": 0.5185185185185185
         }
       ],
       "description": null,
@@ -2530,14 +2530,14 @@
           "name": "Louis Abramson",
           "party": "Dem",
           "votes": 106,
-          "votes_percent": 0.3813
+          "votes_percent": 0.381294964028777
         },
         {
           "incumbent": false,
           "name": "Rick Chavez Zbur",
           "party": "Dem",
           "votes": 172,
-          "votes_percent": 0.6187
+          "votes_percent": 0.6187050359712231
         }
       ],
       "description": null,
@@ -2553,14 +2553,14 @@
           "name": "Wendy Carrillo",
           "party": "Dem",
           "votes": 110,
-          "votes_percent": 0.3583
+          "votes_percent": 0.3583061889250814
         },
         {
           "incumbent": false,
           "name": "Mia Livas Porter",
           "party": "Dem",
           "votes": 197,
-          "votes_percent": 0.6417
+          "votes_percent": 0.6416938110749185
         }
       ],
       "description": null,
@@ -2599,14 +2599,14 @@
           "name": "Miguel Santiago",
           "party": "Dem",
           "votes": 204,
-          "votes_percent": 0.6456
+          "votes_percent": 0.6455696202531646
         },
         {
           "incumbent": false,
           "name": "Elaine Alaniz",
           "party": "Rep",
           "votes": 112,
-          "votes_percent": 0.3544
+          "votes_percent": 0.35443037974683544
         }
       ],
       "description": null,
@@ -2622,14 +2622,14 @@
           "name": "Isaac G. Bryan",
           "party": "Dem",
           "votes": 95,
-          "votes_percent": 0.3265
+          "votes_percent": 0.32646048109965636
         },
         {
           "incumbent": false,
           "name": "Keith Girolamo Cascio",
           "party": "Rep",
           "votes": 196,
-          "votes_percent": 0.6735
+          "votes_percent": 0.6735395189003437
         }
       ],
       "description": null,
@@ -2645,14 +2645,14 @@
           "name": "Lisa Calderon",
           "party": "Dem",
           "votes": 122,
-          "votes_percent": 0.3642
+          "votes_percent": 0.3641791044776119
         },
         {
           "incumbent": false,
           "name": "Jessica Martinez",
           "party": "Rep",
           "votes": 213,
-          "votes_percent": 0.6358
+          "votes_percent": 0.6358208955223881
         }
       ],
       "description": null,
@@ -2684,14 +2684,14 @@
           "name": "Sabrina Cervantes",
           "party": "Dem",
           "votes": 135166,
-          "votes_percent": 0.7332
+          "votes_percent": 0.7331673528279065
         },
         {
           "incumbent": false,
           "name": "Bernard William Murphy",
           "party": "Rep",
           "votes": 49193,
-          "votes_percent": 0.2668
+          "votes_percent": 0.2668326471720936
         }
       ],
       "description": null,
@@ -2707,14 +2707,14 @@
           "name": "Phillip Chen",
           "party": "Rep",
           "votes": 4413,
-          "votes_percent": 0.4956
+          "votes_percent": 0.4956199460916442
         },
         {
           "incumbent": false,
           "name": "Leon Q. Sit",
           "party": "NPP",
           "votes": 4491,
-          "votes_percent": 0.5044
+          "votes_percent": 0.5043800539083558
         }
       ],
       "description": null,
@@ -2730,14 +2730,14 @@
           "name": "Corey A Jackson",
           "party": "Dem",
           "votes": 125873,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333376057421174
         },
         {
           "incumbent": false,
           "name": "Hector Diaz-Nava",
           "party": "Rep",
           "votes": 45771,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666623942578826
         }
       ],
       "description": null,
@@ -2753,14 +2753,14 @@
           "name": "Tina Simone McKinnor",
           "party": "Dem",
           "votes": 226,
-          "votes_percent": 0.6997
+          "votes_percent": 0.6996904024767802
         },
         {
           "incumbent": false,
           "name": "Robert Pullen-Miles",
           "party": "Dem",
           "votes": 97,
-          "votes_percent": 0.3003
+          "votes_percent": 0.30030959752321984
         }
       ],
       "description": null,
@@ -2776,14 +2776,14 @@
           "name": "Maria Estrada",
           "party": "Dem",
           "votes": 190,
-          "votes_percent": 0.5828
+          "votes_percent": 0.5828220858895705
         },
         {
           "incumbent": false,
           "name": "Anthony Rendon",
           "party": "Dem",
           "votes": 136,
-          "votes_percent": 0.4172
+          "votes_percent": 0.4171779141104294
         }
       ],
       "description": null,
@@ -2799,14 +2799,14 @@
           "name": "Fauzia Rizvi",
           "party": "Dem",
           "votes": 59524,
-          "votes_percent": 0.2667
+          "votes_percent": 0.2666642773623873
         },
         {
           "incumbent": false,
           "name": "Bill Essayli",
           "party": "Rep",
           "votes": 163693,
-          "votes_percent": 0.7333
+          "votes_percent": 0.7333357226376127
         }
       ],
       "description": null,
@@ -2822,14 +2822,14 @@
           "name": "Blanca Pacheco",
           "party": "Dem",
           "votes": 3956,
-          "votes_percent": 0.4916
+          "votes_percent": 0.4915506958250497
         },
         {
           "incumbent": false,
           "name": "Raul Ortiz, Jr.",
           "party": "Rep",
           "votes": 4092,
-          "votes_percent": 0.5084
+          "votes_percent": 0.5084493041749503
         }
       ],
       "description": null,
@@ -2845,14 +2845,14 @@
           "name": "Mike Anthony Gipson",
           "party": "Dem",
           "votes": 192,
-          "votes_percent": 0.5981
+          "votes_percent": 0.5981308411214953
         },
         {
           "incumbent": false,
           "name": "Fatima Iqbal-Zubair",
           "party": "Dem",
           "votes": 129,
-          "votes_percent": 0.4019
+          "votes_percent": 0.40186915887850466
         }
       ],
       "description": null,
@@ -2868,14 +2868,14 @@
           "name": "Al Muratsuchi",
           "party": "Dem",
           "votes": 198,
-          "votes_percent": 0.6828
+          "votes_percent": 0.6827586206896552
         },
         {
           "incumbent": false,
           "name": "George Barks",
           "party": "Rep",
           "votes": 92,
-          "votes_percent": 0.3172
+          "votes_percent": 0.31724137931034485
         }
       ],
       "description": null,
@@ -2891,14 +2891,14 @@
           "name": "Sharon Quirk-Silva",
           "party": "Dem",
           "votes": 4333,
-          "votes_percent": 0.5014
+          "votes_percent": 0.5014465918296493
         },
         {
           "incumbent": false,
           "name": "Soo Yoo",
           "party": "Rep",
           "votes": 4308,
-          "votes_percent": 0.4986
+          "votes_percent": 0.49855340817035065
         }
       ],
       "description": null,
@@ -2937,14 +2937,14 @@
           "name": "Al Austin II",
           "party": "Dem",
           "votes": 115,
-          "votes_percent": 0.3734
+          "votes_percent": 0.37337662337662336
         },
         {
           "incumbent": false,
           "name": "Josh Lowenthal",
           "party": "Dem",
           "votes": 193,
-          "votes_percent": 0.6266
+          "votes_percent": 0.6266233766233766
         }
       ],
       "description": null,
@@ -2960,14 +2960,14 @@
           "name": "Diedre Thu-Ha Nguyen",
           "party": "Dem",
           "votes": 4876,
-          "votes_percent": 0.4952
+          "votes_percent": 0.49522648791387364
         },
         {
           "incumbent": false,
           "name": "Tri Ta",
           "party": "Rep",
           "votes": 4970,
-          "votes_percent": 0.5048
+          "votes_percent": 0.5047735120861263
         }
       ],
       "description": null,
@@ -2983,14 +2983,14 @@
           "name": "Matt Rahn",
           "party": "Rep",
           "votes": 104572,
-          "votes_percent": 0.7155
+          "votes_percent": 0.7155310442981676
         },
         {
           "incumbent": false,
           "name": "Kate Sanchez",
           "party": "Rep",
           "votes": 41574,
-          "votes_percent": 0.2845
+          "votes_percent": 0.2844689557018324
         }
       ],
       "description": null,
@@ -3006,14 +3006,14 @@
           "name": "Judie Mancuso",
           "party": "Dem",
           "votes": 4999,
-          "votes_percent": 0.5048
+          "votes_percent": 0.5048475055544335
         },
         {
           "incumbent": false,
           "name": "Diane Dixon",
           "party": "Rep",
           "votes": 4903,
-          "votes_percent": 0.4952
+          "votes_percent": 0.4951524944455665
         }
       ],
       "description": null,
@@ -3029,14 +3029,14 @@
           "name": "Cottie Petrie-Norris",
           "party": "Dem",
           "votes": 5681,
-          "votes_percent": 0.5048
+          "votes_percent": 0.5048431529369946
         },
         {
           "incumbent": false,
           "name": "Steven \"Steve\" Choi",
           "party": "Rep",
           "votes": 5572,
-          "votes_percent": 0.4952
+          "votes_percent": 0.49515684706300545
         }
       ],
       "description": null,
@@ -3052,14 +3052,14 @@
           "name": "Chris Duncan",
           "party": "Dem",
           "votes": 5274,
-          "votes_percent": 0.4897
+          "votes_percent": 0.48973906583712506
         },
         {
           "incumbent": false,
           "name": "Laurie Davies",
           "party": "Rep",
           "votes": 5495,
-          "votes_percent": 0.5103
+          "votes_percent": 0.5102609341628749
         }
       ],
       "description": null,
@@ -3075,14 +3075,14 @@
           "name": "Randy Voepel",
           "party": "Rep",
           "votes": 840,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         },
         {
           "incumbent": false,
           "name": "Marie Waldron",
           "party": "Rep",
           "votes": 420,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         }
       ],
       "description": null,
@@ -3098,14 +3098,14 @@
           "name": "Brian Maienschein",
           "party": "Dem",
           "votes": 200,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         },
         {
           "incumbent": false,
           "name": "Kristie Bruce-Lane",
           "party": "Rep",
           "votes": 400,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         }
       ],
       "description": null,
@@ -3121,14 +3121,14 @@
           "name": "Tasha Boerner Horvath",
           "party": "Dem",
           "votes": 240,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         },
         {
           "incumbent": false,
           "name": "Dan Downey",
           "party": "Rep",
           "votes": 480,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         }
       ],
       "description": null,
@@ -3144,14 +3144,14 @@
           "name": "Chris Ward",
           "party": "Dem",
           "votes": 200,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         },
         {
           "incumbent": false,
           "name": "Eric E. Gonzales",
           "party": "Rep",
           "votes": 100,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         }
       ],
       "description": null,
@@ -3167,14 +3167,14 @@
           "name": "Akilah Weber",
           "party": "Dem",
           "votes": 140,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         },
         {
           "incumbent": false,
           "name": "Corbin Sabol",
           "party": "Rep",
           "votes": 280,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         }
       ],
       "description": null,
@@ -3190,14 +3190,14 @@
           "name": "David Alvarez",
           "party": "Dem",
           "votes": 440,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         },
         {
           "incumbent": false,
           "name": "Georgette G\u00f3mez",
           "party": "Dem",
           "votes": 220,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         }
       ],
       "description": null,
@@ -3212,15 +3212,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2474587,
-          "votes_percent": 0.7242
+          "votes": 2474343,
+          "votes_percent": 0.7242356114713087
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 942172,
-          "votes_percent": 0.2758
+          "votes": 942146,
+          "votes_percent": 0.2757643885286913
         }
       ],
       "description": null,
@@ -3235,15 +3235,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2814404,
-          "votes_percent": 0.8245
+          "votes": 2814282,
+          "votes_percent": 0.8245617427625148
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 599123,
-          "votes_percent": 0.1755
+          "votes": 598782,
+          "votes_percent": 0.17543825723748516
         }
       ],
       "description": null,
@@ -3258,15 +3258,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 3067757,
-          "votes_percent": 0.8998
+          "votes": 3067661,
+          "votes_percent": 0.89993484432311
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 341460,
-          "votes_percent": 0.1002
+          "votes": 341098,
+          "votes_percent": 0.10006515567689003
         }
       ],
       "description": null,
@@ -3281,15 +3281,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2507279,
-          "votes_percent": 0.7343
+          "votes": 2506918,
+          "votes_percent": 0.7343594196173824
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 907092,
-          "votes_percent": 0.2657
+          "votes": 906830,
+          "votes_percent": 0.26564058038261756
         }
       ],
       "description": null,
@@ -3304,15 +3304,15 @@
           "incumbent": false,
           "name": "Mike McGuire",
           "party": "Dem",
-          "votes": 54977,
-          "votes_percent": 0.7117
+          "votes": 54915,
+          "votes_percent": 0.7125802893661195
         },
         {
           "incumbent": false,
           "name": "Gene Yoon",
           "party": "Rep",
-          "votes": 22268,
-          "votes_percent": 0.2883
+          "votes": 22150,
+          "votes_percent": 0.2874197106338805
         }
       ],
       "description": null,
@@ -3328,14 +3328,14 @@
           "name": "Marie Alvarado-Gil",
           "party": "Dem",
           "votes": 217518,
-          "votes_percent": 0.7329
+          "votes_percent": 0.7328921743701018
         },
         {
           "incumbent": false,
           "name": "Tim Robertson",
           "party": "Dem",
           "votes": 79276,
-          "votes_percent": 0.2671
+          "votes_percent": 0.26710782562989815
         }
       ],
       "description": null,
@@ -3351,14 +3351,14 @@
           "name": "Paula Villescaz",
           "party": "Dem",
           "votes": 38699,
-          "votes_percent": 0.7793
+          "votes_percent": 0.7792947904710124
         },
         {
           "incumbent": false,
           "name": "Roger Niello",
           "party": "Rep",
           "votes": 10960,
-          "votes_percent": 0.2207
+          "votes_percent": 0.2207052095289877
         }
       ],
       "description": null,
@@ -3374,14 +3374,14 @@
           "name": "Angelique Ashby",
           "party": "Dem",
           "votes": 44919,
-          "votes_percent": 0.5573
+          "votes_percent": 0.5573076923076923
         },
         {
           "incumbent": false,
           "name": "Dave Jones",
           "party": "Dem",
           "votes": 35681,
-          "votes_percent": 0.4427
+          "votes_percent": 0.4426923076923077
         }
       ],
       "description": null,
@@ -3420,14 +3420,14 @@
           "name": "Susanne Gundy",
           "party": "Dem",
           "votes": 137731,
-          "votes_percent": 0.7327
+          "votes_percent": 0.7326857501556008
         },
         {
           "incumbent": false,
           "name": "Shannon Grove",
           "party": "Rep",
           "votes": 50250,
-          "votes_percent": 0.2673
+          "votes_percent": 0.26731424984439917
         }
       ],
       "description": null,
@@ -3443,14 +3443,14 @@
           "name": "Anna Caballero",
           "party": "Dem",
           "votes": 64783,
-          "votes_percent": 0.7269
+          "votes_percent": 0.7269350748445881
         },
         {
           "incumbent": false,
           "name": "Amnon Shor",
           "party": "Rep",
           "votes": 24335,
-          "votes_percent": 0.2731
+          "votes_percent": 0.2730649251554119
         }
       ],
       "description": null,
@@ -3466,14 +3466,14 @@
           "name": "Melissa Hurtado",
           "party": "Dem",
           "votes": 40306,
-          "votes_percent": 0.2703
+          "votes_percent": 0.27029781983274875
         },
         {
           "incumbent": false,
           "name": "David Shepard",
           "party": "Rep",
           "votes": 108811,
-          "votes_percent": 0.7297
+          "votes_percent": 0.7297021801672512
         }
       ],
       "description": null,
@@ -3489,14 +3489,14 @@
           "name": "Steve Padilla",
           "party": "Dem",
           "votes": 94534,
-          "votes_percent": 0.7328
+          "votes_percent": 0.732804663457439
         },
         {
           "incumbent": false,
           "name": "Alejandro Galicia",
           "party": "Rep",
           "votes": 34469,
-          "votes_percent": 0.2672
+          "votes_percent": 0.267195336542561
         }
       ],
       "description": null,
@@ -3512,14 +3512,14 @@
           "name": "Daniel Hertzberg",
           "party": "Dem",
           "votes": 196,
-          "votes_percent": 0.6164
+          "votes_percent": 0.6163522012578616
         },
         {
           "incumbent": false,
           "name": "Caroline Menjivar",
           "party": "Dem",
           "votes": 122,
-          "votes_percent": 0.3836
+          "votes_percent": 0.3836477987421384
         }
       ],
       "description": null,
@@ -3535,14 +3535,14 @@
           "name": "Susan Rubio",
           "party": "Dem",
           "votes": 129,
-          "votes_percent": 0.3458
+          "votes_percent": 0.34584450402144773
         },
         {
           "incumbent": false,
           "name": "Vincent Tsai",
           "party": "Rep",
           "votes": 244,
-          "votes_percent": 0.6542
+          "votes_percent": 0.6541554959785523
         }
       ],
       "description": null,
@@ -3558,14 +3558,14 @@
           "name": "Ben Allen",
           "party": "Dem",
           "votes": 246,
-          "votes_percent": 0.693
+          "votes_percent": 0.6929577464788732
         },
         {
           "incumbent": false,
           "name": "Kristina Irwin",
           "party": "Rep",
           "votes": 109,
-          "votes_percent": 0.307
+          "votes_percent": 0.30704225352112674
         }
       ],
       "description": null,
@@ -3581,14 +3581,14 @@
           "name": "Maria Elena Durazo",
           "party": "Dem",
           "votes": 110,
-          "votes_percent": 0.3583
+          "votes_percent": 0.3583061889250814
         },
         {
           "incumbent": false,
           "name": "Claudia Agraz",
           "party": "Rep",
           "votes": 197,
-          "votes_percent": 0.6417
+          "votes_percent": 0.6416938110749185
         }
       ],
       "description": null,
@@ -3604,14 +3604,14 @@
           "name": "Lola Smallwood-Cuevas",
           "party": "Dem",
           "votes": 203,
-          "votes_percent": 0.6265
+          "votes_percent": 0.6265432098765432
         },
         {
           "incumbent": false,
           "name": "Cheryl C. Turner",
           "party": "Dem",
           "votes": 121,
-          "votes_percent": 0.3735
+          "votes_percent": 0.3734567901234568
         }
       ],
       "description": null,
@@ -3627,14 +3627,14 @@
           "name": "Bob Archuleta",
           "party": "Dem",
           "votes": 4480,
-          "votes_percent": 0.4998
+          "votes_percent": 0.49983264531964744
         },
         {
           "incumbent": false,
           "name": "Mitch Clemmons",
           "party": "Rep",
           "votes": 4483,
-          "votes_percent": 0.5002
+          "votes_percent": 0.5001673546803526
         }
       ],
       "description": null,
@@ -3650,14 +3650,14 @@
           "name": "Brian Nash",
           "party": "Dem",
           "votes": 103312,
-          "votes_percent": 0.2722
+          "votes_percent": 0.27219817308528327
         },
         {
           "incumbent": false,
           "name": "Kelly Seyarto",
           "party": "Rep",
           "votes": 276235,
-          "votes_percent": 0.7278
+          "votes_percent": 0.7278018269147167
         }
       ],
       "description": null,
@@ -3673,14 +3673,14 @@
           "name": "Tom Umberg",
           "party": "Dem",
           "votes": 2870,
-          "votes_percent": 0.4886
+          "votes_percent": 0.4885938032005448
         },
         {
           "incumbent": false,
           "name": "Rhonda Shader",
           "party": "Rep",
           "votes": 3004,
-          "votes_percent": 0.5114
+          "votes_percent": 0.5114061967994552
         }
       ],
       "description": null,
@@ -3696,14 +3696,14 @@
           "name": "Kim Carr",
           "party": "Dem",
           "votes": 4519,
-          "votes_percent": 0.4988
+          "votes_percent": 0.49884093167016225
         },
         {
           "incumbent": false,
           "name": "Janet Nguyen",
           "party": "Rep",
           "votes": 4540,
-          "votes_percent": 0.5012
+          "votes_percent": 0.5011590683298377
         }
       ],
       "description": null,
@@ -3719,14 +3719,14 @@
           "name": "Catherine Blakespear",
           "party": "Dem",
           "votes": 6114,
-          "votes_percent": 0.5206
+          "votes_percent": 0.5205619412515964
         },
         {
           "incumbent": false,
           "name": "Matt Gunderson",
           "party": "Rep",
           "votes": 5631,
-          "votes_percent": 0.4794
+          "votes_percent": 0.47943805874840356
         }
       ],
       "description": null,
@@ -3742,14 +3742,14 @@
           "name": "Joseph C. Rocha",
           "party": "Dem",
           "votes": 960,
-          "votes_percent": 0.6667
+          "votes_percent": 0.6666666666666666
         },
         {
           "incumbent": false,
           "name": "Brian W. Jones",
           "party": "Rep",
           "votes": 480,
-          "votes_percent": 0.3333
+          "votes_percent": 0.3333333333333333
         }
       ],
       "description": null,
@@ -3765,14 +3765,14 @@
           "name": "Jose S. Altamirano",
           "party": "Dem",
           "votes": 351285,
-          "votes_percent": 0.2972
+          "votes_percent": 0.29717833491812656
         },
         {
           "incumbent": false,
           "name": "Ted Gaines",
           "party": "Rep",
           "votes": 830783,
-          "votes_percent": 0.7028
+          "votes_percent": 0.7028216650818735
         }
       ],
       "description": null,
@@ -3787,15 +3787,15 @@
           "incumbent": false,
           "name": "Sally J. Lieber",
           "party": "Dem",
-          "votes": 840135,
-          "votes_percent": 0.7303
+          "votes": 839910,
+          "votes_percent": 0.7303711291617137
         },
         {
           "incumbent": false,
           "name": "Peter Coe Verbica",
           "party": "Rep",
-          "votes": 310208,
-          "votes_percent": 0.2697
+          "votes": 310067,
+          "votes_percent": 0.26962887083828635
         }
       ],
       "description": null,
@@ -3811,14 +3811,14 @@
           "name": "Tony Vazquez",
           "party": "Dem",
           "votes": 380,
-          "votes_percent": 0.4158
+          "votes_percent": 0.41575492341356673
         },
         {
           "incumbent": false,
           "name": "Y. Marie Manvel",
           "party": "NPP",
           "votes": 534,
-          "votes_percent": 0.5842
+          "votes_percent": 0.5842450765864332
         }
       ],
       "description": null,
@@ -3834,14 +3834,14 @@
           "name": "David Dodson",
           "party": "Dem",
           "votes": 290978,
-          "votes_percent": 0.2688
+          "votes_percent": 0.26883164877399807
         },
         {
           "incumbent": false,
           "name": "Mike Schaefer",
           "party": "Dem",
           "votes": 791402,
-          "votes_percent": 0.7312
+          "votes_percent": 0.731168351226002
         }
       ],
       "description": null,
@@ -3856,15 +3856,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2829162,
-          "votes_percent": 0.8298
+          "votes": 2829119,
+          "votes_percent": 0.8298595487326181
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 580085,
-          "votes_percent": 0.1702
+          "votes": 580035,
+          "votes_percent": 0.17014045126738186
         }
       ],
       "description": "Constitutional Right to Reproductive Freedom",
@@ -3879,15 +3879,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2584652,
-          "votes_percent": 0.7585
+          "votes": 2584446,
+          "votes_percent": 0.7585418082817063
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 823003,
-          "votes_percent": 0.2415
+          "votes": 822678,
+          "votes_percent": 0.24145819171829377
         }
       ],
       "description": "Sports Wagering on Tribal Lands",
@@ -3902,15 +3902,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 3086481,
-          "votes_percent": 0.9051
+          "votes": 3086402,
+          "votes_percent": 0.9052404719425203
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 323435,
-          "votes_percent": 0.0949
+          "votes": 323081,
+          "votes_percent": 0.09475952805747968
         }
       ],
       "description": "Online Sports Wagering Outside of Tribal Lands",
@@ -3925,15 +3925,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2638602,
-          "votes_percent": 0.7742
+          "votes": 2638532,
+          "votes_percent": 0.7742214525257036
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 769766,
-          "votes_percent": 0.2258
+          "votes": 769449,
+          "votes_percent": 0.22577854747429638
         }
       ],
       "description": "Public School Arts and Music Education Funding",
@@ -3948,15 +3948,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2811270,
-          "votes_percent": 0.8245
+          "votes": 2811222,
+          "votes_percent": 0.8246016353454254
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 598253,
-          "votes_percent": 0.1755
+          "votes": 597966,
+          "votes_percent": 0.17539836465457465
         }
       ],
       "description": "Regulates Kidney Dialysis Clinics",
@@ -3971,15 +3971,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2961133,
-          "votes_percent": 0.8682
+          "votes": 2960899,
+          "votes_percent": 0.8682799845399249
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 449538,
-          "votes_percent": 0.1318
+          "votes": 449175,
+          "votes_percent": 0.13172001546007506
         }
       ],
       "description": "Tax to Fund ZEV/Wildfire Programs",
@@ -3994,15 +3994,15 @@
           "incumbent": null,
           "name": "Yes",
           "party": null,
-          "votes": 2849560,
-          "votes_percent": 0.8352
+          "votes": 2849261,
+          "votes_percent": 0.8352794529230197
         },
         {
           "incumbent": null,
           "name": "No",
           "party": null,
-          "votes": 562252,
-          "votes_percent": 0.1648
+          "votes": 561886,
+          "votes_percent": 0.16472054707698028
         }
       ],
       "description": "Prohibition on Sale of Certain Tobacco Products",
@@ -4017,15 +4017,15 @@
           "incumbent": false,
           "name": "Shirley N. Weber",
           "party": "Dem",
-          "votes": 2468400,
-          "votes_percent": 0.7234
+          "votes": 2468290,
+          "votes_percent": 0.7234453760330893
         },
         {
           "incumbent": false,
           "name": "Rob Bernosky",
           "party": "Rep",
-          "votes": 943676,
-          "votes_percent": 0.2766
+          "votes": 943564,
+          "votes_percent": 0.27655462396691066
         }
       ],
       "description": null,
@@ -4040,15 +4040,15 @@
           "incumbent": true,
           "name": "Eleni Kounalakis",
           "party": "Dem",
-          "votes": 2438568,
-          "votes_percent": 0.7146
+          "votes": 2438505,
+          "votes_percent": 0.7146826314452093
         },
         {
           "incumbent": false,
           "name": "Angela E. Underwood Jacobs",
           "party": "Rep",
-          "votes": 973726,
-          "votes_percent": 0.2854
+          "votes": 973506,
+          "votes_percent": 0.28531736855479073
         }
       ],
       "description": null,
@@ -4058,5 +4058,5 @@
       "slug": "lieutenant-governor-statewide-results"
     }
   ],
-  "scraped_datetime": "2022-10-21T12:53:42.699352-07:00"
+  "scraped_datetime": "2022-10-21T12:52:10.435528-07:00"
 }

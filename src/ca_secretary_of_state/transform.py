@@ -103,6 +103,7 @@ class CandidateResultTransformer(schema.BaseTransformer):
             name=self.raw["Name"],
             party=self.raw.get("Party", None),
             votes=self.clean_votes(self.raw["Votes"]),
+            votes_percent=self.raw["votes_percent"],
             incumbent=self.raw.get("incumbent", None),
         )
 
@@ -119,16 +120,38 @@ class ContestTransformer(schema.BaseTransformer):
 
     def transform_data(self):
         """Create a new object."""
-        return dict(
+        data = dict(
             name=self.correct_name(),
             slug=slugify(self.raw["raceTitle"]),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=self.raw["Reporting"],
-            candidates=[
-                CandidateResultTransformer(c).dump() for c in self.raw["candidates"]
-            ],
         )
+
+        # Mark incumbents
+        candidate_list = [c for c in self.correct_incumbent(self.raw["candidates"])]
+
+        # Set vote percentages
+        vote_total = sum(self.clean_votes(c["Votes"]) for c in candidate_list)
+        for c in candidate_list:
+            if vote_total > 0:
+                c["votes_percent"] = round(self.clean_votes(c["Votes"]) / vote_total, 4)
+            else:
+                c["votes_percent"] = 0.0
+
+        # Validate candidate objects
+        candidate_list = [CandidateResultTransformer(c).dump() for c in candidate_list]
+
+        # Add to the data dictionary
+        data["candidates"] = candidate_list
+
+        # Return the transformed data
+        return data
+
+    def clean_votes(self, value):
+        """Clean votes value."""
+        s = value.strip().replace(",", "")
+        return int(s)
 
     def _get_correction(self):
         try:

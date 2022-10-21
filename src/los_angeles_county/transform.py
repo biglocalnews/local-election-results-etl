@@ -70,6 +70,7 @@ class CandidateResultTransformer(schema.BaseTransformer):
             name=self.raw["Name"],
             party=self.raw["Party"],
             votes=self.raw["Votes"],
+            votes_percent=self.raw["votes_percent"],
             incumbent=self.raw.get("incumbent", False),
         )
 
@@ -81,17 +82,34 @@ class ContestTransformer(schema.BaseTransformer):
 
     def transform_data(self):
         """Create a new object."""
-        return dict(
+        # Start off a data dictionary
+        data = dict(
             name=self.correct_name(),
             slug=slugify(self.raw["Title"]),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=None,
-            candidates=[
-                CandidateResultTransformer(c).dump()
-                for c in self.correct_incumbent(self.raw["Candidates"])
-            ],
         )
+
+        # Mark incumbents
+        candidate_list = [c for c in self.correct_incumbent(self.raw["Candidates"])]
+
+        # Set vote percentages
+        vote_total = sum(c["Votes"] for c in candidate_list)
+        for c in candidate_list:
+            if vote_total > 0:
+                c["votes_percent"] = round(c["Votes"] / vote_total, 4)
+            else:
+                c["votes_percent"] = 0.0
+
+        # Validate candidate objects
+        candidate_list = [CandidateResultTransformer(c).dump() for c in candidate_list]
+
+        # Add to the data dictionary
+        data["candidates"] = candidate_list
+
+        # Return the transformed data
+        return data
 
     def _get_correction(self):
         try:

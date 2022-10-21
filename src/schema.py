@@ -9,6 +9,7 @@ class CandidateResult(Schema):
     name = fields.Str(required=True)
     party = fields.Str(required=True, allow_none=True)
     votes = fields.Int(required=True)
+    votes_percent = fields.Float(required=True, allow_none=False)
     incumbent = fields.Boolean(required=True, allow_none=True)
 
 
