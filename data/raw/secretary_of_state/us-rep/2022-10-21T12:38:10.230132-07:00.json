@@ -2,7 +2,7 @@
   "races": [
     {
       "Reporting": "100% (568 of 568) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Max Steiner",
@@ -23,20 +23,20 @@
     },
     {
       "Reporting": "86.3% (758 of 878) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Jared Huffman",
           "Party": "Dem",
-          "Percent": "28.1",
-          "Votes": "18,947",
+          "Percent": "27.9",
+          "Votes": "18,671",
           "incumbent": false
         },
         {
           "Name": "Douglas Brower",
           "Party": "Rep",
-          "Percent": "71.9",
-          "Votes": "48,431",
+          "Percent": "72.1",
+          "Votes": "48,150",
           "incumbent": false
         }
       ],
@@ -44,7 +44,7 @@
     },
     {
       "Reporting": "98.5% (775 of 787) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Kermit Jones",
@@ -65,20 +65,20 @@
     },
     {
       "Reporting": "86.1% (613 of 712) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Mike Thompson",
           "Party": "Dem",
-          "Percent": "59.8",
-          "Votes": "12,007",
+          "Percent": "60.4",
+          "Votes": "11,707",
           "incumbent": false
         },
         {
           "Name": "Matt Brock",
           "Party": "Rep",
-          "Percent": "40.2",
-          "Votes": "8,065",
+          "Percent": "39.6",
+          "Votes": "7,685",
           "incumbent": false
         }
       ],
@@ -86,7 +86,7 @@
     },
     {
       "Reporting": "94.7% (446 of 471) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Michael J. \"Mike\" Barkley",
@@ -107,7 +107,7 @@
     },
     {
       "Reporting": "100% (309 of 309) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Ami Bera",
@@ -128,7 +128,7 @@
     },
     {
       "Reporting": "96% (308 of 321) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Doris Matsui",
@@ -149,7 +149,7 @@
     },
     {
       "Reporting": "100% (529 of 529) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "John Garamendi",
@@ -170,7 +170,7 @@
     },
     {
       "Reporting": "7.9% (31 of 393) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Josh Harder",
@@ -191,7 +191,7 @@
     },
     {
       "Reporting": "98.6% (845 of 857) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Mark DeSaulnier",
@@ -212,7 +212,7 @@
     },
     {
       "Reporting": "100% (451 of 451) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Nancy Pelosi",
@@ -233,7 +233,7 @@
     },
     {
       "Reporting": "0.5% (1 of 184) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Barbara Lee",
@@ -254,7 +254,7 @@
     },
     {
       "Reporting": "95.6% (474 of 496) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Adam Gray",
@@ -275,7 +275,7 @@
     },
     {
       "Reporting": "0% (0 of 338) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Eric Swalwell",
@@ -296,7 +296,7 @@
     },
     {
       "Reporting": "100% (299 of 299) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "David J. Canepa",
@@ -317,7 +317,7 @@
     },
     {
       "Reporting": "26.9% (94 of 349) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Anna G. Eshoo",
@@ -338,7 +338,7 @@
     },
     {
       "Reporting": "0% (0 of 220) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Ro Khanna",
@@ -359,7 +359,7 @@
     },
     {
       "Reporting": "53.3% (187 of 351) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Zoe Lofgren",
@@ -380,7 +380,7 @@
     },
     {
       "Reporting": "71% (328 of 462) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Jimmy Panetta",
@@ -401,7 +401,7 @@
     },
     {
       "Reporting": "84.6% (493 of 583) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Marisa Wood",
@@ -422,7 +422,7 @@
     },
     {
       "Reporting": "74.7% (374 of 501) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Jim Costa",
@@ -443,7 +443,7 @@
     },
     {
       "Reporting": "74% (407 of 550) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Rudy Salas",
@@ -464,7 +464,7 @@
     },
     {
       "Reporting": "100% (1,566 of 1,566) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Derek Marshall",
@@ -485,7 +485,7 @@
     },
     {
       "Reporting": "100% (789 of 789) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Salud Carbajal",
@@ -506,7 +506,7 @@
     },
     {
       "Reporting": "51.2% (370 of 723) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Raul Ruiz",
@@ -527,7 +527,7 @@
     },
     {
       "Reporting": "100% (1,253 of 1,253) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Julia Brownley",
@@ -548,7 +548,7 @@
     },
     {
       "Reporting": "100% (468 of 468) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Christy Smith",
@@ -569,7 +569,7 @@
     },
     {
       "Reporting": "100% (530 of 530) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Judy Chu",
@@ -590,7 +590,7 @@
     },
     {
       "Reporting": "100% (165 of 165) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Tony Cardenas",
@@ -611,7 +611,7 @@
     },
     {
       "Reporting": "100% (252 of 252) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "G \"Maebe A. Girl\" Pudlo",
@@ -632,7 +632,7 @@
     },
     {
       "Reporting": "100% (426 of 426) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Grace F. Napolitano",
@@ -653,7 +653,7 @@
     },
     {
       "Reporting": "100% (239 of 239) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Brad Sherman",
@@ -674,7 +674,7 @@
     },
     {
       "Reporting": "100% (653 of 653) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Pete Aguilar",
@@ -695,7 +695,7 @@
     },
     {
       "Reporting": "100% (174 of 174) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Jimmy Gomez",
@@ -716,7 +716,7 @@
     },
     {
       "Reporting": "100% (437 of 437) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Norma J. Torres",
@@ -737,7 +737,7 @@
     },
     {
       "Reporting": "100% (242 of 242) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Ted W. Lieu",
@@ -758,7 +758,7 @@
     },
     {
       "Reporting": "100% (203 of 203) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Sydney Kamlager",
@@ -779,7 +779,7 @@
     },
     {
       "Reporting": "100% (317 of 317) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Linda T. S\u00e1nchez",
@@ -800,7 +800,7 @@
     },
     {
       "Reporting": "100% (254 of 254) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Mark Takano",
@@ -821,7 +821,7 @@
     },
     {
       "Reporting": "100% (687 of 687) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Asif Mahmood",
@@ -842,7 +842,7 @@
     },
     {
       "Reporting": "100% (459 of 459) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Will Rollins",
@@ -863,7 +863,7 @@
     },
     {
       "Reporting": "100% (218 of 218) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Robert Garcia",
@@ -884,7 +884,7 @@
     },
     {
       "Reporting": "100% (258 of 258) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Maxine Waters",
@@ -905,7 +905,7 @@
     },
     {
       "Reporting": "100% (258 of 258) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Nanette Diaz Barragan",
@@ -926,7 +926,7 @@
     },
     {
       "Reporting": "100% (450 of 450) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Jay F. Chen",
@@ -947,7 +947,7 @@
     },
     {
       "Reporting": "100% (366 of 366) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Lou Correa",
@@ -968,7 +968,7 @@
     },
     {
       "Reporting": "100% (534 of 534) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Katie Porter",
@@ -989,7 +989,7 @@
     },
     {
       "Reporting": "100% (824 of 824) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Stephen Houlahan",
@@ -1010,7 +1010,7 @@
     },
     {
       "Reporting": "100% (586 of 586) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Mike Levin",
@@ -1031,7 +1031,7 @@
     },
     {
       "Reporting": "100% (701 of 701) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Scott Peters",
@@ -1052,7 +1052,7 @@
     },
     {
       "Reporting": "100% (528 of 528) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Sara Jacobs",
@@ -1073,7 +1073,7 @@
     },
     {
       "Reporting": "100% (434 of 434) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Juan Vargas",
@@ -1093,7 +1093,7 @@
       "raceTitle": "U.S. House of Representatives District 52 - Districtwide Results"
     }
   ],
-  "scraped_datetime": "2022-10-21T12:54:09.645852-07:00",
+  "scraped_datetime": "2022-10-21T12:38:10.230037-07:00",
   "slug": "us-rep/district/all",
   "url": "https://api.sos.ca.gov/returns/us-rep/district/all"
 }

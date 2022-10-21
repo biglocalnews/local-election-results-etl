@@ -2,7 +2,7 @@
   "races": [
     {
       "Reporting": "88.8% (6,693 of 7,536) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Jose S. Altamirano",
@@ -23,20 +23,20 @@
     },
     {
       "Reporting": "80.1% (5,941 of 7,417) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Sally J. Lieber",
           "Party": "Dem",
           "Percent": "73.0",
-          "Votes": "840,135",
+          "Votes": "839,910",
           "incumbent": false
         },
         {
           "Name": "Peter Coe Verbica",
           "Party": "Rep",
           "Percent": "27.0",
-          "Votes": "310,208",
+          "Votes": "310,067",
           "incumbent": false
         }
       ],
@@ -44,7 +44,7 @@
     },
     {
       "Reporting": "100% (3,680 of 3,680) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Tony Vazquez",
@@ -65,7 +65,7 @@
     },
     {
       "Reporting": "94.9% (6,617 of 6,970) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "David Dodson",
@@ -85,7 +85,7 @@
       "raceTitle": "Board of Equalization District 4 - Districtwide Results"
     }
   ],
-  "scraped_datetime": "2022-10-21T12:54:08.927973-07:00",
+  "scraped_datetime": "2022-10-21T12:38:09.343410-07:00",
   "slug": "board-of-equalization/district/all",
   "url": "https://api.sos.ca.gov/returns/board-of-equalization/district/all"
 }

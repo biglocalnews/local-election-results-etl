@@ -2,20 +2,20 @@
   "races": [
     {
       "Reporting": "85.1% (969 of 1,139) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Mike McGuire",
           "Party": "Dem",
-          "Percent": "71.2",
-          "Votes": "54,977",
+          "Percent": "71.3",
+          "Votes": "54,915",
           "incumbent": false
         },
         {
           "Name": "Gene Yoon",
           "Party": "Rep",
-          "Percent": "28.8",
-          "Votes": "22,268",
+          "Percent": "28.7",
+          "Votes": "22,150",
           "incumbent": false
         }
       ],
@@ -23,7 +23,7 @@
     },
     {
       "Reporting": "94.6% (648 of 685) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Marie Alvarado-Gil",
@@ -44,7 +44,7 @@
     },
     {
       "Reporting": "100% (574 of 574) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Paula Villescaz",
@@ -65,7 +65,7 @@
     },
     {
       "Reporting": "100% (366 of 366) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Angelique Ashby",
@@ -86,7 +86,7 @@
     },
     {
       "Reporting": "0% (0 of 326) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Lily Mei",
@@ -107,7 +107,7 @@
     },
     {
       "Reporting": "78.7% (589 of 748) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Susanne Gundy",
@@ -128,7 +128,7 @@
     },
     {
       "Reporting": "99.9% (705 of 706) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Anna Caballero",
@@ -149,7 +149,7 @@
     },
     {
       "Reporting": "67.6% (418 of 618) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Melissa Hurtado",
@@ -170,7 +170,7 @@
     },
     {
       "Reporting": "58% (487 of 840) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Steve Padilla",
@@ -191,7 +191,7 @@
     },
     {
       "Reporting": "100% (224 of 224) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Daniel Hertzberg",
@@ -212,7 +212,7 @@
     },
     {
       "Reporting": "100% (572 of 572) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Susan Rubio",
@@ -233,7 +233,7 @@
     },
     {
       "Reporting": "100% (358 of 358) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Ben Allen",
@@ -254,7 +254,7 @@
     },
     {
       "Reporting": "100% (243 of 243) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Maria Elena Durazo",
@@ -275,7 +275,7 @@
     },
     {
       "Reporting": "100% (281 of 281) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Lola Smallwood-Cuevas",
@@ -296,7 +296,7 @@
     },
     {
       "Reporting": "100% (428 of 428) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Bob Archuleta",
@@ -317,7 +317,7 @@
     },
     {
       "Reporting": "100% (643 of 643) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Brian Nash",
@@ -338,7 +338,7 @@
     },
     {
       "Reporting": "100% (436 of 436) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Tom Umberg",
@@ -359,7 +359,7 @@
     },
     {
       "Reporting": "100% (653 of 653) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Kim Carr",
@@ -380,7 +380,7 @@
     },
     {
       "Reporting": "100% (741 of 741) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Catherine Blakespear",
@@ -401,7 +401,7 @@
     },
     {
       "Reporting": "100% (1,068 of 1,068) precincts reporting",
-      "ReportingTime": "October 21, 2022, 12:33 p.m.",
+      "ReportingTime": "October 21, 2022, 11:51 a.m.",
       "candidates": [
         {
           "Name": "Joseph C. Rocha",
@@ -421,7 +421,7 @@
       "raceTitle": "State Senate District 40 - Districtwide Results"
     }
   ],
-  "scraped_datetime": "2022-10-21T12:54:10.202266-07:00",
+  "scraped_datetime": "2022-10-21T12:38:10.683340-07:00",
   "slug": "state-senate/district/all",
   "url": "https://api.sos.ca.gov/returns/state-senate/district/all"
 }
