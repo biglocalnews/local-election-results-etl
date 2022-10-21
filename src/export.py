@@ -11,7 +11,7 @@ from . import utils
 def cli():
     """Export latest results as CSV files."""
     # Get all of the files
-    file_list = utils.get_latest_paths()
+    file_list = [f for f in utils.get_latest_paths() if "raw" not in str(f)]
     print(f"📨 Uploading {len(file_list)} files")
 
     # Loop through them
