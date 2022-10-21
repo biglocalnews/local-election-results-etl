@@ -20,7 +20,8 @@ def kpcc():
     kpcc_list = [
         f
         for f in file_list
-        if "los_angeles_county" in str(f) or "ca_secretary_of_state" in str(f)
+        if "transformed" in str(f)
+        and ("los_angeles_county" in str(f) or "ca_secretary_of_state" in str(f))
     ]
     print(f"📨 Combining {len(kpcc_list)} files")
 
