@@ -19,6 +19,7 @@ twine = "*"
 jupyterlab = "*"
 pdfplumber = "*"
 pandas = "*"
+types-python-slugify = "*"
 
 [packages]
 click = "*"
@@ -27,6 +28,7 @@ rich = "*"
 retry = "*"
 pytz = "*"
 marshmallow = "*"
+python-slugify = "*"
 
 [requires]
 python_version = "3.9"

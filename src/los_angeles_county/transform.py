@@ -4,6 +4,7 @@ import pathlib
 import typing
 
 import click
+from slugify import slugify
 
 from .. import schema, utils
 
@@ -82,6 +83,7 @@ class ContestTransformer(schema.BaseTransformer):
         """Create a new object."""
         return dict(
             name=self.correct_name(),
+            slug=slugify(self.raw["Title"]),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=None,
