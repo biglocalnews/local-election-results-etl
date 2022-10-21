@@ -71,5 +71,5 @@ def upload_to_s3(path: pathlib.Path, object_name: str):
 
 def get_latest_paths() -> typing.List[pathlib.Path]:
     """Return a list of the latest JSON files."""
-    obj_list = TRANSFORMED_DATA_DIR.glob("**/*")
+    obj_list = DATA_DIR.glob("**/*")
     return [o for o in obj_list if o.is_file() and "latest.json" in str(o)]
