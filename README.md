@@ -11,6 +11,7 @@ File | URL
 :--- | :--
 California Secretary of State | [ca_secretary_of_state/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/ca_secretary_of_state/latest.json)
 Los Angeles County | [los_angeles_county/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/los_angeles_county/latest.json)
+KPCC | [kpcc/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/optimized/kpcc/latest.json)
 
 ## Getting started
 
