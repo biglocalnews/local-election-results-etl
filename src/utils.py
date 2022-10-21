@@ -15,6 +15,7 @@ ROOT_DIR = THIS_DIR.parent
 DATA_DIR = ROOT_DIR / "data"
 RAW_DATA_DIR = DATA_DIR / "raw"
 TRANSFORMED_DATA_DIR = DATA_DIR / "transformed"
+OPTIMIZED_DATA_DIR = DATA_DIR / "optimized"
 
 
 def now() -> datetime:
