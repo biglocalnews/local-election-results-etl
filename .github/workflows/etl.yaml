@@ -16,68 +16,150 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  etl:
-    name: ETL
+  los_angeles_county:
+    name: Los Angeles County Registrar-Recorder/County Clerk
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: checkout
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-          cache: 'pipenv'
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
+      - id: install
         name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
-        shell: bash
+        uses: ./.github/actions/install
 
-      - id: download-la
-        name: Download raw LA County data
+      - id: download
+        name: Download
         run: pipenv run python -m src.los_angeles_county.download
         shell: bash
 
-      - id: transform-la
-        name: Transform L.A. County data
+      - id: transform
+        name: Transform
         run: pipenv run python -m src.los_angeles_county.transform
         shell: bash
 
-      - id: download-sos
-        name: Download California Secretary of State data
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Latest from the Los Angeles County Registrar-Recorder/County Clerk"
+
+  ca_secretary_of_state:
+    name: California Secretary of State
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: download
+        name: Download
         run: pipenv run python -m src.ca_secretary_of_state.download
         shell: bash
 
-      - id: download-ny-state
-        name: Download New York State Board of Elections data
+      - id: transform
+        name: Transform
+        run: pipenv run python -m src.ca_secretary_of_state.transform
+        shell: bash
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Latest from the California Secretary of State"
+
+  ny_state_board_of_elections:
+    name: New York State Board of Elections
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: download
+        name: Download
         run: pipenv run python -m src.ny_state_board_of_elections.download
         shell: bash
 
-      - id: transform-sos
-        name: Transform Secretary of State data
-        run: pipenv run python -m src.ca_secretary_of_state.transform
-        shell: bash
+      # - id: transform
+      #   name: Transform
+      #   run: pipenv run python -m src.ny_state_board_of_elections.transform
+      #   shell: bash
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Latest from the New York State Board of Elections"
+
+  optimize:
+    name: Optimize
+    runs-on: ubuntu-latest
+    needs: [los_angeles_county, ca_secretary_of_state, ny_state_board_of_elections]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
 
       - id: optimize-kpcc
         name: Optimize for KPCC
         run: pipenv run python -m src.optimize kpcc
         shell: bash
 
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Optimizing data"
+
+  export:
+    name: Optimize
+    runs-on: ubuntu-latest
+    needs: [los_angeles_county, ca_secretary_of_state, ny_state_board_of_elections]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
       - id: export
         name: Export to S3
         run: pipenv run python -m src.export
         shell: bash
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Exported CSV files"
+
+  s3:
+    name: Upload to Amazon S3
+    runs-on: ubuntu-latest
+    needs: [optimize, export]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
 
       - id: upload
         name: Upload to S3
@@ -90,16 +172,17 @@ jobs:
           AWS_BUCKET: ${{ secrets.AWS_BUCKET }}
           AWS_PATH_PREFIX: ${{ secrets.AWS_PATH_PREFIX }}
 
-      - id: commit
-        name: Commit
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git config pull.rebase false
-          git pull origin $GITHUB_REF
-          git add ./data
-          git commit -m "Added latest ETL" --author="palewire <palewire@users.noreply.github.com>" && git push || true
-        shell: bash
+  pages:
+    name: Upload to GitHub Pages
+    runs-on: ubuntu-latest
+    needs: [optimize, export]
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
 
       - name: Setup Pages
         uses: actions/configure-pages@v2
@@ -107,7 +190,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          # Upload entire repository
           path: './data'
 
       - name: Deploy to GitHub Pages

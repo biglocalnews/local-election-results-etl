@@ -1,0 +1,21 @@
+name: Commit
+description: Commit the data directory to the repository
+
+inputs:
+  message:
+    description: "The commit message"
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - id: commit
+      name: Commit
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git config pull.rebase false
+        git pull origin $GITHUB_REF
+        git add ./data
+        git commit -m "${{ inputs.message }}" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+      shell: bash
