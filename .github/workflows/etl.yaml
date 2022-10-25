@@ -19,6 +19,7 @@ jobs:
   los_angeles_county:
     name: Los Angeles County Registrar-Recorder/County Clerk
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - id: checkout
         name: Checkout
@@ -47,6 +48,7 @@ jobs:
   ca_secretary_of_state:
     name: California Secretary of State
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - id: checkout
         name: Checkout
@@ -75,6 +77,7 @@ jobs:
   ia_secretary_of_state:
     name: Iowa Secretary of State
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - id: checkout
         name: Checkout
@@ -103,6 +106,7 @@ jobs:
   ny_state_board_of_elections:
     name: New York State Board of Elections
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - id: checkout
         name: Checkout
@@ -131,6 +135,7 @@ jobs:
   export:
     name: Export CSV
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     needs: [los_angeles_county, ca_secretary_of_state, ny_state_board_of_elections, ia_secretary_of_state]
     steps:
       - id: checkout
@@ -155,6 +160,7 @@ jobs:
   kpcc:
     name: Deploy for KPCC
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     needs: [los_angeles_county, ca_secretary_of_state]
     steps:
       - id: checkout
@@ -190,6 +196,7 @@ jobs:
   pages:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     needs: [export]
     environment:
       name: github-pages
