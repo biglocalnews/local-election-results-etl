@@ -31,6 +31,7 @@ marshmallow = "*"
 python-slugify = "*"
 bs4 = "*"
 requests = "*"
+cloudscraper = "*"
 
 [requires]
 python_version = "3.9"
