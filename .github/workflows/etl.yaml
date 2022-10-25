@@ -8,6 +8,7 @@ on:
 permissions:
   contents: read
   pages: write
+  deployments: write
   id-token: write
 
 concurrency:
@@ -18,6 +19,9 @@ jobs:
   etl:
     name: ETL
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: checkout
         name: Checkout
