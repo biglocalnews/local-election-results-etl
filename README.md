@@ -51,6 +51,7 @@ Download the raw data from the source websites.
 ```bash
 pipenv run python -m src.los_angeles_county.download
 pipenv run python -m src.ca_secretary_of_state.download
+pipenv run python -m src.ny_state_board_of_elections.download
 ```
 
 Transform the data into something we want to publish.
@@ -58,6 +59,7 @@ Transform the data into something we want to publish.
 ```bash
 pipenv run python -m src.los_angeles_county.transform
 pipenv run python -m src.ca_secretary_of_state.transform
+pipenv run python -m src.ny_state_board_of_elections.transform
 ```
 
 Export results to CSV.
@@ -66,8 +68,8 @@ Export results to CSV.
 pipenv run python -m src.export
 ```
 
-Upload data to the Amazon S3 bucket.
+Upload data to Amazon S3.
 
 ```bash
-pipenv run python -m src.upload
+pipenv run python -m src.upload kpcc
 ```

@@ -1,7 +1,9 @@
+import io
 import json
 import os
 import pathlib
 import typing
+import zipfile
 from datetime import datetime
 
 import boto3
@@ -47,6 +49,18 @@ def request_html(url: str) -> str:
     r = requests.get(url, headers=headers)
     assert r.ok
     return r.text
+
+
+@retry()
+def request_zip(url: str) -> zipfile.ZipFile:
+    """Request the provided URL and return a Zipfile object."""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
+    }
+    r = requests.get(url, headers=headers)
+    assert r.ok
+    buffer = io.BytesIO(bytes(r.content))
+    return zipfile.ZipFile(buffer)
 
 
 def write_json(data: typing.Dict, path: pathlib.Path, indent: int = 2):

@@ -72,6 +72,34 @@ jobs:
         with:
           message: "Fetched latest from the California Secretary of State"
 
+  ia_secretary_of_state:
+    name: Iowa Secretary of State
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: download-statewide
+        name: Download statewide
+        run: pipenv run python -m src.ia_secretary_of_state.download statewide
+        shell: bash
+
+      # - id: transform
+      #   name: Transform
+      #   run: pipenv run python -m src.ia_secretary_of_state.transform
+      #   shell: bash
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Fetched latest from the Iowa Secretary of State"
+
   ny_state_board_of_elections:
     name: New York State Board of Elections
     runs-on: ubuntu-latest
