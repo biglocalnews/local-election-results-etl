@@ -30,6 +30,7 @@ pytz = "*"
 marshmallow = "*"
 python-slugify = "*"
 bs4 = "*"
+requests = "*"
 
 [requires]
 python_version = "3.9"
