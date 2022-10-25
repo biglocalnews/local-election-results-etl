@@ -122,8 +122,8 @@ jobs:
         run: pipenv install --python=`which python`
         shell: bash
 
-      - id: commit
-        name: Commit
+      - id: pull
+        name: Pull
         run: |
           git config --system http.sslVerify false
           git config --system user.name "GitHub Actions"
