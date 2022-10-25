@@ -87,9 +87,14 @@ jobs:
         name: Install Python dependencies
         uses: ./.github/actions/install
 
+      - id: install-playwright
+        name: Download statewide
+        run: pipenv run playwright install --with-deps chromium
+        shell: bash
+
       - id: download-statewide
         name: Download statewide
-        run: pipenv run python -m src.ia_secretary_of_state.download statewide
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m src.ia_secretary_of_state.download statewide
         shell: bash
 
       # - id: transform

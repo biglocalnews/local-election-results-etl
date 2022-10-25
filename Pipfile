@@ -30,6 +30,7 @@ pytz = "*"
 marshmallow = "*"
 python-slugify = "*"
 bs4 = "*"
+playwright = "*"
 
 [requires]
 python_version = "3.9"

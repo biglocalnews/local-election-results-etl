@@ -60,7 +60,7 @@ endef
 #
 
 PIPENV := pipenv run
-PYTHON := $(PIPENV) python -W ignore
+PYTHON := $(PIPENV) python -W ignore -m
 
 define python
     @echo "🐍🤖 $(OBJ_COLOR)Executing Python script $(1)$(NO_COLOR)\r";
@@ -73,16 +73,16 @@ endef
 
 all: ## run a scraper. example: `make run scraper=IA`
 	$(call banner,      📦 Publishing data 📦)
-	$(PIPENV) python -m src.ca_secretary_of_state.download
-	$(PIPENV) python -m src.los_angeles_county.download
-	$(PIPENV) python -m src.ny_state_board_of_elections.download
-	$(PIPENV) python -m src.ia_secretary_of_state.download statewide
-	$(PIPENV) python -m src.ca_secretary_of_state.transform
-	$(PIPENV) python -m src.los_angeles_county.transform
-	$(PIPENV) python -m src.ny_state_board_of_elections.transform
-	$(PIPENV) python -m src.optimize kpcc
-	$(PIPENV) python -m src.export
-	$(PIPENV) python -m src.upload kpcc
+	$(PYTHON) src.ca_secretary_of_state.download
+	$(PYTHON) src.los_angeles_county.download
+	$(PYTHON) src.ny_state_board_of_elections.download
+	xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- $(PYTHON) src.ia_secretary_of_state.download statewide
+	$(PYTHON) src.ca_secretary_of_state.transform
+	$(PYTHON) src.los_angeles_county.transform
+	$(PYTHON) src.ny_state_board_of_elections.transform
+	$(PYTHON) src.optimize kpcc
+	$(PYTHON) src.export
+	$(PYTHON) src.upload kpcc
 
 #
 # Tests
