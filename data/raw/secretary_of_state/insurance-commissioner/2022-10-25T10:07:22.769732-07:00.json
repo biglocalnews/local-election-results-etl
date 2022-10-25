@@ -3,22 +3,22 @@
   "ReportingTime": "October 24, 2022, 11:57 a.m.",
   "candidates": [
     {
-      "Name": "Eleni Kounalakis",
+      "Name": "Ricardo Lara",
       "Party": "Dem",
       "Percent": "73.3",
       "Votes": "12,391,450",
       "incumbent": true
     },
     {
-      "Name": "Angela E. Underwood Jacobs",
+      "Name": "Robert Howell",
       "Party": "Rep",
       "Percent": "26.7",
       "Votes": "4,505,951",
       "incumbent": false
     }
   ],
-  "raceTitle": "Lieutenant Governor - Statewide Results",
-  "scraped_datetime": "2022-10-25T10:08:03.124516-07:00",
-  "slug": "lieutenant-governor",
-  "url": "https://api.sos.ca.gov/returns/lieutenant-governor"
+  "raceTitle": "Insurance Commissioner - Statewide Results",
+  "scraped_datetime": "2022-10-25T10:07:22.769594-07:00",
+  "slug": "insurance-commissioner",
+  "url": "https://api.sos.ca.gov/returns/insurance-commissioner"
 }

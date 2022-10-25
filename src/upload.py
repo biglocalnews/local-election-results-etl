@@ -3,11 +3,17 @@ import click
 from . import utils
 
 
-@click.command()
+@click.group()
 def cli():
-    """Upload data directory to Amazon S3."""
-    # Get all of the files
-    file_list = utils.get_latest_paths()
+    """Upload data to Amazon S3."""
+    pass
+
+
+@cli.command()
+def kpcc():
+    """Upload data for KPCC."""
+    # Get all of the files we want to upload
+    file_list = [utils.OPTIMIZED_DATA_DIR / "kpcc" / "latest.json"]
     print(f"📨 Uploading {len(file_list)} files")
 
     # Loop through them

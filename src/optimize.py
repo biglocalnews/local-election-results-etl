@@ -15,13 +15,10 @@ def cli():
 @cli.command()
 def kpcc():
     """Create a custom output for KPCC."""
-    # Get all of the files
-    file_list = utils.get_latest_paths()
+    # Get all of the files we want to combine
     kpcc_list = [
-        f
-        for f in file_list
-        if "transformed" in str(f)
-        and ("los_angeles_county" in str(f) or "ca_secretary_of_state" in str(f))
+        utils.TRANSFORMED_DATA_DIR / "los_angeles_county" / "latest.json",
+        utils.TRANSFORMED_DATA_DIR / "ca_secretary_of_state" / "latest.json",
     ]
     print(f"📨 Combining {len(kpcc_list)} files")
 

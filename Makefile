@@ -81,7 +81,7 @@ all: ## run a scraper. example: `make run scraper=IA`
 	$(PIPENV) python -m src.ny_state_board_of_elections.transform
 	$(PIPENV) python -m src.optimize kpcc
 	$(PIPENV) python -m src.export
-	$(PIPENV) python -m src.upload
+	$(PIPENV) python -m src.upload kpcc
 
 #
 # Tests

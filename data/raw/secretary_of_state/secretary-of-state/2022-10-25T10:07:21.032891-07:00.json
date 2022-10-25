@@ -3,22 +3,22 @@
   "ReportingTime": "October 24, 2022, 11:57 a.m.",
   "candidates": [
     {
-      "Name": "Eleni Kounalakis",
+      "Name": "Shirley N. Weber",
       "Party": "Dem",
       "Percent": "73.3",
       "Votes": "12,391,450",
-      "incumbent": true
+      "incumbent": false
     },
     {
-      "Name": "Angela E. Underwood Jacobs",
+      "Name": "Rob Bernosky",
       "Party": "Rep",
       "Percent": "26.7",
       "Votes": "4,505,951",
       "incumbent": false
     }
   ],
-  "raceTitle": "Lieutenant Governor - Statewide Results",
-  "scraped_datetime": "2022-10-25T10:08:03.124516-07:00",
-  "slug": "lieutenant-governor",
-  "url": "https://api.sos.ca.gov/returns/lieutenant-governor"
+  "raceTitle": "Secretary of State - Statewide Results",
+  "scraped_datetime": "2022-10-25T10:07:21.032798-07:00",
+  "slug": "secretary-of-state",
+  "url": "https://api.sos.ca.gov/returns/secretary-of-state"
 }
