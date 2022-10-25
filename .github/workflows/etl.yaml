@@ -5,11 +5,7 @@ on:
   schedule:
     - cron: "0 */12 * * *"
 
-permissions:
-  contents: write
-  pages: write
-  deployments: write
-  id-token: write
+permissions: write-all
 
 concurrency:
   group: "etl"
@@ -101,7 +97,7 @@ jobs:
 
   ia_secretary_of_state:
     name: Iowa Secretary of State
-    runs-on: ${{ needs.start-runner.outputs.label }}
+    runs-on: ${{ needs.start_runner.outputs.label }}
     timeout-minutes: 5
     needs: [start_runner]
     steps:
@@ -250,7 +246,9 @@ jobs:
 
   stop_runner:
     name: Stop self-hosted EC2 runner
-    needs: [start_runner, ia_secretary_of_state]
+    needs:
+     - start_runner
+     - ia_secretary_of_state
     runs-on: ubuntu-latest
     if: ${{ always() }}
     steps:
@@ -266,5 +264,5 @@ jobs:
         with:
           mode: stop
           github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          label: ${{ needs.start-runner.outputs.label }}
-          ec2-instance-id: ${{ needs.start-runner.outputs.ec2-instance-id }}
+          label: ${{ needs.start_runner.outputs.label }}
+          ec2-instance-id: ${{ needs.start_runner.outputs.ec2-instance-id }}
