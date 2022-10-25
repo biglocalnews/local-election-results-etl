@@ -7,7 +7,6 @@ import zipfile
 from datetime import datetime
 
 import boto3
-import cloudscraper
 import pytz
 import requests
 from retry import retry
@@ -55,9 +54,7 @@ def request_html(url: str) -> str:
 @retry()
 def request_zip(url: str) -> zipfile.ZipFile:
     """Request the provided URL and return a Zipfile object."""
-    scraper = cloudscraper.create_scraper()
-    r = scraper.get(url)
-    print(r.text)
+    r = requests.get(url)
     assert r.ok
     buffer = io.BytesIO(bytes(r.content))
     return zipfile.ZipFile(buffer)

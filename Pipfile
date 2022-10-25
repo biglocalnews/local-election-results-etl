@@ -30,7 +30,6 @@ pytz = "*"
 marshmallow = "*"
 python-slugify = "*"
 bs4 = "*"
-cloudscraper = "*"
 
 [requires]
 python_version = "3.9"
