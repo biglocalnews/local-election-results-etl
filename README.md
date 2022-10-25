@@ -10,9 +10,9 @@ Extract, transform and load election results posted online by local U.S. electio
 
 File | S3 URL | Pages URL |
 :--- | :----- | :--------
-California Secretary of State | [ca_secretary_of_state/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/ca_secretary_of_state/latest.json) | [](https://biglocalnews.github.io/local-election-results-etl/transformed/ca_secretary_of_state/latest.json)
-Los Angeles County | [los_angeles_county/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/los_angeles_county/latest.json) | [](https://biglocalnews.github.io/local-election-results-etl/transformed/los_angeles_county/latest.json)
-KPCC | [kpcc/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/optimized/kpcc/latest.json) | [](https://biglocalnews.github.io/local-election-results-etl/raw/optimized/kpcc/latest.json)
+California Secretary of State | [ca_secretary_of_state/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/ca_secretary_of_state/latest.json) | [ca_secretary_of_state/latest.json](https://biglocalnews.github.io/local-election-results-etl/transformed/ca_secretary_of_state/latest.json)
+Los Angeles County | [los_angeles_county/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/transformed/los_angeles_county/latest.json) | [los_angeles_county/latest.json](https://biglocalnews.github.io/local-election-results-etl/transformed/los_angeles_county/latest.json)
+KPCC | [kpcc/latest.json](https://mt-legacy-projects.s3.amazonaws.com/vgp-general-election-results-2022/data/optimized/kpcc/latest.json) | [kpcc/latest.json](https://biglocalnews.github.io/local-election-results-etl/raw/optimized/kpcc/latest.json)
 
 ## Getting started
 
