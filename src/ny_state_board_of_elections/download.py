@@ -12,7 +12,7 @@ def cli():
     html = utils.request_html(url)
 
     # Parse data
-    soup = BeautifulSoup(html)
+    soup = BeautifulSoup(html, "html.parser")
     table_list = soup.find_all(class_="datatable", role="table")
     race_list = [_parse_table(t) for t in table_list]
 
@@ -46,7 +46,7 @@ def _parse_table(html):
         d = dict(
             name=cell_list[0].text,
             party=cell_list[1].text,
-            votes=cell_list[4].text,
+            votes=int(cell_list[4].text.replace(",", "")),
             votes_percent=cell_list[3].text,
         )
         candidates.append(d)

@@ -89,40 +89,16 @@ jobs:
         run: pipenv run python -m src.ny_state_board_of_elections.download
         shell: bash
 
-      # - id: transform
-      #   name: Transform
-      #   run: pipenv run python -m src.ny_state_board_of_elections.transform
-      #   shell: bash
-
-      - id: commit
-        name: Commit
-        uses: ./.github/actions/commit
-        with:
-          message: "Fetched latest from the New York State Board of Elections"
-
-  optimize:
-    name: Optimize JSON
-    runs-on: ubuntu-latest
-    needs: [los_angeles_county, ca_secretary_of_state, ny_state_board_of_elections]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
-
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
-
-      - id: optimize-kpcc
-        name: Optimize for KPCC
-        run: pipenv run python -m src.optimize kpcc
+      - id: transform
+        name: Transform
+        run: pipenv run python -m src.ny_state_board_of_elections.transform
         shell: bash
 
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
         with:
-          message: "Optimized JSON"
+          message: "Fetched latest from the New York State Board of Elections"
 
   export:
     name: Export CSV
@@ -148,10 +124,10 @@ jobs:
         with:
           message: "Exported CSV"
 
-  s3:
-    name: Upload to Amazon S3
+  kpcc:
+    name: Deploy for KPCC
     runs-on: ubuntu-latest
-    needs: [optimize, export]
+    needs: [los_angeles_county, ca_secretary_of_state]
     steps:
       - id: checkout
         name: Checkout
@@ -160,6 +136,17 @@ jobs:
       - id: install
         name: Install Python dependencies
         uses: ./.github/actions/install
+
+      - id: optimize-kpcc
+        name: Optimize for KPCC
+        run: pipenv run python -m src.optimize kpcc
+        shell: bash
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          message: "Optimized JSON"
 
       - id: upload
         name: Upload to S3
@@ -173,9 +160,9 @@ jobs:
           AWS_PATH_PREFIX: ${{ secrets.AWS_PATH_PREFIX }}
 
   pages:
-    name: Upload to GitHub Pages
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
-    needs: [optimize, export]
+    needs: [export]
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
