@@ -15,3 +15,8 @@ def test_now():
 def test_write_json(tmp_path):
     """Test writing out a JSON dict."""
     utils.write_json({}, tmp_path / "test.json")
+
+
+def test_get_latest_paths():
+    """Test that get_latest_paths returns the right stuff."""
+    assert len(utils.get_latest_paths()) == 3
