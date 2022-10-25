@@ -5,6 +5,7 @@ Extract, transform and load election results posted online by local U.S. electio
 - California Secretary of State
 - Los Angeles County Registrar-Recorder/County Clerk
 - New York State Board of Elections
+- Iowa Secretary of State
 
 ## Latest files
 
