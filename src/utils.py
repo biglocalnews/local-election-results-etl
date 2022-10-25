@@ -57,6 +57,7 @@ def request_zip(url: str) -> zipfile.ZipFile:
     """Request the provided URL and return a Zipfile object."""
     scraper = cloudscraper.create_scraper()
     r = scraper.get(url)
+    print(r.text)
     assert r.ok
     buffer = io.BytesIO(bytes(r.content))
     return zipfile.ZipFile(buffer)
