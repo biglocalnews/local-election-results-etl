@@ -33,6 +33,7 @@ def statewide():
             "https://electionresults.iowa.gov/IA/115641/web.285569/#/summary",
             timeout=10 * 1000,
         )
+        print(page.content())
 
         # Download the ZIP
         zip_path = raw_dir / "statewide.zip"
