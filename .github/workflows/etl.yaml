@@ -105,9 +105,32 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pipenv'
+
+      - id: install-pipenv
+        name: Install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        shell: bash
+
+      - id: install-python-dependencies
         name: Install Python dependencies
-        uses: ./.github/actions/install
+        run: pipenv install --python=`which python`
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --system http.sslVerify false
+          git config --system user.name "GitHub Actions"
+          git config --system user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin main
+        shell: bash
 
       - id: download-statewide
         name: Download statewide
@@ -122,10 +145,6 @@ jobs:
       - id: commit
         name: Commit
         run: |
-          git config --system http.sslVerify false
-          git config --system user.name "GitHub Actions"
-          git config --system user.email "actions@github.com"
-          git config pull.rebase false
           git pull origin $GITHUB_REF
           git add ./data/
           git commit -m "Fetched latest from the Iowa Secretary of State" --author="palewire <palewire@users.noreply.github.com>" && git push || true
