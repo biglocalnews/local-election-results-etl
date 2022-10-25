@@ -18,7 +18,7 @@ runs:
 
     - id: install-python-dependencies
       name: Install Python dependencies
-      run: pipenv install --dev --python=`which python`
+      run: pipenv install --python=`which python`
       shell: bash
 
     - id: commit

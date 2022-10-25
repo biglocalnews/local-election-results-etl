@@ -30,7 +30,6 @@ pytz = "*"
 marshmallow = "*"
 python-slugify = "*"
 bs4 = "*"
-playwright = "*"
 cloudscraper = "*"
 
 [requires]

@@ -76,7 +76,7 @@ all: ## run a scraper. example: `make run scraper=IA`
 	$(PYTHON) src.ca_secretary_of_state.download
 	$(PYTHON) src.los_angeles_county.download
 	$(PYTHON) src.ny_state_board_of_elections.download
-	xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- $(PYTHON) src.ia_secretary_of_state.download statewide
+	$(PYTHON) src.ia_secretary_of_state.download statewide
 	$(PYTHON) src.ca_secretary_of_state.transform
 	$(PYTHON) src.los_angeles_county.transform
 	$(PYTHON) src.ny_state_board_of_elections.transform
