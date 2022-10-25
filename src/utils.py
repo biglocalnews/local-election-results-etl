@@ -37,6 +37,18 @@ def request_json(url: str) -> typing.Dict:
     return r.json()
 
 
+@retry()
+def request_html(url: str) -> str:
+    """Request the provided URL and return the HTML response as a string."""
+    print(f"🌐 Requesting HTML from {url}")
+    headers = {
+        "User-Agent": "BIG LOCAL NEWS (palewire@stanford.edu)",
+    }
+    r = requests.get(url, headers=headers)
+    assert r.ok
+    return r.text
+
+
 def write_json(data: typing.Dict, path: pathlib.Path, indent: int = 2):
     """Write the provided data dictionary into the provided path."""
     print(f"✏️ Writing JSON to {path}")
