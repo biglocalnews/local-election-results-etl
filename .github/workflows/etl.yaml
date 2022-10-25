@@ -6,7 +6,7 @@ on:
     - cron: "0 */12 * * *"
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   deployments: write
   id-token: write
@@ -125,7 +125,7 @@ jobs:
           message: "Optimizing data"
 
   export:
-    name: Optimize
+    name: Export CSV
     runs-on: ubuntu-latest
     needs: [los_angeles_county, ca_secretary_of_state, ny_state_board_of_elections]
     steps:
