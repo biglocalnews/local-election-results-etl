@@ -24,8 +24,9 @@ runs:
     - id: commit
       name: Commit
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        git config --system http.sslVerify false
+        git config --system user.name "GitHub Actions"
+        git config --system user.email "actions@github.com"
         git config pull.rebase false
         git pull origin main
       shell: bash
