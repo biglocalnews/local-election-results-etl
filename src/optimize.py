@@ -25,11 +25,14 @@ def kpcc():
     # Combine them
     combined_list = {
         "scraped_datetime": utils.now().isoformat(),
+        "updated_datetime": None,
         "races": [],
     }
     for f in kpcc_list:
         data = json.load(open(f))
         combined_list["races"].extend(data["races"])
+        if data.get("updated_datetime"):
+            combined_list["updated_datetime"] = data["updated_datetime"]
 
     # Write out a timestamped file
     output_dir = utils.OPTIMIZED_DATA_DIR / "kpcc"
