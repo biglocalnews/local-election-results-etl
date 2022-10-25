@@ -18,10 +18,10 @@ pytest = "*"
 twine = "*"
 jupyterlab = "*"
 pdfplumber = "*"
-pandas = "*"
 types-python-slugify = "*"
 
 [packages]
+pandas = "*"
 click = "*"
 boto3 = "*"
 rich = "*"
