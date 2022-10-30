@@ -112,23 +112,16 @@ class ContestTransformer(schema.BaseTransformer):
         return data
 
     def _get_correction(self):
-        try:
-            return self.corrections[self.raw["Title"]]
-        except KeyError:
-            return None
+        return self.corrections[self.raw["Title"]]
 
     def include(self):
         """Determine if we want to keep this record, based on our corrections."""
         correction = self._get_correction()
-        if not correction:
-            return True
         return correction["include"].lower() == "yes"
 
     def correct_name(self):
         """Correct the name field."""
         correction = self._get_correction()
-        if not correction:
-            return self.raw["Title"]
         return correction["clean_name"] or self.raw["Title"]
 
     def correct_description(self):
@@ -141,8 +134,6 @@ class ContestTransformer(schema.BaseTransformer):
     def correct_geography(self):
         """Correct the geography field."""
         correction = self._get_correction()
-        if not correction:
-            return None
         return correction["clean_geography"] or None
 
     def correct_incumbent(
