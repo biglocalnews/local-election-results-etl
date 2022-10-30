@@ -4,7 +4,7 @@ from .. import utils
 
 
 @click.command()
-def cli(electionid=4269):
+def cli(electionid=4300):
     """Download JSON data posted by the L.A. County Registrar/Recorder."""
     # Get the latest data
     url = f"https://results.lavote.gov/electionresults/json?electionid={electionid}"
