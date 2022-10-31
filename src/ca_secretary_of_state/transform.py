@@ -28,7 +28,20 @@ def cli():
         raw_data = json.load(open(file_path))
         # Handle the file, based on its structure
         slug = file_path.parent.stem
-        if "races" in raw_data:
+        if slug == "courts-of-appeal":
+            for division in raw_data["races"]:
+                division_name = division["raceTitle"].split("-")[0]
+                for race in division["courts-of-appeal"]:
+                    race_data = {
+                        "raceTitle": f"{division_name}: {race['Name']}",
+                        "Reporting": division["Reporting"],
+                        "candidates": [
+                            {"Name": "Yes", "Votes": race["yesVotes"]},
+                            {"Name": "No", "Votes": race["noVotes"]},
+                        ],
+                    }
+                    contest_list.append(race_data)
+        elif "races" in raw_data:
             contest_list.extend(raw_data["races"])
         elif slug == "supreme-court":
             for race in raw_data["supreme-court"]:
@@ -41,18 +54,6 @@ def cli():
                     ],
                 }
                 contest_list.append(race_data)
-        # elif slug == "courts-of-appeal":
-        #     for race in raw_data:
-        #         race_data = {
-        #             "raceTitle": f"{race['Name'].split('-')[0]}",
-        #             "Reporting": raw_data["Reporting"],
-        #             "candidate": []
-        #         }
-        #         for candidate in race['courts-of-appeal']:
-        #             race_data['candidate'].append(
-        #                 {"Name": "Yes", "Votes": candidate["yesVotes"]}
-        #             )
-        #         contest_list.append(race_data)
         elif slug == "ballot-measures":
             for race in raw_data["ballot-measures"]:
                 race_data = {
@@ -76,6 +77,7 @@ def cli():
     corrections = get_corrections()
 
     for contest in contest_list:
+        # print(contest)
         # Tidy
         obj = ContestTransformer(contest, corrections)
 
