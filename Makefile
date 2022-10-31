@@ -84,6 +84,11 @@ all: ## run a scraper. example: `make run scraper=IA`
 	$(PYTHON) src.export
 	$(PYTHON) src.upload kpcc
 
+
+clean: ## Clean up the data directory
+	$(call banner,      🪥 Cleaning data 🪥)
+	@rm -rf ./data/
+
 #
 # Tests
 #
