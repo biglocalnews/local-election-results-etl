@@ -1,0 +1,24 @@
+{
+  "Reporting": "0% (0 of 25,603) precincts reporting",
+  "ReportingTime": "October 27, 2022, 9:20 a.m.",
+  "candidates": [
+    {
+      "Name": "Alex Padilla",
+      "Party": "Dem",
+      "Percent": "37.8",
+      "Votes": "14",
+      "incumbent": false
+    },
+    {
+      "Name": "Mark P. Meuser",
+      "Party": "Rep",
+      "Percent": "62.2",
+      "Votes": "23",
+      "incumbent": false
+    }
+  ],
+  "raceTitle": "U.S. Senate (Partial/Unexpired Term) - Statewide Results",
+  "scraped_datetime": "2022-10-31T12:23:38.544891-07:00",
+  "slug": "us-senate-unexpired-term",
+  "url": "https://api.sos.ca.gov/returns/us-senate-unexpired-term"
+}
