@@ -23,6 +23,7 @@ def cli():
         "us-rep/district/all",
         "state-senate/district/all",
         "state-assembly/district/all",
+        # "courts-of-appeal/district/all",
     ]
 
     # Get the latest data

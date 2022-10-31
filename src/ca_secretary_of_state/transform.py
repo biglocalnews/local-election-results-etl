@@ -41,6 +41,18 @@ def cli():
                     ],
                 }
                 contest_list.append(race_data)
+        # elif slug == "courts-of-appeal":
+        #     for race in raw_data:
+        #         race_data = {
+        #             "raceTitle": f"{race['Name'].split('-')[0]}",
+        #             "Reporting": raw_data["Reporting"],
+        #             "candidate": []
+        #         }
+        #         for candidate in race['courts-of-appeal']:
+        #             race_data['candidate'].append(
+        #                 {"Name": "Yes", "Votes": candidate["yesVotes"]}
+        #             )
+        #         contest_list.append(race_data)
         elif slug == "ballot-measures":
             for race in raw_data["ballot-measures"]:
                 race_data = {
