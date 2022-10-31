@@ -23,7 +23,7 @@ def cli():
         "us-rep/district/all",
         "state-senate/district/all",
         "state-assembly/district/all",
-        # "courts-of-appeal/district/all",
+        "courts-of-appeal/district/all",
     ]
 
     # Get the latest data
@@ -42,7 +42,7 @@ def cli():
         folder_name = f"{slug.split('/')[0]}"
         timestamp_path = (
             utils.RAW_DATA_DIR
-            / "secretary_of_state"
+            / "ca_secretary_of_state"
             / folder_name
             / f"{utils.now().isoformat()}.json"
         )
