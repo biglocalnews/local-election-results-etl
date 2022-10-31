@@ -30,7 +30,7 @@ def cli():
         slug = file_path.parent.stem
         if slug == "courts-of-appeal":
             for division in raw_data["races"]:
-                division_name = division["raceTitle"].split("-")[0]
+                division_name = division["raceTitle"].split("-")[0].strip()
                 for race in division["courts-of-appeal"]:
                     race_data = {
                         "raceTitle": f"{division_name}: {race['Name']}",
