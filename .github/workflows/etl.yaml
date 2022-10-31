@@ -254,7 +254,7 @@ jobs:
 
       - id: invalidate
         name: Invalidate Cloudfront cache
-        run: pipenv run aws cloudfront create-invalidation --distribution-id ${{ secrets.KPCC_AWS_DISTRIBUTION_ID }} --paths "/${{ secrets.AWS_PATH_PREFIX }}/*"
+        run: pipenv run aws cloudfront create-invalidation --distribution-id ${{ secrets.KPCC_AWS_DISTRIBUTION_ID }} --paths "/${{ secrets.AWS_PATH_PREFIX }}*"
         shell: bash
 
   pages:
