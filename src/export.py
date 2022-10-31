@@ -16,9 +16,6 @@ def cli():
 
     # Loop through them
     for path in file_list:
-        # Parse an source
-        source = str(path.parent).split("/")[-1]
-
         # Open the data
         data = json.load(open(path))
 
@@ -32,7 +29,6 @@ def cli():
                 cand["candidate_name"] = cand.pop("name")
                 cand.update(race)
                 cand.update(data)
-                cand["source"] = source
                 flat_list.append(cand)
 
         # Parse and export it

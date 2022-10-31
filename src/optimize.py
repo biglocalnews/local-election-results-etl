@@ -29,8 +29,12 @@ def kpcc():
         "races": [],
     }
     for f in kpcc_list:
+        source = str(f.parent).split("/")[-1]
         data = json.load(open(f))
-        combined_list["races"].extend(data["races"])
+        race_list = data["races"]
+        for r in race_list:
+            r["source"] = source
+        combined_list["races"].extend(race_list)
         if data.get("updated_datetime"):
             combined_list["updated_datetime"] = data["updated_datetime"]
 
