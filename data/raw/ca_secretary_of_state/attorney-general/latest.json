@@ -1,0 +1,24 @@
+{
+  "Reporting": "0% (0 of 25,603) precincts reporting",
+  "ReportingTime": "October 31, 2022, 2:42 p.m.",
+  "candidates": [
+    {
+      "Name": "Rob Bonta",
+      "Party": "Dem",
+      "Percent": "0.0",
+      "Votes": "0",
+      "incumbent": false
+    },
+    {
+      "Name": "Nathan Hochman",
+      "Party": "Rep",
+      "Percent": "0.0",
+      "Votes": "0",
+      "incumbent": false
+    }
+  ],
+  "raceTitle": "Attorney General - Statewide Results",
+  "scraped_datetime": "2022-11-01T14:20:40.840941-07:00",
+  "slug": "attorney-general",
+  "url": "https://api.sos.ca.gov/returns/attorney-general"
+}
