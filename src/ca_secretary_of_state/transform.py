@@ -114,7 +114,7 @@ class CandidateResultTransformer(schema.BaseTransformer):
     def transform_data(self):
         """Create a new object."""
         return dict(
-            name=self.raw["Name"],
+            name=self.clean_name(self.raw["Name"]),
             party=self.raw.get("Party", None),
             votes=self.clean_votes(self.raw["Votes"]),
             votes_percent=self.raw["votes_percent"],
@@ -125,6 +125,10 @@ class CandidateResultTransformer(schema.BaseTransformer):
         """Clean votes value."""
         s = value.strip().replace(",", "")
         return int(s)
+
+    def clean_name(self, name):
+        """Clean name."""
+        return name.lower().title()
 
 
 class ContestTransformer(schema.BaseTransformer):
