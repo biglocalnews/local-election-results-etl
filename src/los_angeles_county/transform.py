@@ -121,20 +121,15 @@ class ContestTransformer(schema.BaseTransformer):
 
     def correct_name(self):
         """Correct the name field."""
-        correction = self._get_correction()
-        return correction["clean_name"] or self.raw["Title"]
+        return self._get_correction()["clean_name"]
 
     def correct_description(self):
         """Correct the description field."""
-        correction = self._get_correction()
-        if not correction:
-            return None
-        return correction["clean_description"] or None
+        return self._get_correction()["clean_description"]
 
     def correct_geography(self):
         """Correct the geography field."""
-        correction = self._get_correction()
-        return correction["clean_geography"] or None
+        return self._get_correction()["clean_geography"]
 
     def correct_incumbent(
         self, candidate_list: typing.List[typing.Dict]

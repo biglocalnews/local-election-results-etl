@@ -168,38 +168,24 @@ class ContestTransformer(schema.BaseTransformer):
         return int(s)
 
     def _get_correction(self):
-        try:
-            return self.corrections[self.raw["raceTitle"]]
-        except KeyError:
-            return None
+        lookup = self.raw["raceTitle"].split("-")[0].strip()
+        return self.corrections[lookup]
 
     def include(self):
         """Determine if we want to keep this record, based on our corrections."""
-        correction = self._get_correction()
-        if not correction:
-            return True
-        return correction["include"].lower() == "yes"
+        return self._get_correction()["include"].lower() == "yes"
 
     def correct_name(self):
         """Correct the name field."""
-        correction = self._get_correction()
-        if not correction:
-            return self.raw["raceTitle"]
-        return correction["clean_name"] or self.raw["raceTitle"]
+        return self._get_correction()["clean_name"]
 
     def correct_description(self):
         """Correct the description field."""
-        correction = self._get_correction()
-        if not correction:
-            return None
-        return correction["clean_description"] or None
+        return self._get_correction()["clean_description"]
 
     def correct_geography(self):
         """Correct the geography field."""
-        correction = self._get_correction()
-        if not correction:
-            return None
-        return correction["clean_geography"] or None
+        return self._get_correction()["clean_geography"]
 
     def correct_incumbent(
         self, candidate_list: typing.List[typing.Dict]
