@@ -85,7 +85,7 @@ class ContestTransformer(schema.BaseTransformer):
         # Start off a data dictionary
         data = dict(
             name=self.correct_name(),
-            slug=slugify(self.raw["Title"]),
+            slug=slugify(self.correct_name()),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=None,

@@ -136,7 +136,7 @@ class ContestTransformer(schema.BaseTransformer):
         """Create a new object."""
         data = dict(
             name=self.correct_name(),
-            slug=slugify(self.raw["raceTitle"]),
+            slug=slugify(self.correct_name()),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=self.raw["Reporting"],
