@@ -143,6 +143,7 @@ class ContestTransformer(schema.BaseTransformer):
             slug=self.get_slug(),
             description=self.correct_description(),
             geography=self.correct_geography(),
+            level=self.correct_level(),
             precincts_reporting=self.raw["Reporting"],
         )
 
@@ -194,6 +195,10 @@ class ContestTransformer(schema.BaseTransformer):
     def correct_geography(self):
         """Correct the geography field."""
         return self._get_correction()["clean_geography"]
+
+    def correct_level(self):
+        """Correct the level field."""
+        return self._get_correction()["clean_level"]
 
     def correct_incumbent(
         self, candidate_list: typing.List[typing.Dict]

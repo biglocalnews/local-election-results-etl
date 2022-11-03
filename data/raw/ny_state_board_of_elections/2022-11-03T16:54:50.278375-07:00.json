@@ -3,882 +3,730 @@
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Jon Kaiman",
           "party": "DEM",
           "votes": 6884,
-          "votes_percent": 0.2555
+          "votes_percent": "25.55 %"
         },
         {
-          "incumbent": null,
           "name": "Robert P. Zimmerman",
           "party": "DEM",
           "votes": 9482,
-          "votes_percent": 0.352
+          "votes_percent": "35.20 %"
         },
         {
-          "incumbent": null,
           "name": "Joshua Alexander Lafazan",
           "party": "DEM",
           "votes": 5296,
-          "votes_percent": 0.1966
+          "votes_percent": "19.66 %"
         },
         {
-          "incumbent": null,
           "name": "Reema Rasool",
           "party": "DEM",
           "votes": 661,
-          "votes_percent": 0.0245
+          "votes_percent": "2.45 %"
         },
         {
-          "incumbent": null,
           "name": "Melanie D'Arrigo",
           "party": "DEM",
           "votes": 4197,
-          "votes_percent": 0.1558
+          "votes_percent": "15.58 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 138,
-          "votes_percent": 0.0051
+          "votes_percent": "0.51 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 235,
-          "votes_percent": 0.0087
+          "votes_percent": "0.87 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 48,
-          "votes_percent": 0.0018
+          "votes_percent": "0.18 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "3rd Congressional District",
       "precincts_reporting": "604 of 604",
-      "slug": "3rd-congressional-district"
+      "race_name": "3rd Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Keith M. Corbett",
           "party": "DEM",
           "votes": 2169,
-          "votes_percent": 0.1082
+          "votes_percent": "10.82 %"
         },
         {
-          "incumbent": null,
           "name": "Laura A. Gillen",
           "party": "DEM",
           "votes": 12432,
-          "votes_percent": 0.6202
+          "votes_percent": "62.02 %"
         },
         {
-          "incumbent": null,
           "name": "Md Muzibul Huq",
           "party": "DEM",
           "votes": 297,
-          "votes_percent": 0.0148
+          "votes_percent": "1.48 %"
         },
         {
-          "incumbent": null,
           "name": "Carrie Solages",
           "party": "DEM",
           "votes": 4811,
-          "votes_percent": 0.24
+          "votes_percent": "24.00 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 30,
-          "votes_percent": 0.0015
+          "votes_percent": "0.15 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 232,
-          "votes_percent": 0.0116
+          "votes_percent": "1.16 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 75,
-          "votes_percent": 0.0037
+          "votes_percent": "0.37 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "4th Congressional District",
       "precincts_reporting": "601 of 601",
-      "slug": "4th-congressional-district"
+      "race_name": "4th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Paperboy Love Prince",
           "party": "DEM",
           "votes": 4006,
-          "votes_percent": 0.1527
+          "votes_percent": "15.27 %"
         },
         {
-          "incumbent": null,
           "name": "Nydia M. Velazquez",
           "party": "DEM",
           "votes": 21470,
-          "votes_percent": 0.8183
+          "votes_percent": "81.83 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 388,
-          "votes_percent": 0.0148
+          "votes_percent": "1.48 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 26,
-          "votes_percent": 0.001
+          "votes_percent": "0.10 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 347,
-          "votes_percent": 0.0132
+          "votes_percent": "1.32 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "7th Congressional District",
       "precincts_reporting": "402 of 402",
-      "slug": "7th-congressional-district"
+      "race_name": "7th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Hakeem S. Jeffries",
           "party": "DEM",
           "votes": 22196,
-          "votes_percent": 0.8605
+          "votes_percent": "86.05 %"
         },
         {
-          "incumbent": null,
           "name": "Queen Johnson",
           "party": "DEM",
           "votes": 3214,
-          "votes_percent": 0.1246
+          "votes_percent": "12.46 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 182,
-          "votes_percent": 0.0071
+          "votes_percent": "0.71 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 49,
-          "votes_percent": 0.0019
+          "votes_percent": "0.19 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 153,
-          "votes_percent": 0.0059
+          "votes_percent": "0.59 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "8th Congressional District",
       "precincts_reporting": "378 of 378",
-      "slug": "8th-congressional-district"
+      "race_name": "8th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Mondaire L. Jones",
           "party": "DEM",
           "votes": 11777,
-          "votes_percent": 0.1809
+          "votes_percent": "18.09 %"
         },
         {
-          "incumbent": null,
           "name": "Yuh-Line Niou",
           "party": "DEM",
           "votes": 15380,
-          "votes_percent": 0.2362
+          "votes_percent": "23.62 %"
         },
         {
-          "incumbent": null,
           "name": "Carlina Rivera",
           "party": "DEM",
           "votes": 10985,
-          "votes_percent": 0.1687
+          "votes_percent": "16.87 %"
         },
         {
-          "incumbent": null,
           "name": "Quanda Francis",
           "party": "DEM",
           "votes": 121,
-          "votes_percent": 0.0019
+          "votes_percent": "0.19 %"
         },
         {
-          "incumbent": null,
           "name": "Brian Robinson",
           "party": "DEM",
           "votes": 322,
-          "votes_percent": 0.0049
+          "votes_percent": "0.49 %"
         },
         {
-          "incumbent": null,
           "name": "Jo Anne Simon",
           "party": "DEM",
           "votes": 3991,
-          "votes_percent": 0.0613
+          "votes_percent": "6.13 %"
         },
         {
-          "incumbent": null,
           "name": "Peter J. Gleason",
           "party": "DEM",
           "votes": 147,
-          "votes_percent": 0.0023
+          "votes_percent": "0.23 %"
         },
         {
-          "incumbent": null,
           "name": "Yan Xiong",
           "party": "DEM",
           "votes": 686,
-          "votes_percent": 0.0105
+          "votes_percent": "1.05 %"
         },
         {
-          "incumbent": null,
           "name": "Daniel Goldman",
           "party": "DEM",
           "votes": 16686,
-          "votes_percent": 0.2563
+          "votes_percent": "25.63 %"
         },
         {
-          "incumbent": null,
           "name": "Jimmy Li",
           "party": "DEM",
           "votes": 777,
-          "votes_percent": 0.0119
+          "votes_percent": "1.19 %"
         },
         {
-          "incumbent": null,
           "name": "Maud Maron",
           "party": "DEM",
           "votes": 578,
-          "votes_percent": 0.0089
+          "votes_percent": "0.89 %"
         },
         {
-          "incumbent": null,
           "name": "Bill De Blasio",
           "party": "DEM",
           "votes": 477,
-          "votes_percent": 0.0073
+          "votes_percent": "0.73 %"
         },
         {
-          "incumbent": null,
           "name": "Elizabeth Holtzman",
           "party": "DEM",
           "votes": 2845,
-          "votes_percent": 0.0437
+          "votes_percent": "4.37 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 106,
-          "votes_percent": 0.0016
+          "votes_percent": "0.16 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 132,
-          "votes_percent": 0.002
+          "votes_percent": "0.20 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 97,
-          "votes_percent": 0.0015
+          "votes_percent": "0.15 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "10th Congressional District",
       "precincts_reporting": "431 of 431",
-      "slug": "10th-congressional-district"
+      "race_name": "10th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Max N. Rose",
           "party": "DEM",
           "votes": 15871,
-          "votes_percent": 0.7363
+          "votes_percent": "73.63 %"
         },
         {
-          "incumbent": null,
           "name": "Brittany Ramos Debarros",
           "party": "DEM",
           "votes": 4399,
-          "votes_percent": 0.2041
+          "votes_percent": "20.41 %"
         },
         {
-          "incumbent": null,
           "name": "Komi Agoda-Koussema",
           "party": "DEM",
           "votes": 899,
-          "votes_percent": 0.0417
+          "votes_percent": "4.17 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 146,
-          "votes_percent": 0.0068
+          "votes_percent": "0.68 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 50,
-          "votes_percent": 0.0023
+          "votes_percent": "0.23 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 190,
-          "votes_percent": 0.0088
+          "votes_percent": "0.88 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "11th Congressional District",
       "precincts_reporting": "374 of 374",
-      "slug": "11th-congressional-district"
+      "race_name": "11th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Carolyn B. Maloney",
           "party": "DEM",
           "votes": 20038,
-          "votes_percent": 0.2429
+          "votes_percent": "24.29 %"
         },
         {
-          "incumbent": null,
           "name": "Ashmi Sheth",
           "party": "DEM",
           "votes": 832,
-          "votes_percent": 0.0101
+          "votes_percent": "1.01 %"
         },
         {
-          "incumbent": null,
           "name": "Jerrold L. Nadler",
           "party": "DEM",
           "votes": 45545,
-          "votes_percent": 0.5522
+          "votes_percent": "55.22 %"
         },
         {
-          "incumbent": null,
           "name": "Suraj Patel",
           "party": "DEM",
           "votes": 15744,
-          "votes_percent": 0.1909
+          "votes_percent": "19.09 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 106,
-          "votes_percent": 0.0013
+          "votes_percent": "0.13 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 93,
-          "votes_percent": 0.0011
+          "votes_percent": "0.11 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 122,
-          "votes_percent": 0.0015
+          "votes_percent": "0.15 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "12th Congressional District",
       "precincts_reporting": "400 of 400",
-      "slug": "12th-congressional-district"
+      "race_name": "12th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Francisco A. Spies",
           "party": "DEM",
           "votes": 2286,
-          "votes_percent": 0.0595
+          "votes_percent": "5.95 %"
         },
         {
-          "incumbent": null,
           "name": "Adriano Espaillat",
           "party": "DEM",
           "votes": 29782,
-          "votes_percent": 0.7752
+          "votes_percent": "77.52 %"
         },
         {
-          "incumbent": null,
           "name": "Michael Hano",
           "party": "DEM",
           "votes": 4709,
-          "votes_percent": 0.1226
+          "votes_percent": "12.26 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 1068,
-          "votes_percent": 0.0278
+          "votes_percent": "2.78 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 83,
-          "votes_percent": 0.0022
+          "votes_percent": "0.22 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 490,
-          "votes_percent": 0.0128
+          "votes_percent": "1.28 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "13th Congressional District",
       "precincts_reporting": "393 of 393",
-      "slug": "13th-congressional-district"
+      "race_name": "13th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Vedat Gashi",
           "party": "DEM",
           "votes": 5792,
-          "votes_percent": 0.2306
+          "votes_percent": "23.06 %"
         },
         {
-          "incumbent": null,
           "name": "Jamaal Bowman",
           "party": "DEM",
           "votes": 13940,
-          "votes_percent": 0.555
+          "votes_percent": "55.50 %"
         },
         {
-          "incumbent": null,
           "name": "Catherine F. Parker",
           "party": "DEM",
           "votes": 4792,
-          "votes_percent": 0.1908
+          "votes_percent": "19.08 %"
         },
         {
-          "incumbent": null,
           "name": "Mark Jaffe",
           "party": "DEM",
           "votes": 450,
-          "votes_percent": 0.0179
+          "votes_percent": "1.79 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 44,
-          "votes_percent": 0.0018
+          "votes_percent": "0.18 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 61,
-          "votes_percent": 0.0024
+          "votes_percent": "0.24 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 37,
-          "votes_percent": 0.0015
+          "votes_percent": "0.15 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "16th Congressional District",
       "precincts_reporting": "442 of 703",
-      "slug": "16th-congressional-district"
+      "race_name": "16th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Alessandra Biaggi",
           "party": "DEM",
           "votes": 9920,
-          "votes_percent": 0.3271
+          "votes_percent": "32.71 %"
         },
         {
-          "incumbent": null,
           "name": "Sean Patrick Maloney",
           "party": "DEM",
           "votes": 20081,
-          "votes_percent": 0.6621
+          "votes_percent": "66.21 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 40,
-          "votes_percent": 0.0013
+          "votes_percent": "0.13 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 94,
-          "votes_percent": 0.0031
+          "votes_percent": "0.31 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 195,
-          "votes_percent": 0.0064
+          "votes_percent": "0.64 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "17th Congressional District",
       "precincts_reporting": "538 of 620",
-      "slug": "17th-congressional-district"
+      "race_name": "17th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Pat Ryan",
           "party": "DEM",
           "votes": 29022,
-          "votes_percent": 0.8294
+          "votes_percent": "82.94 %"
         },
         {
-          "incumbent": null,
           "name": "Moses R. Mugulusi",
           "party": "DEM",
           "votes": 931,
-          "votes_percent": 0.0266
+          "votes_percent": "2.66 %"
         },
         {
-          "incumbent": null,
           "name": "Aisha Mills",
           "party": "DEM",
           "votes": 4484,
-          "votes_percent": 0.1282
+          "votes_percent": "12.82 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 391,
-          "votes_percent": 0.0112
+          "votes_percent": "1.12 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 46,
-          "votes_percent": 0.0013
+          "votes_percent": "0.13 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 116,
-          "votes_percent": 0.0033
+          "votes_percent": "0.33 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "18th Congressional District",
       "precincts_reporting": "239 of 239",
-      "slug": "18th-congressional-district"
+      "race_name": "18th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Jamie Cheney",
           "party": "DEM",
           "votes": 17533,
-          "votes_percent": 0.353
+          "votes_percent": "35.30 %"
         },
         {
-          "incumbent": null,
           "name": "Josh Riley",
           "party": "DEM",
           "votes": 30538,
-          "votes_percent": 0.6149
+          "votes_percent": "61.49 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 1337,
-          "votes_percent": 0.0269
+          "votes_percent": "2.69 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 51,
-          "votes_percent": 0.001
+          "votes_percent": "0.10 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 203,
-          "votes_percent": 0.0041
+          "votes_percent": "0.41 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "19th Congressional District",
       "precincts_reporting": "850 of 850",
-      "slug": "19th-congressional-district"
+      "race_name": "19th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Rostislav Rar",
           "party": "DEM",
           "votes": 2287,
-          "votes_percent": 0.1156
+          "votes_percent": "11.56 %"
         },
         {
-          "incumbent": null,
           "name": "Paul D. Tonko",
           "party": "DEM",
           "votes": 17314,
-          "votes_percent": 0.8755
+          "votes_percent": "87.55 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 34,
-          "votes_percent": 0.0017
+          "votes_percent": "0.17 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 51,
-          "votes_percent": 0.0026
+          "votes_percent": "0.26 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 91,
-          "votes_percent": 0.0046
+          "votes_percent": "0.46 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "20th Congressional District",
       "precincts_reporting": "506 of 509",
-      "slug": "20th-congressional-district"
+      "race_name": "20th Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Matt Castelli",
           "party": "DEM",
           "votes": 18745,
-          "votes_percent": 0.8027
+          "votes_percent": "80.27 %"
         },
         {
-          "incumbent": null,
           "name": "Matt Putorti",
           "party": "DEM",
           "votes": 4337,
-          "votes_percent": 0.1857
+          "votes_percent": "18.57 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 170,
-          "votes_percent": 0.0073
+          "votes_percent": "0.73 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 23,
-          "votes_percent": 0.001
+          "votes_percent": "0.10 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 76,
-          "votes_percent": 0.0033
+          "votes_percent": "0.33 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "21st Congressional District",
       "precincts_reporting": "498 of 530",
-      "slug": "21st-congressional-district"
+      "race_name": "21st Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Chol Majok",
           "party": "DEM",
           "votes": 3050,
-          "votes_percent": 0.1165
+          "votes_percent": "11.65 %"
         },
         {
-          "incumbent": null,
           "name": "Sam Roberts",
           "party": "DEM",
           "votes": 3440,
-          "votes_percent": 0.1314
+          "votes_percent": "13.14 %"
         },
         {
-          "incumbent": null,
           "name": "Sarah Klee Hood",
           "party": "DEM",
           "votes": 9310,
-          "votes_percent": 0.3556
+          "votes_percent": "35.56 %"
         },
         {
-          "incumbent": null,
           "name": "Francis Conole",
           "party": "DEM",
           "votes": 10277,
-          "votes_percent": 0.3925
+          "votes_percent": "39.25 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 27,
-          "votes_percent": 0.001
+          "votes_percent": "0.10 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 20,
-          "votes_percent": 0.0008
+          "votes_percent": "0.08 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 59,
-          "votes_percent": 0.0023
+          "votes_percent": "0.23 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "22nd Congressional District",
       "precincts_reporting": "627 of 627",
-      "slug": "22nd-congressional-district"
+      "race_name": "22nd Congressional District"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
           "name": "Emin Eddie Egriu",
           "party": "DEM",
           "votes": 2624,
-          "votes_percent": 0.0861
+          "votes_percent": "8.61 %"
         },
         {
-          "incumbent": null,
           "name": "Brian Higgins",
           "party": "DEM",
           "votes": 27522,
-          "votes_percent": 0.9034
+          "votes_percent": "90.34 %"
         },
         {
-          "incumbent": null,
           "name": "Blank",
           "party": "",
           "votes": 128,
-          "votes_percent": 0.0042
+          "votes_percent": "0.42 %"
         },
         {
-          "incumbent": null,
           "name": "Void",
           "party": "",
           "votes": 87,
-          "votes_percent": 0.0029
+          "votes_percent": "0.29 %"
         },
         {
-          "incumbent": null,
           "name": "Write-in",
           "party": "",
           "votes": 105,
-          "votes_percent": 0.0034
+          "votes_percent": "0.34 %"
         }
       ],
-      "description": null,
-      "geography": null,
-      "name": "26th Congressional District",
       "precincts_reporting": "256 of 260",
-      "slug": "26th-congressional-district"
+      "race_name": "26th Congressional District"
     }
   ],
-  "scraped_datetime": "2022-11-03T16:57:10.594125-07:00"
+  "scraped_datetime": "2022-11-03T16:54:50.211868-07:00",
+  "url": "https://nyenr.elections.ny.gov/"
 }
