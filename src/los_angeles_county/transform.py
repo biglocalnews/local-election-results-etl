@@ -124,6 +124,7 @@ class ContestTransformer(schema.BaseTransformer):
         return correction["include"].lower() == "yes"
 
     def get_slug(self):
+        """Get a unique slug."""
         return slugify(f"{self.correct_geography()} {self.correct_name()}")
 
     def correct_name(self):

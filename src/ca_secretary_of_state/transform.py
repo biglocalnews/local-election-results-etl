@@ -172,6 +172,7 @@ class ContestTransformer(schema.BaseTransformer):
         return int(s)
 
     def get_slug(self):
+        """Get a unique slug."""
         return slugify(f"{self.correct_geography()} {self.correct_name()}")
 
     def _get_correction(self):
