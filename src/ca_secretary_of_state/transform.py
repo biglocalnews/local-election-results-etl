@@ -140,7 +140,7 @@ class ContestTransformer(schema.BaseTransformer):
         """Create a new object."""
         data = dict(
             name=self.correct_name(),
-            slug=slugify(self.correct_name()),
+            slug=self.get_slug(),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=self.raw["Reporting"],
@@ -170,6 +170,9 @@ class ContestTransformer(schema.BaseTransformer):
         """Clean votes value."""
         s = value.strip().replace(",", "")
         return int(s)
+
+    def get_slug(self):
+        return slugify(f"{self.correct_geography()} {self.correct_name()}")
 
     def _get_correction(self):
         lookup = self.raw["raceTitle"].split("-")[0].strip()

@@ -89,7 +89,7 @@ class ContestTransformer(schema.BaseTransformer):
         # Start off a data dictionary
         data = dict(
             name=self.correct_name(),
-            slug=slugify(self.correct_name()),
+            slug=self.get_slug(),
             description=self.correct_description(),
             geography=self.correct_geography(),
             precincts_reporting=None,
@@ -122,6 +122,9 @@ class ContestTransformer(schema.BaseTransformer):
         """Determine if we want to keep this record, based on our corrections."""
         correction = self._get_correction()
         return correction["include"].lower() == "yes"
+
+    def get_slug(self):
+        return slugify(f"{self.correct_geography()} {self.correct_name()}")
 
     def correct_name(self):
         """Correct the name field."""
