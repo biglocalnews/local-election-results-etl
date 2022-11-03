@@ -101,7 +101,7 @@ def get_latest_paths() -> typing.List[pathlib.Path]:
     return [o for o in obj_list if o.is_file() and "latest.json" in str(o)]
 
 
-def get_hash_id(dict: typing.Dict) -> str:
+def get_hash_id(d: typing.Dict) -> str:
     """Convert a dict a unique hexdigest to use as a unique identifier.
 
     Args:
@@ -109,7 +109,9 @@ def get_hash_id(dict: typing.Dict) -> str:
 
     Returns: A unique hexdigest string computed from the source data.
     """
-    dict_string = json.dumps(dict)
+    d = d.copy()
+    del d["candidates"]
+    dict_string = json.dumps(d)
     hash_obj = hashlib.blake2b(digest_size=2)
     hash_obj.update(dict_string.encode("utf-8"))
     return hash_obj.hexdigest()
