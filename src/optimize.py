@@ -38,6 +38,13 @@ def kpcc():
         if data.get("updated_datetime"):
             combined_list["updated_datetime"] = data["updated_datetime"]
 
+    # Verify there aren't any duplicate slugs
+    slug_list = []
+    for r in combined_list["races"]:
+        r["slug"] = f"{r['slug']}-{utils.get_hash_id(r)}"
+        assert r["slug"] not in slug_list
+        slug_list.append(r["slug"])
+
     # Write out a timestamped file
     output_dir = utils.OPTIMIZED_DATA_DIR / "kpcc"
     timestamp_path = output_dir / f"{combined_list['scraped_datetime']}.json"
