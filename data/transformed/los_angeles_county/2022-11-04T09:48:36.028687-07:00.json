@@ -140,9 +140,9 @@
       "description": "",
       "geography": "Los Angeles",
       "level": "Los Angeles",
-      "name": "LA Controller",
+      "name": "Controller",
       "precincts_reporting": null,
-      "slug": "la-controller"
+      "slug": "controller"
     },
     {
       "candidates": [
@@ -1237,6 +1237,6 @@
       "slug": "west-basin-municipal-water-district-board-of-directors-division-4"
     }
   ],
-  "scraped_datetime": "2022-11-04T09:51:34.879987-07:00",
+  "scraped_datetime": "2022-11-04T09:48:36.028687-07:00",
   "updated_datetime": "2022-10-25T09:02:03.147"
 }

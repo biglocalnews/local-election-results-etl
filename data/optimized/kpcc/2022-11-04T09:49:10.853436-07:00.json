@@ -145,9 +145,9 @@
       "description": "",
       "geography": "Los Angeles",
       "level": "Los Angeles",
-      "name": "LA Controller",
+      "name": "Controller",
       "precincts_reporting": null,
-      "slug": "la-controller",
+      "slug": "controller",
       "source": "los_angeles_county"
     },
     {
@@ -4078,6 +4078,6 @@
       "source": "ca_secretary_of_state"
     }
   ],
-  "scraped_datetime": "2022-11-04T09:52:15.229698-07:00",
+  "scraped_datetime": "2022-11-04T09:49:10.853436-07:00",
   "updated_datetime": "2022-10-25T09:02:03.147"
 }
