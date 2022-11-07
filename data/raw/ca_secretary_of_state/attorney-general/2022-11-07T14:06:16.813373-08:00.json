@@ -3,22 +3,22 @@
   "ReportingTime": "November 6, 2022, 1:45 p.m.",
   "candidates": [
     {
-      "Name": "Alex Padilla",
+      "Name": "Rob Bonta",
       "Party": "Dem",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     },
     {
-      "Name": "Mark P. Meuser",
+      "Name": "Nathan Hochman",
       "Party": "Rep",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     }
   ],
-  "raceTitle": "U.S. Senate (Full Term) - Statewide Results",
-  "scraped_datetime": "2022-11-07T14:08:20.268701-08:00",
-  "slug": "us-senate",
-  "url": "https://api.sos.ca.gov/returns/us-senate"
+  "raceTitle": "Attorney General - Statewide Results",
+  "scraped_datetime": "2022-11-07T14:06:16.813277-08:00",
+  "slug": "attorney-general",
+  "url": "https://api.sos.ca.gov/returns/attorney-general"
 }
