@@ -72,7 +72,7 @@ endef
 #
 
 all: ## run a scraper. example: `make run scraper=IA`
-	$(call banner,      📦 Publishing data 📦)
+	$(call banner,      🗳️ Publishing data 🗳️)
 	$(PYTHON) src.ca_secretary_of_state.download
 	$(PYTHON) src.los_angeles_county.download
 	$(PYTHON) src.ny_state_board_of_elections.download
@@ -88,6 +88,17 @@ all: ## run a scraper. example: `make run scraper=IA`
 clean: ## Clean up the data directory
 	$(call banner,      🪥 Cleaning data 🪥)
 	@rm -rf ./data/
+
+
+2022-general:
+	@$(call banner,  🗳️ 2022 General Election ETL 🗳️)
+	@$(PYTHON) src.ca_secretary_of_state.download
+	@$(PYTHON) src.los_angeles_county.download
+	@$(PYTHON) src.ca_secretary_of_state.transform
+	@$(PYTHON) src.los_angeles_county.transform
+	@$(PYTHON) src.optimize kpcc
+	@$(PYTHON) src.export
+	@$(PYTHON) src.upload kpcc
 
 #
 # Tests
