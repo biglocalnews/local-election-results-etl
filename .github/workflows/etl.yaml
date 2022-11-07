@@ -12,30 +12,30 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  start_runner:
-    name: Start self-hosted EC2 runner
-    runs-on: ubuntu-latest
-    outputs:
-      label: ${{ steps.start-ec2-runner.outputs.label }}
-      ec2-instance-id: ${{ steps.start-ec2-runner.outputs.ec2-instance-id }}
-    steps:
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.RUNNER_AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.RUNNER_AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ secrets.RUNNER_AWS_DEFAULT_REGION }}
+#   start_runner:
+#     name: Start self-hosted EC2 runner
+#     runs-on: ubuntu-latest
+#     outputs:
+#       label: ${{ steps.start-ec2-runner.outputs.label }}
+#       ec2-instance-id: ${{ steps.start-ec2-runner.outputs.ec2-instance-id }}
+#     steps:
+#       - name: Configure AWS credentials
+#         uses: aws-actions/configure-aws-credentials@v1
+#         with:
+#           aws-access-key-id: ${{ secrets.RUNNER_AWS_ACCESS_KEY_ID }}
+#           aws-secret-access-key: ${{ secrets.RUNNER_AWS_SECRET_ACCESS_KEY }}
+#           aws-region: ${{ secrets.RUNNER_AWS_DEFAULT_REGION }}
 
-      - name: Start EC2 runner
-        id: start-ec2-runner
-        uses: machulav/ec2-github-runner@v2
-        with:
-          mode: start
-          github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          ec2-image-id: ami-0134997ea21a525a5
-          ec2-instance-type: t2.small
-          subnet-id: subnet-0add5e99d1a0f11e1
-          security-group-id: sg-055bdb11da346a139
+#       - name: Start EC2 runner
+#         id: start-ec2-runner
+#         uses: machulav/ec2-github-runner@v2
+#         with:
+#           mode: start
+#           github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+#           ec2-image-id: ami-0134997ea21a525a5
+#           ec2-instance-type: t2.small
+#           subnet-id: subnet-0add5e99d1a0f11e1
+#           security-group-id: sg-055bdb11da346a139
 
   los_angeles_county:
     name: Los Angeles County Registrar-Recorder/County Clerk
@@ -286,25 +286,25 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
 
-  stop_runner:
-    name: Stop self-hosted EC2 runner
-    needs:
-     - start_runner
-     - ia_secretary_of_state
-    runs-on: ubuntu-latest
-    if: ${{ always() }}
-    steps:
-      - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v1
-        with:
-          aws-access-key-id: ${{ secrets.RUNNER_AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.RUNNER_AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ secrets.RUNNER_AWS_DEFAULT_REGION }}
+#   stop_runner:
+#     name: Stop self-hosted EC2 runner
+#     needs:
+#      - start_runner
+#      - ia_secretary_of_state
+#     runs-on: ubuntu-latest
+#     if: ${{ always() }}
+#     steps:
+#       - name: Configure AWS credentials
+#         uses: aws-actions/configure-aws-credentials@v1
+#         with:
+#           aws-access-key-id: ${{ secrets.RUNNER_AWS_ACCESS_KEY_ID }}
+#           aws-secret-access-key: ${{ secrets.RUNNER_AWS_SECRET_ACCESS_KEY }}
+#           aws-region: ${{ secrets.RUNNER_AWS_DEFAULT_REGION }}
 
-      - name: Stop EC2 runner
-        uses: machulav/ec2-github-runner@v2
-        with:
-          mode: stop
-          github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          label: ${{ needs.start_runner.outputs.label }}
-          ec2-instance-id: ${{ needs.start_runner.outputs.ec2-instance-id }}
+#       - name: Stop EC2 runner
+#         uses: machulav/ec2-github-runner@v2
+#         with:
+#           mode: stop
+#           github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+#           label: ${{ needs.start_runner.outputs.label }}
+#           ec2-instance-id: ${{ needs.start_runner.outputs.ec2-instance-id }}
