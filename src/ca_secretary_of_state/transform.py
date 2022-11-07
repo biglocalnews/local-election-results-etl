@@ -208,7 +208,11 @@ class ContestTransformer(schema.BaseTransformer):
         correction = self._get_correction()
         if correction and correction["incumbent"]:
             for c in candidate_list:
-                c["incumbent"] = c["Name"] in correction["incumbent"]
+                c["incumbent"] = c["Name"].upper() in correction["incumbent"].upper()
+            try:
+                assert len([c for c in candidate_list if c["incumbent"]]) == 1
+            except AssertionError:
+                print(candidate_list, correction)
         return candidate_list
 
 

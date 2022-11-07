@@ -150,9 +150,10 @@ class ContestTransformer(schema.BaseTransformer):
         """Correct the incumbents field."""
         # Correct any incumbent candidates
         correction = self._get_correction()
-        if correction and correction["incumbent"]:
+        if correction and correction["incumbent"] and self.include():
             for c in candidate_list:
-                c["incumbent"] = c["Name"] in correction["incumbent"]
+                c["incumbent"] = c["Name"].upper() in correction["incumbent"].upper()
+            assert len([c for c in candidate_list if c["incumbent"]]) > 0
         return candidate_list
 
 
