@@ -3,22 +3,22 @@
   "ReportingTime": "November 6, 2022, 1:45 p.m.",
   "candidates": [
     {
-      "Name": "Alex Padilla",
+      "Name": "Ricardo Lara",
       "Party": "Dem",
       "Percent": "0.0",
       "Votes": "0",
-      "incumbent": false
+      "incumbent": true
     },
     {
-      "Name": "Mark P. Meuser",
+      "Name": "Robert Howell",
       "Party": "Rep",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     }
   ],
-  "raceTitle": "U.S. Senate (Full Term) - Statewide Results",
-  "scraped_datetime": "2022-11-07T13:52:35.441073-08:00",
-  "slug": "us-senate",
-  "url": "https://api.sos.ca.gov/returns/us-senate"
+  "raceTitle": "Insurance Commissioner - Statewide Results",
+  "scraped_datetime": "2022-11-07T13:06:24.627093-08:00",
+  "slug": "insurance-commissioner",
+  "url": "https://api.sos.ca.gov/returns/insurance-commissioner"
 }

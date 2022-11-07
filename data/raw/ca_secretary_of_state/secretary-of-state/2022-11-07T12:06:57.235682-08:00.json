@@ -3,22 +3,22 @@
   "ReportingTime": "November 6, 2022, 1:45 p.m.",
   "candidates": [
     {
-      "Name": "Alex Padilla",
+      "Name": "Shirley N. Weber",
       "Party": "Dem",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     },
     {
-      "Name": "Mark P. Meuser",
+      "Name": "Rob Bernosky",
       "Party": "Rep",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     }
   ],
-  "raceTitle": "U.S. Senate (Partial/Unexpired Term) - Statewide Results",
-  "scraped_datetime": "2022-11-07T13:52:35.807122-08:00",
-  "slug": "us-senate-unexpired-term",
-  "url": "https://api.sos.ca.gov/returns/us-senate-unexpired-term"
+  "raceTitle": "Secretary of State - Statewide Results",
+  "scraped_datetime": "2022-11-07T12:06:57.235588-08:00",
+  "slug": "secretary-of-state",
+  "url": "https://api.sos.ca.gov/returns/secretary-of-state"
 }

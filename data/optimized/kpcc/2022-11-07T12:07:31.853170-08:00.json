@@ -1287,6 +1287,606 @@
     {
       "candidates": [
         {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Constitutional Right to Reproductive Freedom",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 1",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-1",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Sports Wagering on Tribal Lands",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 26",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-26",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Online Sports Wagering Outside of Tribal Lands",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 27",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-27",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Public School Arts and Music Education Funding",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 28",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-28",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Regulates Kidney Dialysis Clinics",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 29",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-29",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Tax to Fund ZEV/Wildfire Programs",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 30",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-30",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Prohibition on Sale of Certain Tobacco Products",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 31",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "proposition-31",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Shirley N. Weber",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Rob Bernosky",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Secretary of State",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "secretary-of-state",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Ricardo Lara",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Robert Howell",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Insurance Commissioner",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "insurance-commissioner",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Gavin Newsom",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Brian Dahle",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Governor",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "governor",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Patricia Guerrero",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "retain-supreme-court-justice-patricia-guerrero",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Martin J. Jenkins",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "retain-supreme-court-justice-martin-j-jenkins",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Goodwin Liu",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "retain-supreme-court-justice-goodwin-liu",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Joshua P. Groban",
+      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
+      "slug": "retain-supreme-court-justice-joshua-p-groban",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Daniel Hertzberg",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Caroline Menjivar",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 20",
+      "precincts_reporting": "0% (0 of 224) precincts reporting",
+      "slug": "state-senate-district-20",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Susan Rubio",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Vincent Tsai",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 22",
+      "precincts_reporting": "0% (0 of 572) precincts reporting",
+      "slug": "state-senate-district-22",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Ben Allen",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Kristina Irwin",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 24",
+      "precincts_reporting": "0% (0 of 358) precincts reporting",
+      "slug": "state-senate-district-24",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Maria Elena Durazo",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Claudia Agraz",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 26",
+      "precincts_reporting": "0% (0 of 243) precincts reporting",
+      "slug": "state-senate-district-26",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Lola Smallwood-Cuevas",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Cheryl C. Turner",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 28",
+      "precincts_reporting": "0% (0 of 281) precincts reporting",
+      "slug": "state-senate-district-28",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Bob Archuleta",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Mitch Clemmons",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 30",
+      "precincts_reporting": "0% (0 of 428) precincts reporting",
+      "slug": "state-senate-district-30",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Tom Umberg",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Rhonda Shader",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 34",
+      "precincts_reporting": "0% (0 of 436) precincts reporting",
+      "slug": "state-senate-district-34",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Kim Carr",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Janet Nguyen",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 36",
+      "precincts_reporting": "0% (0 of 653) precincts reporting",
+      "slug": "state-senate-district-36",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Rob Bonta",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Nathan Hochman",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Attorney General",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "attorney-general",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Alex Padilla",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Mark P. Meuser",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "Full term",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. Senate (Full Term)",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "u-s-senate-full-term",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
           "incumbent": false,
           "name": "Alex Padilla",
           "party": "Dem",
@@ -2362,606 +2962,6 @@
     {
       "candidates": [
         {
-          "incumbent": true,
-          "name": "Rob Bonta",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Nathan Hochman",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Attorney General",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "attorney-general",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "Malia M. Cohen",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Lanhee J. Chen",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Controller",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "controller",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "Alex Padilla",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Mark P. Meuser",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Full term",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. Senate (Full Term)",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "u-s-senate-full-term",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Ricardo Lara",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Robert Howell",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Insurance Commissioner",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "insurance-commissioner",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "Derek Marshall",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": true,
-          "name": "Jay Obernolte",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 23",
-      "precincts_reporting": "0% (0 of 1,566) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-23",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Julia Brownley",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Matt Jacobs",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 26",
-      "precincts_reporting": "0% (0 of 1,253) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-26",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "Christy Smith",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": true,
-          "name": "Mike Garcia",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 27",
-      "precincts_reporting": "0% (0 of 468) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-27",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Judy Chu",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Wes Hallman",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 28",
-      "precincts_reporting": "0% (0 of 530) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-28",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Tony Cardenas",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Ang\u00e9lica Mar\u00eda Due\u00f1as",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 29",
-      "precincts_reporting": "0% (0 of 165) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-29",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "G \"Maebe A. Girl\" Pudlo",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": true,
-          "name": "Adam B. Schiff",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 30",
-      "precincts_reporting": "0% (0 of 252) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-30",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Grace F. Napolitano",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Daniel Bocic Martinez",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 31",
-      "precincts_reporting": "0% (0 of 426) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-31",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Brad Sherman",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Lucie Lapointe Volotzky",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 32",
-      "precincts_reporting": "0% (0 of 239) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-32",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Jimmy Gomez",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "David Kim",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 34",
-      "precincts_reporting": "0% (0 of 174) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-34",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Norma J. Torres",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Mike Cargile",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 35",
-      "precincts_reporting": "0% (0 of 437) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-35",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Ted W. Lieu",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Joe E. Collins Iii",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 36",
-      "precincts_reporting": "0% (0 of 242) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-36",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Sydney Kamlager",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Jan C. Perry",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 37",
-      "precincts_reporting": "0% (0 of 203) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-37",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Linda T. S\u00e1nchez",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Eric J. Ching",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 38",
-      "precincts_reporting": "0% (0 of 317) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-38",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Robert Garcia",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "John Briscoe",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 42",
-      "precincts_reporting": "0% (0 of 218) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-42",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Maxine Waters",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Omar Navarro",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 43",
-      "precincts_reporting": "0% (0 of 258) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-43",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Nanette Diaz Barragan",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Paul Jones",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 44",
-      "precincts_reporting": "0% (0 of 258) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-44",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "Jay F. Chen",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": true,
-          "name": "Michelle Steel",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "United States",
-      "level": "United States",
-      "name": "U.S. House of Representatives District 45",
-      "precincts_reporting": "0% (0 of 450) precincts reporting",
-      "slug": "u-s-house-of-representatives-district-45",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": false,
-          "name": "Lance Ray Christensen",
-          "party": "Non",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": true,
-          "name": "Tony K. Thurmond",
-          "party": "Non",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Superintendent of Public Instruction",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "superintendent-of-public-instruction",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Fiona Ma",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Jack M. Guerrero",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Treasurer",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "treasurer",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Gavin Newsom",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Brian Dahle",
-          "party": "Rep",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Governor",
-      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "governor",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
           "incumbent": false,
           "name": "Tom Lackey",
           "party": "Rep",
@@ -3037,7 +3037,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Chris Holden",
           "party": "Dem",
           "votes": 0,
@@ -3062,7 +3062,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Jacqui Irwin",
           "party": "Dem",
           "votes": 0,
@@ -3087,7 +3087,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Luz Maria Rivas",
           "party": "Dem",
           "votes": 0,
@@ -3112,7 +3112,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Laura Friedman",
           "party": "Dem",
           "votes": 0,
@@ -3137,7 +3137,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Jesse Gabriel",
           "party": "Dem",
           "votes": 0,
@@ -3162,7 +3162,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Blanca Rubio",
           "party": "Dem",
           "votes": 0,
@@ -3187,7 +3187,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Mike Fong",
           "party": "Dem",
           "votes": 0,
@@ -3237,7 +3237,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Wendy Carrillo",
           "party": "Dem",
           "votes": 0,
@@ -3262,7 +3262,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Freddie Rodriguez",
           "party": "Dem",
           "votes": 0,
@@ -3287,7 +3287,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Miguel Santiago",
           "party": "Dem",
           "votes": 0,
@@ -3312,7 +3312,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Isaac G. Bryan",
           "party": "Dem",
           "votes": 0,
@@ -3337,7 +3337,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Lisa Calderon",
           "party": "Dem",
           "votes": 0,
@@ -3362,7 +3362,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Reggie Jones-Sawyer",
           "party": "Dem",
           "votes": 0,
@@ -3380,7 +3380,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Tina Simone Mckinnor",
           "party": "Dem",
           "votes": 0,
@@ -3412,7 +3412,7 @@
           "votes_percent": 0.0
         },
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Anthony Rendon",
           "party": "Dem",
           "votes": 0,
@@ -3455,7 +3455,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Mike Anthony Gipson",
           "party": "Dem",
           "votes": 0,
@@ -3480,7 +3480,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Al Muratsuchi",
           "party": "Dem",
           "votes": 0,
@@ -3505,7 +3505,7 @@
     {
       "candidates": [
         {
-          "incumbent": true,
+          "incumbent": false,
           "name": "Sharon Quirk-Silva",
           "party": "Dem",
           "votes": 0,
@@ -3555,490 +3555,440 @@
     {
       "candidates": [
         {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Retain Supreme Court Justice Patricia Guerrero",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "retain-supreme-court-justice-patricia-guerrero",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Retain Supreme Court Justice Martin J. Jenkins",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "retain-supreme-court-justice-martin-j-jenkins",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Retain Supreme Court Justice Goodwin Liu",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "retain-supreme-court-justice-goodwin-liu",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "California",
-      "level": "California",
-      "name": "Retain Supreme Court Justice Joshua P. Groban",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "retain-supreme-court-justice-joshua-p-groban",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
           "incumbent": false,
-          "name": "Daniel Hertzberg",
+          "name": "Derek Marshall",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
           "incumbent": false,
-          "name": "Caroline Menjivar",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 20",
-      "precincts_reporting": "0% (0 of 224) precincts reporting",
-      "slug": "state-senate-district-20",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Susan Rubio",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Vincent Tsai",
+          "name": "Jay Obernolte",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
         }
       ],
       "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 22",
-      "precincts_reporting": "0% (0 of 572) precincts reporting",
-      "slug": "state-senate-district-22",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 23",
+      "precincts_reporting": "0% (0 of 1,566) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-23",
       "source": "ca_secretary_of_state"
     },
     {
       "candidates": [
         {
-          "incumbent": true,
-          "name": "Ben Allen",
+          "incumbent": false,
+          "name": "Julia Brownley",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
           "incumbent": false,
-          "name": "Kristina Irwin",
+          "name": "Matt Jacobs",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
         }
       ],
       "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 24",
-      "precincts_reporting": "0% (0 of 358) precincts reporting",
-      "slug": "state-senate-district-24",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 26",
+      "precincts_reporting": "0% (0 of 1,253) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-26",
       "source": "ca_secretary_of_state"
     },
     {
       "candidates": [
         {
-          "incumbent": true,
-          "name": "Maria Elena Durazo",
+          "incumbent": false,
+          "name": "Christy Smith",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
           "incumbent": false,
-          "name": "Claudia Agraz",
+          "name": "Mike Garcia",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
         }
       ],
       "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 26",
-      "precincts_reporting": "0% (0 of 243) precincts reporting",
-      "slug": "state-senate-district-26",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 27",
+      "precincts_reporting": "0% (0 of 468) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-27",
       "source": "ca_secretary_of_state"
     },
     {
       "candidates": [
         {
           "incumbent": false,
-          "name": "Lola Smallwood-Cuevas",
+          "name": "Judy Chu",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
           "incumbent": false,
-          "name": "Cheryl C. Turner",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 28",
-      "precincts_reporting": "0% (0 of 281) precincts reporting",
-      "slug": "state-senate-district-28",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Bob Archuleta",
-          "party": "Dem",
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": false,
-          "name": "Mitch Clemmons",
+          "name": "Wes Hallman",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
         }
       ],
       "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 30",
-      "precincts_reporting": "0% (0 of 428) precincts reporting",
-      "slug": "state-senate-district-30",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 28",
+      "precincts_reporting": "0% (0 of 530) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-28",
       "source": "ca_secretary_of_state"
     },
     {
       "candidates": [
         {
-          "incumbent": true,
-          "name": "Tom Umberg",
+          "incumbent": false,
+          "name": "Tony Cardenas",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
           "incumbent": false,
-          "name": "Rhonda Shader",
+          "name": "Ang\u00e9lica Mar\u00eda Due\u00f1as",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 29",
+      "precincts_reporting": "0% (0 of 165) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-29",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "G \"Maebe A. Girl\" Pudlo",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Adam B. Schiff",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 30",
+      "precincts_reporting": "0% (0 of 252) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-30",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Grace F. Napolitano",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Daniel Bocic Martinez",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
         }
       ],
       "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 34",
-      "precincts_reporting": "0% (0 of 436) precincts reporting",
-      "slug": "state-senate-district-34",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 31",
+      "precincts_reporting": "0% (0 of 426) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-31",
       "source": "ca_secretary_of_state"
     },
     {
       "candidates": [
         {
           "incumbent": false,
-          "name": "Kim Carr",
+          "name": "Brad Sherman",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
-          "incumbent": true,
-          "name": "Janet Nguyen",
+          "incumbent": false,
+          "name": "Lucie Lapointe Volotzky",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
         }
       ],
       "description": "",
-      "geography": "State Assembly",
-      "level": "California",
-      "name": "State Senate District 36",
-      "precincts_reporting": "0% (0 of 653) precincts reporting",
-      "slug": "state-senate-district-36",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 32",
+      "precincts_reporting": "0% (0 of 239) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-32",
       "source": "ca_secretary_of_state"
     },
     {
       "candidates": [
         {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Constitutional Right to Reproductive Freedom",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 1",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-1",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Sports Wagering on Tribal Lands",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 26",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-26",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Online Sports Wagering Outside of Tribal Lands",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 27",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-27",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Public School Arts and Music Education Funding",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 28",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-28",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Regulates Kidney Dialysis Clinics",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 29",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-29",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Tax to Fund ZEV/Wildfire Programs",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 30",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-30",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": null,
-          "name": "Yes",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        },
-        {
-          "incumbent": null,
-          "name": "No",
-          "party": null,
-          "votes": 0,
-          "votes_percent": 0.0
-        }
-      ],
-      "description": "Prohibition on Sale of Certain Tobacco Products",
-      "geography": "California",
-      "level": "California",
-      "name": "Proposition 31",
-      "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
-      "slug": "proposition-31",
-      "source": "ca_secretary_of_state"
-    },
-    {
-      "candidates": [
-        {
-          "incumbent": true,
-          "name": "Shirley N. Weber",
+          "incumbent": false,
+          "name": "Jimmy Gomez",
           "party": "Dem",
           "votes": 0,
           "votes_percent": 0.0
         },
         {
           "incumbent": false,
-          "name": "Rob Bernosky",
+          "name": "David Kim",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 34",
+      "precincts_reporting": "0% (0 of 174) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-34",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Norma J. Torres",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Mike Cargile",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 35",
+      "precincts_reporting": "0% (0 of 437) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-35",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Ted W. Lieu",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Joe E. Collins Iii",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 36",
+      "precincts_reporting": "0% (0 of 242) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-36",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Sydney Kamlager",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Jan C. Perry",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 37",
+      "precincts_reporting": "0% (0 of 203) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-37",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Linda T. S\u00e1nchez",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Eric J. Ching",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 38",
+      "precincts_reporting": "0% (0 of 317) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-38",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Robert Garcia",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "John Briscoe",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 42",
+      "precincts_reporting": "0% (0 of 218) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-42",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Maxine Waters",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Omar Navarro",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 43",
+      "precincts_reporting": "0% (0 of 258) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-43",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Nanette Diaz Barragan",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Paul Jones",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 44",
+      "precincts_reporting": "0% (0 of 258) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-44",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Jay F. Chen",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Michelle Steel",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 45",
+      "precincts_reporting": "0% (0 of 450) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-45",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Malia M. Cohen",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Lanhee J. Chen",
           "party": "Rep",
           "votes": 0,
           "votes_percent": 0.0
@@ -4047,9 +3997,9 @@
       "description": "",
       "geography": "California",
       "level": "California",
-      "name": "Secretary of State",
+      "name": "Controller",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
-      "slug": "secretary-of-state",
+      "slug": "controller",
       "source": "ca_secretary_of_state"
     },
     {
@@ -4076,8 +4026,58 @@
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "lieutenant-governor",
       "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Lance Ray Christensen",
+          "party": "Non",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": true,
+          "name": "Tony K. Thurmond",
+          "party": "Non",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Superintendent of Public Instruction",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "superintendent-of-public-instruction",
+      "source": "ca_secretary_of_state"
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Fiona Ma",
+          "party": "Dem",
+          "votes": 0,
+          "votes_percent": 0.0
+        },
+        {
+          "incumbent": false,
+          "name": "Jack M. Guerrero",
+          "party": "Rep",
+          "votes": 0,
+          "votes_percent": 0.0
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Treasurer",
+      "precincts_reporting": "0% (0 of 25,603) precincts reporting",
+      "slug": "treasurer",
+      "source": "ca_secretary_of_state"
     }
   ],
-  "scraped_datetime": "2022-11-07T13:52:42.328154-08:00",
+  "scraped_datetime": "2022-11-07T12:07:31.853170-08:00",
   "updated_datetime": "2022-10-25T09:02:03.147"
 }

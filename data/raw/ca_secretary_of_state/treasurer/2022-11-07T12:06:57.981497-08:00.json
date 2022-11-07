@@ -3,22 +3,22 @@
   "ReportingTime": "November 6, 2022, 1:45 p.m.",
   "candidates": [
     {
-      "Name": "Alex Padilla",
+      "Name": "Fiona Ma",
       "Party": "Dem",
       "Percent": "0.0",
       "Votes": "0",
-      "incumbent": false
+      "incumbent": true
     },
     {
-      "Name": "Mark P. Meuser",
+      "Name": "Jack M. Guerrero",
       "Party": "Rep",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     }
   ],
-  "raceTitle": "U.S. Senate (Full Term) - Statewide Results",
-  "scraped_datetime": "2022-11-07T13:52:35.441073-08:00",
-  "slug": "us-senate",
-  "url": "https://api.sos.ca.gov/returns/us-senate"
+  "raceTitle": "Treasurer - Statewide Results",
+  "scraped_datetime": "2022-11-07T12:06:57.981359-08:00",
+  "slug": "treasurer",
+  "url": "https://api.sos.ca.gov/returns/treasurer"
 }
