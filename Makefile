@@ -99,6 +99,7 @@ clean: ## Clean up the data directory
 	@$(PYTHON) src.optimize kpcc
 	@$(PYTHON) src.export
 	@$(PYTHON) src.upload kpcc
+	@$(PIPENV) aws cloudfront create-invalidation --distribution-id $KPCC_AWS_DISTRIBUTION_ID --paths "/vgp-general-election-results-2022/*"
 
 #
 # Tests
