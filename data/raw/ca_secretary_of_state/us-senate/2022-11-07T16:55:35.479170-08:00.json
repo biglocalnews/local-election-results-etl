@@ -17,8 +17,8 @@
       "incumbent": false
     }
   ],
-  "raceTitle": "U.S. Senate (Partial/Unexpired Term) - Statewide Results",
-  "scraped_datetime": "2022-11-07T16:58:45.630067-08:00",
-  "slug": "us-senate-unexpired-term",
-  "url": "https://api.sos.ca.gov/returns/us-senate-unexpired-term"
+  "raceTitle": "U.S. Senate (Full Term) - Statewide Results",
+  "scraped_datetime": "2022-11-07T16:55:35.478581-08:00",
+  "slug": "us-senate",
+  "url": "https://api.sos.ca.gov/returns/us-senate"
 }

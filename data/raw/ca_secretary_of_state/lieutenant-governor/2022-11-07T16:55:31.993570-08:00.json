@@ -3,22 +3,22 @@
   "ReportingTime": "November 6, 2022, 1:45 p.m.",
   "candidates": [
     {
-      "Name": "Rob Bonta",
+      "Name": "Eleni Kounalakis",
       "Party": "Dem",
       "Percent": "0.0",
       "Votes": "0",
-      "incumbent": false
+      "incumbent": true
     },
     {
-      "Name": "Nathan Hochman",
+      "Name": "Angela E. Underwood Jacobs",
       "Party": "Rep",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     }
   ],
-  "raceTitle": "Attorney General - Statewide Results",
-  "scraped_datetime": "2022-11-07T16:58:38.770111-08:00",
-  "slug": "attorney-general",
-  "url": "https://api.sos.ca.gov/returns/attorney-general"
+  "raceTitle": "Lieutenant Governor - Statewide Results",
+  "scraped_datetime": "2022-11-07T16:55:31.993217-08:00",
+  "slug": "lieutenant-governor",
+  "url": "https://api.sos.ca.gov/returns/lieutenant-governor"
 }

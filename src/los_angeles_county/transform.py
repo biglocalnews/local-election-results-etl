@@ -94,6 +94,7 @@ class ContestTransformer(schema.BaseTransformer):
             geography=self.correct_geography(),
             level=self.correct_level(),
             precincts_reporting=None,
+            sort_order=self.correct_sort_order(),
         )
 
         # Mark incumbents
@@ -143,6 +144,10 @@ class ContestTransformer(schema.BaseTransformer):
     def correct_level(self):
         """Correct the level field."""
         return self._get_correction()["clean_level"]
+
+    def correct_sort_order(self):
+        """Correct the sort_order field."""
+        return self._get_correction()["sort_order"] or None
 
     def correct_incumbent(
         self, candidate_list: typing.List[typing.Dict]
