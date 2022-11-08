@@ -60,7 +60,7 @@ endef
 #
 
 PIPENV := pipenv run
-PYTHON := $(PIPENV) python -W ignore -m
+PYTHON := /home/palewire/.local/share/virtualenvs/local-election-results-etl-3GwPInZR/bin/python -W ignore -m
 
 define python
     @echo "🐍🤖 $(OBJ_COLOR)Executing Python script $(1)$(NO_COLOR)\r";
@@ -92,13 +92,10 @@ clean: ## Clean up the data directory
 
 2022-general:
 	@$(call banner,  🗳️ 2022 General Election ETL 🗳️)
-	@$(PYTHON) src.ca_secretary_of_state.download
-	@$(PYTHON) src.los_angeles_county.download
-	@$(PYTHON) src.ca_secretary_of_state.transform
-	@$(PYTHON) src.los_angeles_county.transform
 	@$(PYTHON) src.optimize kpcc
 	@$(PYTHON) src.export
 	@$(PYTHON) src.upload kpcc
+	@echo "Invalidating cache"
 	@$(PIPENV) aws cloudfront create-invalidation --distribution-id E1W2MB79FPSGRP --paths "/vgp-general-election-results-2022/*" >/dev/null 2>&1
 
 #
