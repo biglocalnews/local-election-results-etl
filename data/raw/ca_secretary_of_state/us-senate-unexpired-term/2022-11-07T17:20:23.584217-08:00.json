@@ -3,22 +3,22 @@
   "ReportingTime": "November 6, 2022, 1:45 p.m.",
   "candidates": [
     {
-      "Name": "Malia M. Cohen",
+      "Name": "Alex Padilla",
       "Party": "Dem",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     },
     {
-      "Name": "Lanhee J. Chen",
+      "Name": "Mark P. Meuser",
       "Party": "Rep",
       "Percent": "0.0",
       "Votes": "0",
       "incumbent": false
     }
   ],
-  "raceTitle": "Controller - Statewide Results",
-  "scraped_datetime": "2022-11-07T17:21:48.477267-08:00",
-  "slug": "controller",
-  "url": "https://api.sos.ca.gov/returns/controller"
+  "raceTitle": "U.S. Senate (Partial/Unexpired Term) - Statewide Results",
+  "scraped_datetime": "2022-11-07T17:20:23.583978-08:00",
+  "slug": "us-senate-unexpired-term",
+  "url": "https://api.sos.ca.gov/returns/us-senate-unexpired-term"
 }

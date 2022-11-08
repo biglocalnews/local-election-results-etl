@@ -145,7 +145,7 @@ class ContestTransformer(schema.BaseTransformer):
             geography=self.correct_geography(),
             level=self.correct_level(),
             precincts_reporting=self.raw["Reporting"],
-            sort_order=None,
+            sort_order=self.correct_sort_order(),
         )
 
         # Mark incumbents

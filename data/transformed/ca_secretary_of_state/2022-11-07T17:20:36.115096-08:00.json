@@ -23,7 +23,7 @@
       "name": "Retain Supreme Court Justice Patricia Guerrero",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "retain-supreme-court-justice-patricia-guerrero",
-      "sort_order": 55
+      "sort_order": null
     },
     {
       "candidates": [
@@ -48,7 +48,7 @@
       "name": "Retain Supreme Court Justice Martin J. Jenkins",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "retain-supreme-court-justice-martin-j-jenkins",
-      "sort_order": 54
+      "sort_order": null
     },
     {
       "candidates": [
@@ -73,7 +73,7 @@
       "name": "Retain Supreme Court Justice Goodwin Liu",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "retain-supreme-court-justice-goodwin-liu",
-      "sort_order": 52
+      "sort_order": null
     },
     {
       "candidates": [
@@ -98,7 +98,7 @@
       "name": "Retain Supreme Court Justice Joshua P. Groban",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "retain-supreme-court-justice-joshua-p-groban",
-      "sort_order": 53
+      "sort_order": null
     },
     {
       "candidates": [
@@ -123,7 +123,7 @@
       "name": "State Senate District 20",
       "precincts_reporting": "0% (0 of 224) precincts reporting",
       "slug": "state-senate-district-20",
-      "sort_order": 8
+      "sort_order": null
     },
     {
       "candidates": [
@@ -148,7 +148,7 @@
       "name": "State Senate District 22",
       "precincts_reporting": "0% (0 of 572) precincts reporting",
       "slug": "state-senate-district-22",
-      "sort_order": 9
+      "sort_order": null
     },
     {
       "candidates": [
@@ -173,7 +173,7 @@
       "name": "State Senate District 24",
       "precincts_reporting": "0% (0 of 358) precincts reporting",
       "slug": "state-senate-district-24",
-      "sort_order": 10
+      "sort_order": null
     },
     {
       "candidates": [
@@ -198,7 +198,7 @@
       "name": "State Senate District 26",
       "precincts_reporting": "0% (0 of 243) precincts reporting",
       "slug": "state-senate-district-26",
-      "sort_order": 11
+      "sort_order": null
     },
     {
       "candidates": [
@@ -223,7 +223,7 @@
       "name": "State Senate District 28",
       "precincts_reporting": "0% (0 of 281) precincts reporting",
       "slug": "state-senate-district-28",
-      "sort_order": 12
+      "sort_order": null
     },
     {
       "candidates": [
@@ -248,7 +248,7 @@
       "name": "State Senate District 30",
       "precincts_reporting": "0% (0 of 428) precincts reporting",
       "slug": "state-senate-district-30",
-      "sort_order": 13
+      "sort_order": null
     },
     {
       "candidates": [
@@ -273,7 +273,7 @@
       "name": "State Senate District 34",
       "precincts_reporting": "0% (0 of 436) precincts reporting",
       "slug": "state-senate-district-34",
-      "sort_order": 14
+      "sort_order": null
     },
     {
       "candidates": [
@@ -298,7 +298,7 @@
       "name": "State Senate District 36",
       "precincts_reporting": "0% (0 of 653) precincts reporting",
       "slug": "state-senate-district-36",
-      "sort_order": 15
+      "sort_order": null
     },
     {
       "candidates": [
@@ -323,7 +323,7 @@
       "name": "Controller",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "controller",
-      "sort_order": 4
+      "sort_order": null
     },
     {
       "candidates": [
@@ -348,7 +348,7 @@
       "name": "Treasurer",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "treasurer",
-      "sort_order": 5
+      "sort_order": null
     },
     {
       "candidates": [
@@ -373,7 +373,7 @@
       "name": "U.S. House of Representatives District 23",
       "precincts_reporting": "0% (0 of 1,566) precincts reporting",
       "slug": "u-s-house-of-representatives-district-23",
-      "sort_order": 3
+      "sort_order": null
     },
     {
       "candidates": [
@@ -398,7 +398,7 @@
       "name": "U.S. House of Representatives District 26",
       "precincts_reporting": "0% (0 of 1,253) precincts reporting",
       "slug": "u-s-house-of-representatives-district-26",
-      "sort_order": 4
+      "sort_order": null
     },
     {
       "candidates": [
@@ -423,7 +423,7 @@
       "name": "U.S. House of Representatives District 27",
       "precincts_reporting": "0% (0 of 468) precincts reporting",
       "slug": "u-s-house-of-representatives-district-27",
-      "sort_order": 5
+      "sort_order": null
     },
     {
       "candidates": [
@@ -448,7 +448,7 @@
       "name": "U.S. House of Representatives District 28",
       "precincts_reporting": "0% (0 of 530) precincts reporting",
       "slug": "u-s-house-of-representatives-district-28",
-      "sort_order": 6
+      "sort_order": null
     },
     {
       "candidates": [
@@ -473,7 +473,7 @@
       "name": "U.S. House of Representatives District 29",
       "precincts_reporting": "0% (0 of 165) precincts reporting",
       "slug": "u-s-house-of-representatives-district-29",
-      "sort_order": 7
+      "sort_order": null
     },
     {
       "candidates": [
@@ -498,7 +498,7 @@
       "name": "U.S. House of Representatives District 30",
       "precincts_reporting": "0% (0 of 252) precincts reporting",
       "slug": "u-s-house-of-representatives-district-30",
-      "sort_order": 8
+      "sort_order": null
     },
     {
       "candidates": [
@@ -523,7 +523,7 @@
       "name": "U.S. House of Representatives District 31",
       "precincts_reporting": "0% (0 of 426) precincts reporting",
       "slug": "u-s-house-of-representatives-district-31",
-      "sort_order": 9
+      "sort_order": null
     },
     {
       "candidates": [
@@ -548,7 +548,7 @@
       "name": "U.S. House of Representatives District 32",
       "precincts_reporting": "0% (0 of 239) precincts reporting",
       "slug": "u-s-house-of-representatives-district-32",
-      "sort_order": 10
+      "sort_order": null
     },
     {
       "candidates": [
@@ -573,7 +573,7 @@
       "name": "U.S. House of Representatives District 34",
       "precincts_reporting": "0% (0 of 174) precincts reporting",
       "slug": "u-s-house-of-representatives-district-34",
-      "sort_order": 11
+      "sort_order": null
     },
     {
       "candidates": [
@@ -598,7 +598,7 @@
       "name": "U.S. House of Representatives District 35",
       "precincts_reporting": "0% (0 of 437) precincts reporting",
       "slug": "u-s-house-of-representatives-district-35",
-      "sort_order": 12
+      "sort_order": null
     },
     {
       "candidates": [
@@ -623,7 +623,7 @@
       "name": "U.S. House of Representatives District 36",
       "precincts_reporting": "0% (0 of 242) precincts reporting",
       "slug": "u-s-house-of-representatives-district-36",
-      "sort_order": 13
+      "sort_order": null
     },
     {
       "candidates": [
@@ -648,7 +648,7 @@
       "name": "U.S. House of Representatives District 37",
       "precincts_reporting": "0% (0 of 203) precincts reporting",
       "slug": "u-s-house-of-representatives-district-37",
-      "sort_order": 14
+      "sort_order": null
     },
     {
       "candidates": [
@@ -673,7 +673,7 @@
       "name": "U.S. House of Representatives District 38",
       "precincts_reporting": "0% (0 of 317) precincts reporting",
       "slug": "u-s-house-of-representatives-district-38",
-      "sort_order": 15
+      "sort_order": null
     },
     {
       "candidates": [
@@ -698,7 +698,7 @@
       "name": "U.S. House of Representatives District 42",
       "precincts_reporting": "0% (0 of 218) precincts reporting",
       "slug": "u-s-house-of-representatives-district-42",
-      "sort_order": 16
+      "sort_order": null
     },
     {
       "candidates": [
@@ -723,7 +723,7 @@
       "name": "U.S. House of Representatives District 43",
       "precincts_reporting": "0% (0 of 258) precincts reporting",
       "slug": "u-s-house-of-representatives-district-43",
-      "sort_order": 17
+      "sort_order": null
     },
     {
       "candidates": [
@@ -748,7 +748,7 @@
       "name": "U.S. House of Representatives District 44",
       "precincts_reporting": "0% (0 of 258) precincts reporting",
       "slug": "u-s-house-of-representatives-district-44",
-      "sort_order": 18
+      "sort_order": null
     },
     {
       "candidates": [
@@ -773,7 +773,7 @@
       "name": "U.S. House of Representatives District 45",
       "precincts_reporting": "0% (0 of 450) precincts reporting",
       "slug": "u-s-house-of-representatives-district-45",
-      "sort_order": 19
+      "sort_order": null
     },
     {
       "candidates": [
@@ -798,7 +798,7 @@
       "name": "Superintendent of Public Instruction",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "superintendent-of-public-instruction",
-      "sort_order": 44
+      "sort_order": null
     },
     {
       "candidates": [
@@ -823,7 +823,7 @@
       "name": "State Assembly District 34",
       "precincts_reporting": "0% (0 of 1,242) precincts reporting",
       "slug": "state-assembly-district-34",
-      "sort_order": 16
+      "sort_order": null
     },
     {
       "candidates": [
@@ -848,7 +848,7 @@
       "name": "State Assembly District 39",
       "precincts_reporting": "0% (0 of 264) precincts reporting",
       "slug": "state-assembly-district-39",
-      "sort_order": 17
+      "sort_order": null
     },
     {
       "candidates": [
@@ -873,7 +873,7 @@
       "name": "State Assembly District 40",
       "precincts_reporting": "0% (0 of 266) precincts reporting",
       "slug": "state-assembly-district-40",
-      "sort_order": 18
+      "sort_order": null
     },
     {
       "candidates": [
@@ -898,7 +898,7 @@
       "name": "State Assembly District 41",
       "precincts_reporting": "0% (0 of 429) precincts reporting",
       "slug": "state-assembly-district-41",
-      "sort_order": 19
+      "sort_order": null
     },
     {
       "candidates": [
@@ -923,7 +923,7 @@
       "name": "State Assembly District 42",
       "precincts_reporting": "0% (0 of 664) precincts reporting",
       "slug": "state-assembly-district-42",
-      "sort_order": 20
+      "sort_order": null
     },
     {
       "candidates": [
@@ -948,7 +948,7 @@
       "name": "State Assembly District 43",
       "precincts_reporting": "0% (0 of 108) precincts reporting",
       "slug": "state-assembly-district-43",
-      "sort_order": 21
+      "sort_order": null
     },
     {
       "candidates": [
@@ -973,7 +973,7 @@
       "name": "State Assembly District 44",
       "precincts_reporting": "0% (0 of 136) precincts reporting",
       "slug": "state-assembly-district-44",
-      "sort_order": 22
+      "sort_order": null
     },
     {
       "candidates": [
@@ -998,7 +998,7 @@
       "name": "State Assembly District 46",
       "precincts_reporting": "0% (0 of 119) precincts reporting",
       "slug": "state-assembly-district-46",
-      "sort_order": 23
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1023,7 +1023,7 @@
       "name": "State Assembly District 48",
       "precincts_reporting": "0% (0 of 265) precincts reporting",
       "slug": "state-assembly-district-48",
-      "sort_order": 24
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1048,7 +1048,7 @@
       "name": "State Assembly District 49",
       "precincts_reporting": "0% (0 of 184) precincts reporting",
       "slug": "state-assembly-district-49",
-      "sort_order": 25
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1073,7 +1073,7 @@
       "name": "State Assembly District 51",
       "precincts_reporting": "0% (0 of 164) precincts reporting",
       "slug": "state-assembly-district-51",
-      "sort_order": 26
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1098,7 +1098,7 @@
       "name": "State Assembly District 52",
       "precincts_reporting": "0% (0 of 146) precincts reporting",
       "slug": "state-assembly-district-52",
-      "sort_order": 27
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1123,7 +1123,7 @@
       "name": "State Assembly District 53",
       "precincts_reporting": "0% (0 of 245) precincts reporting",
       "slug": "state-assembly-district-53",
-      "sort_order": 28
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1148,7 +1148,7 @@
       "name": "State Assembly District 54",
       "precincts_reporting": "0% (0 of 120) precincts reporting",
       "slug": "state-assembly-district-54",
-      "sort_order": 29
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1173,7 +1173,7 @@
       "name": "State Assembly District 55",
       "precincts_reporting": "0% (0 of 168) precincts reporting",
       "slug": "state-assembly-district-55",
-      "sort_order": 30
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1198,7 +1198,7 @@
       "name": "State Assembly District 56",
       "precincts_reporting": "0% (0 of 256) precincts reporting",
       "slug": "state-assembly-district-56",
-      "sort_order": 31
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1216,7 +1216,7 @@
       "name": "State Assembly District 57",
       "precincts_reporting": "0% (0 of 110) precincts reporting",
       "slug": "state-assembly-district-57",
-      "sort_order": 32
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1241,7 +1241,7 @@
       "name": "State Assembly District 61",
       "precincts_reporting": "0% (0 of 182) precincts reporting",
       "slug": "state-assembly-district-61",
-      "sort_order": 33
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1266,7 +1266,7 @@
       "name": "State Assembly District 62",
       "precincts_reporting": "0% (0 of 131) precincts reporting",
       "slug": "state-assembly-district-62",
-      "sort_order": 34
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1291,7 +1291,7 @@
       "name": "State Assembly District 64",
       "precincts_reporting": "0% (0 of 175) precincts reporting",
       "slug": "state-assembly-district-64",
-      "sort_order": 35
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1316,7 +1316,7 @@
       "name": "State Assembly District 65",
       "precincts_reporting": "0% (0 of 180) precincts reporting",
       "slug": "state-assembly-district-65",
-      "sort_order": 36
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1341,7 +1341,7 @@
       "name": "State Assembly District 66",
       "precincts_reporting": "0% (0 of 147) precincts reporting",
       "slug": "state-assembly-district-66",
-      "sort_order": 37
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1366,7 +1366,7 @@
       "name": "State Assembly District 67",
       "precincts_reporting": "0% (0 of 262) precincts reporting",
       "slug": "state-assembly-district-67",
-      "sort_order": 38
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1391,7 +1391,7 @@
       "name": "State Assembly District 69",
       "precincts_reporting": "0% (0 of 139) precincts reporting",
       "slug": "state-assembly-district-69",
-      "sort_order": 39
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1416,7 +1416,7 @@
       "name": "Attorney General",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "attorney-general",
-      "sort_order": 6
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1441,7 +1441,7 @@
       "name": "U.S. Senate (Full Term)",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "u-s-senate-full-term",
-      "sort_order": 1
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1466,7 +1466,7 @@
       "name": "U.S. Senate (Partial/Unexpired Term)",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "u-s-senate-partial-unexpired-term",
-      "sort_order": 2
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1491,7 +1491,7 @@
       "name": "Lieutenant Governor",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "lieutenant-governor",
-      "sort_order": 2
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1516,7 +1516,7 @@
       "name": "Courts of Appeal District 1: Therese M. Stewart",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-therese-m-stewart",
-      "sort_order": 56
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1541,7 +1541,7 @@
       "name": "Courts of Appeal District 1: Alison M. Tucher",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-alison-m-tucher",
-      "sort_order": 57
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1566,7 +1566,7 @@
       "name": "Courts of Appeal District 1: Ioana Petrou",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-ioana-petrou",
-      "sort_order": 58
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1591,7 +1591,7 @@
       "name": "Courts of Appeal District 1: Carin T. Fujisaki",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-carin-t-fujisaki",
-      "sort_order": 59
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1616,7 +1616,7 @@
       "name": "Courts of Appeal District 1: Victor A. Rodriguez",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-victor-a-rodriguez",
-      "sort_order": 60
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1641,7 +1641,7 @@
       "name": "Courts of Appeal District 1: Tracie L. Brown",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-tracie-l-brown",
-      "sort_order": 61
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1666,7 +1666,7 @@
       "name": "Courts of Appeal District 1: Jeremy M. Goldman",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-jeremy-m-goldman",
-      "sort_order": 62
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1691,7 +1691,7 @@
       "name": "Courts of Appeal District 1: Teri L. Jackson",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-teri-l-jackson",
-      "sort_order": 63
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1716,7 +1716,7 @@
       "name": "Courts of Appeal District 1: Gordon B. Burns",
       "precincts_reporting": "0.0% (0 of 4,324) precincts reporting",
       "slug": "courts-of-appeal-district-1-gordon-b-burns",
-      "sort_order": 64
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1741,7 +1741,7 @@
       "name": "Courts of Appeal District 2: Frances Rothschild",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-frances-rothschild",
-      "sort_order": 65
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1766,7 +1766,7 @@
       "name": "Courts of Appeal District 2: Judith M. Ashmann",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-judith-m-ashmann",
-      "sort_order": 66
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1791,7 +1791,7 @@
       "name": "Courts of Appeal District 2: Luis A. Lavin",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-luis-a-lavin",
-      "sort_order": 67
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1816,7 +1816,7 @@
       "name": "Courts of Appeal District 2: Audrey B. Collins",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-audrey-b-collins",
-      "sort_order": 68
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1841,7 +1841,7 @@
       "name": "Courts of Appeal District 2: Brian S. Currey",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-brian-s-currey",
-      "sort_order": 69
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1866,7 +1866,7 @@
       "name": "Courts of Appeal District 2: Laurence D. Rubin",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-laurence-d-rubin",
-      "sort_order": 70
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1891,7 +1891,7 @@
       "name": "Courts of Appeal District 2: Lamar W. Baker",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-lamar-w-baker",
-      "sort_order": 71
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1916,7 +1916,7 @@
       "name": "Courts of Appeal District 2: Hernaldo J. Baltodano",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-hernaldo-j-baltodano",
-      "sort_order": 72
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1941,7 +1941,7 @@
       "name": "Courts of Appeal District 2: John L. Segal",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-john-l-segal",
-      "sort_order": 73
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1966,7 +1966,7 @@
       "name": "Courts of Appeal District 2: Maria E. Stratton",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-maria-e-stratton",
-      "sort_order": 74
+      "sort_order": null
     },
     {
       "candidates": [
@@ -1991,7 +1991,7 @@
       "name": "Courts of Appeal District 2: John Shepard Wiley Jr.",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-john-shepard-wiley-jr",
-      "sort_order": 75
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2016,7 +2016,7 @@
       "name": "Courts of Appeal District 2: Elizabeth Annette Grimes",
       "precincts_reporting": "0.0% (0 of 5,750) precincts reporting",
       "slug": "courts-of-appeal-district-2-elizabeth-annette-grimes",
-      "sort_order": 76
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2041,7 +2041,7 @@
       "name": "Courts of Appeal District 3: Harry Hull",
       "precincts_reporting": "0.0% (0 of 2,601) precincts reporting",
       "slug": "courts-of-appeal-district-3-harry-hull",
-      "sort_order": 77
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2066,7 +2066,7 @@
       "name": "Courts of Appeal District 3: Laurie M. Earl",
       "precincts_reporting": "0.0% (0 of 2,601) precincts reporting",
       "slug": "courts-of-appeal-district-3-laurie-m-earl",
-      "sort_order": 78
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2091,7 +2091,7 @@
       "name": "Courts of Appeal District 3: Stacy Boulware Eurie",
       "precincts_reporting": "0.0% (0 of 2,601) precincts reporting",
       "slug": "courts-of-appeal-district-3-stacy-boulware-eurie",
-      "sort_order": 79
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2116,7 +2116,7 @@
       "name": "Courts of Appeal District 4: Judith McConnell",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-judith-mcconnell",
-      "sort_order": 80
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2141,7 +2141,7 @@
       "name": "Courts of Appeal District 4: Martin N. Buchanan",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-martin-n-buchanan",
-      "sort_order": 81
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2166,7 +2166,7 @@
       "name": "Courts of Appeal District 4: Truc T. Do",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-truc-t-do",
-      "sort_order": 82
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2191,7 +2191,7 @@
       "name": "Courts of Appeal District 4: Manuel A. Ramirez",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-manuel-a-ramirez",
-      "sort_order": 83
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2216,7 +2216,7 @@
       "name": "Courts of Appeal District 4: Carol D. Codrington",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-carol-d-codrington",
-      "sort_order": 84
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2241,7 +2241,7 @@
       "name": "Courts of Appeal District 4: Michael J. Raphael",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-michael-j-raphael",
-      "sort_order": 85
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2266,7 +2266,7 @@
       "name": "Courts of Appeal District 4: Frank Menetrez",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-frank-menetrez",
-      "sort_order": 86
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2291,7 +2291,7 @@
       "name": "Courts of Appeal District 4: Kathleen E. O'Leary",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-kathleen-e-o-leary",
-      "sort_order": 87
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2316,7 +2316,7 @@
       "name": "Courts of Appeal District 4: William W. Bedsworth",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-william-w-bedsworth",
-      "sort_order": 88
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2341,7 +2341,7 @@
       "name": "Courts of Appeal District 4: Eileen C. Moore",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-eileen-c-moore",
-      "sort_order": 89
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2366,7 +2366,7 @@
       "name": "Courts of Appeal District 4: Joanne Motoike",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-joanne-motoike",
-      "sort_order": 90
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2391,7 +2391,7 @@
       "name": "Courts of Appeal District 4: Maurice Sanchez",
       "precincts_reporting": "0.0% (0 of 9,291) precincts reporting",
       "slug": "courts-of-appeal-district-4-maurice-sanchez",
-      "sort_order": 91
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2416,7 +2416,7 @@
       "name": "Courts of Appeal District 5: Brad R. Hill",
       "precincts_reporting": "0.0% (0 of 2,415) precincts reporting",
       "slug": "courts-of-appeal-district-5-brad-r-hill",
-      "sort_order": 92
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2441,7 +2441,7 @@
       "name": "Courts of Appeal District 5: Bert Levy",
       "precincts_reporting": "0.0% (0 of 2,415) precincts reporting",
       "slug": "courts-of-appeal-district-5-bert-levy",
-      "sort_order": 93
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2466,7 +2466,7 @@
       "name": "Courts of Appeal District 5: Jennifer Detjen",
       "precincts_reporting": "0.0% (0 of 2,415) precincts reporting",
       "slug": "courts-of-appeal-district-5-jennifer-detjen",
-      "sort_order": 94
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2491,7 +2491,7 @@
       "name": "Courts of Appeal District 6: Mary J. Greenwood",
       "precincts_reporting": "0.0% (0 of 1,222) precincts reporting",
       "slug": "courts-of-appeal-district-6-mary-j-greenwood",
-      "sort_order": 95
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2516,7 +2516,7 @@
       "name": "Courts of Appeal District 6: Charles E. Wilson II",
       "precincts_reporting": "0.0% (0 of 1,222) precincts reporting",
       "slug": "courts-of-appeal-district-6-charles-e-wilson-ii",
-      "sort_order": 96
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2541,7 +2541,7 @@
       "name": "Courts of Appeal District 6: Cynthia C. Lie",
       "precincts_reporting": "0.0% (0 of 1,222) precincts reporting",
       "slug": "courts-of-appeal-district-6-cynthia-c-lie",
-      "sort_order": 97
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2566,7 +2566,7 @@
       "name": "Insurance Commissioner",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "insurance-commissioner",
-      "sort_order": 7
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2591,7 +2591,7 @@
       "name": "Proposition 1: Constitutional Right to Reproductive Freedom",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-1-constitutional-right-to-reproductive-freedom",
-      "sort_order": 45
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2616,7 +2616,7 @@
       "name": "Proposition 26: Sports Wagering on Tribal Lands",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-26-sports-wagering-on-tribal-lands",
-      "sort_order": 46
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2641,7 +2641,7 @@
       "name": "Proposition 27: Online Sports Wagering Outside of Tribal Lands",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-27-online-sports-wagering-outside-of-tribal-lands",
-      "sort_order": 47
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2666,7 +2666,7 @@
       "name": "Proposition 28: Public School Arts and Music Education Funding",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-28-public-school-arts-and-music-education-funding",
-      "sort_order": 48
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2691,7 +2691,7 @@
       "name": "Proposition 29: Regulates Kidney Dialysis Clinics",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-29-regulates-kidney-dialysis-clinics",
-      "sort_order": 49
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2716,7 +2716,7 @@
       "name": "Proposition 30: Tax to Fund ZEV/Wildfire Programs",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-30-tax-to-fund-zev-wildfire-programs",
-      "sort_order": 50
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2741,7 +2741,7 @@
       "name": "Proposition 31: Prohibition on Sale of Certain Tobacco Products",
       "precincts_reporting": "0.0% (0 of 25,603) precincts reporting",
       "slug": "proposition-31-prohibition-on-sale-of-certain-tobacco-products",
-      "sort_order": 51
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2766,7 +2766,7 @@
       "name": "Governor",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "governor",
-      "sort_order": 1
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2791,7 +2791,7 @@
       "name": "Board of Equalization District 1",
       "precincts_reporting": "0% (0 of 7,536) precincts reporting",
       "slug": "board-of-equalization-district-1",
-      "sort_order": 40
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2816,7 +2816,7 @@
       "name": "Board of Equalization District 2",
       "precincts_reporting": "0% (0 of 7,417) precincts reporting",
       "slug": "board-of-equalization-district-2",
-      "sort_order": 41
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2841,7 +2841,7 @@
       "name": "Board of Equalization District 3",
       "precincts_reporting": "0% (0 of 3,680) precincts reporting",
       "slug": "board-of-equalization-district-3",
-      "sort_order": 42
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2866,7 +2866,7 @@
       "name": "Board of Equalization District 4",
       "precincts_reporting": "0% (0 of 6,970) precincts reporting",
       "slug": "board-of-equalization-district-4",
-      "sort_order": 43
+      "sort_order": null
     },
     {
       "candidates": [
@@ -2891,8 +2891,8 @@
       "name": "Secretary of State",
       "precincts_reporting": "0% (0 of 25,603) precincts reporting",
       "slug": "secretary-of-state",
-      "sort_order": 3
+      "sort_order": null
     }
   ],
-  "scraped_datetime": "2022-11-07T17:22:03.115431-08:00"
+  "scraped_datetime": "2022-11-07T17:20:36.115096-08:00"
 }
