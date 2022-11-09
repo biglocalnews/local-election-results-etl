@@ -76,7 +76,7 @@ class CandidateResultTransformer(schema.BaseTransformer):
 
     def clean_name(self, name):
         """Clean name."""
-        return name.lower().title()
+        return name.lower().title().replace("Tim Mcosker", "Tim McOsker")
 
 
 class ContestTransformer(schema.BaseTransformer):
@@ -134,9 +134,7 @@ class ContestTransformer(schema.BaseTransformer):
 
     def correct_name(self):
         """Correct the name field."""
-        return self._get_correction()["clean_name"].replace(
-            "Tim Mcosker", "Tim McOsker"
-        )
+        return self._get_correction()["clean_name"]
 
     def correct_description(self):
         """Correct the description field."""
