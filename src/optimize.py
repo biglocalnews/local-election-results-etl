@@ -17,6 +17,7 @@ def kpcc():
     """Create a custom output for KPCC."""
     # Get all of the files we want to combine
     kpcc_list = [
+        # utils.TRANSFORMED_DATA_DIR / "los_angeles_county" /  "2022-11-08T20:10:09.934002-08:00.json",
         utils.TRANSFORMED_DATA_DIR / "los_angeles_county" / "latest.json",
         utils.TRANSFORMED_DATA_DIR / "ca_secretary_of_state" / "latest.json",
     ]

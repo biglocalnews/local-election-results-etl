@@ -92,11 +92,17 @@ clean: ## Clean up the data directory
 
 2022-general:
 	@$(call banner,  🗳️ 2022 General Election ETL 🗳️)
-	@$(PYTHON) src.optimize kpcc
-	@$(PYTHON) src.export
-	@$(PYTHON) src.upload kpcc
+	$(PYTHON) src.ca_secretary_of_state.download
+	$(PYTHON) src.los_angeles_county.download
+	$(PYTHON) src.ca_secretary_of_state.transform
+	$(PYTHON) src.los_angeles_county.transform
+	$(PYTHON) src.optimize kpcc
+	$(PYTHON) src.export
+	$(PYTHON) src.upload kpcc
 	@echo "Invalidating cache"
-	@$(PIPENV) aws cloudfront create-invalidation --distribution-id E1W2MB79FPSGRP --paths "/vgp-general-election-results-2022/*" >/dev/null 2>&1
+	aws cloudfront create-invalidation --distribution-id E1W2MB79FPSGRP --paths "/vgp-general-election-results-2022/*"
+	@echo "DONE!"
+	@date
 
 #
 # Tests
