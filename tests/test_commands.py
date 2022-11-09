@@ -19,4 +19,4 @@ def test_write_json(tmp_path):
 
 def test_get_latest_paths():
     """Test that get_latest_paths returns the right stuff."""
-    assert len(utils.get_latest_paths()) == 3
+    assert utils.get_latest_paths()
