@@ -134,7 +134,9 @@ class ContestTransformer(schema.BaseTransformer):
 
     def correct_name(self):
         """Correct the name field."""
-        return self._get_correction()["clean_name"]
+        return self._get_correction()["clean_name"].replace(
+            "Tim Mcosker", "Tim McOsker"
+        )
 
     def correct_description(self):
         """Correct the description field."""
