@@ -1,0 +1,2898 @@
+{
+  "races": [
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Alex Padilla",
+          "party": "Dem",
+          "votes": 3175302,
+          "votes_percent": 0.5888
+        },
+        {
+          "incumbent": false,
+          "name": "Mark P. Meuser",
+          "party": "Rep",
+          "votes": 2217659,
+          "votes_percent": 0.4112
+        }
+      ],
+      "description": "Partial/Unexpired Term",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. Senate (Partial/Unexpired Term)",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "u-s-senate-partial-unexpired-term",
+      "sort_order": 2
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 566656,
+          "votes_percent": 0.792
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 148842,
+          "votes_percent": 0.208
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Therese M. Stewart",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-therese-m-stewart",
+      "sort_order": 56
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 562831,
+          "votes_percent": 0.7903
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 149306,
+          "votes_percent": 0.2097
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Alison M. Tucher",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-alison-m-tucher",
+      "sort_order": 57
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 542746,
+          "votes_percent": 0.7733
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 159080,
+          "votes_percent": 0.2267
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Ioana Petrou",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-ioana-petrou",
+      "sort_order": 58
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 551739,
+          "votes_percent": 0.7842
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 151815,
+          "votes_percent": 0.2158
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Carin T. Fujisaki",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-carin-t-fujisaki",
+      "sort_order": 59
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 550688,
+          "votes_percent": 0.7779
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 157238,
+          "votes_percent": 0.2221
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Victor A. Rodriguez",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-victor-a-rodriguez",
+      "sort_order": 60
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 559258,
+          "votes_percent": 0.7954
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 143876,
+          "votes_percent": 0.2046
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Tracie L. Brown",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-tracie-l-brown",
+      "sort_order": 61
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 535553,
+          "votes_percent": 0.7673
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 162431,
+          "votes_percent": 0.2327
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Jeremy M. Goldman",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-jeremy-m-goldman",
+      "sort_order": 62
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 553384,
+          "votes_percent": 0.7881
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 148823,
+          "votes_percent": 0.2119
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Teri L. Jackson",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-teri-l-jackson",
+      "sort_order": 63
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 539912,
+          "votes_percent": 0.7765
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 155385,
+          "votes_percent": 0.2235
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 1",
+      "level": "California",
+      "name": "Courts of Appeal District 1: Gordon B. Burns",
+      "precincts_reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "slug": "courts-of-appeal-district-1-gordon-b-burns",
+      "sort_order": 64
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 813179,
+          "votes_percent": 0.696
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 355126,
+          "votes_percent": 0.304
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Frances Rothschild",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-frances-rothschild",
+      "sort_order": 65
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 861204,
+          "votes_percent": 0.7511
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 285443,
+          "votes_percent": 0.2489
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Judith M. Ashmann",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-judith-m-ashmann",
+      "sort_order": 66
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 805162,
+          "votes_percent": 0.7072
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 333401,
+          "votes_percent": 0.2928
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Luis A. Lavin",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-luis-a-lavin",
+      "sort_order": 67
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 821088,
+          "votes_percent": 0.7197
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 319860,
+          "votes_percent": 0.2803
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Audrey B. Collins",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-audrey-b-collins",
+      "sort_order": 68
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 789471,
+          "votes_percent": 0.6973
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 342655,
+          "votes_percent": 0.3027
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Brian S. Currey",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-brian-s-currey",
+      "sort_order": 69
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 815143,
+          "votes_percent": 0.7098
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 333349,
+          "votes_percent": 0.2902
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Laurence D. Rubin",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-laurence-d-rubin",
+      "sort_order": 70
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 802171,
+          "votes_percent": 0.7077
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 331319,
+          "votes_percent": 0.2923
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Lamar W. Baker",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-lamar-w-baker",
+      "sort_order": 71
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 789526,
+          "votes_percent": 0.6969
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 343454,
+          "votes_percent": 0.3031
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Hernaldo J. Baltodano",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-hernaldo-j-baltodano",
+      "sort_order": 72
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 794407,
+          "votes_percent": 0.7035
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 334750,
+          "votes_percent": 0.2965
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: John L. Segal",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-john-l-segal",
+      "sort_order": 73
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 822921,
+          "votes_percent": 0.7175
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 323936,
+          "votes_percent": 0.2825
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Maria E. Stratton",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-maria-e-stratton",
+      "sort_order": 74
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 783024,
+          "votes_percent": 0.6952
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 343243,
+          "votes_percent": 0.3048
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: John Shepard Wiley Jr.",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-john-shepard-wiley-jr",
+      "sort_order": 75
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 865796,
+          "votes_percent": 0.7638
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 267694,
+          "votes_percent": 0.2362
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 2",
+      "level": "California",
+      "name": "Courts of Appeal District 2: Elizabeth Annette Grimes",
+      "precincts_reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "slug": "courts-of-appeal-district-2-elizabeth-annette-grimes",
+      "sort_order": 76
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 309350,
+          "votes_percent": 0.6595
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 159717,
+          "votes_percent": 0.3405
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 3",
+      "level": "California",
+      "name": "Courts of Appeal District 3: Harry Hull",
+      "precincts_reporting": "95.1% (2,601 of 2,601) precincts reporting",
+      "slug": "courts-of-appeal-district-3-harry-hull",
+      "sort_order": 77
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 296514,
+          "votes_percent": 0.6265
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 176737,
+          "votes_percent": 0.3735
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 3",
+      "level": "California",
+      "name": "Courts of Appeal District 3: Laurie M. Earl",
+      "precincts_reporting": "95.1% (2,601 of 2,601) precincts reporting",
+      "slug": "courts-of-appeal-district-3-laurie-m-earl",
+      "sort_order": 78
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 304338,
+          "votes_percent": 0.6426
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 169257,
+          "votes_percent": 0.3574
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 3",
+      "level": "California",
+      "name": "Courts of Appeal District 3: Stacy Boulware Eurie",
+      "precincts_reporting": "95.1% (2,601 of 2,601) precincts reporting",
+      "slug": "courts-of-appeal-district-3-stacy-boulware-eurie",
+      "sort_order": 79
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 777383,
+          "votes_percent": 0.6536
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 412015,
+          "votes_percent": 0.3464
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Judith McConnell",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-judith-mcconnell",
+      "sort_order": 80
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 738405,
+          "votes_percent": 0.6319
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 430123,
+          "votes_percent": 0.3681
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Martin N. Buchanan",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-martin-n-buchanan",
+      "sort_order": 81
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 728471,
+          "votes_percent": 0.6153
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 455394,
+          "votes_percent": 0.3847
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Truc T. Do",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-truc-t-do",
+      "sort_order": 82
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 846082,
+          "votes_percent": 0.7222
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 325495,
+          "votes_percent": 0.2778
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Manuel A. Ramirez",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-manuel-a-ramirez",
+      "sort_order": 83
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 867583,
+          "votes_percent": 0.7448
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 297310,
+          "votes_percent": 0.2552
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Carol D. Codrington",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-carol-d-codrington",
+      "sort_order": 84
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 730978,
+          "votes_percent": 0.6301
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 429181,
+          "votes_percent": 0.3699
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Michael J. Raphael",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-michael-j-raphael",
+      "sort_order": 85
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 707741,
+          "votes_percent": 0.6113
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 449994,
+          "votes_percent": 0.3887
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Frank Menetrez",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-frank-menetrez",
+      "sort_order": 86
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 770231,
+          "votes_percent": 0.6611
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 394911,
+          "votes_percent": 0.3389
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Kathleen E. O'Leary",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-kathleen-e-o-leary",
+      "sort_order": 87
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 718150,
+          "votes_percent": 0.6212
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 437984,
+          "votes_percent": 0.3788
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: William W. Bedsworth",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-william-w-bedsworth",
+      "sort_order": 88
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 762318,
+          "votes_percent": 0.6559
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 399981,
+          "votes_percent": 0.3441
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Eileen C. Moore",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-eileen-c-moore",
+      "sort_order": 89
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 726333,
+          "votes_percent": 0.6263
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 433320,
+          "votes_percent": 0.3737
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Joanne Motoike",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-joanne-motoike",
+      "sort_order": 90
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 721251,
+          "votes_percent": 0.6201
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 441856,
+          "votes_percent": 0.3799
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 4",
+      "level": "California",
+      "name": "Courts of Appeal District 4: Maurice Sanchez",
+      "precincts_reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "slug": "courts-of-appeal-district-4-maurice-sanchez",
+      "sort_order": 91
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 231026,
+          "votes_percent": 0.7
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 99032,
+          "votes_percent": 0.3
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 5",
+      "level": "California",
+      "name": "Courts of Appeal District 5: Brad R. Hill",
+      "precincts_reporting": "95.1% (2,415 of 2,415) precincts reporting",
+      "slug": "courts-of-appeal-district-5-brad-r-hill",
+      "sort_order": 92
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 226814,
+          "votes_percent": 0.69
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 101912,
+          "votes_percent": 0.31
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 5",
+      "level": "California",
+      "name": "Courts of Appeal District 5: Bert Levy",
+      "precincts_reporting": "95.1% (2,415 of 2,415) precincts reporting",
+      "slug": "courts-of-appeal-district-5-bert-levy",
+      "sort_order": 93
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 228985,
+          "votes_percent": 0.6954
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 100277,
+          "votes_percent": 0.3046
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 5",
+      "level": "California",
+      "name": "Courts of Appeal District 5: Jennifer Detjen",
+      "precincts_reporting": "95.1% (2,415 of 2,415) precincts reporting",
+      "slug": "courts-of-appeal-district-5-jennifer-detjen",
+      "sort_order": 94
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 245009,
+          "votes_percent": 0.7946
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 63349,
+          "votes_percent": 0.2054
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 6",
+      "level": "California",
+      "name": "Courts of Appeal District 6: Mary J. Greenwood",
+      "precincts_reporting": "95.1% (1,222 of 1,222) precincts reporting",
+      "slug": "courts-of-appeal-district-6-mary-j-greenwood",
+      "sort_order": 95
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 236640,
+          "votes_percent": 0.7742
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 69021,
+          "votes_percent": 0.2258
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 6",
+      "level": "California",
+      "name": "Courts of Appeal District 6: Charles E. Wilson II",
+      "precincts_reporting": "95.1% (1,222 of 1,222) precincts reporting",
+      "slug": "courts-of-appeal-district-6-charles-e-wilson-ii",
+      "sort_order": 96
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 233722,
+          "votes_percent": 0.7785
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 66503,
+          "votes_percent": 0.2215
+        }
+      ],
+      "description": "",
+      "geography": "Court of Appeals District 6",
+      "level": "California",
+      "name": "Courts of Appeal District 6: Cynthia C. Lie",
+      "precincts_reporting": "95.1% (1,222 of 1,222) precincts reporting",
+      "slug": "courts-of-appeal-district-6-cynthia-c-lie",
+      "sort_order": 97
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Rob Bonta",
+          "party": "Dem",
+          "votes": 3082098,
+          "votes_percent": 0.5725
+        },
+        {
+          "incumbent": false,
+          "name": "Nathan Hochman",
+          "party": "Rep",
+          "votes": 2301883,
+          "votes_percent": 0.4275
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Attorney General",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "attorney-general",
+      "sort_order": 6
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Malia M. Cohen",
+          "party": "Dem",
+          "votes": 2884831,
+          "votes_percent": 0.5363
+        },
+        {
+          "incumbent": false,
+          "name": "Lanhee J. Chen",
+          "party": "Rep",
+          "votes": 2494261,
+          "votes_percent": 0.4637
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Controller",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "controller",
+      "sort_order": 4
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Alex Padilla",
+          "party": "Dem",
+          "votes": 3205434,
+          "votes_percent": 0.5904
+        },
+        {
+          "incumbent": false,
+          "name": "Mark P. Meuser",
+          "party": "Rep",
+          "votes": 2223419,
+          "votes_percent": 0.4096
+        }
+      ],
+      "description": "Full term",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. Senate (Full Term)",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "u-s-senate-full-term",
+      "sort_order": 1
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Ricardo Lara",
+          "party": "Dem",
+          "votes": 3086707,
+          "votes_percent": 0.5793
+        },
+        {
+          "incumbent": false,
+          "name": "Robert Howell",
+          "party": "Rep",
+          "votes": 2241531,
+          "votes_percent": 0.4207
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Insurance Commissioner",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "insurance-commissioner",
+      "sort_order": 7
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Derek Marshall",
+          "party": "Dem",
+          "votes": 33010,
+          "votes_percent": 0.3992
+        },
+        {
+          "incumbent": true,
+          "name": "Jay Obernolte",
+          "party": "Rep",
+          "votes": 49688,
+          "votes_percent": 0.6008
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 23",
+      "precincts_reporting": "50.4% (790 of 1,566) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-23",
+      "sort_order": 3
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Julia Brownley",
+          "party": "Dem",
+          "votes": 72588,
+          "votes_percent": 0.5386
+        },
+        {
+          "incumbent": false,
+          "name": "Matt Jacobs",
+          "party": "Rep",
+          "votes": 62177,
+          "votes_percent": 0.4614
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 26",
+      "precincts_reporting": "100% (1,253 of 1,253) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-26",
+      "sort_order": 4
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Christy Smith",
+          "party": "Dem",
+          "votes": 48285,
+          "votes_percent": 0.4242
+        },
+        {
+          "incumbent": true,
+          "name": "Mike Garcia",
+          "party": "Rep",
+          "votes": 65545,
+          "votes_percent": 0.5758
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 27",
+      "precincts_reporting": "100% (468 of 468) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-27",
+      "sort_order": 5
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Judy Chu",
+          "party": "Dem",
+          "votes": 74398,
+          "votes_percent": 0.6324
+        },
+        {
+          "incumbent": false,
+          "name": "Wes Hallman",
+          "party": "Rep",
+          "votes": 43250,
+          "votes_percent": 0.3676
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 28",
+      "precincts_reporting": "83% (440 of 530) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-28",
+      "sort_order": 6
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Tony Cardenas",
+          "party": "Dem",
+          "votes": 38034,
+          "votes_percent": 0.6203
+        },
+        {
+          "incumbent": false,
+          "name": "Ang\u00e9lica Mar\u00eda Due\u00f1as",
+          "party": "Dem",
+          "votes": 23281,
+          "votes_percent": 0.3797
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 29",
+      "precincts_reporting": "100% (165 of 165) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-29",
+      "sort_order": 7
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "G \"Maebe A. Girl\" Pudlo",
+          "party": "Dem",
+          "votes": 30569,
+          "votes_percent": 0.2795
+        },
+        {
+          "incumbent": true,
+          "name": "Adam B. Schiff",
+          "party": "Dem",
+          "votes": 78812,
+          "votes_percent": 0.7205
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 30",
+      "precincts_reporting": "100% (252 of 252) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-30",
+      "sort_order": 8
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Grace F. Napolitano",
+          "party": "Dem",
+          "votes": 47071,
+          "votes_percent": 0.55
+        },
+        {
+          "incumbent": false,
+          "name": "Daniel Bocic Martinez",
+          "party": "Rep",
+          "votes": 38508,
+          "votes_percent": 0.45
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 31",
+      "precincts_reporting": "100% (426 of 426) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-31",
+      "sort_order": 9
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Brad Sherman",
+          "party": "Dem",
+          "votes": 87260,
+          "votes_percent": 0.6478
+        },
+        {
+          "incumbent": false,
+          "name": "Lucie Lapointe Volotzky",
+          "party": "Rep",
+          "votes": 47450,
+          "votes_percent": 0.3522
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 32",
+      "precincts_reporting": "100% (239 of 239) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-32",
+      "sort_order": 10
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Jimmy Gomez",
+          "party": "Dem",
+          "votes": 33263,
+          "votes_percent": 0.5306
+        },
+        {
+          "incumbent": false,
+          "name": "David Kim",
+          "party": "Dem",
+          "votes": 29429,
+          "votes_percent": 0.4694
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 34",
+      "precincts_reporting": "100% (174 of 174) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-34",
+      "sort_order": 11
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Norma J. Torres",
+          "party": "Dem",
+          "votes": 30290,
+          "votes_percent": 0.5652
+        },
+        {
+          "incumbent": false,
+          "name": "Mike Cargile",
+          "party": "Rep",
+          "votes": 23306,
+          "votes_percent": 0.4348
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 35",
+      "precincts_reporting": "77.1% (337 of 437) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-35",
+      "sort_order": 12
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Ted W. Lieu",
+          "party": "Dem",
+          "votes": 98156,
+          "votes_percent": 0.6484
+        },
+        {
+          "incumbent": false,
+          "name": "Joe E. Collins Iii",
+          "party": "Rep",
+          "votes": 53215,
+          "votes_percent": 0.3516
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 36",
+      "precincts_reporting": "100% (242 of 242) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-36",
+      "sort_order": 13
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Sydney Kamlager",
+          "party": "Dem",
+          "votes": 41540,
+          "votes_percent": 0.6138
+        },
+        {
+          "incumbent": false,
+          "name": "Jan C. Perry",
+          "party": "Dem",
+          "votes": 26140,
+          "votes_percent": 0.3862
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 37",
+      "precincts_reporting": "100% (203 of 203) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-37",
+      "sort_order": 14
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Linda T. S\u00e1nchez",
+          "party": "Dem",
+          "votes": 50121,
+          "votes_percent": 0.5332
+        },
+        {
+          "incumbent": false,
+          "name": "Eric J. Ching",
+          "party": "Rep",
+          "votes": 43884,
+          "votes_percent": 0.4668
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 38",
+      "precincts_reporting": "100% (317 of 317) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-38",
+      "sort_order": 15
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Robert Garcia",
+          "party": "Dem",
+          "votes": 48410,
+          "votes_percent": 0.638
+        },
+        {
+          "incumbent": false,
+          "name": "John Briscoe",
+          "party": "Rep",
+          "votes": 27467,
+          "votes_percent": 0.362
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 42",
+      "precincts_reporting": "100% (218 of 218) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-42",
+      "sort_order": 16
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Maxine Waters",
+          "party": "Dem",
+          "votes": 49101,
+          "votes_percent": 0.7388
+        },
+        {
+          "incumbent": false,
+          "name": "Omar Navarro",
+          "party": "Rep",
+          "votes": 17363,
+          "votes_percent": 0.2612
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 43",
+      "precincts_reporting": "100% (258 of 258) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-43",
+      "sort_order": 17
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Nanette Diaz Barragan",
+          "party": "Dem",
+          "votes": 51441,
+          "votes_percent": 0.6799
+        },
+        {
+          "incumbent": false,
+          "name": "Paul Jones",
+          "party": "Rep",
+          "votes": 24221,
+          "votes_percent": 0.3201
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 44",
+      "precincts_reporting": "100% (258 of 258) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-44",
+      "sort_order": 18
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Jay F. Chen",
+          "party": "Dem",
+          "votes": 59313,
+          "votes_percent": 0.4474
+        },
+        {
+          "incumbent": true,
+          "name": "Michelle Steel",
+          "party": "Rep",
+          "votes": 73272,
+          "votes_percent": 0.5526
+        }
+      ],
+      "description": "",
+      "geography": "United States",
+      "level": "United States",
+      "name": "U.S. House of Representatives District 45",
+      "precincts_reporting": "100% (450 of 450) precincts reporting",
+      "slug": "u-s-house-of-representatives-district-45",
+      "sort_order": 19
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Lance Ray Christensen",
+          "party": "Non",
+          "votes": 1675125,
+          "votes_percent": 0.3726
+        },
+        {
+          "incumbent": true,
+          "name": "Tony K. Thurmond",
+          "party": "Non",
+          "votes": 2820768,
+          "votes_percent": 0.6274
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Superintendent of Public Instruction",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "superintendent-of-public-instruction",
+      "sort_order": 44
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Fiona Ma",
+          "party": "Dem",
+          "votes": 3066576,
+          "votes_percent": 0.5712
+        },
+        {
+          "incumbent": false,
+          "name": "Jack M. Guerrero",
+          "party": "Rep",
+          "votes": 2302368,
+          "votes_percent": 0.4288
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Treasurer",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "treasurer",
+      "sort_order": 5
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Gavin Newsom",
+          "party": "Dem",
+          "votes": 3147753,
+          "votes_percent": 0.5761
+        },
+        {
+          "incumbent": false,
+          "name": "Brian Dahle",
+          "party": "Rep",
+          "votes": 2315880,
+          "votes_percent": 0.4239
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Governor",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "governor",
+      "sort_order": 1
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Tom Lackey",
+          "party": "Rep",
+          "votes": 34699,
+          "votes_percent": 0.5789
+        },
+        {
+          "incumbent": false,
+          "name": "Thurston \"Smitty\" Smith",
+          "party": "Rep",
+          "votes": 25238,
+          "votes_percent": 0.4211
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 34",
+      "precincts_reporting": "51.9% (644 of 1,242) precincts reporting",
+      "slug": "state-assembly-district-34",
+      "sort_order": 16
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Juan Carrillo",
+          "party": "Dem",
+          "votes": 19472,
+          "votes_percent": 0.5482
+        },
+        {
+          "incumbent": false,
+          "name": "Paul Andre Marsh",
+          "party": "Rep",
+          "votes": 16047,
+          "votes_percent": 0.4518
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 39",
+      "precincts_reporting": "84.5% (223 of 264) precincts reporting",
+      "slug": "state-assembly-district-39",
+      "sort_order": 17
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Pilar Schiavo",
+          "party": "Dem",
+          "votes": 41319,
+          "votes_percent": 0.4569
+        },
+        {
+          "incumbent": false,
+          "name": "Suzette Martinez Valladares",
+          "party": "Rep",
+          "votes": 49117,
+          "votes_percent": 0.5431
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 40",
+      "precincts_reporting": "100% (266 of 266) precincts reporting",
+      "slug": "state-assembly-district-40",
+      "sort_order": 18
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Chris Holden",
+          "party": "Dem",
+          "votes": 51268,
+          "votes_percent": 0.5767
+        },
+        {
+          "incumbent": false,
+          "name": "Michael Mcmahon",
+          "party": "Rep",
+          "votes": 37633,
+          "votes_percent": 0.4233
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 41",
+      "precincts_reporting": "83.4% (358 of 429) precincts reporting",
+      "slug": "state-assembly-district-41",
+      "sort_order": 19
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Jacqui Irwin",
+          "party": "Dem",
+          "votes": 65443,
+          "votes_percent": 0.542
+        },
+        {
+          "incumbent": false,
+          "name": "Lori Mills",
+          "party": "Rep",
+          "votes": 55303,
+          "votes_percent": 0.458
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 42",
+      "precincts_reporting": "100% (664 of 664) precincts reporting",
+      "slug": "state-assembly-district-42",
+      "sort_order": 20
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Luz Maria Rivas",
+          "party": "Dem",
+          "votes": 27692,
+          "votes_percent": 0.7023
+        },
+        {
+          "incumbent": false,
+          "name": "Siaka Massaquoi",
+          "party": "Rep",
+          "votes": 11741,
+          "votes_percent": 0.2977
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 43",
+      "precincts_reporting": "100% (108 of 108) precincts reporting",
+      "slug": "state-assembly-district-43",
+      "sort_order": 21
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Laura Friedman",
+          "party": "Dem",
+          "votes": 55391,
+          "votes_percent": 0.663
+        },
+        {
+          "incumbent": false,
+          "name": "Barry Curtis Jacobsen",
+          "party": "Rep",
+          "votes": 28154,
+          "votes_percent": 0.337
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 44",
+      "precincts_reporting": "100% (136 of 136) precincts reporting",
+      "slug": "state-assembly-district-44",
+      "sort_order": 22
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Jesse Gabriel",
+          "party": "Dem",
+          "votes": 39815,
+          "votes_percent": 0.6032
+        },
+        {
+          "incumbent": false,
+          "name": "Dana Caruso",
+          "party": "Rep",
+          "votes": 26190,
+          "votes_percent": 0.3968
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 46",
+      "precincts_reporting": "100% (119 of 119) precincts reporting",
+      "slug": "state-assembly-district-46",
+      "sort_order": 23
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Blanca Rubio",
+          "party": "Dem",
+          "votes": 31038,
+          "votes_percent": 0.5594
+        },
+        {
+          "incumbent": false,
+          "name": "Ryan Maye",
+          "party": "Rep",
+          "votes": 24444,
+          "votes_percent": 0.4406
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 48",
+      "precincts_reporting": "100% (265 of 265) precincts reporting",
+      "slug": "state-assembly-district-48",
+      "sort_order": 24
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Mike Fong",
+          "party": "Dem",
+          "votes": 33539,
+          "votes_percent": 0.6223
+        },
+        {
+          "incumbent": false,
+          "name": "Burton Brink",
+          "party": "Rep",
+          "votes": 20355,
+          "votes_percent": 0.3777
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 49",
+      "precincts_reporting": "100% (184 of 184) precincts reporting",
+      "slug": "state-assembly-district-49",
+      "sort_order": 25
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Louis Abramson",
+          "party": "Dem",
+          "votes": 32162,
+          "votes_percent": 0.4514
+        },
+        {
+          "incumbent": false,
+          "name": "Rick Chavez Zbur",
+          "party": "Dem",
+          "votes": 39092,
+          "votes_percent": 0.5486
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 51",
+      "precincts_reporting": "100% (164 of 164) precincts reporting",
+      "slug": "state-assembly-district-51",
+      "sort_order": 26
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Wendy Carrillo",
+          "party": "Dem",
+          "votes": 33809,
+          "votes_percent": 0.6035
+        },
+        {
+          "incumbent": false,
+          "name": "Mia Livas Porter",
+          "party": "Dem",
+          "votes": 22215,
+          "votes_percent": 0.3965
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 52",
+      "precincts_reporting": "100% (146 of 146) precincts reporting",
+      "slug": "state-assembly-district-52",
+      "sort_order": 27
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Freddie Rodriguez",
+          "party": "Dem",
+          "votes": 20913,
+          "votes_percent": 0.5834
+        },
+        {
+          "incumbent": false,
+          "name": "Toni Holle",
+          "party": "Rep",
+          "votes": 14932,
+          "votes_percent": 0.4166
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 53",
+      "precincts_reporting": "87.8% (215 of 245) precincts reporting",
+      "slug": "state-assembly-district-53",
+      "sort_order": 28
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Miguel Santiago",
+          "party": "Dem",
+          "votes": 27731,
+          "votes_percent": 0.7426
+        },
+        {
+          "incumbent": false,
+          "name": "Elaine Alaniz",
+          "party": "Rep",
+          "votes": 9613,
+          "votes_percent": 0.2574
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 54",
+      "precincts_reporting": "100% (120 of 120) precincts reporting",
+      "slug": "state-assembly-district-54",
+      "sort_order": 29
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Isaac G. Bryan",
+          "party": "Dem",
+          "votes": 55427,
+          "votes_percent": 0.8005
+        },
+        {
+          "incumbent": false,
+          "name": "Keith Girolamo Cascio",
+          "party": "Rep",
+          "votes": 13811,
+          "votes_percent": 0.1995
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 55",
+      "precincts_reporting": "100% (168 of 168) precincts reporting",
+      "slug": "state-assembly-district-55",
+      "sort_order": 30
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Lisa Calderon",
+          "party": "Dem",
+          "votes": 31553,
+          "votes_percent": 0.5408
+        },
+        {
+          "incumbent": false,
+          "name": "Jessica Martinez",
+          "party": "Rep",
+          "votes": 26789,
+          "votes_percent": 0.4592
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 56",
+      "precincts_reporting": "100% (256 of 256) precincts reporting",
+      "slug": "state-assembly-district-56",
+      "sort_order": 31
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Reggie Jones-Sawyer",
+          "party": "Dem",
+          "votes": 21620,
+          "votes_percent": 1.0
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 57",
+      "precincts_reporting": "100% (110 of 110) precincts reporting",
+      "slug": "state-assembly-district-57",
+      "sort_order": 32
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Tina Simone Mckinnor",
+          "party": "Dem",
+          "votes": 29799,
+          "votes_percent": 0.6088
+        },
+        {
+          "incumbent": false,
+          "name": "Robert Pullen-Miles",
+          "party": "Dem",
+          "votes": 19146,
+          "votes_percent": 0.3912
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 61",
+      "precincts_reporting": "100% (182 of 182) precincts reporting",
+      "slug": "state-assembly-district-61",
+      "sort_order": 33
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Maria Estrada",
+          "party": "Dem",
+          "votes": 11902,
+          "votes_percent": 0.3678
+        },
+        {
+          "incumbent": true,
+          "name": "Anthony Rendon",
+          "party": "Dem",
+          "votes": 20457,
+          "votes_percent": 0.6322
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 62",
+      "precincts_reporting": "100% (131 of 131) precincts reporting",
+      "slug": "state-assembly-district-62",
+      "sort_order": 34
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Blanca Pacheco",
+          "party": "Dem",
+          "votes": 28827,
+          "votes_percent": 0.5596
+        },
+        {
+          "incumbent": false,
+          "name": "Raul Ortiz, Jr.",
+          "party": "Rep",
+          "votes": 22690,
+          "votes_percent": 0.4404
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 64",
+      "precincts_reporting": "100% (175 of 175) precincts reporting",
+      "slug": "state-assembly-district-64",
+      "sort_order": 35
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Mike Anthony Gipson",
+          "party": "Dem",
+          "votes": 24377,
+          "votes_percent": 0.6441
+        },
+        {
+          "incumbent": false,
+          "name": "Fatima Iqbal-Zubair",
+          "party": "Dem",
+          "votes": 13469,
+          "votes_percent": 0.3559
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 65",
+      "precincts_reporting": "100% (180 of 180) precincts reporting",
+      "slug": "state-assembly-district-65",
+      "sort_order": 36
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Al Muratsuchi",
+          "party": "Dem",
+          "votes": 52822,
+          "votes_percent": 0.5552
+        },
+        {
+          "incumbent": false,
+          "name": "George Barks",
+          "party": "Rep",
+          "votes": 42310,
+          "votes_percent": 0.4448
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 66",
+      "precincts_reporting": "100% (147 of 147) precincts reporting",
+      "slug": "state-assembly-district-66",
+      "sort_order": 37
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Sharon Quirk-Silva",
+          "party": "Dem",
+          "votes": 32436,
+          "votes_percent": 0.4972
+        },
+        {
+          "incumbent": false,
+          "name": "Soo Yoo",
+          "party": "Rep",
+          "votes": 32807,
+          "votes_percent": 0.5028
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 67",
+      "precincts_reporting": "100% (262 of 262) precincts reporting",
+      "slug": "state-assembly-district-67",
+      "sort_order": 38
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Al Austin Ii",
+          "party": "Dem",
+          "votes": 22163,
+          "votes_percent": 0.4015
+        },
+        {
+          "incumbent": false,
+          "name": "Josh Lowenthal",
+          "party": "Dem",
+          "votes": 33041,
+          "votes_percent": 0.5985
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Assembly District 69",
+      "precincts_reporting": "100% (139 of 139) precincts reporting",
+      "slug": "state-assembly-district-69",
+      "sort_order": 39
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 3125524,
+          "votes_percent": 0.7034
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 1318012,
+          "votes_percent": 0.2966
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Patricia Guerrero",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "retain-supreme-court-justice-patricia-guerrero",
+      "sort_order": 55
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 2963234,
+          "votes_percent": 0.6932
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 1311606,
+          "votes_percent": 0.3068
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Martin J. Jenkins",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "retain-supreme-court-justice-martin-j-jenkins",
+      "sort_order": 54
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 2998659,
+          "votes_percent": 0.6903
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 1345547,
+          "votes_percent": 0.3097
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Goodwin Liu",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "retain-supreme-court-justice-goodwin-liu",
+      "sort_order": 52
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 2903914,
+          "votes_percent": 0.6838
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 1342695,
+          "votes_percent": 0.3162
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Retain Supreme Court Justice Joshua P. Groban",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "retain-supreme-court-justice-joshua-p-groban",
+      "sort_order": 53
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Daniel Hertzberg",
+          "party": "Dem",
+          "votes": 35958,
+          "votes_percent": 0.4574
+        },
+        {
+          "incumbent": false,
+          "name": "Caroline Menjivar",
+          "party": "Dem",
+          "votes": 42656,
+          "votes_percent": 0.5426
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 20",
+      "precincts_reporting": "100% (224 of 224) precincts reporting",
+      "slug": "state-senate-district-20",
+      "sort_order": 8
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Susan Rubio",
+          "party": "Dem",
+          "votes": 52693,
+          "votes_percent": 0.5549
+        },
+        {
+          "incumbent": false,
+          "name": "Vincent Tsai",
+          "party": "Rep",
+          "votes": 42258,
+          "votes_percent": 0.4451
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 22",
+      "precincts_reporting": "91.3% (522 of 572) precincts reporting",
+      "slug": "state-senate-district-22",
+      "sort_order": 9
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Ben Allen",
+          "party": "Dem",
+          "votes": 128013,
+          "votes_percent": 0.6235
+        },
+        {
+          "incumbent": false,
+          "name": "Kristina Irwin",
+          "party": "Rep",
+          "votes": 77316,
+          "votes_percent": 0.3765
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 24",
+      "precincts_reporting": "100% (358 of 358) precincts reporting",
+      "slug": "state-senate-district-24",
+      "sort_order": 10
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Maria Elena Durazo",
+          "party": "Dem",
+          "votes": 75398,
+          "votes_percent": 0.7848
+        },
+        {
+          "incumbent": false,
+          "name": "Claudia Agraz",
+          "party": "Rep",
+          "votes": 20680,
+          "votes_percent": 0.2152
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 26",
+      "precincts_reporting": "100% (243 of 243) precincts reporting",
+      "slug": "state-senate-district-26",
+      "sort_order": 11
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Lola Smallwood-Cuevas",
+          "party": "Dem",
+          "votes": 55760,
+          "votes_percent": 0.5566
+        },
+        {
+          "incumbent": false,
+          "name": "Cheryl C. Turner",
+          "party": "Dem",
+          "votes": 44414,
+          "votes_percent": 0.4434
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 28",
+      "precincts_reporting": "100% (281 of 281) precincts reporting",
+      "slug": "state-senate-district-28",
+      "sort_order": 12
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Bob Archuleta",
+          "party": "Dem",
+          "votes": 65452,
+          "votes_percent": 0.5658
+        },
+        {
+          "incumbent": false,
+          "name": "Mitch Clemmons",
+          "party": "Rep",
+          "votes": 50231,
+          "votes_percent": 0.4342
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 30",
+      "precincts_reporting": "100% (428 of 428) precincts reporting",
+      "slug": "state-senate-district-30",
+      "sort_order": 13
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Tom Umberg",
+          "party": "Dem",
+          "votes": 50598,
+          "votes_percent": 0.5484
+        },
+        {
+          "incumbent": false,
+          "name": "Rhonda Shader",
+          "party": "Rep",
+          "votes": 41672,
+          "votes_percent": 0.4516
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 34",
+      "precincts_reporting": "100% (436 of 436) precincts reporting",
+      "slug": "state-senate-district-34",
+      "sort_order": 14
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Kim Carr",
+          "party": "Dem",
+          "votes": 91646,
+          "votes_percent": 0.416
+        },
+        {
+          "incumbent": true,
+          "name": "Janet Nguyen",
+          "party": "Rep",
+          "votes": 128680,
+          "votes_percent": 0.584
+        }
+      ],
+      "description": "",
+      "geography": "State Assembly",
+      "level": "California",
+      "name": "State Senate District 36",
+      "precincts_reporting": "100% (653 of 653) precincts reporting",
+      "slug": "state-senate-district-36",
+      "sort_order": 15
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Jose S. Altamirano",
+          "party": "Dem",
+          "votes": 508218,
+          "votes_percent": 0.4343
+        },
+        {
+          "incumbent": true,
+          "name": "Ted Gaines",
+          "party": "Rep",
+          "votes": 662030,
+          "votes_percent": 0.5657
+        }
+      ],
+      "description": "",
+      "geography": "Board of Equalization",
+      "level": "California",
+      "name": "Board of Equalization District 1",
+      "precincts_reporting": "84.7% (6,385 of 7,536) precincts reporting",
+      "slug": "board-of-equalization-district-1",
+      "sort_order": 40
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "Sally J. Lieber",
+          "party": "Dem",
+          "votes": 1013964,
+          "votes_percent": 0.6755
+        },
+        {
+          "incumbent": false,
+          "name": "Peter Coe Verbica",
+          "party": "Rep",
+          "votes": 487190,
+          "votes_percent": 0.3245
+        }
+      ],
+      "description": "",
+      "geography": "Board of Equalization",
+      "level": "California",
+      "name": "Board of Equalization District 2",
+      "precincts_reporting": "100% (7,416 of 7,416) precincts reporting",
+      "slug": "board-of-equalization-district-2",
+      "sort_order": 41
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Tony Vazquez",
+          "party": "Dem",
+          "votes": 759558,
+          "votes_percent": 0.6665
+        },
+        {
+          "incumbent": false,
+          "name": "Y. Marie Manvel",
+          "party": "NPP",
+          "votes": 379979,
+          "votes_percent": 0.3335
+        }
+      ],
+      "description": "",
+      "geography": "Board of Equalization",
+      "level": "California",
+      "name": "Board of Equalization District 3",
+      "precincts_reporting": "100% (3,680 of 3,680) precincts reporting",
+      "slug": "board-of-equalization-district-3",
+      "sort_order": 42
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": false,
+          "name": "David Dodson",
+          "party": "Dem",
+          "votes": 434169,
+          "votes_percent": 0.3962
+        },
+        {
+          "incumbent": true,
+          "name": "Mike Schaefer",
+          "party": "Dem",
+          "votes": 661686,
+          "votes_percent": 0.6038
+        }
+      ],
+      "description": "",
+      "geography": "Board of Equalization",
+      "level": "California",
+      "name": "Board of Equalization District 4",
+      "precincts_reporting": "98.4% (6,810 of 6,922) precincts reporting",
+      "slug": "board-of-equalization-district-4",
+      "sort_order": 43
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 3483942,
+          "votes_percent": 0.6504
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 1872872,
+          "votes_percent": 0.3496
+        }
+      ],
+      "description": "Constitutional Right to Reproductive Freedom",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 1: Constitutional Right to Reproductive Freedom",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-1",
+      "sort_order": 45
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 1594895,
+          "votes_percent": 0.2987
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 3743971,
+          "votes_percent": 0.7013
+        }
+      ],
+      "description": "Sports Wagering on Tribal Lands",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 26: Sports Wagering on Tribal Lands",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-26",
+      "sort_order": 46
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 897060,
+          "votes_percent": 0.1666
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 4487928,
+          "votes_percent": 0.8334
+        }
+      ],
+      "description": "Online Sports Wagering Outside of Tribal Lands",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 27: Online Sports Wagering Outside of Tribal Lands",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-27",
+      "sort_order": 47
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 3303965,
+          "votes_percent": 0.6155
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 2064340,
+          "votes_percent": 0.3845
+        }
+      ],
+      "description": "Public School Arts and Music Education Funding",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 28: Public School Arts and Music Education Funding",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-28",
+      "sort_order": 48
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 1605840,
+          "votes_percent": 0.3009
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 3731716,
+          "votes_percent": 0.6991
+        }
+      ],
+      "description": "Regulates Kidney Dialysis Clinics",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 29: Regulates Kidney Dialysis Clinics",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-29",
+      "sort_order": 49
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 2204485,
+          "votes_percent": 0.4096
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 3177013,
+          "votes_percent": 0.5904
+        }
+      ],
+      "description": "Tax to Fund ZEV/Wildfire Programs",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 30: Tax to Fund ZEV/Wildfire Programs",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-30",
+      "sort_order": 50
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": null,
+          "name": "Yes",
+          "party": null,
+          "votes": 3338705,
+          "votes_percent": 0.623
+        },
+        {
+          "incumbent": null,
+          "name": "No",
+          "party": null,
+          "votes": 2020305,
+          "votes_percent": 0.377
+        }
+      ],
+      "description": "Prohibition on Sale of Certain Tobacco Products",
+      "geography": "California",
+      "level": "California",
+      "name": "Proposition 31: Prohibition on Sale of Certain Tobacco Products",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "proposition-31",
+      "sort_order": 51
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Shirley N. Weber",
+          "party": "Dem",
+          "votes": 3132053,
+          "votes_percent": 0.5806
+        },
+        {
+          "incumbent": false,
+          "name": "Rob Bernosky",
+          "party": "Rep",
+          "votes": 2262008,
+          "votes_percent": 0.4194
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Secretary of State",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "secretary-of-state",
+      "sort_order": 3
+    },
+    {
+      "candidates": [
+        {
+          "incumbent": true,
+          "name": "Eleni Kounalakis",
+          "party": "Dem",
+          "votes": 3110853,
+          "votes_percent": 0.5778
+        },
+        {
+          "incumbent": false,
+          "name": "Angela E. Underwood Jacobs",
+          "party": "Rep",
+          "votes": 2273541,
+          "votes_percent": 0.4222
+        }
+      ],
+      "description": "",
+      "geography": "California",
+      "level": "California",
+      "name": "Lieutenant Governor",
+      "precincts_reporting": "95.1% (24,312 of 25,554) precincts reporting",
+      "slug": "lieutenant-governor",
+      "sort_order": 2
+    }
+  ],
+  "scraped_datetime": "2022-11-09T08:31:36.625863-08:00"
+}

@@ -1,0 +1,91 @@
+{
+  "races": [
+    {
+      "Reporting": "84.7% (6,385 of 7,536) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jose S. Altamirano",
+          "Party": "Dem",
+          "Percent": "43.4",
+          "Votes": "508,218",
+          "incumbent": false
+        },
+        {
+          "Name": "Ted Gaines",
+          "Party": "Rep",
+          "Percent": "56.6",
+          "Votes": "662,030",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "Board of Equalization District 1 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (7,416 of 7,416) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Sally J. Lieber",
+          "Party": "Dem",
+          "Percent": "67.5",
+          "Votes": "1,013,964",
+          "incumbent": false
+        },
+        {
+          "Name": "Peter Coe Verbica",
+          "Party": "Rep",
+          "Percent": "32.5",
+          "Votes": "487,190",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "Board of Equalization District 2 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (3,680 of 3,680) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Tony Vazquez",
+          "Party": "Dem",
+          "Percent": "66.7",
+          "Votes": "759,558",
+          "incumbent": false
+        },
+        {
+          "Name": "Y. Marie Manvel",
+          "Party": "NPP",
+          "Percent": "33.3",
+          "Votes": "379,979",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "Board of Equalization District 3 - Districtwide Results"
+    },
+    {
+      "Reporting": "98.4% (6,810 of 6,922) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "David Dodson",
+          "Party": "Dem",
+          "Percent": "39.6",
+          "Votes": "434,169",
+          "incumbent": false
+        },
+        {
+          "Name": "Mike Schaefer",
+          "Party": "Dem",
+          "Percent": "60.4",
+          "Votes": "661,686",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "Board of Equalization District 4 - Districtwide Results"
+    }
+  ],
+  "scraped_datetime": "2022-11-09T08:31:33.912868-08:00",
+  "slug": "board-of-equalization/district/all",
+  "url": "https://api.sos.ca.gov/returns/board-of-equalization/district/all"
+}

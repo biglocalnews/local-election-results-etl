@@ -1,0 +1,24 @@
+{
+  "Reporting": "95.1% (24,312 of 25,554) precincts reporting",
+  "ReportingTime": "November 9, 2022, 8:05 a.m.",
+  "candidates": [
+    {
+      "Name": "Shirley N. Weber",
+      "Party": "Dem",
+      "Percent": "58.1",
+      "Votes": "3,132,053",
+      "incumbent": false
+    },
+    {
+      "Name": "Rob Bernosky",
+      "Party": "Rep",
+      "Percent": "41.9",
+      "Votes": "2,262,008",
+      "incumbent": false
+    }
+  ],
+  "raceTitle": "Secretary of State - Statewide Results",
+  "scraped_datetime": "2022-11-09T08:31:29.170953-08:00",
+  "slug": "secretary-of-state",
+  "url": "https://api.sos.ca.gov/returns/secretary-of-state"
+}

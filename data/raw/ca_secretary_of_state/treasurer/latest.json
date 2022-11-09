@@ -1,0 +1,24 @@
+{
+  "Reporting": "95.1% (24,312 of 25,554) precincts reporting",
+  "ReportingTime": "November 9, 2022, 8:05 a.m.",
+  "candidates": [
+    {
+      "Name": "Fiona Ma",
+      "Party": "Dem",
+      "Percent": "57.1",
+      "Votes": "3,066,576",
+      "incumbent": true
+    },
+    {
+      "Name": "Jack M. Guerrero",
+      "Party": "Rep",
+      "Percent": "42.9",
+      "Votes": "2,302,368",
+      "incumbent": false
+    }
+  ],
+  "raceTitle": "Treasurer - Statewide Results",
+  "scraped_datetime": "2022-11-09T08:31:29.901463-08:00",
+  "slug": "treasurer",
+  "url": "https://api.sos.ca.gov/returns/treasurer"
+}

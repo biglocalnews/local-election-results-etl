@@ -1,0 +1,1673 @@
+{
+  "races": [
+    {
+      "Reporting": "96.2% (526 of 547) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Belle Starr Sandwith",
+          "Party": "Dem",
+          "Percent": "39.4",
+          "Votes": "46,934",
+          "incumbent": false
+        },
+        {
+          "Name": "Megan Dahle",
+          "Party": "Rep",
+          "Percent": "60.6",
+          "Votes": "72,313",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 1 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (758 of 758) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jim Wood",
+          "Party": "Dem",
+          "Percent": "68.0",
+          "Votes": "58,498",
+          "incumbent": false
+        },
+        {
+          "Name": "Charlotte Svolos",
+          "Party": "Rep",
+          "Percent": "32.0",
+          "Votes": "27,511",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 2 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (396 of 396) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "David Leon Zink",
+          "Party": "Dem",
+          "Percent": "37.1",
+          "Votes": "32,018",
+          "incumbent": false
+        },
+        {
+          "Name": "James Gallagher",
+          "Party": "Rep",
+          "Percent": "62.9",
+          "Votes": "54,382",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 3 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (397 of 397) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Cecilia Aguiar-Curry",
+          "Party": "Dem",
+          "Percent": "65.5",
+          "Votes": "47,969",
+          "incumbent": false
+        },
+        {
+          "Name": "Bryan Pritchard",
+          "Party": "Rep",
+          "Percent": "34.5",
+          "Votes": "25,319",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 4 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (447 of 447) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Rebecca L Chenoweth",
+          "Party": "Dem",
+          "Percent": "40.6",
+          "Votes": "40,715",
+          "incumbent": false
+        },
+        {
+          "Name": "Joe Patterson",
+          "Party": "Rep",
+          "Percent": "59.4",
+          "Votes": "59,528",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 5 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (210 of 210) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Kevin McCarty",
+          "Party": "Dem",
+          "Percent": "62.8",
+          "Votes": "27,234",
+          "incumbent": false
+        },
+        {
+          "Name": "Cathy Cook",
+          "Party": "Rep",
+          "Percent": "37.2",
+          "Votes": "16,164",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 6 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (224 of 224) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Ken Cooley",
+          "Party": "Dem",
+          "Percent": "50.3",
+          "Votes": "25,968",
+          "incumbent": false
+        },
+        {
+          "Name": "Josh Hoover",
+          "Party": "Rep",
+          "Percent": "49.7",
+          "Votes": "25,625",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 7 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (293 of 293) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jim Patterson",
+          "Party": "Rep",
+          "Percent": "74.3",
+          "Votes": "81,090",
+          "incumbent": false
+        },
+        {
+          "Name": "Thomas Edward Nichols",
+          "Party": "Lib",
+          "Percent": "25.7",
+          "Votes": "28,013",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 8 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (314 of 314) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Mushtaq A Tahirkheli",
+          "Party": "Dem",
+          "Percent": "31.7",
+          "Votes": "20,664",
+          "incumbent": false
+        },
+        {
+          "Name": "Heath Flora",
+          "Party": "Rep",
+          "Percent": "68.3",
+          "Votes": "44,602",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 9 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (190 of 190) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Eric Guerra",
+          "Party": "Dem",
+          "Percent": "42.0",
+          "Votes": "14,728",
+          "incumbent": false
+        },
+        {
+          "Name": "Stephanie Nguyen",
+          "Party": "Dem",
+          "Percent": "58.0",
+          "Votes": "20,297",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 10 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (346 of 346) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Lori D Wilson",
+          "Party": "Dem",
+          "Percent": "58.4",
+          "Votes": "47,165",
+          "incumbent": false
+        },
+        {
+          "Name": "Jenny Leilani Callison",
+          "Party": "NPP",
+          "Percent": "41.6",
+          "Votes": "33,545",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 11 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (388 of 388) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Sara Aminzadeh",
+          "Party": "Dem",
+          "Percent": "45.4",
+          "Votes": "35,063",
+          "incumbent": false
+        },
+        {
+          "Name": "Damon Connolly",
+          "Party": "Dem",
+          "Percent": "54.6",
+          "Votes": "42,098",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 12 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (211 of 211) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Veronica Vargas",
+          "Party": "Dem",
+          "Percent": "38.4",
+          "Votes": "14,406",
+          "incumbent": false
+        },
+        {
+          "Name": "Carlos Villapudua",
+          "Party": "Dem",
+          "Percent": "61.6",
+          "Votes": "23,063",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 13 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (290 of 290) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Buffy Wicks",
+          "Party": "Dem",
+          "Percent": "85.2",
+          "Votes": "59,341",
+          "incumbent": false
+        },
+        {
+          "Name": "Richard Kinney",
+          "Party": "Rep",
+          "Percent": "14.8",
+          "Votes": "10,339",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 14 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (574 of 574) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Tim Grayson",
+          "Party": "Dem",
+          "Percent": "66.8",
+          "Votes": "58,379",
+          "incumbent": false
+        },
+        {
+          "Name": "Janell Elizabeth Proctor",
+          "Party": "Rep",
+          "Percent": "33.2",
+          "Votes": "29,070",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 15 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (399 of 399) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Rebecca Bauer-Kahan",
+          "Party": "Dem",
+          "Percent": "64.3",
+          "Votes": "67,703",
+          "incumbent": false
+        },
+        {
+          "Name": "Joseph A. Rubay",
+          "Party": "Rep",
+          "Percent": "35.7",
+          "Votes": "37,544",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 16 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (298 of 298) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "David Campos",
+          "Party": "Dem",
+          "Percent": "31.7",
+          "Votes": "24,364",
+          "incumbent": false
+        },
+        {
+          "Name": "Matt Haney",
+          "Party": "Dem",
+          "Percent": "68.3",
+          "Votes": "52,457",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 17 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (108 of 108) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Mia Bonta",
+          "Party": "Dem",
+          "Percent": "85.8",
+          "Votes": "35,800",
+          "incumbent": false
+        },
+        {
+          "Name": "Mindy Pechenuk",
+          "Party": "Rep",
+          "Percent": "14.2",
+          "Votes": "5,909",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 18 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (258 of 258) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Phil Ting",
+          "Party": "Dem",
+          "Percent": "78.6",
+          "Votes": "66,360",
+          "incumbent": false
+        },
+        {
+          "Name": "Karsten Weide",
+          "Party": "Rep",
+          "Percent": "21.4",
+          "Votes": "18,027",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 19 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (257 of 257) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Shawn Kumagai",
+          "Party": "Dem",
+          "Percent": "41.4",
+          "Votes": "16,319",
+          "incumbent": false
+        },
+        {
+          "Name": "Liz Ortega",
+          "Party": "Dem",
+          "Percent": "58.6",
+          "Votes": "23,088",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 20 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (184 of 184) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Giselle Hale",
+          "Party": "Dem",
+          "Percent": "27.4",
+          "Votes": "17,077",
+          "incumbent": false
+        },
+        {
+          "Name": "Diane Papan",
+          "Party": "Dem",
+          "Percent": "72.6",
+          "Votes": "45,280",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 21 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (161 of 161) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jessica Self",
+          "Party": "Dem",
+          "Percent": "42.6",
+          "Votes": "22,321",
+          "incumbent": false
+        },
+        {
+          "Name": "Juan Alanis",
+          "Party": "Rep",
+          "Percent": "57.4",
+          "Votes": "30,066",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 22 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (236 of 236) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Marc Berman",
+          "Party": "Dem",
+          "Percent": "71.8",
+          "Votes": "65,097",
+          "incumbent": false
+        },
+        {
+          "Name": "Tim Dec",
+          "Party": "Rep",
+          "Percent": "28.2",
+          "Votes": "25,604",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 23 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (137 of 137) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Alex Lee",
+          "Party": "Dem",
+          "Percent": "66.8",
+          "Votes": "32,431",
+          "incumbent": false
+        },
+        {
+          "Name": "Bob Brunton",
+          "Party": "Rep",
+          "Percent": "33.2",
+          "Votes": "16,098",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 24 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (193 of 193) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Ash Kalra",
+          "Party": "Dem",
+          "Percent": "68.0",
+          "Votes": "37,955",
+          "incumbent": false
+        },
+        {
+          "Name": "Ted Stroll",
+          "Party": "Rep",
+          "Percent": "32.0",
+          "Votes": "17,896",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 25 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (146 of 146) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Evan Low",
+          "Party": "Dem",
+          "Percent": "72.1",
+          "Votes": "42,670",
+          "incumbent": false
+        },
+        {
+          "Name": "Tim Gorsulowsky",
+          "Party": "Rep",
+          "Percent": "27.9",
+          "Votes": "16,537",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 26 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (399 of 399) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Esmeralda Soria",
+          "Party": "Dem",
+          "Percent": "50.3",
+          "Votes": "24,193",
+          "incumbent": false
+        },
+        {
+          "Name": "Mark Nicholas Pazin",
+          "Party": "Rep",
+          "Percent": "49.7",
+          "Votes": "23,906",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 27 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (312 of 312) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Gail Pellerin",
+          "Party": "Dem",
+          "Percent": "65.0",
+          "Votes": "55,917",
+          "incumbent": false
+        },
+        {
+          "Name": "Liz Lawler",
+          "Party": "Rep",
+          "Percent": "35.0",
+          "Votes": "30,067",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 28 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (234 of 234) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Robert Rivas",
+          "Party": "Dem",
+          "Percent": "63.4",
+          "Votes": "29,707",
+          "incumbent": false
+        },
+        {
+          "Name": "Stephanie L. Castro",
+          "Party": "Rep",
+          "Percent": "36.6",
+          "Votes": "17,128",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 29 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (252 of 252) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Dawn Addis",
+          "Party": "Dem",
+          "Percent": "60.8",
+          "Votes": "57,788",
+          "incumbent": false
+        },
+        {
+          "Name": "Vicki Nohrden",
+          "Party": "Rep",
+          "Percent": "39.2",
+          "Votes": "37,320",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 30 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (289 of 289) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Joaquin Arambula",
+          "Party": "Dem",
+          "Percent": "59.1",
+          "Votes": "23,982",
+          "incumbent": false
+        },
+        {
+          "Name": "Dolce Misol Calandra",
+          "Party": "Rep",
+          "Percent": "40.9",
+          "Votes": "16,575",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 31 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (522 of 522) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Vince Fong",
+          "Party": "Rep",
+          "Percent": "100.0",
+          "Votes": "46,773",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 32 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (357 of 357) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jose Sigala",
+          "Party": "Dem",
+          "Percent": "36.9",
+          "Votes": "18,484",
+          "incumbent": false
+        },
+        {
+          "Name": "Devon J. Mathis",
+          "Party": "Rep",
+          "Percent": "63.1",
+          "Votes": "31,541",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 33 - Districtwide Results"
+    },
+    {
+      "Reporting": "51.9% (644 of 1,242) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Tom Lackey",
+          "Party": "Rep",
+          "Percent": "57.9",
+          "Votes": "34,699",
+          "incumbent": false
+        },
+        {
+          "Name": "Thurston \"Smitty\" Smith",
+          "Party": "Rep",
+          "Percent": "42.1",
+          "Votes": "25,238",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 34 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (338 of 338) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jasmeet Bains",
+          "Party": "Dem",
+          "Percent": "58.9",
+          "Votes": "10,827",
+          "incumbent": false
+        },
+        {
+          "Name": "Leticia Perez",
+          "Party": "Dem",
+          "Percent": "41.1",
+          "Votes": "7,555",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 35 - Districtwide Results"
+    },
+    {
+      "Reporting": "98.6% (509 of 516) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Eduardo Garcia",
+          "Party": "Dem",
+          "Percent": "56.4",
+          "Votes": "21,321",
+          "incumbent": false
+        },
+        {
+          "Name": "Ian M. Weeks",
+          "Party": "Rep",
+          "Percent": "43.6",
+          "Votes": "16,492",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 36 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (306 of 306) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Gregg Hart",
+          "Party": "Dem",
+          "Percent": "58.0",
+          "Votes": "46,465",
+          "incumbent": false
+        },
+        {
+          "Name": "Mike Stoker",
+          "Party": "Rep",
+          "Percent": "42.0",
+          "Votes": "33,589",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 37 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (1,054 of 1,054) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Steve Bennett",
+          "Party": "Dem",
+          "Percent": "60.4",
+          "Votes": "41,958",
+          "incumbent": false
+        },
+        {
+          "Name": "Cole Brocato",
+          "Party": "Rep",
+          "Percent": "39.6",
+          "Votes": "27,492",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 38 - Districtwide Results"
+    },
+    {
+      "Reporting": "84.5% (223 of 264) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Juan Carrillo",
+          "Party": "Dem",
+          "Percent": "54.8",
+          "Votes": "19,472",
+          "incumbent": false
+        },
+        {
+          "Name": "Paul Andre Marsh",
+          "Party": "Rep",
+          "Percent": "45.2",
+          "Votes": "16,047",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 39 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (266 of 266) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Pilar Schiavo",
+          "Party": "Dem",
+          "Percent": "45.7",
+          "Votes": "41,319",
+          "incumbent": false
+        },
+        {
+          "Name": "Suzette Martinez Valladares",
+          "Party": "Rep",
+          "Percent": "54.3",
+          "Votes": "49,117",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 40 - Districtwide Results"
+    },
+    {
+      "Reporting": "83.4% (358 of 429) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Chris Holden",
+          "Party": "Dem",
+          "Percent": "57.7",
+          "Votes": "51,268",
+          "incumbent": false
+        },
+        {
+          "Name": "Michael McMahon",
+          "Party": "Rep",
+          "Percent": "42.3",
+          "Votes": "37,633",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 41 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (664 of 664) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jacqui Irwin",
+          "Party": "Dem",
+          "Percent": "54.2",
+          "Votes": "65,443",
+          "incumbent": false
+        },
+        {
+          "Name": "Lori Mills",
+          "Party": "Rep",
+          "Percent": "45.8",
+          "Votes": "55,303",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 42 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (108 of 108) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Luz Maria Rivas",
+          "Party": "Dem",
+          "Percent": "70.2",
+          "Votes": "27,692",
+          "incumbent": false
+        },
+        {
+          "Name": "Siaka Massaquoi",
+          "Party": "Rep",
+          "Percent": "29.8",
+          "Votes": "11,741",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 43 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (136 of 136) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Laura Friedman",
+          "Party": "Dem",
+          "Percent": "66.3",
+          "Votes": "55,391",
+          "incumbent": false
+        },
+        {
+          "Name": "Barry Curtis Jacobsen",
+          "Party": "Rep",
+          "Percent": "33.7",
+          "Votes": "28,154",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 44 - Districtwide Results"
+    },
+    {
+      "Reporting": "55.5% (284 of 512) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "James C. Ramos",
+          "Party": "Dem",
+          "Percent": "60.4",
+          "Votes": "18,613",
+          "incumbent": false
+        },
+        {
+          "Name": "Joseph (Joe) W. Martinez",
+          "Party": "Rep",
+          "Percent": "39.6",
+          "Votes": "12,179",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 45 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (119 of 119) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Jesse Gabriel",
+          "Party": "Dem",
+          "Percent": "60.3",
+          "Votes": "39,815",
+          "incumbent": false
+        },
+        {
+          "Name": "Dana Caruso",
+          "Party": "Rep",
+          "Percent": "39.7",
+          "Votes": "26,190",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 46 - Districtwide Results"
+    },
+    {
+      "Reporting": "81.1% (505 of 623) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Christy Holstege",
+          "Party": "Dem",
+          "Percent": "55.1",
+          "Votes": "43,340",
+          "incumbent": false
+        },
+        {
+          "Name": "Greg Wallis",
+          "Party": "Rep",
+          "Percent": "44.9",
+          "Votes": "35,326",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 47 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (265 of 265) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Blanca Rubio",
+          "Party": "Dem",
+          "Percent": "55.9",
+          "Votes": "31,038",
+          "incumbent": false
+        },
+        {
+          "Name": "Ryan Maye",
+          "Party": "Rep",
+          "Percent": "44.1",
+          "Votes": "24,444",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 48 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (184 of 184) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Mike Fong",
+          "Party": "Dem",
+          "Percent": "62.2",
+          "Votes": "33,539",
+          "incumbent": false
+        },
+        {
+          "Name": "Burton Brink",
+          "Party": "Rep",
+          "Percent": "37.8",
+          "Votes": "20,355",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 49 - Districtwide Results"
+    },
+    {
+      "Reporting": "65.6% (227 of 346) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Eloise Gomez Reyes",
+          "Party": "Dem",
+          "Percent": "56.5",
+          "Votes": "20,639",
+          "incumbent": false
+        },
+        {
+          "Name": "Sheela Stark",
+          "Party": "Rep",
+          "Percent": "43.5",
+          "Votes": "15,918",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 50 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (164 of 164) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Louis Abramson",
+          "Party": "Dem",
+          "Percent": "45.1",
+          "Votes": "32,162",
+          "incumbent": false
+        },
+        {
+          "Name": "Rick Chavez Zbur",
+          "Party": "Dem",
+          "Percent": "54.9",
+          "Votes": "39,092",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 51 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (146 of 146) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Wendy Carrillo",
+          "Party": "Dem",
+          "Percent": "60.3",
+          "Votes": "33,809",
+          "incumbent": false
+        },
+        {
+          "Name": "Mia Livas Porter",
+          "Party": "Dem",
+          "Percent": "39.7",
+          "Votes": "22,215",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 52 - Districtwide Results"
+    },
+    {
+      "Reporting": "87.8% (215 of 245) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Freddie Rodriguez",
+          "Party": "Dem",
+          "Percent": "58.3",
+          "Votes": "20,913",
+          "incumbent": false
+        },
+        {
+          "Name": "Toni Holle",
+          "Party": "Rep",
+          "Percent": "41.7",
+          "Votes": "14,932",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 53 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (120 of 120) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Miguel Santiago",
+          "Party": "Dem",
+          "Percent": "74.3",
+          "Votes": "27,731",
+          "incumbent": false
+        },
+        {
+          "Name": "Elaine Alaniz",
+          "Party": "Rep",
+          "Percent": "25.7",
+          "Votes": "9,613",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 54 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (168 of 168) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Isaac G. Bryan",
+          "Party": "Dem",
+          "Percent": "80.1",
+          "Votes": "55,427",
+          "incumbent": false
+        },
+        {
+          "Name": "Keith Girolamo Cascio",
+          "Party": "Rep",
+          "Percent": "19.9",
+          "Votes": "13,811",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 55 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (256 of 256) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Lisa Calderon",
+          "Party": "Dem",
+          "Percent": "54.1",
+          "Votes": "31,553",
+          "incumbent": false
+        },
+        {
+          "Name": "Jessica Martinez",
+          "Party": "Rep",
+          "Percent": "45.9",
+          "Votes": "26,789",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 56 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (110 of 110) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Reggie Jones-Sawyer",
+          "Party": "Dem",
+          "Percent": "100.0",
+          "Votes": "21,620",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 57 - Districtwide Results"
+    },
+    {
+      "Reporting": "98% (148 of 151) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Sabrina Cervantes",
+          "Party": "Dem",
+          "Percent": "56.6",
+          "Votes": "16,146",
+          "incumbent": false
+        },
+        {
+          "Name": "Bernard William Murphy",
+          "Party": "Rep",
+          "Percent": "43.4",
+          "Votes": "12,404",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 58 - Districtwide Results"
+    },
+    {
+      "Reporting": "94.8% (496 of 523) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Phillip Chen",
+          "Party": "Rep",
+          "Percent": "72.2",
+          "Votes": "66,895",
+          "incumbent": false
+        },
+        {
+          "Name": "Leon Q. Sit",
+          "Party": "NPP",
+          "Percent": "27.8",
+          "Votes": "25,728",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 59 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (180 of 180) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Corey A Jackson",
+          "Party": "Dem",
+          "Percent": "57.4",
+          "Votes": "13,956",
+          "incumbent": false
+        },
+        {
+          "Name": "Hector Diaz-Nava",
+          "Party": "Rep",
+          "Percent": "42.6",
+          "Votes": "10,346",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 60 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (182 of 182) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Tina Simone McKinnor",
+          "Party": "Dem",
+          "Percent": "60.9",
+          "Votes": "29,799",
+          "incumbent": false
+        },
+        {
+          "Name": "Robert Pullen-Miles",
+          "Party": "Dem",
+          "Percent": "39.1",
+          "Votes": "19,146",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 61 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (131 of 131) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Maria Estrada",
+          "Party": "Dem",
+          "Percent": "36.8",
+          "Votes": "11,902",
+          "incumbent": false
+        },
+        {
+          "Name": "Anthony Rendon",
+          "Party": "Dem",
+          "Percent": "63.2",
+          "Votes": "20,457",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 62 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (213 of 213) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Fauzia Rizvi",
+          "Party": "Dem",
+          "Percent": "46.5",
+          "Votes": "16,905",
+          "incumbent": false
+        },
+        {
+          "Name": "Bill Essayli",
+          "Party": "Rep",
+          "Percent": "53.5",
+          "Votes": "19,420",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 63 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (175 of 175) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Blanca Pacheco",
+          "Party": "Dem",
+          "Percent": "56.0",
+          "Votes": "28,827",
+          "incumbent": false
+        },
+        {
+          "Name": "Raul Ortiz, Jr.",
+          "Party": "Rep",
+          "Percent": "44.0",
+          "Votes": "22,690",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 64 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (180 of 180) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Mike Anthony Gipson",
+          "Party": "Dem",
+          "Percent": "64.4",
+          "Votes": "24,377",
+          "incumbent": false
+        },
+        {
+          "Name": "Fatima Iqbal-Zubair",
+          "Party": "Dem",
+          "Percent": "35.6",
+          "Votes": "13,469",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 65 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (147 of 147) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Al Muratsuchi",
+          "Party": "Dem",
+          "Percent": "55.5",
+          "Votes": "52,822",
+          "incumbent": false
+        },
+        {
+          "Name": "George Barks",
+          "Party": "Rep",
+          "Percent": "44.5",
+          "Votes": "42,310",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 66 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (262 of 262) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Sharon Quirk-Silva",
+          "Party": "Dem",
+          "Percent": "49.7",
+          "Votes": "32,436",
+          "incumbent": false
+        },
+        {
+          "Name": "Soo Yoo",
+          "Party": "Rep",
+          "Percent": "50.3",
+          "Votes": "32,807",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 67 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (206 of 206) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Avelino Valencia",
+          "Party": "Dem",
+          "Percent": "57.9",
+          "Votes": "24,989",
+          "incumbent": false
+        },
+        {
+          "Name": "Mike Tardif",
+          "Party": "Rep",
+          "Percent": "42.1",
+          "Votes": "18,167",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 68 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (139 of 139) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Al Austin II",
+          "Party": "Dem",
+          "Percent": "40.1",
+          "Votes": "22,163",
+          "incumbent": false
+        },
+        {
+          "Name": "Josh Lowenthal",
+          "Party": "Dem",
+          "Percent": "59.9",
+          "Votes": "33,041",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 69 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (268 of 268) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Diedre Thu-Ha Nguyen",
+          "Party": "Dem",
+          "Percent": "44.4",
+          "Votes": "33,376",
+          "incumbent": false
+        },
+        {
+          "Name": "Tri Ta",
+          "Party": "Rep",
+          "Percent": "55.6",
+          "Votes": "41,798",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 70 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (338 of 338) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Matt Rahn",
+          "Party": "Rep",
+          "Percent": "50.2",
+          "Votes": "33,281",
+          "incumbent": false
+        },
+        {
+          "Name": "Kate Sanchez",
+          "Party": "Rep",
+          "Percent": "49.8",
+          "Votes": "33,003",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 71 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (361 of 361) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Judie Mancuso",
+          "Party": "Dem",
+          "Percent": "43.0",
+          "Votes": "58,456",
+          "incumbent": false
+        },
+        {
+          "Name": "Diane Dixon",
+          "Party": "Rep",
+          "Percent": "57.0",
+          "Votes": "77,624",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 72 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (321 of 321) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Cottie Petrie-Norris",
+          "Party": "Dem",
+          "Percent": "53.8",
+          "Votes": "43,923",
+          "incumbent": false
+        },
+        {
+          "Name": "Steven \"Steve\" Choi",
+          "Party": "Rep",
+          "Percent": "46.2",
+          "Votes": "37,785",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 73 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (343 of 343) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Chris Duncan",
+          "Party": "Dem",
+          "Percent": "45.8",
+          "Votes": "48,761",
+          "incumbent": false
+        },
+        {
+          "Name": "Laurie Davies",
+          "Party": "Rep",
+          "Percent": "54.2",
+          "Votes": "57,603",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 74 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (595 of 595) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Randy Voepel",
+          "Party": "Rep",
+          "Percent": "33.2",
+          "Votes": "27,292",
+          "incumbent": false
+        },
+        {
+          "Name": "Marie Waldron",
+          "Party": "Rep",
+          "Percent": "66.8",
+          "Votes": "54,815",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 75 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (618 of 618) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Brian Maienschein",
+          "Party": "Dem",
+          "Percent": "49.6",
+          "Votes": "41,803",
+          "incumbent": false
+        },
+        {
+          "Name": "Kristie Bruce-Lane",
+          "Party": "Rep",
+          "Percent": "50.4",
+          "Votes": "42,418",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 76 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (371 of 371) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Tasha Boerner Horvath",
+          "Party": "Dem",
+          "Percent": "58.2",
+          "Votes": "65,791",
+          "incumbent": false
+        },
+        {
+          "Name": "Dan Downey",
+          "Party": "Rep",
+          "Percent": "41.8",
+          "Votes": "47,223",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 77 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (331 of 331) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Chris Ward",
+          "Party": "Dem",
+          "Percent": "65.2",
+          "Votes": "57,958",
+          "incumbent": false
+        },
+        {
+          "Name": "Eric E. Gonzales",
+          "Party": "Rep",
+          "Percent": "34.8",
+          "Votes": "30,996",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 78 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (298 of 298) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "Akilah Weber",
+          "Party": "Dem",
+          "Percent": "61.2",
+          "Votes": "34,845",
+          "incumbent": false
+        },
+        {
+          "Name": "Corbin Sabol",
+          "Party": "Rep",
+          "Percent": "38.8",
+          "Votes": "22,124",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 79 - Districtwide Results"
+    },
+    {
+      "Reporting": "100% (313 of 313) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "candidates": [
+        {
+          "Name": "David Alvarez",
+          "Party": "Dem",
+          "Percent": "71.8",
+          "Votes": "37,961",
+          "incumbent": false
+        },
+        {
+          "Name": "Georgette G\u00f3mez",
+          "Party": "Dem",
+          "Percent": "28.2",
+          "Votes": "14,903",
+          "incumbent": false
+        }
+      ],
+      "raceTitle": "State Assembly District 80 - Districtwide Results"
+    }
+  ],
+  "scraped_datetime": "2022-11-09T08:31:35.592010-08:00",
+  "slug": "state-assembly/district/all",
+  "url": "https://api.sos.ca.gov/returns/state-assembly/district/all"
+}

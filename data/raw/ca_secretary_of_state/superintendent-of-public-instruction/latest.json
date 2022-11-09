@@ -1,0 +1,24 @@
+{
+  "Reporting": "95.1% (24,312 of 25,554) precincts reporting",
+  "ReportingTime": "November 9, 2022, 8:05 a.m.",
+  "candidates": [
+    {
+      "Name": "Lance Ray Christensen",
+      "Party": "Non",
+      "Percent": "37.3",
+      "Votes": "1,675,125",
+      "incumbent": false
+    },
+    {
+      "Name": "Tony K. Thurmond",
+      "Party": "Non",
+      "Percent": "62.7",
+      "Votes": "2,820,768",
+      "incumbent": true
+    }
+  ],
+  "raceTitle": "Superintendent of Public Instruction - Statewide Results",
+  "scraped_datetime": "2022-11-09T08:31:31.667306-08:00",
+  "slug": "superintendent-of-public-instruction",
+  "url": "https://api.sos.ca.gov/returns/superintendent-of-public-instruction"
+}

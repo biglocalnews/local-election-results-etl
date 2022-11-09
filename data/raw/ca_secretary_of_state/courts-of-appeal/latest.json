@@ -1,0 +1,343 @@
+{
+  "races": [
+    {
+      "Reporting": "95.1% (4,323 of 4,323) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "courts-of-appeal": [
+        {
+          "Name": "Therese M. Stewart",
+          "noPercent": "20.8",
+          "noVotes": "148842",
+          "yesPercent": "79.2",
+          "yesVotes": "566656"
+        },
+        {
+          "Name": "Alison M. Tucher",
+          "noPercent": "21.0",
+          "noVotes": "149306",
+          "yesPercent": "79.0",
+          "yesVotes": "562831"
+        },
+        {
+          "Name": "Ioana Petrou",
+          "noPercent": "22.7",
+          "noVotes": "159080",
+          "yesPercent": "77.3",
+          "yesVotes": "542746"
+        },
+        {
+          "Name": "Carin T. Fujisaki",
+          "noPercent": "21.6",
+          "noVotes": "151815",
+          "yesPercent": "78.4",
+          "yesVotes": "551739"
+        },
+        {
+          "Name": "Victor A. Rodriguez",
+          "noPercent": "22.2",
+          "noVotes": "157238",
+          "yesPercent": "77.8",
+          "yesVotes": "550688"
+        },
+        {
+          "Name": "Tracie L. Brown",
+          "noPercent": "20.5",
+          "noVotes": "143876",
+          "yesPercent": "79.5",
+          "yesVotes": "559258"
+        },
+        {
+          "Name": "Jeremy M. Goldman",
+          "noPercent": "23.3",
+          "noVotes": "162431",
+          "yesPercent": "76.7",
+          "yesVotes": "535553"
+        },
+        {
+          "Name": "Teri L. Jackson",
+          "noPercent": "21.2",
+          "noVotes": "148823",
+          "yesPercent": "78.8",
+          "yesVotes": "553384"
+        },
+        {
+          "Name": "Gordon B. Burns",
+          "noPercent": "22.3",
+          "noVotes": "155385",
+          "yesPercent": "77.7",
+          "yesVotes": "539912"
+        }
+      ],
+      "raceTitle": "Courts of Appeal District 1 - Districtwide Results"
+    },
+    {
+      "Reporting": "95.1% (5,750 of 5,750) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "courts-of-appeal": [
+        {
+          "Name": "Frances Rothschild",
+          "noPercent": "30.4",
+          "noVotes": "355126",
+          "yesPercent": "69.6",
+          "yesVotes": "813179"
+        },
+        {
+          "Name": "Judith M. Ashmann",
+          "noPercent": "24.9",
+          "noVotes": "285443",
+          "yesPercent": "75.1",
+          "yesVotes": "861204"
+        },
+        {
+          "Name": "Luis A. Lavin",
+          "noPercent": "29.3",
+          "noVotes": "333401",
+          "yesPercent": "70.7",
+          "yesVotes": "805162"
+        },
+        {
+          "Name": "Audrey B. Collins",
+          "noPercent": "28.0",
+          "noVotes": "319860",
+          "yesPercent": "72.0",
+          "yesVotes": "821088"
+        },
+        {
+          "Name": "Brian S. Currey",
+          "noPercent": "30.3",
+          "noVotes": "342655",
+          "yesPercent": "69.7",
+          "yesVotes": "789471"
+        },
+        {
+          "Name": "Laurence D. Rubin",
+          "noPercent": "29.0",
+          "noVotes": "333349",
+          "yesPercent": "71.0",
+          "yesVotes": "815143"
+        },
+        {
+          "Name": "Lamar W. Baker",
+          "noPercent": "29.2",
+          "noVotes": "331319",
+          "yesPercent": "70.8",
+          "yesVotes": "802171"
+        },
+        {
+          "Name": "Hernaldo J. Baltodano",
+          "noPercent": "30.3",
+          "noVotes": "343454",
+          "yesPercent": "69.7",
+          "yesVotes": "789526"
+        },
+        {
+          "Name": "John L. Segal",
+          "noPercent": "29.6",
+          "noVotes": "334750",
+          "yesPercent": "70.4",
+          "yesVotes": "794407"
+        },
+        {
+          "Name": "Maria E. Stratton",
+          "noPercent": "28.2",
+          "noVotes": "323936",
+          "yesPercent": "71.8",
+          "yesVotes": "822921"
+        },
+        {
+          "Name": "John Shepard Wiley Jr.",
+          "noPercent": "30.5",
+          "noVotes": "343243",
+          "yesPercent": "69.5",
+          "yesVotes": "783024"
+        },
+        {
+          "Name": "Elizabeth Annette Grimes",
+          "noPercent": "23.6",
+          "noVotes": "267694",
+          "yesPercent": "76.4",
+          "yesVotes": "865796"
+        }
+      ],
+      "raceTitle": "Courts of Appeal District 2 - Districtwide Results"
+    },
+    {
+      "Reporting": "95.1% (2,601 of 2,601) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "courts-of-appeal": [
+        {
+          "Name": "Harry Hull",
+          "noPercent": "34.0",
+          "noVotes": "159717",
+          "yesPercent": "66.0",
+          "yesVotes": "309350"
+        },
+        {
+          "Name": "Laurie M. Earl",
+          "noPercent": "37.3",
+          "noVotes": "176737",
+          "yesPercent": "62.7",
+          "yesVotes": "296514"
+        },
+        {
+          "Name": "Stacy Boulware Eurie",
+          "noPercent": "35.7",
+          "noVotes": "169257",
+          "yesPercent": "64.3",
+          "yesVotes": "304338"
+        }
+      ],
+      "raceTitle": "Courts of Appeal District 3 - Districtwide Results"
+    },
+    {
+      "Reporting": "95.1% (8,001 of 9,243) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "courts-of-appeal": [
+        {
+          "Name": "Judith McConnell",
+          "noPercent": "34.6",
+          "noVotes": "412015",
+          "yesPercent": "65.4",
+          "yesVotes": "777383"
+        },
+        {
+          "Name": "Martin N. Buchanan",
+          "noPercent": "36.8",
+          "noVotes": "430123",
+          "yesPercent": "63.2",
+          "yesVotes": "738405"
+        },
+        {
+          "Name": "Truc T. Do",
+          "noPercent": "38.5",
+          "noVotes": "455394",
+          "yesPercent": "61.5",
+          "yesVotes": "728471"
+        },
+        {
+          "Name": "Manuel A. Ramirez",
+          "noPercent": "27.8",
+          "noVotes": "325495",
+          "yesPercent": "72.2",
+          "yesVotes": "846082"
+        },
+        {
+          "Name": "Carol D. Codrington",
+          "noPercent": "25.5",
+          "noVotes": "297310",
+          "yesPercent": "74.5",
+          "yesVotes": "867583"
+        },
+        {
+          "Name": "Michael J. Raphael",
+          "noPercent": "37.0",
+          "noVotes": "429181",
+          "yesPercent": "63.0",
+          "yesVotes": "730978"
+        },
+        {
+          "Name": "Frank Menetrez",
+          "noPercent": "38.9",
+          "noVotes": "449994",
+          "yesPercent": "61.1",
+          "yesVotes": "707741"
+        },
+        {
+          "Name": "Kathleen E. O'Leary",
+          "noPercent": "33.9",
+          "noVotes": "394911",
+          "yesPercent": "66.1",
+          "yesVotes": "770231"
+        },
+        {
+          "Name": "William W. Bedsworth",
+          "noPercent": "37.9",
+          "noVotes": "437984",
+          "yesPercent": "62.1",
+          "yesVotes": "718150"
+        },
+        {
+          "Name": "Eileen C. Moore",
+          "noPercent": "34.4",
+          "noVotes": "399981",
+          "yesPercent": "65.6",
+          "yesVotes": "762318"
+        },
+        {
+          "Name": "Joanne Motoike",
+          "noPercent": "37.4",
+          "noVotes": "433320",
+          "yesPercent": "62.6",
+          "yesVotes": "726333"
+        },
+        {
+          "Name": "Maurice Sanchez",
+          "noPercent": "38.0",
+          "noVotes": "441856",
+          "yesPercent": "62.0",
+          "yesVotes": "721251"
+        }
+      ],
+      "raceTitle": "Courts of Appeal District 4 - Districtwide Results"
+    },
+    {
+      "Reporting": "95.1% (2,415 of 2,415) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "courts-of-appeal": [
+        {
+          "Name": "Brad R. Hill",
+          "noPercent": "30.0",
+          "noVotes": "99032",
+          "yesPercent": "70.0",
+          "yesVotes": "231026"
+        },
+        {
+          "Name": "Bert Levy",
+          "noPercent": "31.0",
+          "noVotes": "101912",
+          "yesPercent": "69.0",
+          "yesVotes": "226814"
+        },
+        {
+          "Name": "Jennifer Detjen",
+          "noPercent": "30.5",
+          "noVotes": "100277",
+          "yesPercent": "69.5",
+          "yesVotes": "228985"
+        }
+      ],
+      "raceTitle": "Courts of Appeal District 5 - Districtwide Results"
+    },
+    {
+      "Reporting": "95.1% (1,222 of 1,222) precincts reporting",
+      "ReportingTime": "November 9, 2022, 8:05 a.m.",
+      "courts-of-appeal": [
+        {
+          "Name": "Mary J. Greenwood",
+          "noPercent": "20.5",
+          "noVotes": "63349",
+          "yesPercent": "79.5",
+          "yesVotes": "245009"
+        },
+        {
+          "Name": "Charles E. Wilson II",
+          "noPercent": "22.6",
+          "noVotes": "69021",
+          "yesPercent": "77.4",
+          "yesVotes": "236640"
+        },
+        {
+          "Name": "Cynthia C. Lie",
+          "noPercent": "22.2",
+          "noVotes": "66503",
+          "yesPercent": "77.8",
+          "yesVotes": "233722"
+        }
+      ],
+      "raceTitle": "Courts of Appeal District 6 - Districtwide Results"
+    }
+  ],
+  "scraped_datetime": "2022-11-09T08:31:36.165256-08:00",
+  "slug": "courts-of-appeal/district/all",
+  "url": "https://api.sos.ca.gov/returns/courts-of-appeal/district/all"
+}

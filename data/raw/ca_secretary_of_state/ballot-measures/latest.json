@@ -1,0 +1,66 @@
+{
+  "Reporting": "95.1% (24,312 of 25,554) precincts reporting",
+  "ReportingTime": "November 9, 2022, 8:05 a.m.",
+  "ballot-measures": [
+    {
+      "Name": "Constitutional Right to Reproductive Freedom",
+      "Number": "01",
+      "noPercent": "35.0",
+      "noVotes": "1872872",
+      "yesPercent": "65.0",
+      "yesVotes": "3483942"
+    },
+    {
+      "Name": "Sports Wagering on Tribal Lands",
+      "Number": "26",
+      "noPercent": "70.1",
+      "noVotes": "3743971",
+      "yesPercent": "29.9",
+      "yesVotes": "1594895"
+    },
+    {
+      "Name": "Online Sports Wagering Outside of Tribal Lands",
+      "Number": "27",
+      "noPercent": "83.3",
+      "noVotes": "4487928",
+      "yesPercent": "16.7",
+      "yesVotes": "897060"
+    },
+    {
+      "Name": "Public School Arts and Music Education Funding",
+      "Number": "28",
+      "noPercent": "38.5",
+      "noVotes": "2064340",
+      "yesPercent": "61.5",
+      "yesVotes": "3303965"
+    },
+    {
+      "Name": "Regulates Kidney Dialysis Clinics",
+      "Number": "29",
+      "noPercent": "69.9",
+      "noVotes": "3731716",
+      "yesPercent": "30.1",
+      "yesVotes": "1605840"
+    },
+    {
+      "Name": "Tax to Fund ZEV/Wildfire Programs",
+      "Number": "30",
+      "noPercent": "59.0",
+      "noVotes": "3177013",
+      "yesPercent": "41.0",
+      "yesVotes": "2204485"
+    },
+    {
+      "Name": "Prohibition on Sale of Certain Tobacco Products",
+      "Number": "31",
+      "noPercent": "37.7",
+      "noVotes": "2020305",
+      "yesPercent": "62.3",
+      "yesVotes": "3338705"
+    }
+  ],
+  "raceTitle": "Ballot Measures - Statewide Results",
+  "scraped_datetime": "2022-11-09T08:31:33.403304-08:00",
+  "slug": "ballot-measures",
+  "url": "https://api.sos.ca.gov/returns/ballot-measures"
+}

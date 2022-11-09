@@ -1,0 +1,24 @@
+{
+  "Reporting": "95.1% (24,312 of 25,554) precincts reporting",
+  "ReportingTime": "November 9, 2022, 8:05 a.m.",
+  "candidates": [
+    {
+      "Name": "Ricardo Lara",
+      "Party": "Dem",
+      "Percent": "57.9",
+      "Votes": "3,086,707",
+      "incumbent": true
+    },
+    {
+      "Name": "Robert Howell",
+      "Party": "Rep",
+      "Percent": "42.1",
+      "Votes": "2,241,531",
+      "incumbent": false
+    }
+  ],
+  "raceTitle": "Insurance Commissioner - Statewide Results",
+  "scraped_datetime": "2022-11-09T08:31:31.353656-08:00",
+  "slug": "insurance-commissioner",
+  "url": "https://api.sos.ca.gov/returns/insurance-commissioner"
+}
