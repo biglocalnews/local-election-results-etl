@@ -63,6 +63,12 @@ pipenv run python -m src.ca_secretary_of_state.transform
 pipenv run python -m src.ny_state_board_of_elections.transform
 ```
 
+Merge the common files
+
+```bash
+pipenv run python -m src.optimize kpcc
+```
+
 Export results to CSV.
 
 ```bash
