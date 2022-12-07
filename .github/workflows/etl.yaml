@@ -2,8 +2,6 @@ name: "Extract, transform and load"
 
 on:
   workflow_dispatch:
-   schedule:
-     - cron: "*/15 * * * *"
 
 permissions: write-all
 
@@ -12,31 +10,6 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-#   start_runner:
-#     name: Start self-hosted EC2 runner
-#     runs-on: ubuntu-latest
-#     outputs:
-#       label: ${{ steps.start-ec2-runner.outputs.label }}
-#       ec2-instance-id: ${{ steps.start-ec2-runner.outputs.ec2-instance-id }}
-#     steps:
-#       - name: Configure AWS credentials
-#         uses: aws-actions/configure-aws-credentials@v1
-#         with:
-#           aws-access-key-id: ${{ secrets.RUNNER_AWS_ACCESS_KEY_ID }}
-#           aws-secret-access-key: ${{ secrets.RUNNER_AWS_SECRET_ACCESS_KEY }}
-#           aws-region: ${{ secrets.RUNNER_AWS_DEFAULT_REGION }}
-
-#       - name: Start EC2 runner
-#         id: start-ec2-runner
-#         uses: machulav/ec2-github-runner@v2
-#         with:
-#           mode: start
-#           github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-#           ec2-image-id: ami-0134997ea21a525a5
-#           ec2-instance-type: t2.small
-#           subnet-id: subnet-0add5e99d1a0f11e1
-#           security-group-id: sg-055bdb11da346a139
-
   los_angeles_county:
     name: Los Angeles County Registrar-Recorder/County Clerk
     runs-on: ubuntu-latest
@@ -95,95 +68,11 @@ jobs:
         with:
           message: "Fetched latest from the California Secretary of State"
 
-#   ia_secretary_of_state:
-#     name: Iowa Secretary of State
-#     runs-on: ${{ needs.start_runner.outputs.label }}
-#     timeout-minutes: 5
-#     needs: [start_runner]
-#     steps:
-#       - id: checkout
-#         name: Checkout
-#         uses: actions/checkout@v3
-
-#       - id: setup-python
-#         name: Setup Python
-#         uses: actions/setup-python@v4
-#         with:
-#           python-version: '3.9'
-#           cache: 'pipenv'
-
-#       - id: install-pipenv
-#         name: Install pipenv
-#         run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-#         shell: bash
-
-#       - id: install-python-dependencies
-#         name: Install Python dependencies
-#         run: pipenv install --python=`which python`
-#         shell: bash
-
-#       - id: pull
-#         name: Pull
-#         run: |
-#           git config --system http.sslVerify false
-#           git config --system user.name "GitHub Actions"
-#           git config --system user.email "actions@github.com"
-#           git config pull.rebase false
-#           git pull origin main
-#         shell: bash
-
-#       - id: download-statewide
-#         name: Download statewide
-#         run: pipenv run python -m src.ia_secretary_of_state.download statewide
-#         shell: bash
-
-#       # - id: transform
-#       #   name: Transform
-#       #   run: pipenv run python -m src.ia_secretary_of_state.transform
-#       #   shell: bash
-
-#       - id: commit
-#         name: Commit
-#         run: |
-#           git pull origin $GITHUB_REF
-#           git add ./data/
-#           git commit -m "Fetched latest from the Iowa Secretary of State" --author="palewire <palewire@users.noreply.github.com>" && git push || true
-#         shell: bash
-
-#   ny_state_board_of_elections:
-#     name: New York State Board of Elections
-#     runs-on: ubuntu-latest
-#     timeout-minutes: 5
-#     steps:
-#       - id: checkout
-#         name: Checkout
-#         uses: actions/checkout@v3
-
-#       - id: install
-#         name: Install Python dependencies
-#         uses: ./.github/actions/install
-
-#       - id: download
-#         name: Download
-#         run: pipenv run python -m src.ny_state_board_of_elections.download
-#         shell: bash
-
-#       - id: transform
-#         name: Transform
-#         run: pipenv run python -m src.ny_state_board_of_elections.transform
-#         shell: bash
-
-#       - id: commit
-#         name: Commit
-#         uses: ./.github/actions/commit
-#         with:
-#           message: "Fetched latest from the New York State Board of Elections"
-
   export:
     name: Export CSV
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    needs: [los_angeles_county, ca_secretary_of_state] #, ny_state_board_of_elections, ia_secretary_of_state]
+    needs: [los_angeles_county, ca_secretary_of_state]
     steps:
       - id: checkout
         name: Checkout
@@ -285,26 +174,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-
-#   stop_runner:
-#     name: Stop self-hosted EC2 runner
-#     needs:
-#      - start_runner
-#      - ia_secretary_of_state
-#     runs-on: ubuntu-latest
-#     if: ${{ always() }}
-#     steps:
-#       - name: Configure AWS credentials
-#         uses: aws-actions/configure-aws-credentials@v1
-#         with:
-#           aws-access-key-id: ${{ secrets.RUNNER_AWS_ACCESS_KEY_ID }}
-#           aws-secret-access-key: ${{ secrets.RUNNER_AWS_SECRET_ACCESS_KEY }}
-#           aws-region: ${{ secrets.RUNNER_AWS_DEFAULT_REGION }}
-
-#       - name: Stop EC2 runner
-#         uses: machulav/ec2-github-runner@v2
-#         with:
-#           mode: stop
-#           github-token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-#           label: ${{ needs.start_runner.outputs.label }}
-#           ec2-instance-id: ${{ needs.start_runner.outputs.ec2-instance-id }}
